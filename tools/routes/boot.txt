@@ -1,0 +1,6 @@
+# Boot to title screen, then press Start to advance past title
+420 -
+8 start
+120 -
+8 a
+120 -
