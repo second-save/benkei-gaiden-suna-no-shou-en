@@ -8,6 +8,7 @@ Hooks setup on fresh clone: `git config core.hooksPath tools/hooks`.
 - Check:    `python3 -X utf8 tools/check.py` (pre-commit hook runs this)
 - Smoke:    `python3 -X utf8 tools/run_emu.py build/benkei_suna_en.sfc --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python3 -X utf8 tools/run_emu.py build/benkei_suna_en.sfc --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet`
+- States:   `python3 -X utf8 tools/debug/regen_states.py` (cold-boot regenerates all 13 debug savestates + QA sheets from `tools/debug/scenes.lua`; `warp.lua` also accepts `--var "GOD=1"`, `NOENC=1`, `FAST=1`)
 - Release:  `python3 -X utf8 tools/release.py` (never publish without user approval)
 
 ## Paths

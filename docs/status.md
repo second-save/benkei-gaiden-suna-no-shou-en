@@ -2,8 +2,8 @@
 
 Updated at the end of every session/phase. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 1 (Research & Recon) COMPLETE -> Phase 2 (Debug Warp Tool) next.
-- **Done:** Isolated git repo initialized under `second-save`, MesenCE 2.2.1 & Asar 1.91 wired, full 48-bank LoROM map (`docs/re/rom_map.md`), `$1F:8000` `282/282` roundtrip compressor/decompressor (`tools/compress.py`), complete text engine + 100% `$1A–$1D` (`103,519` B) & `$0D:8002` pointer trace (`docs/re/text_engine.md`, `docs/re/text_tables.md`), verified kanji tables (`tbl/jp.tbl` 998 kanji, `tbl/credits_jp.tbl` 154 overlay kanji, `tools/check.py` 7/7 passing), live battle verification & PPU/VRAM confirmation (`work/re/explore_battle*`), `$1F:8000` + `$0B:9095` graphics-text survey (`docs/re/graphics_text.md`), and WRAM + Phase 2 warp/battle API map (`docs/re/ram_map.md`).
-- **Next:** Phase 2 Debug Warp Tool (`build/warp.sfc`, title/select-menu debug warp into Acts 1 & 2, battles, and key locations) followed by Phase 3 identity build (`build/id.sfc`).
+- **Phase:** 2 (Debug Warp Tool) COMPLETE -> Phase 3 (Identity Build & Extraction) + Phase 4 (Font/VWF & Marker Build) next.
+- **Done:** Phase 1 RE (`docs/re/*`, `tools/compress.py` 282/282, `tbl/{jp,credits_jp}.tbl`, `[main 0774b7d]`); Phase 2 Cold-Boot Debug Warp Tool (`tools/debug/{scenes.lua,warp.lua,regen_states.py}`): all 13/13 cold-boot warp scenes (`title`, `name_entry` kana grid, `shumon_saizo`, `shumon_courtyard`, `happo_dungeon`, `tosa_village`, `act1_world`, `battle_normal`, `battle_rakan`, `act2_prologue` sea/crawl, `act2_town`, `chapter_card` `ben_097` overlay, `ending_credits`) + opt-in `GOD=1`/`NOENC=1`/`FAST=1` mods + `tests/test_debug_scenes.py` verified via MesenCE & `tools/check.py`.
+- **Next:** Phase 3 identity build (`build/id.sfc`) + script/graphics extraction, followed by Phase 4 VWF font engine + marker build (`tools/build.py`).
 - **Open bugs:** None.
 - **Waiting on the user:** Nothing (pre-approved per D7).
