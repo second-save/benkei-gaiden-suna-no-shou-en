@@ -1,0 +1,1801 @@
+{
+ "file": "act1_bank1a.json",
+ "bank": "0x1A",
+ "start": "0x8000",
+ "end": "0xA530",
+ "kind": "ff_strings",
+ "table": "jp.tbl",
+ "box": "dialogue",
+ "entries": [
+  {
+   "id": "1A_8000",
+   "addr": "0x8000",
+   "size": 302,
+   "jp": "ハヤテ「才蔵どの、おひさしゅうござる。帝の命により、参上仕った{page}才蔵「天道のハヤテか。して、帝は何と？{page}ハヤテ「ここに時 至れり と・・・{page}才蔵「・・・この才蔵にも、「動け」とのおおせか・・・{page}ハヤテ「御意に{page}才蔵「ウム。この砦のことを配下のものにたくした後、{name0}を連れて早急に帝のもとにまいろう{page}そのむね、帝にお伝えくだされ{page}ハヤテ「敵の刺客が、この地にもせまっているやも知れませぬ。恐ろしい魔術を使う手練でござる{page}すでに多くの法力者が命を奪われておりまする。くれぐれもお気をつけくだされ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_812E",
+   "addr": "0x812E",
+   "size": 88,
+   "jp": "ハヤテ「おぬしが、{name0}どのか・・・{page}つらい修行に、長い間よく耐えてきたな。{name0}どのには、語らねばならぬことが多くある。では、いずれ。達者でな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8186",
+   "addr": "0x8186",
+   "size": 47,
+   "jp": "才蔵「 {name0}、旅のしたくをいたせ。準備ができ次第、京の都にむかうぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_81B5",
+   "addr": "0x81B5",
+   "size": 66,
+   "jp": "ここは、修門砦。七十余年前、やがて襲い来るであろう「恐怖」に抗するため、帝の命によって築かれたのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_81F7",
+   "addr": "0x81F7",
+   "size": 16,
+   "jp": " {name0}、気をつけてね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8207",
+   "addr": "0x8207",
+   "size": 33,
+   "jp": "こらこら。これは、「戦鬼の碑」じゃ。遊び場ではないぜよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8228",
+   "addr": "0x8228",
+   "size": 66,
+   "jp": "ここからは、大勢のものたちが旅だっていったちや。「天道一族」のハヤテも、才蔵さまの弟子の一人だった・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_826A",
+   "addr": "0x826A",
+   "size": 28,
+   "jp": " {name0}。おんしゃももう、一人前の男ぜよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8286",
+   "addr": "0x8286",
+   "size": 42,
+   "jp": "ねえ、{name0}。あたし、みそしる作ったよお。かあちゃんも、食べにおいでって{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_82B0",
+   "addr": "0x82B0",
+   "size": 42,
+   "jp": " {name0}、だれも外に出しちゃいかんといわれちょるんじゃ。おんしゃだけぞね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_82DA",
+   "addr": "0x82DA",
+   "size": 47,
+   "jp": "才蔵「旅のしたくをいたせ。明日にでも、わしとおまえは京の都におもむかねばならぬ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8309",
+   "addr": "0x8309",
+   "size": 43,
+   "jp": "この部屋に、おぬしの持ち物を用意させておいた。しっかり身に着けておけ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8334",
+   "addr": "0x8334",
+   "size": 59,
+   "jp": "すでに多くの法力者が、敵の刺客の手により命を落としているという。十分に気をつけてゆくのだぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_836F",
+   "addr": "0x836F",
+   "size": 20,
+   "jp": "なんてこった！！見つかっちゃったよ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8383",
+   "addr": "0x8383",
+   "size": 28,
+   "jp": "才蔵「どうした。何が起きたのだ！{nl}{name0}{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_839F",
+   "addr": "0x839F",
+   "size": 63,
+   "jp": "この砦をおおうのは、我が呪法「八方外法陣」。私を倒さねば、この結界は消えぬ{page}才蔵「何奴！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_83DE",
+   "addr": "0x83DE",
+   "size": 101,
+   "jp": "私の名は、羅観（ラカン）。沙（すな）の血を引く者「{name0}」。この砦の者の命は、おまえにかかっている{page}そしてまた、私自身の宿命も・・・{page}我がもとに、来るがよい。{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8443",
+   "addr": "0x8443",
+   "size": 20,
+   "jp": "才蔵「・・・いくか？ {name0}{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8457",
+   "addr": "0x8457",
+   "size": 59,
+   "jp": "才蔵「よし。全てをおまえにたくそう。おまえが無事に帰った時、わしの知る全てを語ろう。では、ゆけ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8492",
+   "addr": "0x8492",
+   "size": 16,
+   "jp": "才蔵「バカもの！いくのじゃ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_84A2",
+   "addr": "0x84A2",
+   "size": 33,
+   "jp": "才蔵「わしは、おまえの強さを信じておる。生きて帰れよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_84C3",
+   "addr": "0x84C3",
+   "size": 35,
+   "jp": "ことだまにすべてを語るがよい。ことだまは旅の記録を刻もうぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_84E6",
+   "addr": "0x84E6",
+   "size": 129,
+   "jp": "羅観「よく、ここにたどり着いた。私が羅観（ラカン）だ{page}私は私の国と、この国の行く末と、そして私自身のさだめを試してみたい{page}・・・それゆえ、久遠に眠るおまえの「力」を、一時の理（ことわり）として目覚めさせよう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8567",
+   "addr": "0x8567",
+   "size": 13,
+   "jp": "羅観「では、いくぞ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8574",
+   "addr": "0x8574",
+   "size": 74,
+   "jp": "羅観「なるほど・・・みごとだ{page}{name0}「・・・なぜ{page}羅観「いずれ、わかる・・・。さあ、これを受け取るがよい。金剛剣鬼龍だ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_85BE",
+   "addr": "0x85BE",
+   "size": 33,
+   "jp": "フン。こんな弱え野郎に、羅観さまが倒されたってえのか{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_85DF",
+   "addr": "0x85DF",
+   "size": 39,
+   "jp": "こいつの首を持ち帰れば、おれたちのてがらだ。はええとこ切っちまおうぜ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8606",
+   "addr": "0x8606",
+   "size": 29,
+   "jp": "大丈夫か？おれは {name2}（とこよ）。こいつは{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8623",
+   "addr": "0x8623",
+   "size": 189,
+   "jp": " {name1}（みかげ）です。礼にはおよびません。あなた、{name0}さん ですね。お噂はかねてより{page}わたしたちは、長門の練武館で修行をしていた者です。だが刺客に襲われ、砦は壊滅しました{page}{name2}「で、ここを訪ねてきたわけだ。何かあったら、才蔵どののもとへゆくようにとな。ところで、才蔵どのはどうしたのだ？{page}{name0}「・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_86E0",
+   "addr": "0x86E0",
+   "size": 78,
+   "jp": "{name2}「そうか。分からないか。とにかく、おれたちはあんたと一緒に行くぜ。才蔵どのをさがさねばな{page}{name1}「よろしく、{name0}さん{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_872E",
+   "addr": "0x872E",
+   "size": 31,
+   "jp": "戦鬼の碑に語るがよい。おぬしに力をあたえてくれよう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_874D",
+   "addr": "0x874D",
+   "size": 27,
+   "jp": "{name0}は、金剛剣鬼龍を受け取った{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8768",
+   "addr": "0x8768",
+   "size": 74,
+   "jp": "羅観「今のお前にはまだ使いこなせんだろう。だが、いずれ役にたつ・・・{page}そして{name0}、おまえはもう一度わたしと会うことになる{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_87B2",
+   "addr": "0x87B2",
+   "size": 43,
+   "jp": "羅観を倒した者どもか。こざかしい！！{nl}金剛剣鬼龍、返してもらおう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_87DD",
+   "addr": "0x87DD",
+   "size": 31,
+   "jp": "{name0}、女の身でありながら・・・だが、くじけるなよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_87FC",
+   "addr": "0x87FC",
+   "size": 23,
+   "jp": "才蔵さまのこと、残念であったな・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8813",
+   "addr": "0x8813",
+   "size": 33,
+   "jp": "お目覚めですね。まる三日間、眠り続けていたのですよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8834",
+   "addr": "0x8834",
+   "size": 52,
+   "jp": "{name2}「ここは？{page}出羽三山、修行の里。宮緒（みやお）さまがお待ちです。どうぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8868",
+   "addr": "0x8868",
+   "size": 190,
+   "jp": "宮緒「私は、この里の長・宮緒です。みなさんの心中、おさっしします。ですが今は、この地から京の都にはいけません{page}平泉にある聖地を、何者かが侵したのです{page}そのためにこの北の領域は、大地の霊力によって結界に封じられてしまったのです{page}大地の霊力の源である「緑晶輪」を回収しない限り、結界は消えません{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8926",
+   "addr": "0x8926",
+   "size": 66,
+   "jp": "宮緒「大地の霊力の源である「緑晶輪」を回収しない限り、この北の地の結界は消えることはありません{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8968",
+   "addr": "0x8968",
+   "size": 54,
+   "jp": "宮緒「あなたたちのおかげで、殺生宮は消えました。さあ、気をつけて京の都にお向かいなさい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_899E",
+   "addr": "0x899E",
+   "size": 74,
+   "jp": "宮緒「あなたたちのおかげで、大地の封印は、消えました。さあ、帝の待つ京の都にお向かいなさい{page}まっすぐ南に向かうのですよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_89E8",
+   "addr": "0x89E8",
+   "size": 30,
+   "jp": "おひかえあそばせ。この方は、里の長・宮緒さまです{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8A06",
+   "addr": "0x8A06",
+   "size": 44,
+   "jp": "才蔵さまを倒した敵は、四界将の一人・呪魂。恐ろしい相手です{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8A32",
+   "addr": "0x8A32",
+   "size": 87,
+   "jp": "平泉の聖地に築かれた ほこらは、大地の霊力によって殺生宮（せっしょうきゅう）と化してしまった{page}「緑晶輪」は、その奥にあるのだ。しかし・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8A89",
+   "addr": "0x8A89",
+   "size": 35,
+   "jp": "大地の霊力によって、北の大地を閉ざされてしまったのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8AAC",
+   "addr": "0x8AAC",
+   "size": 78,
+   "jp": "昔ね。平泉では、源義経の一行が討たれて死んだのよ。武蔵坊弁慶の立おうじょうは、あまりに有名でしょ{page}え！知らなかった？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8AFA",
+   "addr": "0x8AFA",
+   "size": 99,
+   "jp": "平泉の聖地は、殺生宮と化しておるのだ。殺生宮は、生けるものの命をたちどころに奪ってしまう恐ろしい宮殿{nl}魔神の血を引くもののみが、おもむくことができるという{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8B5D",
+   "addr": "0x8B5D",
+   "size": 30,
+   "jp": "この里から北に行けば、男鹿（おが）村があります{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8B7B",
+   "addr": "0x8B7B",
+   "size": 28,
+   "jp": "え！平泉の聖地に行くんですか？あぶないですよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8B97",
+   "addr": "0x8B97",
+   "size": 64,
+   "jp": "まあ、男の人。でも、いけません。今の私は、修行中の身。でも、お茶ぐらいなら・・・{page}だめ！やっぱり、なりませぬ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8BD7",
+   "addr": "0x8BD7",
+   "size": 65,
+   "jp": "・・・「沙」の血。その秘密の源を知るお坊さまが、佐渡に住んでいるのだ。その方は、邵元（しょうげん）さま{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8C18",
+   "addr": "0x8C18",
+   "size": 45,
+   "jp": "才蔵さまも、昔はこの地で修行をつまれた方でした。ああ、おしいお方を・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8C45",
+   "addr": "0x8C45",
+   "size": 10,
+   "jp": "くうんくうん・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8C4F",
+   "addr": "0x8C4F",
+   "size": 23,
+   "jp": "なんと。だれにもなつかぬこの老犬が・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8C66",
+   "addr": "0x8C66",
+   "size": 35,
+   "jp": "いま、おそろしい魔物たちが、国中で暴れているのよ。怖いわ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8C89",
+   "addr": "0x8C89",
+   "size": 45,
+   "jp": "ああ、たいへんだ。早く京の都にもどらないと、私の店がつぶれてしまう。どうしよう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8CB6",
+   "addr": "0x8CB6",
+   "size": 6,
+   "jp": "ばうばう！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8CBC",
+   "addr": "0x8CBC",
+   "size": 5,
+   "jp": "ぶるるっ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8CC1",
+   "addr": "0x8CC1",
+   "size": 7,
+   "jp": "こっこっこっ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8CC8",
+   "addr": "0x8CC8",
+   "size": 49,
+   "jp": "殺生宮？しんねえなあ。おらは、生れてから一度もこの村の外へは出たことはねえだぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8CF9",
+   "addr": "0x8CF9",
+   "size": 45,
+   "jp": "北にある恐山（おそれざん）には、不思議な力を持つ人たちが住んでいます{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8D26",
+   "addr": "0x8D26",
+   "size": 98,
+   "jp": "このあたりには、昔からいろいろな伝説があるよ{page}でも最近のは、源義経と武蔵坊弁慶の話だね。二人とも、平泉の戦いで死んだんだ。八十年ぐらい前のことだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8D88",
+   "addr": "0x8D88",
+   "size": 56,
+   "jp": "ねえ。大陸から蒙古軍が攻めてきて、大変なんでしょう？この先、日本はどうなっちゃうのかしら{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8DC0",
+   "addr": "0x8DC0",
+   "size": 50,
+   "jp": "この土地を守っていた神さままで、魔物になっちまった。神も仏もないって、このことだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8DF2",
+   "addr": "0x8DF2",
+   "size": 10,
+   "jp": "いーっ、ヤッホー！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8DFC",
+   "addr": "0x8DFC",
+   "size": 20,
+   "jp": "ひーん。かあちゃんが、怒ってんだよー{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8E10",
+   "addr": "0x8E10",
+   "size": 76,
+   "jp": "そうか、才蔵が死んだか{page}最後に会ったのは、十年以上も前だったが。あの時才蔵のやつは、子犬なんか連れていたっけな・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8E5C",
+   "addr": "0x8E5C",
+   "size": 70,
+   "jp": "幼いころ、わしは平泉の戦いの後に義経さまと弁慶さまを村はずれのとうげで見たんじゃ{page}だれも信じんが、まちがいないわい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8EA2",
+   "addr": "0x8EA2",
+   "size": 149,
+   "jp": "わたしは、歴史学者。平泉の伝説を調べている{page}蒙古の祖・ジンギス・カンが歴史に登場したのは、源義経が平泉の戦いで死んでから数年後{page}だがもし、義経が死んではおらず、人目を逃れて大陸に渡ったとすれば・・・{page}わからん。しかし、まさかな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8F37",
+   "addr": "0x8F37",
+   "size": 96,
+   "jp": "四界将・呪魂の目的は、法力者がりのみにあらず。一千年の古代より伝わる、「神の力」をねらっている{page}呪界衆どもは、それをもとめて聖地を侵したのだ。{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8F97",
+   "addr": "0x8F97",
+   "size": 92,
+   "jp": "この世界の行く末をゆだねられし者たちに語ろう{page}五つの霊晶輪がおまえたちを「戦鬼」のもとに導く。そして・・・鳴沙（メイサ）。・・・失われた記億・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_8FF3",
+   "addr": "0x8FF3",
+   "size": 75,
+   "jp": "「マヤコ」さまは、最強の霊力を持つお方{page}聖地を侵した魔物たちは、「マヤコ」さまによって殺生宮に閉じ込められておるのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_903E",
+   "addr": "0x903E",
+   "size": 30,
+   "jp": "ここにおあせられますのが、恐山の長「マヤコ」さまです{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_905C",
+   "addr": "0x905C",
+   "size": 23,
+   "jp": "マヤコさまの御前である。おひかえあそばせ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9073",
+   "addr": "0x9073",
+   "size": 72,
+   "jp": "わしは、マヤコ。ここの長（おさ）。赤き霊輪を持つ者たちに力をかそう{page}殺生宮を開く「破封の鍵」を、受け取るがよい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_90BB",
+   "addr": "0x90BB",
+   "size": 88,
+   "jp": "マヤコ「平泉の聖地を侵した魔物たちは、今も殺生宮に封じてある{page}もし生き残っておる魔物がおれば、それは手強き敵であろう。心してゆくがよい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9113",
+   "addr": "0x9113",
+   "size": 78,
+   "jp": "マヤコ「見事。よくぞ無事にもどられた。やがて、北の領域の封印も消える{page}さあ、宮緒どのがおまえたちを待っておいでだぞ。急いでゆけ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9161",
+   "addr": "0x9161",
+   "size": 56,
+   "jp": "かつては聖地とされた平泉にたつこの ほこらも、緑晶輪の霊力により殺生宮となってしまった{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9199",
+   "addr": "0x9199",
+   "size": 44,
+   "jp": "そしてこの地を侵した者どもは、マヤコさまの力でこの中に閉じ込められておる{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_91C5",
+   "addr": "0x91C5",
+   "size": 42,
+   "jp": "この中に入ることを望むのであれば、恐山におわすマヤコさまのもとにゆかれよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_91EF",
+   "addr": "0x91EF",
+   "size": 37,
+   "jp": "その「破封の鍵」で、扉を開くがよい。ご武運をお祈り申す{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9214",
+   "addr": "0x9214",
+   "size": 14,
+   "jp": "ご武運をお祈り申す{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9222",
+   "addr": "0x9222",
+   "size": 30,
+   "jp": "おぉぉおう。われはこの緑晶輪を守るもの。死ねい！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9240",
+   "addr": "0x9240",
+   "size": 24,
+   "jp": "{name0}、おまえがいなくなると、さみしいよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9258",
+   "addr": "0x9258",
+   "size": 4,
+   "jp": "うむ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_925C",
+   "addr": "0x925C",
+   "size": 4,
+   "jp": "そうか{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9260",
+   "addr": "0x9260",
+   "size": 25,
+   "jp": "{name0}らは、「破封の鍵」をうけとった{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9279",
+   "addr": "0x9279",
+   "size": 20,
+   "jp": "宮緒さまは、すばらしいお方ですよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_928D",
+   "addr": "0x928D",
+   "size": 24,
+   "jp": "{name0}らは「緑晶輪」を手にいれた{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_92A5",
+   "addr": "0x92A5",
+   "size": 52,
+   "jp": "ねぇ、ぼくも宮緒さまのところで法術の修行をしてんだよ。みてみて、ほら{page}ぶんきとーしーん！ {end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_92D9",
+   "addr": "0x92D9",
+   "size": 24,
+   "jp": "また、いっこ法術おぼえたよ{page}てんいー！！ {end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_92F1",
+   "addr": "0x92F1",
+   "size": 25,
+   "jp": "今度の術はすごいぞー。ほら{page}へんげーっ！ {end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_930A",
+   "addr": "0x930A",
+   "size": 19,
+   "jp": "今日の修行はさぼろうかなぁー{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_931D",
+   "addr": "0x931D",
+   "size": 23,
+   "jp": "うぇーん。もうおまえは「はもん」だってー！ {end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9334",
+   "addr": "0x9334",
+   "size": 44,
+   "jp": "さあさ、神仏にお祈りをしましょう。ただで幸せになれれば、これはもう大もうけ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9360",
+   "addr": "0x9360",
+   "size": 22,
+   "jp": "わたくし、人の「愛」を信じております{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9376",
+   "addr": "0x9376",
+   "size": 46,
+   "jp": "あー、こりゃこりゃ・・・。あ、すいません。まつりに備えて、歌の練習をしていたもので{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_93A4",
+   "addr": "0x93A4",
+   "size": 16,
+   "jp": "私、怒っています。プンプン{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_93B4",
+   "addr": "0x93B4",
+   "size": 27,
+   "jp": "箱根の関所、だれも通してもらえないらしいぜ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_93CF",
+   "addr": "0x93CF",
+   "size": 49,
+   "jp": "南紀の「田辺」には行きましたか？武蔵坊弁慶の生れたところだという噂ですよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9400",
+   "addr": "0x9400",
+   "size": 61,
+   "jp": "友達がよ。二か月も箱根の関所で足止めにされてるらしいんだ。いったい、何が起きたっていうんだろう？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_943D",
+   "addr": "0x943D",
+   "size": 45,
+   "jp": "魔物たちのために、海路ももうズタズタ。世の中、どうなってしまったんでしょうね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_946A",
+   "addr": "0x946A",
+   "size": 90,
+   "jp": "「月影の馬」という古代の絵のこと、聞いたことありませんか？{page}その絵には、あの世とこの世の橋渡しをする力があるっていう、いわく付きの代物なんですがね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_94C4",
+   "addr": "0x94C4",
+   "size": 83,
+   "jp": "大きな声では言えぬが、幕府の水軍は海の魔物たちのために大打撃をうけたらしい{page}無傷なのは、日本最強の田辺水軍だけだそうだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9517",
+   "addr": "0x9517",
+   "size": 110,
+   "jp": "京の都でも、四国や九州の情勢がつかめぬので、困っておる{page}なのに将軍・時宗公は、何を思ってのことか、関所を閉ざしてしまったという{page}・・・もしかしたら、鎌倉に何かゆゆしき事が！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9585",
+   "addr": "0x9585",
+   "size": 9,
+   "jp": "いらっしゃいまし{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_958E",
+   "addr": "0x958E",
+   "size": 72,
+   "jp": "ウーッ、ヒック。やあ、旅人さん。三河には、三日は泊まりなよ。なあんちゃってナ。ヒーッヒヒッ、・・・ヒック{nl}{name1}「・・・？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_95D6",
+   "addr": "0x95D6",
+   "size": 74,
+   "jp": "かんべんしてやって下さいな。この人、さっきからこんなことばかり言ってるんです{page}オチがちっとも落ちなくて、落ちつかないったらありゃあしない{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9620",
+   "addr": "0x9620",
+   "size": 53,
+   "jp": "いっけねー。おイネとの約束、酒飲んでて、すっぽかしちゃった。きっと、プンプン怒ってるだろうなあ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9655",
+   "addr": "0x9655",
+   "size": 52,
+   "jp": "まいっちまうよ。もう、二ヶ月だぜ。ここで待たされてんの。お役人は、わけも教えてくんねえし{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9689",
+   "addr": "0x9689",
+   "size": 62,
+   "jp": "ピーヒャラ、ピーヒャら。ああ、これはもう、歌でも歌って待つしかありませんなあ。あ、それ。ぴーひゃら、ぴーひゃら・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_96C7",
+   "addr": "0x96C7",
+   "size": 41,
+   "jp": "この関所を通らなけりゃあ、鎌倉の都にはいけやしねえし。まいっただなや{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_96F0",
+   "addr": "0x96F0",
+   "size": 43,
+   "jp": "わし、商人ですねん。もう、こんな恐ろしいところはいやや。早く帰りとうおます{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_971B",
+   "addr": "0x971B",
+   "size": 45,
+   "jp": "わたしは、旅の行商人。いろいろと、めずらしいものも売ってるよ。買わないかね？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9748",
+   "addr": "0x9748",
+   "size": 43,
+   "jp": "いらっしゃいまし。宿屋でございます{nl}ここは、お安くお泊まりになれますよ。 {page}{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9773",
+   "addr": "0x9773",
+   "size": 45,
+   "jp": "すまぬが、将軍・北条時宗公の命である。おぬしたちを通すことはできぬのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_97A0",
+   "addr": "0x97A0",
+   "size": 30,
+   "jp": "何も聞かず、立ち去りなされい。さもなくば、斬る！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_97BE",
+   "addr": "0x97BE",
+   "size": 42,
+   "jp": "よかったよ、関所が通れるようになってさ。でも、二ヶ月だぜ。まいったよな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_97E8",
+   "addr": "0x97E8",
+   "size": 66,
+   "jp": "いやあ、よかった。これでやっと、女房と子供に会える。おいわいに得意な歌でも。あ、それ。ピーヒャラ、ピーヒャラ・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_982A",
+   "addr": "0x982A",
+   "size": 45,
+   "jp": "これでやっと、国に帰れまんがな。もう鎌倉なんちゅうおそろしいところは、まっぴらや{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9857",
+   "addr": "0x9857",
+   "size": 29,
+   "jp": "怪しいもの以外は、通っても良いことにあいなった{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9874",
+   "addr": "0x9874",
+   "size": 72,
+   "jp": "さあ、お通りなされい。将軍北条時宗公のお許しが下ったのだ。だが、幕府の不安が消えたわけではないことをお忘れなく{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_98BC",
+   "addr": "0x98BC",
+   "size": 10,
+   "jp": "通っても、よし！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_98C6",
+   "addr": "0x98C6",
+   "size": 38,
+   "jp": "ここは、田辺。あの武蔵坊弁慶さまがお生れになった地である{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_98EC",
+   "addr": "0x98EC",
+   "size": 64,
+   "jp": "われらは、朝廷にも幕府にも組みしない。ただ、信義においてのみ動く。それゆえに、このいくさを静観しておるのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_992C",
+   "addr": "0x992C",
+   "size": 44,
+   "jp": "グッ、グウ。・・・わっはっはっ。高くようじをくわえているだけでは、はらがへるものだな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9958",
+   "addr": "0x9958",
+   "size": 50,
+   "jp": "船の使用をお望みか。それなら、役所で聞いてみるがよい。だが、おそらくかしてはやれぬぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_998A",
+   "addr": "0x998A",
+   "size": 74,
+   "jp": "見知らぬおなごに声をかけるとは、無礼であろう。まずは、父と母の許しを受けてからになされ{page}ところで、わらわの住所は・・・イヤ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_99D4",
+   "addr": "0x99D4",
+   "size": 28,
+   "jp": "質実剛健。殿方は、そうでなければなりませぬ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_99F0",
+   "addr": "0x99F0",
+   "size": 61,
+   "jp": "ああ、私が殿方に生れておれば、海で暴れている魔物たちを退治に行くところなのに。本当に、残念{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9A2D",
+   "addr": "0x9A2D",
+   "size": 57,
+   "jp": "武蔵坊弁慶さまは不死身のお身体を持っていたという伝説が、この地には残ってございます{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9A66",
+   "addr": "0x9A66",
+   "size": 58,
+   "jp": "田辺水軍は日本最強の海軍だぜ。そして、陸で最強の戦闘部隊は「かすみ」の連中さ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9AA0",
+   "addr": "0x9AA0",
+   "size": 108,
+   "jp": "ねえ。歴史の中で、一番強い人はだれだろうね？わたしは、武蔵坊弁慶さまだと思うの{page}でも、源義経さまの御家来だったのよね。義経さまは、よほど立派な方だったのに違いないわ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9B0C",
+   "addr": "0x9B0C",
+   "size": 103,
+   "jp": "その昔、源義経さまと弁慶さまたちは平泉で、「鎌倉」に殺されたんだ。朝廷だって、見殺しにした{page}あいつらなんか助けてやる すじあいはないぜ。蒙古にでもやられちまえばいいんだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9B73",
+   "addr": "0x9B73",
+   "size": 44,
+   "jp": "我が殿様は、かしこいお方。決して、恨みや欲に動かされたりはいたしません{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9B9F",
+   "addr": "0x9B9F",
+   "size": 69,
+   "jp": "あの旅人のおっちゃん、鎌倉の都よりもずっと北のほうから来たんだってさ。うそだよね、きっと。関所だって閉まっているのに{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9BE4",
+   "addr": "0x9BE4",
+   "size": 62,
+   "jp": "黄泉の国って知ってる？だれも入ることができないおばけたちの国だよ。でも「黄泉の道」には、行けるんだって{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9C22",
+   "addr": "0x9C22",
+   "size": 71,
+   "jp": "「かすみ」の砦は、鎌倉のずっと北の山奥にあるぜ。覚えておくがいい{page}{name1}「あなたはだれです？{page}ただの旅ガラスさ。あばよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9C69",
+   "addr": "0x9C69",
+   "size": 55,
+   "jp": "船をかす事は、できぬ。我が領のあるじ・緒方さまの意である。たとえ、幕命であってもしたがわぬ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9CA0",
+   "addr": "0x9CA0",
+   "size": 74,
+   "jp": "これにあるは、あるじ・緒方さまの御殿と町を仕切る唯一の門である。無用のものは、通すわけにはゆかぬ{page}お引き取りなされよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9CEA",
+   "addr": "0x9CEA",
+   "size": 84,
+   "jp": "うちの殿様、ほんとうにガンコでよ。先祖の遺言をかたくなに守っているんだ。「内なる声に、従って生きよ」とさ{page}おれ、そんな殿様が大好きなんだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9D3E",
+   "addr": "0x9D3E",
+   "size": 34,
+   "jp": "われは「海龍の骨」を守護するもの。覚悟はよろしいか？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9D60",
+   "addr": "0x9D60",
+   "size": 73,
+   "jp": "{name1}「いったいこれは・・・{page}{name2}「守光楼閣がおちちまった。それにしても、あの女の子は一体？{page}{name0}「・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9DA9",
+   "addr": "0x9DA9",
+   "size": 62,
+   "jp": "守光楼閣がおちた今、さらに強き魔物がおしよせていると聞く{page}{name0}殿、急ぎ戦鬼の復活を！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9DE7",
+   "addr": "0x9DE7",
+   "size": 61,
+   "jp": "玄三どのの傷は、そうとうの深手じゃ。安静にしておらねば命にかかわる。医者の言うことは守りなされよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9E24",
+   "addr": "0x9E24",
+   "size": 63,
+   "jp": "影丸「かしらは、あれからずっと意識を失ったままだ。それでもおまえたちのことを、うわごとでくり返しくり返し・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9E63",
+   "addr": "0x9E63",
+   "size": 64,
+   "jp": "かすみの玄三「ううっ {name0}。し、四国へ、四国の剣山のいただきへ。「戦鬼の棺」を・・・ううっ・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9EA3",
+   "addr": "0x9EA3",
+   "size": 36,
+   "jp": "いずれ、再びわれらは蝦夷に兵を進める。かたきは必ず、討つ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9EC7",
+   "addr": "0x9EC7",
+   "size": 30,
+   "jp": "くそ、呪魂！ヤツのために、多くの仲間たちが・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9EE5",
+   "addr": "0x9EE5",
+   "size": 41,
+   "jp": "ああ！あんたたち。よくぞ無事で。才蔵さまのこと、お気の毒にねえ・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9F0E",
+   "addr": "0x9F0E",
+   "size": 75,
+   "jp": "村長「やあ、{name0}さんか。立派になられたなあ。才蔵さまのお墓、戦鬼の碑のとなりに作らせてもらったよ{page}よい人だった・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9F59",
+   "addr": "0x9F59",
+   "size": 68,
+   "jp": "われらは、この地で修行をしている僧でござる。お気をつけなされ。とても強い魔物たちが、突然現われるようになったのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9F9D",
+   "addr": "0x9F9D",
+   "size": 56,
+   "jp": "この数日で、仲間たちが次々に殺されてしまった。だが、われらは逃げはせぬ。修行を続けるのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_9FD5",
+   "addr": "0x9FD5",
+   "size": 49,
+   "jp": "このあたりは、その昔、「鬼国」と呼ばれていた時があるそうな。何ゆえかは、わからぬがな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A006",
+   "addr": "0xA006",
+   "size": 4,
+   "jp": "・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A00A",
+   "addr": "0xA00A",
+   "size": 36,
+   "jp": "・・・たしかにあなたがたには、これを使うしかくがある。取るが良い{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A02E",
+   "addr": "0xA02E",
+   "size": 21,
+   "jp": "{name2}「ムウッ！霊晶輪が！？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A043",
+   "addr": "0xA043",
+   "size": 25,
+   "jp": "{name0}「・・・{page}{name1}「・・・ここか{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A05C",
+   "addr": "0xA05C",
+   "size": 41,
+   "jp": "{name2}「気をつけろ！殺気だ{page}{name1}「この気！ばかな、これは！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A085",
+   "addr": "0xA085",
+   "size": 127,
+   "jp": "そうだ。そのバカなことが起きたのだ。・・・このおれが、おまえらごときに倒されたのだからな{page}{name0}「・・・！{page}おかげでおれは、呪魂さまにおしかりを受け、死ぬことも許されず、死霊としてさ迷うこととなった。おまえたちを、殺すまでな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A104",
+   "addr": "0xA104",
+   "size": 107,
+   "jp": "{name2}「きさまは、狂舞！{page}「死狂舞」として、よみがえったのだ。死肉となったこの体は、おまえたちごときに倒せるものではない。覚悟しろ{page}不死身の「戦鬼」など、復活させるものか{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A16F",
+   "addr": "0xA16F",
+   "size": 11,
+   "jp": "待て！死狂舞{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A17A",
+   "addr": "0xA17A",
+   "size": 63,
+   "jp": "{name1}「ハヤテさん！{page}ハヤテ「どうやら、おれの死に場所が決まったらしい。おい、{name0}{page}{name0}「！！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A1B9",
+   "addr": "0xA1B9",
+   "size": 147,
+   "jp": "ハヤテ「ここはおれに任せて、おまえたちは先に行け。この化け物を倒せぬまでも、時間ぐらいかせいでやる{page}{name2}「バカをいえ！そんなことが、できるか！{page}ハヤテ「達者でな。おれは、おまえたち三人を、死んだ弟たちの生まれ変りのように感じていたんだ・・・。あばよ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A24C",
+   "addr": "0xA24C",
+   "size": 13,
+   "jp": "{name2}「ハヤテー！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A259",
+   "addr": "0xA259",
+   "size": 49,
+   "jp": "われは、不知火。不滅の声。おまえたちが、破れざる者としてあゆんできた証をここへ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A28A",
+   "addr": "0xA28A",
+   "size": 176,
+   "jp": "弁慶「ふあぁあ。ああ、寝過ぎた・・・ん？なんだ、おまえらは{page}{name1}「武蔵坊弁慶どのでござるな{page}弁慶「ああ。まあな{page}{name1}「実は・・・{page}弁慶「・・・そりゃあ、たいへんじゃねえか。とにかく、そのハヤテってやつがふんばっているなら、助けに行かなきゃな{page}{name2}「しかし、出口が・・・{page}弁慶「ついてこい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A33A",
+   "addr": "0xA33A",
+   "size": 4,
+   "jp": "ふん！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A33E",
+   "addr": "0xA33E",
+   "size": 12,
+   "jp": "{name0}「ハヤテ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A34A",
+   "addr": "0xA34A",
+   "size": 44,
+   "jp": "死狂舞「戦鬼・武蔵坊弁慶。ついに復活したのか。ではまた、死ね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A376",
+   "addr": "0xA376",
+   "size": 52,
+   "jp": "ハヤテ「・・・すげえ。これほどとは。呪魂さえ恐れるはずだ{page}{name1}「ハヤテさん！生きている{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A3AA",
+   "addr": "0xA3AA",
+   "size": 96,
+   "jp": "ハヤテ「・・・虫の息だがな。武蔵坊弁慶さま、後のこと、お願い申し上げる{page}弁慶「ああ。わかった。だが最初の仕事は、おまえを医者のところに連れてゆくことだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A40A",
+   "addr": "0xA40A",
+   "size": 16,
+   "jp": "弁慶が仲間に加わった{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A41A",
+   "addr": "0xA41A",
+   "size": 90,
+   "jp": " {name0}さん、よくご無事で。おや？そちらの大きなお方は、新しいお仲間ですか{page}弁慶「おれは、武蔵坊弁慶だ{page}わっはっは、またまた。おもしろいお方だ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A474",
+   "addr": "0xA474",
+   "size": 29,
+   "jp": "ハヤテどのの傷は、とても深い。絶対安静ですぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A491",
+   "addr": "0xA491",
+   "size": 97,
+   "jp": "ハヤテ「すまぬ。また、死にそびれてしまったらしいな{page}弁慶さま、まだまだ半人前な{name0}たちのこと、よろしくお願いいたしまする{page}弁慶「まかせておけ。ハヤテは、体をいとえよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A4F2",
+   "addr": "0xA4F2",
+   "size": 20,
+   "jp": "あなたがたの力、見せていただこう！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1A_A506",
+   "addr": "0xA506",
+   "size": 42,
+   "jp": "{name0}、蝦夷にいる影丸を助けてやってくれ{page}呪魂は蝦夷にいる{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

@@ -1,0 +1,5982 @@
+{
+ "file": "act2_bank1c.json",
+ "bank": "0x1C",
+ "start": "0x8000",
+ "end": "0xFA78",
+ "kind": "ff_strings",
+ "table": "jp.tbl",
+ "box": "dialogue",
+ "entries": [
+  {
+   "id": "1C_8000",
+   "addr": "0x8000",
+   "size": 11,
+   "jp": "よし。通ってよいぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_800B",
+   "addr": "0x800B",
+   "size": 14,
+   "jp": "では、上陸はみとめぬぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8019",
+   "addr": "0x8019",
+   "size": 68,
+   "jp": "噂だと、南宋の軍隊が全滅したらしいよ。蒙古軍にやられちまったんだ。もうすぐ、この都にも攻め込んでくる・・・！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_805D",
+   "addr": "0x805D",
+   "size": 31,
+   "jp": "蒙古兵が、この町に来る！たいへん！どうしましょう！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_807C",
+   "addr": "0x807C",
+   "size": 31,
+   "jp": "・・・にもつをつんで、と。これでよし。いつでも逃げられるぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_809B",
+   "addr": "0x809B",
+   "size": 35,
+   "jp": "南宋の国が亡くなってしまう・・・皇帝はどうなさるのかしら{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_80BE",
+   "addr": "0x80BE",
+   "size": 65,
+   "jp": "怖いのは、蒙古軍だけじゃない。海賊の倭冠（わこう）だって、海で暴れまわっていやがる。くそっ、日本人め！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_80FF",
+   "addr": "0x80FF",
+   "size": 46,
+   "jp": "南宋は、もうだめよ。でも、考えようによっては、大もうけの機会だわよ、絶対！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_812D",
+   "addr": "0x812D",
+   "size": 36,
+   "jp": "こまった。蒙古兵が来たら、日本との貿易は、もうできんな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8151",
+   "addr": "0x8151",
+   "size": 95,
+   "jp": "日本の商人・越後屋の平七はズルいやつ。蒙古兵が来るからって、この町を逃げ出して西にある山寺に隠れたのよ{page}この前まで、皇帝さまにコビていたくせに{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_81B0",
+   "addr": "0x81B0",
+   "size": 57,
+   "jp": "越後屋は、日本の武器商人さ。海賊の倭冠（わこう）とだって、裏で通じていやがるんだぜ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_81E9",
+   "addr": "0x81E9",
+   "size": 52,
+   "jp": "南宋は、まだ まけた訳ではないわ。文・張のお二人が、義勇軍を上げて戦っているの{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_821D",
+   "addr": "0x821D",
+   "size": 90,
+   "jp": "武術の心得があるなら、揚子江の向こうにある少林寺に行ってみるといいよ{page}でも、橋が無いからわたれないか・・・{nl}なんとか渡ることができればいいんだけどね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8277",
+   "addr": "0x8277",
+   "size": 76,
+   "jp": "蒙古軍は、まえから南宋をねらっていたのよ{page}あいつらが日本に進軍したのも、海からこの国を責めるための基地が欲しかったからよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_82C3",
+   "addr": "0x82C3",
+   "size": 25,
+   "jp": "わーい。おじさんたち、異国の人たちでしょう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_82DC",
+   "addr": "0x82DC",
+   "size": 41,
+   "jp": "おなか、すいたなあ。でも、かあちゃんたち、ごはん作るひまがないって言うんだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8305",
+   "addr": "0x8305",
+   "size": 26,
+   "jp": "あっちのお家に、船乗りのおじさんたちがいるよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_831F",
+   "addr": "0x831F",
+   "size": 28,
+   "jp": "この国では、宿屋のことを「飯店」ていうんだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_833B",
+   "addr": "0x833B",
+   "size": 40,
+   "jp": "越後屋でございます。出店の主人の平七は、留守でございます{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8363",
+   "addr": "0x8363",
+   "size": 36,
+   "jp": "越後屋は、しばらくお休みです。またのご来店をお待ちします{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8387",
+   "addr": "0x8387",
+   "size": 83,
+   "jp": "越後屋の番頭でございます。れいの件でございますね{page}夜になったら、この「割り札」を持って、船着き場にお行きなさい。連絡が付くはずです{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_83DA",
+   "addr": "0x83DA",
+   "size": 37,
+   "jp": "夜になったらその「割り札」をもって、船着き場にお行きなさい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_83FF",
+   "addr": "0x83FF",
+   "size": 91,
+   "jp": "知ってるかい？倭冠が蒙古の奴隷船を襲った話{page}何年も前の話だが、その船に崑崙の人間たちが乗っていたんだとさ。全く、とんでもない作り話だぜ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_845A",
+   "addr": "0x845A",
+   "size": 28,
+   "jp": "おれっちは、船乗りさ。海賊の話をしているんだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8476",
+   "addr": "0x8476",
+   "size": 49,
+   "jp": "倭冠って海賊は、日本人だって噂だぜ。頭の名前は、「半次」とかいうそうだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_84A7",
+   "addr": "0x84A7",
+   "size": 65,
+   "jp": "おれ、思うけど、倭冠のやつら、まだ崑崙人を捕まえているんじゃあないかなあ・・・。崑崙の、お宝を目当てにさ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_84E8",
+   "addr": "0x84E8",
+   "size": 10,
+   "jp": "船は、出ないよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_84F2",
+   "addr": "0x84F2",
+   "size": 32,
+   "jp": "やあ。あんたたちも夜釣りかな？でもここは、あまり釣れんよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8512",
+   "addr": "0x8512",
+   "size": 72,
+   "jp": "ほう。あんたたち、夜釣りではなさそうじゃな。よし。沖の小島で彼らが待っている。ただし、連れて行くのは一人だけだ。よいな？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_855A",
+   "addr": "0x855A",
+   "size": 12,
+   "jp": "だめじゃ。ひとりだけだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8566",
+   "addr": "0x8566",
+   "size": 9,
+   "jp": "では、ついてこい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_856F",
+   "addr": "0x856F",
+   "size": 24,
+   "jp": "弁慶「おい、 {name0}。気をつけてな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8587",
+   "addr": "0x8587",
+   "size": 11,
+   "jp": "{name0}「・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8592",
+   "addr": "0x8592",
+   "size": 12,
+   "jp": "弁慶「ばかやろう！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_859E",
+   "addr": "0x859E",
+   "size": 63,
+   "jp": "{name4}「弁慶さん・・・{page}弁慶「ああ。どうもヘソがかゆい。悪い予兆でなあ・・・{page}{name1}「まさか・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_85DD",
+   "addr": "0x85DD",
+   "size": 11,
+   "jp": "{name1}「おい！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_85E8",
+   "addr": "0x85E8",
+   "size": 31,
+   "jp": "{name2}「ちょっと見てくる。なに、気づかれやしねえさ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8607",
+   "addr": "0x8607",
+   "size": 22,
+   "jp": "{name4}「本当に気をつけて・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_861D",
+   "addr": "0x861D",
+   "size": 49,
+   "jp": "ここは少林寺。禅寺の総本山であり、武術修行の地としても名をはせておる{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_864E",
+   "addr": "0x864E",
+   "size": 51,
+   "jp": "武術と禅（ぜん）の修行は相異なる道。されど、たどりゆくその先に同じ境地がある{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8681",
+   "addr": "0x8681",
+   "size": 46,
+   "jp": "わたしは、この寺で心の修行にはげむもの。武術には、あまり関心がございません{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_86AF",
+   "addr": "0x86AF",
+   "size": 73,
+   "jp": "あんたたち、日本人だろう？この寺にも、前に日本から修行に来たやつがいたぜ{page}たしか、邵元（しょうげん）とかいう名だったよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_86F8",
+   "addr": "0x86F8",
+   "size": 30,
+   "jp": "ハアッ！おっと失礼。武術の修行をしていたもので{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8716",
+   "addr": "0x8716",
+   "size": 58,
+   "jp": "最強の武術家は、覚樹（カクジュ）どのであろう。今は旅に出ておられるが、いずれここに戻られよう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8750",
+   "addr": "0x8750",
+   "size": 18,
+   "jp": "どいてどいて！いそがしいんだから！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8762",
+   "addr": "0x8762",
+   "size": 35,
+   "jp": "さあ、はやく仕事を終らせて、武術の修行に行かなくちゃ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8785",
+   "addr": "0x8785",
+   "size": 30,
+   "jp": "ちょいっと、おにいさん。お寺の修行房は、こっちよね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_87A3",
+   "addr": "0x87A3",
+   "size": 93,
+   "jp": "悪徳商人の越後屋をおさがしかな？あの方は、この寺にふさわしからざるもの{page}心をあらためていただくため、山奥の達磨洞（だるまどう）で禅の修行をさせておる{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8800",
+   "addr": "0x8800",
+   "size": 65,
+   "jp": "「武」は、盾（たて）。鏡なり。矛を受けるその内に、己が心をうつしだす。この言葉、心してな。{name0}どの{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8841",
+   "addr": "0x8841",
+   "size": 56,
+   "jp": "倭人も蒙古人も、同じ悲運の中にある。討たねばならぬのは宿命ではなく、その怨念・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8879",
+   "addr": "0x8879",
+   "size": 28,
+   "jp": "覚樹と邵元は・・・今ごろどの辺りであろうか{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8895",
+   "addr": "0x8895",
+   "size": 55,
+   "jp": "ここは、達磨大使が禅を組んでおられた修行房。ですが、不似合いな人たちも来ています{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_88CC",
+   "addr": "0x88CC",
+   "size": 48,
+   "jp": "向こうの洞窟にいるのは、「越後屋」たちの一派だよ。ほんっとにイヤなやつらなんだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_88FC",
+   "addr": "0x88FC",
+   "size": 2,
+   "jp": "",
+   "en": "",
+   "raw_hex": "00fe",
+   "box": "data",
+   "status": "data",
+   "notes": "2-byte non-text padding before $1C:88FE ($0D:B7CD target)"
+  },
+  {
+   "id": "1C_88FE",
+   "addr": "0x88FE",
+   "size": 61,
+   "jp": "ここは、越後屋でかりきった洞窟でございます。貧乏人や御用のない方たちは、ご遠慮してくださいまし{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_893B",
+   "addr": "0x893B",
+   "size": 65,
+   "jp": "少林寺のクソ坊主たちが、おれたちをこんなところにおしこめたのさ。寺に住ませてくれりゃあ、金を出すっていったのに{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_897C",
+   "addr": "0x897C",
+   "size": 115,
+   "jp": "わたしが越後屋の平七だが、何か用かね？{page}{name2}「聞きたいことがあるのだ。実は・・・{page}平七「ほう。海賊の「和冠」に、渡りをつけたいとおおせか。ま、金次第だな。銀500両でどうですか？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_89EF",
+   "addr": "0x89EF",
+   "size": 21,
+   "jp": "そうですか。じゃあ、お引き取りなさい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8A04",
+   "addr": "0x8A04",
+   "size": 48,
+   "jp": "では、引き受けました。落ち合うてはずは、店の番頭に言いつけておきます。それでは{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8A34",
+   "addr": "0x8A34",
+   "size": 47,
+   "jp": "もう、わたしどもに用はありますまい。評判は悪くても、わたしも商人。信用なさい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8A63",
+   "addr": "0x8A63",
+   "size": 29,
+   "jp": "われわれ和冠に連絡を取ってきたのは、おまえか？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8A80",
+   "addr": "0x8A80",
+   "size": 15,
+   "jp": "では、われわれに用はないな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8A8F",
+   "addr": "0x8A8F",
+   "size": 42,
+   "jp": "{name4}という崑崙の少女をこの地に連れてきたのも、おまえたちだな？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8AB9",
+   "addr": "0x8AB9",
+   "size": 21,
+   "jp": "あら、水怪がいないわね。どうしたの？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8ACE",
+   "addr": "0x8ACE",
+   "size": 15,
+   "jp": "ねえねえ、ホーはどうしたの？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8ADD",
+   "addr": "0x8ADD",
+   "size": 29,
+   "jp": "よし。おかしらにあわせてやる。後からついて・・・ムッ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8AFA",
+   "addr": "0x8AFA",
+   "size": 72,
+   "jp": "なるほど・・・越後屋のいうとおりだ{page}使者「何者だ！{page}「四界将が一人、鬼獣界界将・武克（ブコク）。参上{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8B42",
+   "addr": "0x8B42",
+   "size": 21,
+   "jp": "武克「次は、おまえだ。{name0}{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8B57",
+   "addr": "0x8B57",
+   "size": 32,
+   "jp": "武克「たわいもない。あるじの命により、その首を、もらう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8B77",
+   "addr": "0x8B77",
+   "size": 20,
+   "jp": "{name2}「あぶねえ、{name0}！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8B8B",
+   "addr": "0x8B8B",
+   "size": 45,
+   "jp": "上陸するのなら、日本の金をこの国の金に替えねばならぬ。両替するかね？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8BB8",
+   "addr": "0x8BB8",
+   "size": 54,
+   "jp": "ここは聖霊のおりる霊域。旅の記録をしたためるがよい。聖霊は全てを覚えよう。どうかな？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8BEE",
+   "addr": "0x8BEE",
+   "size": 4,
+   "jp": "んもー{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8BF2",
+   "addr": "0x8BF2",
+   "size": 6,
+   "jp": "ぱぴょーん{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8BF8",
+   "addr": "0x8BF8",
+   "size": 29,
+   "jp": "船は国情により当分来航する予定はないぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8C15",
+   "addr": "0x8C15",
+   "size": 54,
+   "jp": "あなたがたにだけ、銀100両で式符をおゆずりしよう。この国で式符を買えるのはここだけじゃよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8C4B",
+   "addr": "0x8C4B",
+   "size": 28,
+   "jp": "水怪はオレの息子も同じだ。かわいがってくれよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8C67",
+   "addr": "0x8C67",
+   "size": 7,
+   "jp": "野郎！！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8C6E",
+   "addr": "0x8C6E",
+   "size": 31,
+   "jp": "蒙古が来るってんで、商売あがったり。いいめいわくよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8C8D",
+   "addr": "0x8C8D",
+   "size": 24,
+   "jp": "{name0}らは、「割り札」を受けとった{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8CA5",
+   "addr": "0x8CA5",
+   "size": 43,
+   "jp": "あらあら、あなたがたずいぶんおつかれのようね。うちでよかったら休んでおいきなさいよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8CD0",
+   "addr": "0x8CD0",
+   "size": 15,
+   "jp": "銀が足りないようですなぁ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8CDF",
+   "addr": "0x8CDF",
+   "size": 14,
+   "jp": "もーもー・・・{page}がぁぁ！！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8CED",
+   "addr": "0x8CED",
+   "size": 19,
+   "jp": "なんだおまえらは！はいったらあかんよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8D00",
+   "addr": "0x8D00",
+   "size": 45,
+   "jp": "それと、危険な武器や防具の持ちこみもだめだ！{nl}すべて銀にかえさせてもらう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8D2D",
+   "addr": "0x8D2D",
+   "size": 8,
+   "jp": "全部で銀{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8D35",
+   "addr": "0x8D35",
+   "size": 15,
+   "jp": "になる。では、通ってよいぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8D44",
+   "addr": "0x8D44",
+   "size": 88,
+   "jp": "ああ、みなさん。あの子から、{name3}から知らせがきました。もうすぐ帰ってくるんです！{page}{name1}「よかったですね、おかあさん{page}{name3}の母「ええ。本当に{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8D9C",
+   "addr": "0x8D9C",
+   "size": 23,
+   "jp": "・・・{name3}にゃあ、負けたぜ。ははっ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8DB3",
+   "addr": "0x8DB3",
+   "size": 27,
+   "jp": "{name3}さん、いまごろ洛陽あたりかしら・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8DCE",
+   "addr": "0x8DCE",
+   "size": 30,
+   "jp": "{name3}のやつ、たいしたもんだ。立派になったろうな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8DEC",
+   "addr": "0x8DEC",
+   "size": 31,
+   "jp": "{name3}のおかあさん、ほんとうにうれしそう。よかったなあ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8E0B",
+   "addr": "0x8E0B",
+   "size": 22,
+   "jp": "{name3}、もうすぐ帰ってくるんだよ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8E21",
+   "addr": "0x8E21",
+   "size": 26,
+   "jp": "よかった。もうすぐ、また{name3}と遊べるの！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8E3B",
+   "addr": "0x8E3B",
+   "size": 15,
+   "jp": "ここは飲み屋です。ふふふ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8E4A",
+   "addr": "0x8E4A",
+   "size": 75,
+   "jp": "{name3}「気がついたね！{page}ぼくは、{name3}（びゃくれん）。川岸に流れ着いたあなたを、かあさんが助けたんだ。あ、そうだ。かあさん！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8E95",
+   "addr": "0x8E95",
+   "size": 33,
+   "jp": "母親「まあ、よかった。もう起き上がっても、大丈夫？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8EB6",
+   "addr": "0x8EB6",
+   "size": 17,
+   "jp": "・・・でも、大丈夫そうね？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8EC7",
+   "addr": "0x8EC7",
+   "size": 59,
+   "jp": "{name3}「どうして、異国の人が、揚子江（ようすこう）のほとりにいたの？なにか、訳があるみたいだけど{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8F02",
+   "addr": "0x8F02",
+   "size": 26,
+   "jp": "{name3}「でも本当は、訳があるんでしょ？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8F1C",
+   "addr": "0x8F1C",
+   "size": 59,
+   "jp": "{name3}「え、崑崙！崑崙に行こうとして、旅をしているの！？{page}いっしょに行きたい。ついて行きます！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_8F57",
+   "addr": "0x8F57",
+   "size": 223,
+   "jp": "{name3}「わかっているよ。でも、こんな戦争がいつまでも続いていいはずがない{page}だれかが「崑崙」に行って、神様に戦いを終らせてもらわなければ。そのために・・・とうさんだって命をかけたんだから{page}母親「でも・・・でも、とうさんは・・・死んだのよ{page}{name3}「ぼくは、そのとうさんの子だ。ごめんね、かあさん。前から、きめていたことなんだよ{page}母親「どうしても、いくのかい。・・・なら、気をつけておいき・・・ウウッ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9036",
+   "addr": "0x9036",
+   "size": 35,
+   "jp": "母親「{name3}！なんてことを言うの。おまえには、まだ・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9059",
+   "addr": "0x9059",
+   "size": 161,
+   "jp": "{name3}「かあさん。ぼくは、もう子どもじゃないよ{page}母親「幻の聖地といわれる「崑崙」までの旅が、どれほど危険なのかは、おまえにはわからないのよ{page}この村からも、大ぜいの男たちが「崑崙」を目指して旅だって行ったけれど、無事に帰ってきた人はいなかったのよ{page}とうさんだって・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_90FA",
+   "addr": "0x90FA",
+   "size": 39,
+   "jp": "母親「ああ、{name3}。からだには、気をつけて。さあ、やすんでおいき{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9121",
+   "addr": "0x9121",
+   "size": 61,
+   "jp": "おい、{name3}。おまえ、その日本人と崑崙を探しに行くんだってな。ガキには無理無理。やめておきな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_915E",
+   "addr": "0x915E",
+   "size": 28,
+   "jp": "しっかりね、{name3}。崑崙、見つかるといいね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_917A",
+   "addr": "0x917A",
+   "size": 47,
+   "jp": "崑崙は、神の住みたまう幻の里。黄河の源の、はるか高みにあるといわれておる{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_91A9",
+   "addr": "0x91A9",
+   "size": 84,
+   "jp": "戦争に、正義も悪もありません。でもこのままでは、あの怨念が世界を滅ぼしてしまう・・・{page}だから、だれかが崑崙に行って、神におすがりしなければ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_91FD",
+   "addr": "0x91FD",
+   "size": 44,
+   "jp": "しっかりな、{name3}。おとうさんのこころざし、むだにするなよ{page}{name3}「はい！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9229",
+   "addr": "0x9229",
+   "size": 60,
+   "jp": "おかあさんのことは、心配しないでね。村のみんながついているから。・・・長い旅だから、体には気をつけるのよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9265",
+   "addr": "0x9265",
+   "size": 62,
+   "jp": "崑崙までの道には、幾多の苦難が待ち受けている。それを乗り切らねば、崑崙に至ることはかなわぬのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_92A3",
+   "addr": "0x92A3",
+   "size": 47,
+   "jp": "みんな、世の人のために命をかけようとしている。私の主人も、そのために命を・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_92D2",
+   "addr": "0x92D2",
+   "size": 33,
+   "jp": "ねえ、{name3}。旅に出るんだって？当分、遊べないね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_92F3",
+   "addr": "0x92F3",
+   "size": 22,
+   "jp": "死なないでね、{name3}。・・・グスン{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9309",
+   "addr": "0x9309",
+   "size": 68,
+   "jp": "蒙古も、しいたげられてきた長い歴史を持つ民族なのだ{page}「元」の国民も、平和をもとめていることに、変わりはない{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_934D",
+   "addr": "0x934D",
+   "size": 38,
+   "jp": "噂は、あてにならないね。蒙古軍が来ても、町はあまりかわらないや{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9373",
+   "addr": "0x9373",
+   "size": 54,
+   "jp": "蒙古軍は、この町に執政官をおいたのよ。バヤン様って言うの。わりと、カッコいい人。フフッ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_93A9",
+   "addr": "0x93A9",
+   "size": 27,
+   "jp": "にもつをほどいてっと。これでやっと、家にもどれるぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_93C4",
+   "addr": "0x93C4",
+   "size": 54,
+   "jp": "南宋の国がなくなっても、人々は生きている。でも皇帝は、みずからの手で命を絶って・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_93FA",
+   "addr": "0x93FA",
+   "size": 61,
+   "jp": "蒙古軍がやってきて、町も落ちついたよ。でも、海ではあいかわらず倭冠があばれているのさ。くそ、海賊め！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9437",
+   "addr": "0x9437",
+   "size": 45,
+   "jp": "蒙古の人たち、日本との貿易は禁止していないのよ。おかげで、大もうけよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9464",
+   "addr": "0x9464",
+   "size": 52,
+   "jp": "「越後屋」のやつ、今度は蒙古軍に取り入りやがった。まったくあの外道商人が！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9498",
+   "addr": "0x9498",
+   "size": 77,
+   "jp": "噂だけど、倭冠が越後屋平七の命をねらっているらしいわよ{page}蒙古に取り入るために、平七が倭冠を裏切ったからなんですって{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_94E5",
+   "addr": "0x94E5",
+   "size": 54,
+   "jp": "へへっ、知ってるかい？越後屋の手代のやつ、夜になるとこっそり店を抜け出して・・・フフッ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_951B",
+   "addr": "0x951B",
+   "size": 70,
+   "jp": "南宋が、なくなってしまった。皇帝が亡くなられ、義勇軍も捕まってしまった・・・でも、わたし、せめて最後まで誇りだけは{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9561",
+   "addr": "0x9561",
+   "size": 65,
+   "jp": "われわれは、誇り高き蒙古の兵である。執政官のバヤン閣下は、公明正大なお方。決して、無法はせぬ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_95A2",
+   "addr": "0x95A2",
+   "size": 25,
+   "jp": "われわれが新しい法である。不正は許さぬ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_95BB",
+   "addr": "0x95BB",
+   "size": 28,
+   "jp": "倭冠の海賊どもに力をかすものは、処刑する{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_95D7",
+   "addr": "0x95D7",
+   "size": 50,
+   "jp": "いらっしゃいまし。越後屋でござい・・・！！あんたたちのことなど知らない。お引き取りを！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9609",
+   "addr": "0x9609",
+   "size": 51,
+   "jp": "さて、今夜も裏口から抜け出して・・・あ？ああ、いらっしゃいまし。越後屋でございます{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_963C",
+   "addr": "0x963C",
+   "size": 46,
+   "jp": "まったく、あにさんにもこまったものだ。飲み屋のねえちゃんにうつつをぬかしたりして・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_966A",
+   "addr": "0x966A",
+   "size": 42,
+   "jp": "ここは越後屋だよ。貧乏人の来るとこじゃないぞ。さあ、かえったかえった{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9694",
+   "addr": "0x9694",
+   "size": 61,
+   "jp": "番頭さんたら、えらそうに。いつもいばってるんだから。あの人、実は、この店の主人の座をねらっているんですよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_96D1",
+   "addr": "0x96D1",
+   "size": 11,
+   "jp": "うーん。ムニャムニャ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_96DC",
+   "addr": "0x96DC",
+   "size": 27,
+   "jp": "ウッウッ。日本に帰りたいよー。ヒーン、ウッウッ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_96F7",
+   "addr": "0x96F7",
+   "size": 6,
+   "jp": "グー、グー{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_96FD",
+   "addr": "0x96FD",
+   "size": 22,
+   "jp": "ガアッ、・・・。はっ。ああ！ど、どろぼう！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9713",
+   "addr": "0x9713",
+   "size": 254,
+   "jp": "{name3}「どろぼうじゃない。静かにしなよ！番頭さん。ご主人の平七さんは、どこ？{page}番頭「は、はい！主人は、バヤン閣下のところです。海賊たちに、命をねらわれているので{page}わたしが話したこと、いわないでくださいね。今夜のことは、だれにも言いませんから{page}{name3}「じゃあ教えて。どうすれば、平七のところまで行くことができるかを{page}番頭「・・・わかりました。これをどうぞ。執政官本部の裏にある隠し扉の合鍵でございます。くれぐれも、ないしょに{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9811",
+   "addr": "0x9811",
+   "size": 32,
+   "jp": " {name0}たちは、「隠し扉の合鍵」を受け取った{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9831",
+   "addr": "0x9831",
+   "size": 57,
+   "jp": "今夜のこと、だれにも言いませんから。その合鍵で、執政官本部の裏にある隠し扉が開きます{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_986A",
+   "addr": "0x986A",
+   "size": 38,
+   "jp": "ここは飲み屋です。昼間は営業していませんよ。夜に、ね。フフッ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9890",
+   "addr": "0x9890",
+   "size": 18,
+   "jp": "わしは、この飲み屋の主人よ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_98A2",
+   "addr": "0x98A2",
+   "size": 40,
+   "jp": "夜になったら、手代の三ちゃんが来てくれる。わたしたち真剣なんです{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_98CA",
+   "addr": "0x98CA",
+   "size": 27,
+   "jp": "こんな時代に恋のできる子がうらやましい・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_98E5",
+   "addr": "0x98E5",
+   "size": 42,
+   "jp": "蒙古の執政官は、都の北の館におられるのよ。わりと評判いいみたい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_990F",
+   "addr": "0x990F",
+   "size": 24,
+   "jp": "あーら、いらっしゃい。たっぷり遊んでいってね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9927",
+   "addr": "0x9927",
+   "size": 19,
+   "jp": "いらっしゃいまし。ここは飲み屋よ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_993A",
+   "addr": "0x993A",
+   "size": 19,
+   "jp": "まあ、あなたたち。お酒、強そうね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_994D",
+   "addr": "0x994D",
+   "size": 22,
+   "jp": "蒙古軍の結束はかたいのだ！ヒック{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9963",
+   "addr": "0x9963",
+   "size": 18,
+   "jp": "ほらほら。もっと飲んで飲んで！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9975",
+   "addr": "0x9975",
+   "size": 11,
+   "jp": "グビグビッ。ウィック{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9980",
+   "addr": "0x9980",
+   "size": 48,
+   "jp": "うーん。国には妻と子が待っておる。悪い遊びは絶対にせぬぞ。酒だけだ。酒だけ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_99B0",
+   "addr": "0x99B0",
+   "size": 46,
+   "jp": "ここは、執政官バヤン閣下のおわす館である。無用のものを通すことはかなわぬ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_99DE",
+   "addr": "0x99DE",
+   "size": 102,
+   "jp": "うわあ、許してくれえ。仕方なかったんだ。界将・武克（ブコク）におどされて。命だけはかんべんしてくれえ！{page}助けてくれるなら、重要なことを教えるから。あんたたちの仲間のことだよ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9A44",
+   "addr": "0x9A44",
+   "size": 44,
+   "jp": "命だけは助けてくれえ。重要なことを教えるから。あんたたちの仲間のことだ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9A70",
+   "addr": "0x9A70",
+   "size": 43,
+   "jp": "よかった。助けてくれて。もちろん、あんたたちからあずかった金はお返しいたします{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9A9B",
+   "addr": "0x9A9B",
+   "size": 21,
+   "jp": "{name0}たちは、金を取り返した{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9AB0",
+   "addr": "0x9AB0",
+   "size": 57,
+   "jp": "あんたたちの仲間が一人、武克の居城にとらえられているそうです。ヘヘッ、・・・これで、ごかんべんを{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9AE9",
+   "addr": "0x9AE9",
+   "size": 7,
+   "jp": "かかったな！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9AF0",
+   "addr": "0x9AF0",
+   "size": 23,
+   "jp": "{name3}「いたたっ。くそっ！卑怯者{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9B07",
+   "addr": "0x9B07",
+   "size": 87,
+   "jp": "平七「フフフッ。ふん、夜中に人の部屋に忍び込んできて、何が卑怯だ{page}待っていなさい。今すぐに、あんたたちを蒙古軍に引き渡してあげますから{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9B5E",
+   "addr": "0x9B5E",
+   "size": 76,
+   "jp": "あんたが、{name0}だな{page}おれは倭冠のものだ。裏切者が、越後屋とおまえたちのどちらかであったかを見極めるために、後をつけてきた{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9BAA",
+   "addr": "0x9BAA",
+   "size": 67,
+   "jp": "{name3}「まずい。だれか来ます！{page}ここをうまく出られたら、沖の出島まで来い。夜に、迎えを差し向けておく。では{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9BED",
+   "addr": "0x9BED",
+   "size": 23,
+   "jp": "蒙古兵「強盗ども、神妙にせよ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9C04",
+   "addr": "0x9C04",
+   "size": 40,
+   "jp": "{name3}「強盗なんかじゃない！{page}蒙古兵「おまえたちを連行する{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9C2C",
+   "addr": "0x9C2C",
+   "size": 51,
+   "jp": "おれたちは、南宋のために戦っていた反乱軍の生き残りだ。間もなく処刑されるのかな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9C5F",
+   "addr": "0x9C5F",
+   "size": 41,
+   "jp": "どうやら「元」の軍部と四界衆たちは、陰では対立しているらしいぜ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9C88",
+   "addr": "0x9C88",
+   "size": 33,
+   "jp": "おれたちは力の限り戦った。もう何も思い残すことはない{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9CA9",
+   "addr": "0x9CA9",
+   "size": 37,
+   "jp": "{name0}、その供の者。バヤン閣下がおまえたちに会う。出ろ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9CCE",
+   "addr": "0x9CCE",
+   "size": 23,
+   "jp": "許可なく、この門を通すわけにはいかん{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9CE5",
+   "addr": "0x9CE5",
+   "size": 63,
+   "jp": "われわれは、「元」の将来をうれいている。このままでは、「元」は四界将の魔人たちの思い通りになってしまう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9D24",
+   "addr": "0x9D24",
+   "size": 103,
+   "jp": "皇王フビライ・カンは、四界将たちにたばかられておられるにちがいないのだ{page}「神獣鏡」探索のために貴公の国に攻め入ったのも、四界将の進言によって行なわれたものであった{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9D8B",
+   "addr": "0x9D8B",
+   "size": 97,
+   "jp": "{name0}と{name3}。貴公らは、世をつつむ暗黒をはらうために、崑崙へおもむくという{page}だがいずれ、残りの四界将たちと刃をまみえることとなろう。その覚悟はあるか？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9DEC",
+   "addr": "0x9DEC",
+   "size": 20,
+   "jp": "もう一度聞く。覚悟はあるか？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9E00",
+   "addr": "0x9E00",
+   "size": 48,
+   "jp": "・・・では、この「通行証」を受け取れ。それがあれば、国内のどこでも通行できる{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9E30",
+   "addr": "0x9E30",
+   "size": 26,
+   "jp": " {name0}は、「通行証」を受け取った{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9E4A",
+   "addr": "0x9E4A",
+   "size": 36,
+   "jp": "では、貴公らを釈放する。気をつけて行くがいい。武運をな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9E6E",
+   "addr": "0x9E6E",
+   "size": 55,
+   "jp": "わが国の未来も大和の国の未来も、貴公らの力により決まるのかもしれぬ・・・。武運を{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9EA5",
+   "addr": "0x9EA5",
+   "size": 23,
+   "jp": "「通行証」をもっているな。よし、通れ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9EBC",
+   "addr": "0x9EBC",
+   "size": 52,
+   "jp": "ほう。バヤン閣下直々に「通行証」をもらったのか。では、おまえたちは信用できる。通れ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9EF0",
+   "addr": "0x9EF0",
+   "size": 38,
+   "jp": "卑劣を許さぬ鉄の結束が、わが軍の強さの所以（ゆえん）だ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9F16",
+   "addr": "0x9F16",
+   "size": 52,
+   "jp": "閣下から「通行証」をもらったからといって、いい気になるな。おれはおまえたちと話など、せん{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9F4A",
+   "addr": "0x9F4A",
+   "size": 69,
+   "jp": "鬼獣界界将・武克（ブコク）。奴の居城は、黄河のほとりにある。いろいろと噂があるようだ。・・・恐怖の噂がな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9F8F",
+   "addr": "0x9F8F",
+   "size": 40,
+   "jp": "「元」の都「大都（たいと）」に行ったことはあるか？すばらしい都だぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9FB7",
+   "addr": "0x9FB7",
+   "size": 49,
+   "jp": "あんたが、{name0}だな。沖の小島であんたを待っているものがいる。さあ、船に乗りな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9FE8",
+   "addr": "0x9FE8",
+   "size": 12,
+   "jp": "ふん。それならいいわい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_9FF4",
+   "addr": "0x9FF4",
+   "size": 16,
+   "jp": "よし。では、後に続いてきな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A004",
+   "addr": "0xA004",
+   "size": 25,
+   "jp": "わしのいるここで、待つようにとのことだ。ではな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A01D",
+   "addr": "0xA01D",
+   "size": 19,
+   "jp": "{name3}「{name0}さん・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A030",
+   "addr": "0xA030",
+   "size": 18,
+   "jp": "{name3}が仲間に加わった{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A042",
+   "addr": "0xA042",
+   "size": 13,
+   "jp": "{name3}「どっひゃー{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A04F",
+   "addr": "0xA04F",
+   "size": 15,
+   "jp": "{name3}「こら！おきろ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A05E",
+   "addr": "0xA05E",
+   "size": 60,
+   "jp": "貴公らの正体は、すでに調べがついておる。そして貴公らが、四界将・呪魂を討ち果たしたこともな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A09A",
+   "addr": "0xA09A",
+   "size": 16,
+   "jp": "弁慶「おう、{name0}！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A0AA",
+   "addr": "0xA0AA",
+   "size": 10,
+   "jp": "{name0}「！！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A0B4",
+   "addr": "0xA0B4",
+   "size": 129,
+   "jp": "{name4}「本当に、心配したよ。でも、よかった。ここで待ってれば、必ず{name0}は来るってここの人たちにいわれていたの{page}{name1}「無事でなにより。で、その少年は？{page}{name3}「ぼくは、{name3}と言います。実は・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A135",
+   "addr": "0xA135",
+   "size": 27,
+   "jp": "弁慶「そうか。わかった。今後とも、よろしくな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A150",
+   "addr": "0xA150",
+   "size": 129,
+   "jp": "ところで、{name0}。{name2}のことだが、どうやら四界衆に捕らえられているらしいぞ{page}{name0}「！！{page}{name1}「{name0}が来たら、ここのかしらの半次どのに会わせてくれることになっていたんです。話は、直に聞いたほうがいい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A1D1",
+   "addr": "0xA1D1",
+   "size": 35,
+   "jp": "水怪（すいかい）をかしてほしかったら、半次のかしらに頼みな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A1F4",
+   "addr": "0xA1F4",
+   "size": 75,
+   "jp": "この水怪をかしてやる。かわいがってやってくれ。「ホー」って名だ。実は、・・・戦争で死んだおれの息子の名でな{page}{name3}「・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A23F",
+   "addr": "0xA23F",
+   "size": 49,
+   "jp": "おれたちを裏切ったのは、おまえたちじゃなかったんだとな。いやあ、うたがったりしてすまねえなあ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A270",
+   "addr": "0xA270",
+   "size": 74,
+   "jp": "お？おまえ、昔、蒙古に捕まっていた小娘じゃねえのか？{page}ほら。日本の港まで、おれらの船で送ってやっただろう？忘れちまったかな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A2BA",
+   "addr": "0xA2BA",
+   "size": 76,
+   "jp": "幻陽楼（げんようろう）は、一千五百年前に築かれた恐怖の砦だ{page}くわしい伝説を知りたけりゃ、近在の村を訪ねな・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A306",
+   "addr": "0xA306",
+   "size": 76,
+   "jp": "この国には、「黄河を制するものは、天下を制す」という言い伝えがある{page}だが今は、黄河は荒れていて、どんな船でもしずんじまうよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A352",
+   "addr": "0xA352",
+   "size": 71,
+   "jp": "半次のおかしらは、昔は漁師だったのさ。でも、戦争で女房と子供が殺されちまって・・・おれたちも、似たようなもんだがよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A399",
+   "addr": "0xA399",
+   "size": 21,
+   "jp": "ここは、半次のおかしらの部屋だぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A3AE",
+   "addr": "0xA3AE",
+   "size": 95,
+   "jp": "おれは、ここの者たちを束ねている半次だ。おまえらが、四界将・呪魂を倒したという {name0}一家か{page}それで、おれに会いに来たのは、おまえらの仲間のことでか？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A40D",
+   "addr": "0xA40D",
+   "size": 6,
+   "jp": "ほう。で？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A413",
+   "addr": "0xA413",
+   "size": 114,
+   "jp": "{name2}とかいうおまえらの仲間は、鬼獣界の界将・武克の居城・幻陽楼に捕らえられているという話だ{page}助けたければ、黄河をのぼっていくんだな。水怪を一頭かしてやる。話は、それだけだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A485",
+   "addr": "0xA485",
+   "size": 27,
+   "jp": " {name0}たちは、「水怪」を譲り受けた。{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A4A0",
+   "addr": "0xA4A0",
+   "size": 89,
+   "jp": "{name2}とかいうおまえらの仲間は、鬼獣界の界将・武克の居城・幻陽楼に捕らえられているという話だ{page}助けたければ、黄河をのぼっていくんだな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A4F9",
+   "addr": "0xA4F9",
+   "size": 66,
+   "jp": "ここは昔から、九つの王朝が都を置いた街なのさ。陰陽五行で見ても、まれにみる吉相とか。でも最近・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A53B",
+   "addr": "0xA53B",
+   "size": 113,
+   "jp": "この街には昔から詩人や書道家たちの文化遺産が保存されているの{page}ああ、そうそう。邪馬台国の事を書いた魏（ぎ）の時代の古い文献がこの間、見つかったそうよ。博物館にあるの{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A5AC",
+   "addr": "0xA5AC",
+   "size": 74,
+   "jp": "え？幻陽楼なら、黄河のずっと先だよ。でも、中心の塔にたどり着くことは出来ないぜ{page}「アグニの迷道」に守られているからな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A5F6",
+   "addr": "0xA5F6",
+   "size": 54,
+   "jp": "え？幻陽楼なら、だれかがまた封印したらしいよ{page}黄河もおだやかになったしさ。まあ、よかったよな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A62C",
+   "addr": "0xA62C",
+   "size": 74,
+   "jp": "龍と水怪の伝説、知ってます？千年生きた龍の魂は、体をすてて昇天するの。{nl}そのすてられた体が、水怪になるんですって{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A676",
+   "addr": "0xA676",
+   "size": 69,
+   "jp": "「アグニの迷道」は、炎熱地獄だ。ふみ込んだ者は、たちまちひからびて死んでしまうよ。鋼鉄だって溶けちまうんだからさ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A6BB",
+   "addr": "0xA6BB",
+   "size": 86,
+   "jp": "アグニの火炎獣を倒した奴がいるんだってさ。案外、あんたたちだったりしてな{page}{name3}「はい！そうです{page}町人「ワーッ、ハッハッハ！{page}{name3}「・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A711",
+   "addr": "0xA711",
+   "size": 156,
+   "jp": "一千五百年前、アグニの迷道には村を焼きつくした火炎獣が住んでいたの{page}でも火炎獣は迷道もろとも、当時の皇帝が「インドラの火」を使って封じたのよ{page}でも四界将の一人が、それを復活させてしまった・・・ああ、火炎獣が襲って来たら、どうしましょう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A7AD",
+   "addr": "0xA7AD",
+   "size": 41,
+   "jp": "ああ、よかった。火炎獣、死んだんですって。でも、何か少しかわいそうね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A7D6",
+   "addr": "0xA7D6",
+   "size": 77,
+   "jp": "火炎獣を封じたという偉大な皇帝の陵は、「西安（シーアン）」の都の近くに今もあります{page}でも夜は・・・いや、なんでもありません{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A823",
+   "addr": "0xA823",
+   "size": 78,
+   "jp": "蒙古の兵隊さんたちは、火炎獣を絶対この町にはやってこさせないっていうけど{page}でも四界衆と蒙古軍て、仲良くないんでしょう？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A871",
+   "addr": "0xA871",
+   "size": 48,
+   "jp": "火炎獣がいなくなってよかったけど、でも、鬼獣界・界将の復讐が心配・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A8A1",
+   "addr": "0xA8A1",
+   "size": 67,
+   "jp": "幻陽楼のせいで、黄河が荒れ狂っていやがる。先に進むことができなくなっちまった。国に帰れなくて、困ってるんだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A8E4",
+   "addr": "0xA8E4",
+   "size": 72,
+   "jp": "いやあ、よかったよ。黄河が通れるようになりやがった。本当は、これがあんたたちのおかげだってこと、おれ、知ってるよ。・・・ありがとう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A92C",
+   "addr": "0xA92C",
+   "size": 110,
+   "jp": "幻陽楼は、大昔から廃嘘だったのさ。それなのに南宋が滅ぶと、四界衆たちがやってきて、楼閣の封印を破りやがった{page}「大都」で、妻と子が待っているのに、黄河は通れないし・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A99A",
+   "addr": "0xA99A",
+   "size": 57,
+   "jp": "ウッウッ。これで、帰れる。黄河を通って、「大都」で待っている妻と子に会えるんだ。・・・グスン{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A9D3",
+   "addr": "0xA9D3",
+   "size": 32,
+   "jp": "うっオース。ヘらーお。これ、西の国のあいさつの仕方だよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_A9F3",
+   "addr": "0xA9F3",
+   "size": 18,
+   "jp": "今日はね。ガッコ、休みなのよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AA05",
+   "addr": "0xAA05",
+   "size": 57,
+   "jp": "フン！ハッ！おれ、大きくなったら、少林寺に行くんだ。だから、拳法の修行をしているの。フン！ハ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AA3E",
+   "addr": "0xAA3E",
+   "size": 30,
+   "jp": "この町はわれわれが守る。そのためには、命をかけるのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AA5C",
+   "addr": "0xAA5C",
+   "size": 31,
+   "jp": "おまえ、バヤン閣下の通行証を持っておるな。よし！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AA7B",
+   "addr": "0xAA7B",
+   "size": 24,
+   "jp": "ここは博物館です。館内ではお静かに{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AA93",
+   "addr": "0xAA93",
+   "size": 16,
+   "jp": "いやあ、ここはすずしくていいよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AAA3",
+   "addr": "0xAAA3",
+   "size": 49,
+   "jp": "うーん、出ないよー。・・・あ、まちがえないで。アイデアのこと。ちなみに私は、芸術家です{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AAD4",
+   "addr": "0xAAD4",
+   "size": 77,
+   "jp": "中国最古の皇帝は、万里におよぶ長城や巨大な陵を築いた{page}なぜそのようなものが必要だったのか？これは、大いなる なぞである{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AB21",
+   "addr": "0xAB21",
+   "size": 58,
+   "jp": "わしは、アグニの迷道を調べに来た考古学者じゃ。何か見つけたら、またおいで。いつでも力になるよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AB5B",
+   "addr": "0xAB5B",
+   "size": 69,
+   "jp": "なに？中国最古の皇帝の紋章を手にいれただと！{page}アグニの火炎獣を封じたというあの皇帝のものだ。どこで、それを{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ABA0",
+   "addr": "0xABA0",
+   "size": 39,
+   "jp": "おや、異国の人だね。あんたたちも資料室で倭人の勉強かい？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ABC7",
+   "addr": "0xABC7",
+   "size": 87,
+   "jp": "うむ。この石に、こんな記録があるぞ{page}「・・・皇帝、不滅の兵馬をひきいて火炎獣をうつ。そして迷道、インドラの火によりて封じられるべし」・・・？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AC1E",
+   "addr": "0xAC1E",
+   "size": 76,
+   "jp": "あんたら、倭人じゃな。わしは、邪馬台国の研究をしている学者の李（リー）じゃ{page}この魏史・倭人外伝に関心があるかね？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AC6A",
+   "addr": "0xAC6A",
+   "size": 9,
+   "jp": "なら、いいんじゃ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AC73",
+   "addr": "0xAC73",
+   "size": 21,
+   "jp": "では翻訳が終ったら、お教えしよう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AC88",
+   "addr": "0xAC88",
+   "size": 34,
+   "jp": "ああ、あんたらか。魏史・倭人外伝の翻訳のことかな？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ACAA",
+   "addr": "0xACAA",
+   "size": 8,
+   "jp": "なら、いいんだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ACB2",
+   "addr": "0xACB2",
+   "size": 20,
+   "jp": "すまん。もう少し、かかりそうなんじゃ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ACC6",
+   "addr": "0xACC6",
+   "size": 52,
+   "jp": "おや、いつかの異人さんたちかい。魏史・倭人外伝のことで、先生に会いに来たのかい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ACFA",
+   "addr": "0xACFA",
+   "size": 65,
+   "jp": "先生なら、ついこの間「元」の帝王の使いが来て「大都」に行ったよ。翻訳は、だいたいできたみたいだったけど{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AD3B",
+   "addr": "0xAD3B",
+   "size": 31,
+   "jp": "{name3}「？これ、何でしょうね。古い紋章みたいだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AD5A",
+   "addr": "0xAD5A",
+   "size": 46,
+   "jp": "ここは、「西安」。唐（とう）の時代には、「長安」の都としてさかえた街です{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AD88",
+   "addr": "0xAD88",
+   "size": 49,
+   "jp": "「西安」は、西と東の文化がつどう街。その昔「絹の道」は、ここから始まったの{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ADB9",
+   "addr": "0xADB9",
+   "size": 66,
+   "jp": "見事な城壁だろう。この街には、二千年以上の歴史がある。何せ、11の王朝がここを都にしてきたからなあ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ADFB",
+   "addr": "0xADFB",
+   "size": 69,
+   "jp": "千五百年ぐらい前に、初めて中国大陸を統合した皇帝がいました。その皇帝の陵が、この街の近くにあります{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AE40",
+   "addr": "0xAE40",
+   "size": 81,
+   "jp": "「皇帝の闇」って、知ってるかい？{page}古代の皇帝が作り上げた、土の人形を自由に動かす秘薬なんだってさ。ハハッ。ただの伝説だよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AE91",
+   "addr": "0xAE91",
+   "size": 54,
+   "jp": "最近夜になると、皇帝の陵から無気味な声がするって噂があるの。なんだか気味が悪い{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AEC7",
+   "addr": "0xAEC7",
+   "size": 44,
+   "jp": "洛陽では、アグニの迷道の火炎獣が復活したとかで大変なんだってねえ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AEF3",
+   "addr": "0xAEF3",
+   "size": 106,
+   "jp": "私のとうさん、洛陽の博物館で、日本の歴史の研究をしているの{page}魏史・倭人外伝に、神獣鏡のことが書かれているらしいとかいっていたけど。でも私は、とうさんの体が心配{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AF5D",
+   "addr": "0xAF5D",
+   "size": 52,
+   "jp": "ん？あんた、少林寺に行ったことあるのかい？おれ、死ぬ前に一度は行ってみたいんだよな！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AF91",
+   "addr": "0xAF91",
+   "size": 66,
+   "jp": "ああ、平和にくらしたいだけなのに。でも夫は、街のためだといって蒙古軍に志願して「大都」に・・・ウウッ、グスン{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_AFD3",
+   "addr": "0xAFD3",
+   "size": 64,
+   "jp": "とうちゃんもかあちゃんもさ。夜は早く寝ろって、うるさいんだ。怖い声がするからってさ。夜店も、みんなお休みだしさ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B013",
+   "addr": "0xB013",
+   "size": 14,
+   "jp": "おじさんたち、変なカッコ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B021",
+   "addr": "0xB021",
+   "size": 36,
+   "jp": "ぼくは、皇帝陛下の無敵兵馬軍の隊長だぞ！エッヘン{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B045",
+   "addr": "0xB045",
+   "size": 28,
+   "jp": "われらは、街の警備に当たっている蒙古兵だ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B061",
+   "addr": "0xB061",
+   "size": 44,
+   "jp": "どうだ、おまえたち。兵隊にならんか？いつでもおれが、口をきいてやるぞ。ワッハッハ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B08D",
+   "addr": "0xB08D",
+   "size": 60,
+   "jp": "この家のおばあさん、前は占い師だったんだ。それが最近、夜になると{nl}・・・やさしい、いいひとだったのになあ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B0C9",
+   "addr": "0xB0C9",
+   "size": 10,
+   "jp": "ウ、ウ・・・オオッ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B0D3",
+   "addr": "0xB0D3",
+   "size": 56,
+   "jp": "我がもとめにこたえよ。そして、証とともに我が陵へ・・・「皇帝の闇」を・・・インドラの火を再び{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B10B",
+   "addr": "0xB10B",
+   "size": 30,
+   "jp": "占い師のおばあさん、病気がなおったんだよ。よかった{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B129",
+   "addr": "0xB129",
+   "size": 72,
+   "jp": "あの者たちは、時の力を使い果たして、再び眠りについた。兵馬たちの魂と共に、幾百幾千年もの長い眠りにな・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B171",
+   "addr": "0xB171",
+   "size": 85,
+   "jp": "よく来た。ここは、皇帝陛下の意を受け、幾百幾千万の人々のため築かれた陵{page}アグニの火炎獣が目覚めた時、われらも目覚めたのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B1C6",
+   "addr": "0xB1C6",
+   "size": 47,
+   "jp": "「皇家の紋章」は、人をえらぶ。おまえたちは、紋章にいざなわれてここに来たのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B1F5",
+   "addr": "0xB1F5",
+   "size": 62,
+   "jp": "紋章は心をためし、神官は力をためす。そして受け継がれて来た秘薬「皇帝の闇」を、ふさわしき者へ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B233",
+   "addr": "0xB233",
+   "size": 51,
+   "jp": "幻陽楼にいる魔界のものたちを倒さねば、天空よりインドラの火を降ろすことはかなわぬ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B266",
+   "addr": "0xB266",
+   "size": 73,
+   "jp": "わしは皇帝陛下の神官として、世のため、そしておまえたち自身のためにも、その力を試さねばならない。この試練、受けるか？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B2AF",
+   "addr": "0xB2AF",
+   "size": 13,
+   "jp": "では、仕方があるまい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B2BC",
+   "addr": "0xB2BC",
+   "size": 5,
+   "jp": "わかった{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B2C1",
+   "addr": "0xB2C1",
+   "size": 45,
+   "jp": "この道の奥に、秘薬「皇帝の闇」をおさめた玄室がある。さあ、行くがよい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B2EE",
+   "addr": "0xB2EE",
+   "size": 110,
+   "jp": "よくぞ、無事にもどった。皇帝陛下の意を、おまえたちに伝えよう{page}その秘薬「皇帝の闇」を使い、土となりて眠る近衛兵馬軍を目覚めさせるのだ。そして、アグニの迷道を進むがよい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B35C",
+   "addr": "0xB35C",
+   "size": 82,
+   "jp": "かつてアグニの火炎獣を操った者は、世に満ちた怨念を操りて、異界とこの世をつなげようとしたのだ{page}そしてこの世を地獄に変えようとした{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B3AE",
+   "addr": "0xB3AE",
+   "size": 49,
+   "jp": "「皇家の紋章」は、いずれおまえたちを「崑崙」へと導くことになる。心しておくがよい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B3DF",
+   "addr": "0xB3DF",
+   "size": 91,
+   "jp": "「皇帝の闇」をこの陵の陣に立ち、まくのだ{page}さすれば、無敵を誇る近衛兵馬軍が目を覚ます。かつて皇帝と共に、異界の侵略を退けたものたちだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B43A",
+   "addr": "0xB43A",
+   "size": 96,
+   "jp": "我々がこの時空間に身を置いていられるのは、あとわずか{page}さあ、急ぐのだ。近衛兵馬軍と共に、アグニの火炎獣を討ちて幻陽楼に至るがいい・・・{name0}{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B49A",
+   "addr": "0xB49A",
+   "size": 62,
+   "jp": "我ら、近衛兵馬軍。異界の侵略を退けるために、この命を役立てよう。では、いずれ。幻陽楼にて{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B4D8",
+   "addr": "0xB4D8",
+   "size": 63,
+   "jp": "先日来の、約束を果たす。これより先、敵将を倒すまで後にもどることはできなくなる。準備はよろしいか？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B517",
+   "addr": "0xB517",
+   "size": 27,
+   "jp": "では、準備ができたら来るがよい。我らは待つ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B532",
+   "addr": "0xB532",
+   "size": 43,
+   "jp": "ウム。我らが壁となりて炎を防ぐ。その間を行くがよろしかろう。では、いざ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B55D",
+   "addr": "0xB55D",
+   "size": 52,
+   "jp": "これは、かつて火神「アグニ」につかえていた「火炎獣」だ。貴下は、火炎獣を討つのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B591",
+   "addr": "0xB591",
+   "size": 40,
+   "jp": "みごと！その勇姿、かつての我があるじを思わせる。さあ、先へ進もうぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B5B9",
+   "addr": "0xB5B9",
+   "size": 33,
+   "jp": "よく・・・きた。倭人と、生きぞこないの亡者どもが・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B5DA",
+   "addr": "0xB5DA",
+   "size": 68,
+   "jp": "弁慶「武克か！！{page}こりもせず、・・・一千五百年の時を越えてまで、再びおれの邪魔をするか？亡者ども・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B61E",
+   "addr": "0xB61E",
+   "size": 36,
+   "jp": "兵馬「！？きさま、あの時「火炎獣」を操った魔導師か{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B642",
+   "addr": "0xB642",
+   "size": 219,
+   "jp": "{name3}「いったい、どういう・・・{page}武克「おまえらは、エサだ。古代皇帝の無敵近衛兵馬軍を、この地に封じ込めるためのな{page}異界とこの世界を一つにするための、もっとも大きなさまたげを、まとめて消してやる{page}兵馬「我ら、無敵の近衛兵馬軍。貴様ごときに、・・・{page}武克「ここでは違う・・・気づかぬか？ここは、我が結界。すなわち、鬼獣界！{page}弁慶「なに！？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B71D",
+   "addr": "0xB71D",
+   "size": 64,
+   "jp": "弁慶「{name2}を、どうした！！{page}武克「すてエサに用はない。・・・殺した{page}{name1}「！！{page}弁慶「おのれ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B75D",
+   "addr": "0xB75D",
+   "size": 25,
+   "jp": "{name4}「{name2}さんが。あそこに・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B776",
+   "addr": "0xB776",
+   "size": 41,
+   "jp": "{name3}「！！・・・死んでいる{page}{name1}「{name2}。う、うおお！！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B79F",
+   "addr": "0xB79F",
+   "size": 56,
+   "jp": "兵馬「ま、間に合うかも知れん。血が、こければ{page}弁慶「どういうことだ{page}兵馬「こういうことだ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B7D7",
+   "addr": "0xB7D7",
+   "size": 98,
+   "jp": "{name2}「・・・う、うっ{page}{name1}「おお！{name2}{page}弁慶「なんと。おぬしが、生き返らせたのか！{page}兵馬「何とか、間に合ったらしい。さすが、「沙」の血を引きし者{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B839",
+   "addr": "0xB839",
+   "size": 253,
+   "jp": "{name4}「あ！どうしました{page}兵馬「時が・・・来たのだ。我らは、再び土に・・・{page}{name1}「{name2}のために、あなたはすべての「力」を・・・{page}兵馬「近衛兵馬軍は、破れたのだ。この時代の怨念に。だが、貴殿たちなら、やつらを倒すことができるかも知れぬ{page}いつの日か{page}弁慶「・・・かたじけない{page}兵馬「間もなく、インドラの火がここを焼きつくす。はやく、去れ{page}・・・後をたのむぞ。地に、平和を・・・それが、我があるじの遺志・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B936",
+   "addr": "0xB936",
+   "size": 14,
+   "jp": "「皇帝の闇」をまいた{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B944",
+   "addr": "0xB944",
+   "size": 17,
+   "jp": "ぐうるるるる・・・{page}がああっ！！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B955",
+   "addr": "0xB955",
+   "size": 30,
+   "jp": "どうだ。立派な都だろう？「大都」は世界一さ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B973",
+   "addr": "0xB973",
+   "size": 42,
+   "jp": "ここは「元」の都よ。西からも東からも、異国の人が大勢来ているの{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B99D",
+   "addr": "0xB99D",
+   "size": 46,
+   "jp": "あんたら「洛陽」から来たの。じゃあ考古学者の李先生と知り合いかい？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B9CB",
+   "addr": "0xB9CB",
+   "size": 25,
+   "jp": "ここは良い街よ。物が高いことをのぞけばね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_B9E4",
+   "addr": "0xB9E4",
+   "size": 53,
+   "jp": "ジンギス・カンが中国統一のいしずえを築き、フビライ・カンが「元」の帝国を確立したのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BA19",
+   "addr": "0xBA19",
+   "size": 56,
+   "jp": "蒙古軍のことをみんないろいろ言っているわ。でも、だれかがやらなければ、いつまでも戦乱が続くだけよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BA51",
+   "addr": "0xBA51",
+   "size": 71,
+   "jp": "確かにフビライ・カンは立派な皇王だよ。でも、なんで四界衆なんかを使うんだろう？あいつら、兵隊たちとも仲が悪いのにさ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BA98",
+   "addr": "0xBA98",
+   "size": 80,
+   "jp": "あなたたち、西に行くなら、ちゃんと準備をしていかなければだめよ{page}特に黄河の源には、四界衆さえ恐れる怪物たちが住んでいるそうだから{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BAE8",
+   "addr": "0xBAE8",
+   "size": 70,
+   "jp": "なあ。四界衆って人間じゃない、なんて噂があるけど、まさかなあ・・・でも、確かにあいつら、やることが人間ばなれしているんだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BB2E",
+   "addr": "0xBB2E",
+   "size": 46,
+   "jp": "え？南から来たの。じゃあ、黄河が通れるようになったのね。あの人が帰ってくる！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BB5C",
+   "addr": "0xBB5C",
+   "size": 64,
+   "jp": "都の北には、長城遺跡があるんだ。だれが造ったのか知らないけど、何のためにあんなにデカいものを造ったのかねえ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BB9C",
+   "addr": "0xBB9C",
+   "size": 75,
+   "jp": "最近フビライ・カンの命令で、長城遺跡の発掘が始まったらしいわよ{page}「洛陽」にいた李先生が指揮しているって話だけど{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BBE7",
+   "addr": "0xBBE7",
+   "size": 35,
+   "jp": "学者先生や兵隊さんたちはね。あの門の向うにいるんだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BC0A",
+   "addr": "0xBC0A",
+   "size": 22,
+   "jp": "とうちゃん、まだ旅から帰ってこないんだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BC20",
+   "addr": "0xBC20",
+   "size": 56,
+   "jp": "ここに着いて、ほっとしたよ。何せ、戦争や地震で道がとざされているし、黄河は大荒れだしなあ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BC58",
+   "addr": "0xBC58",
+   "size": 59,
+   "jp": "とうぶん国には帰れそうもないんだ。ついこの間、ガケ崩れで天山山脈から西への道がふさがれたそうだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BC93",
+   "addr": "0xBC93",
+   "size": 47,
+   "jp": "東の方では、戦船をたくさん造っていたよ。倭人たちと、また戦争をするのかなあ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BCC2",
+   "addr": "0xBCC2",
+   "size": 52,
+   "jp": "父を訪ねてきたんです。研究のために、この町に来ているはずなんだけど・・・まだ、会えなくて{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BCF6",
+   "addr": "0xBCF6",
+   "size": 56,
+   "jp": "へー。あんたら、日本人か。そういやあ、敦煌（トンコウ）で日本人にあったな。坊さんだったけどよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BD2E",
+   "addr": "0xBD2E",
+   "size": 41,
+   "jp": "わたしは旅の行商人だ。めずらしいものを売っているよ。ブツを見るかね？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BD57",
+   "addr": "0xBD57",
+   "size": 24,
+   "jp": "通行証をもっているのか。なら通るがよい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BD6F",
+   "addr": "0xBD6F",
+   "size": 46,
+   "jp": "あまり先生方の研究をじゃましないでね。あなたたちとちがって、お忙しいのですから{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BD9D",
+   "addr": "0xBD9D",
+   "size": 31,
+   "jp": "李先生たちはいません。長城遺跡に向かいました{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BDBC",
+   "addr": "0xBDBC",
+   "size": 24,
+   "jp": "しっ。お静かに。先生はお昼寝中です{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BDD4",
+   "addr": "0xBDD4",
+   "size": 56,
+   "jp": "チザムさまは、最長老の兵隊なんだ。小さいころ、太祖ジンギス・カンにお仕えしておられたくらいさ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BE0C",
+   "addr": "0xBE0C",
+   "size": 57,
+   "jp": "皇王フビライ・カンは、国中から優秀な歴史学者を集めておる。ちなみにわしは、国学者じゃ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BE45",
+   "addr": "0xBE45",
+   "size": 77,
+   "jp": "仲間たちは、北の長城遺跡へ発掘に行ったよ{page}日本で見つかった神獣鏡に関係があるそうだがね。ま、私には関係ないから{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BE92",
+   "addr": "0xBE92",
+   "size": 91,
+   "jp": "長城遺跡は、中国最古の皇帝が築き上げたものだ{page}彼は戦乱の生んだ怨念をはらうために、地上に降りた崑崙の使者だったという伝説がある{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BEED",
+   "addr": "0xBEED",
+   "size": 131,
+   "jp": "千年前、大和の国にいた女王・卑弥呼は、呪術を使って邪馬台国に君臨していた{page}その女王が、人知れずこの地に来たという記録が発見されたのだよ{page}魏史・倭人外伝は、そのことについて書かれていたのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BF70",
+   "addr": "0xBF70",
+   "size": 90,
+   "jp": "魏史・倭人外伝はこのあいだ「洛陽」の地下室で発見されたばかりの資料です{page}でも帝国は、それを秘密あつかいしたいらしい。このこと、内緒ですよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_BFCA",
+   "addr": "0xBFCA",
+   "size": 101,
+   "jp": "中国の歴史の陰に、倭人が関わったことは二度あるようだ。一つは千年前に卑弥呼が来たとき{page}もう一つは、ジンギス・カンの号令でモンゴル人が決起したときだ・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C02F",
+   "addr": "0xC02F",
+   "size": 25,
+   "jp": "あー、ひまだ。ちなみに、おれは哲学者さまよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C048",
+   "addr": "0xC048",
+   "size": 55,
+   "jp": "どこのイモ部族かは知らぬが、四界衆などおれは仲間とはみとめぬ。妖術など使いおって・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C07F",
+   "addr": "0xC07F",
+   "size": 66,
+   "jp": "おまえたちの国とわが国の争いは終ってはおらぬが、おれはおまえたちを憎みはせぬ。皇王が戦いをお望みなら戦うだけだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C0C1",
+   "addr": "0xC0C1",
+   "size": 49,
+   "jp": "世祖フビライ・カンのためなら命もいらぬ。「元」のためには、なくてはならぬお方であるのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C0F2",
+   "addr": "0xC0F2",
+   "size": 71,
+   "jp": "太祖ジンギス・カンの意を受け、世祖フビライ・カンが「元」帝国を築かれたのだ。国のため、われらは常に命を捧げておる{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C139",
+   "addr": "0xC139",
+   "size": 72,
+   "jp": "モンゴル人は、しいたげられてきた長い歴史を持っているのだ。それに終止符を打ったのが、偉大なる太祖ジンギス・カンである{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C181",
+   "addr": "0xC181",
+   "size": 104,
+   "jp": "ゴホッ、ゴホッ。{nl}太祖には、倭人の友がいたという{page}しかし太祖はやがてその倭人とわかれ、彼のことを口にすることすら禁じたのだ{page}それを覚えているのは、この老兵「チザム」だけよ・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C1E9",
+   "addr": "0xC1E9",
+   "size": 31,
+   "jp": "チザムさまは近衛軍の長である。失礼のないようにな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C208",
+   "addr": "0xC208",
+   "size": 58,
+   "jp": "城内は今、部外者を通す訳にはまいらぬ。バヤン閣下の通行証を持っておられても同じである{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C242",
+   "addr": "0xC242",
+   "size": 71,
+   "jp": "ここは、長城遺跡の発掘現場です。立ち入り禁止なんですけどあなたは・・・{page}ああ。通行証は持っていますね。どうぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C289",
+   "addr": "0xC289",
+   "size": 26,
+   "jp": "ほいっ。ザリガニいっちょう上がりっと{nl}食うか？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C2A3",
+   "addr": "0xC2A3",
+   "size": 39,
+   "jp": "先生たちなら、この奥だよ。何か大変なことがわかったらしいんだけど{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C2CA",
+   "addr": "0xC2CA",
+   "size": 127,
+   "jp": "やあ、あんたたちか。わしじゃよ。ほれ、洛陽で{page}{name3}「あ！あなたは、李先生{page}李 「そうじゃとも。あのとき博物館で訳した魏史・倭人外伝がきっかけで、ここを発見することができたんじゃ{page}まあ、ゆっくり見ていきなされ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C349",
+   "addr": "0xC349",
+   "size": 42,
+   "jp": "この玄室は、昔に発掘されたものです。でも、ずっと秘密にされてきました{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C373",
+   "addr": "0xC373",
+   "size": 114,
+   "jp": "最初の石版には、こう記されているのだ{page}「・・・火炎獣を永遠に封じるため、我、無敵近衛兵馬軍を地上に残す{page}世に怨念が満ちる時、再び地に平和を、もたらさんがために・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C3E5",
+   "addr": "0xC3E5",
+   "size": 58,
+   "jp": "第二の石版には、こうある{page}「・・・我、神獣鏡をして、世に満ちたる怨念を食らわしめん・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C41F",
+   "addr": "0xC41F",
+   "size": 41,
+   "jp": "ここから先の玄室は、新しく発掘されたところです。いやあ、驚きました{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C448",
+   "addr": "0xC448",
+   "size": 134,
+   "jp": "信じられぬ話なのだが、この部屋の最初の石版には、こう書かれておる{page}「我、神獣鏡をたずさえて、地上に下りる。地に平和を、望むがゆえに。永遠の命と、はるかなる崑崙にわかれをつげよう。それゆえ、我が心「沙羅」・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C4CE",
+   "addr": "0xC4CE",
+   "size": 66,
+   "jp": "この石版には・・・こうだ{page}「いつの日か、崑崙の声を受けんがために、長城をここに残す。いまだ何も語らず・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C510",
+   "addr": "0xC510",
+   "size": 73,
+   "jp": "永遠の命、崑崙、そして神獣鏡か。信じられぬ話ではあるが、これが書かれたのは間違いなく千四、五百年前なのです{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C559",
+   "addr": "0xC559",
+   "size": 55,
+   "jp": "ここは、第三玄室。現在、発掘中です。でも、もうすぐメシだぞ。よかったら、あんたたちもどう？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C590",
+   "addr": "0xC590",
+   "size": 68,
+   "jp": "うーん。だめだわい。この石版の文字は、他のものとはまるで違うものだ。いったい何と書いてあるのか、さっぱりわからん・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C5D4",
+   "addr": "0xC5D4",
+   "size": 45,
+   "jp": "弁慶「どうした？{page}{name4}「この字、・・・わたし、よめる{page}{name1}「え！？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C601",
+   "addr": "0xC601",
+   "size": 206,
+   "jp": "{name4}「崑崙の文字です。この字がここに書いてあるってことは、やっぱり古代皇帝は崑崙の人・・・{page}ああ、記億がちゃんとしてたら・・・{page}{name2}「で、何とかいてあるんだ？{page}{name4}「・・・崑崙の血を引きし、この言葉をよみとるものに「神獣鏡」をたくす。願わくば、地に平和を・・・{page}月光のもと、背を向けてこの言葉の前に立つべし・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C6CF",
+   "addr": "0xC6CF",
+   "size": 14,
+   "jp": "うーん。さっぱり、わからん{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C6DD",
+   "addr": "0xC6DD",
+   "size": 96,
+   "jp": "{name4}「・・・「崑崙」の血を引きし、この言葉をよみとるものに「神獣鏡」をたくす。願わくば、地に平和を・・・{page}月光のもと、この言葉の前にたつべし・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C73D",
+   "addr": "0xC73D",
+   "size": 32,
+   "jp": "・・・ムニャムニャ。月あかりが、心地よくて・・・。ムーン{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C75D",
+   "addr": "0xC75D",
+   "size": 16,
+   "jp": "{name2}「・・・からっぽだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C76D",
+   "addr": "0xC76D",
+   "size": 113,
+   "jp": "そうだ。・・・神獣鏡は、すでに千年の昔に邪馬台国の女王・卑弥呼の手により、この地より持ち出されていたのだ{page}すなわち、あれもまた崑崙の血を引きし者・・・{page}{name1}「何やつ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C7DE",
+   "addr": "0xC7DE",
+   "size": 54,
+   "jp": "鬼獣界界将・武克が配下、士牙羅鬼（しがらき）。あるじの命で、ここで待っていた{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C814",
+   "addr": "0xC814",
+   "size": 69,
+   "jp": "士牙羅鬼「・・・なるほど強い。だが・・・武蔵坊弁慶。貴様の弱点、見切った！{page}ごらんあったか？武克さま{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C859",
+   "addr": "0xC859",
+   "size": 32,
+   "jp": "武克「見た。士牙羅鬼。安心して、死ぬがよい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C879",
+   "addr": "0xC879",
+   "size": 120,
+   "jp": "弁慶「生きていたのか、武克！貴様、部下を見殺しにして平気なのか！出てこい！{page}武克「きさまらから受けた手傷がまだうずいている。いずれ手合わせをしてやる。ただし、きさまらがここから出られればな・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C8F1",
+   "addr": "0xC8F1",
+   "size": 17,
+   "jp": "{name3}「閉じ込められた{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C902",
+   "addr": "0xC902",
+   "size": 102,
+   "jp": "{name4}「・・・わたしにまかせて{page}{name2}「{name4}？{page}{name4}「・・・{name4}ではありません。{name4}の体をかりて、語っているのです{page}{name1}「あなたは・・・だれです？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C968",
+   "addr": "0xC968",
+   "size": 67,
+   "jp": "弁慶「ほう。出られたか。わっはっはっ。よかったな、おい！{page}{name1}「ええ、まあ。・・・{name4}。あなたはいったい・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_C9AB",
+   "addr": "0xC9AB",
+   "size": 119,
+   "jp": "{name4}「黄河。果てしなきその流れの果てで、「風と共にあゆむ泉」があなたたちを迎えましょう{page}それが崑崙と地上をつなぐ唯一の扉です{page}{name1}「崑崙・・・果てしなき流れの果てとは、どこです？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CA22",
+   "addr": "0xCA22",
+   "size": 125,
+   "jp": "{name4}「わたしにもわかりません。あなたたち自身で見つけなければ。崑崙は、人を試すのです{page}わたしにできることは、あなたたちと話をすること。それもこれ一度だけ・・・。もう時間がありません{page}{name2}「あんた、だれなんだ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CA9F",
+   "addr": "0xCA9F",
+   "size": 104,
+   "jp": "{name4}「{name4}は自らの手で二度、自身の記億を消しています。それなのに、その悲しみに傷つくことさえできず・・・かわいそう{page}わたしには、何もしてあげられない。妹なのに・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CB07",
+   "addr": "0xCB07",
+   "size": 15,
+   "jp": "弁慶「おい。しっかりしろ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CB16",
+   "addr": "0xCB16",
+   "size": 52,
+   "jp": "{name4}「・・・弁慶さん。わたし{page}弁慶「ああ、まあとにかく。無事に出られたって訳だ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CB4A",
+   "addr": "0xCB4A",
+   "size": 25,
+   "jp": "{name0}らは「皇帝の闇」を手にいれた{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CB63",
+   "addr": "0xCB63",
+   "size": 27,
+   "jp": "{name0}らは「皇家の紋章」を手にいれた{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CB7E",
+   "addr": "0xCB7E",
+   "size": 58,
+   "jp": "{name3}「・・・どうしたのかな。行こうとしない{page}{name1}「ここから、大都に行けってことなのか・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CBB8",
+   "addr": "0xCBB8",
+   "size": 16,
+   "jp": "今夜は月が出てないねぇ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CBC8",
+   "addr": "0xCBC8",
+   "size": 9,
+   "jp": "通って、よし！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CBD1",
+   "addr": "0xCBD1",
+   "size": 74,
+   "jp": "チザムどのを隊長とした崑崙探索隊が、先日「大都」を出発したのだ{page}言うまでもなく、皇王フビライ・カンの命令である{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CC1B",
+   "addr": "0xCC1B",
+   "size": 68,
+   "jp": "・・・チザムどののお体が心配なのだ。聞けば、崑崙への道は、危険きわまるものだという。四界衆すら恐れるくらいだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CC5F",
+   "addr": "0xCC5F",
+   "size": 78,
+   "jp": "「大同（タートン）」の雲崗（ユンカン）石窟を御存じかな？{page}そこの修行僧たちは、古い言い伝えを旅人たちに語ってくれるという{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CCAD",
+   "addr": "0xCCAD",
+   "size": 64,
+   "jp": "世祖フビライ・カンには、深い考えがおありなのだ。・・・なぜ、魔界衆どもなどを使おうとなさるかを、考えるがよい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CCED",
+   "addr": "0xCCED",
+   "size": 102,
+   "jp": "崑崙探索は以前からの発案である。その目的は、古き呪縛を断ち、「元」の頑強な基盤を築くこと{page}すなわち、崑崙と中国大陸とのきずなを永遠に葬り去る！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CD53",
+   "addr": "0xCD53",
+   "size": 161,
+   "jp": "世祖フビライ・カンの言葉を、おまえたち倭人に伝える{page}「チザムひきいる崑崙探索隊を追うがよい。急がねば、「元」は日本に新たな攻撃を仕掛けることになる」以上だ{page}{name1}「第二次攻撃！{nl}{name2}「・・・どういうことだ！{page}世祖の意である。確かに、伝えた{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CDF4",
+   "addr": "0xCDF4",
+   "size": 28,
+   "jp": "ここは、何人も入ることは許されぬ。立ち去れ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CE10",
+   "addr": "0xCE10",
+   "size": 35,
+   "jp": "この町の近くに、有名な雲崗（ユンカン）石窟があります{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CE33",
+   "addr": "0xCE33",
+   "size": 30,
+   "jp": "石窟のお坊さん、訳のわからない事ばかり言うのよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CE51",
+   "addr": "0xCE51",
+   "size": 57,
+   "jp": "このあいだ、チザムさんていう蒙古の隊長さんがこの町に来たよ。お坊さんたちに何か聞いていたみたい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CE8A",
+   "addr": "0xCE8A",
+   "size": 48,
+   "jp": "蒙古軍のチザムさんはやさしい方。昔の戦争で死んだおじいさまの面影があったの{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CEBA",
+   "addr": "0xCEBA",
+   "size": 36,
+   "jp": "黄河をさかのぼっていくと、「蘭州（ランチョウ）」の町があるよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CEDE",
+   "addr": "0xCEDE",
+   "size": 42,
+   "jp": "「黄河を制するものは、中国を制す」こんな言い伝え、知っています？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CF08",
+   "addr": "0xCF08",
+   "size": 63,
+   "jp": "ねえ、蒙古の四界将たちってさ。本当は人間なんだよね？おとぎ話の四人の魔将たちのことじゃないよね？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CF47",
+   "addr": "0xCF47",
+   "size": 24,
+   "jp": "ねえ。伝説とおとぎ話って、ウソなのかな。{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CF5F",
+   "addr": "0xCF5F",
+   "size": 17,
+   "jp": "ここさ、かくれんぼするのにいいよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CF70",
+   "addr": "0xCF70",
+   "size": 34,
+   "jp": "しっ。だめだよ、話しかけちゃ。ぼく、ここにかくれているんだからさ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CF92",
+   "addr": "0xCF92",
+   "size": 71,
+   "jp": "・・・{name4}？{name4}山に、何か関わりがおありなのかな？{page}{name4}「わかりません。わたし、昔のことを覚えてないんです{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_CFD9",
+   "addr": "0xCFD9",
+   "size": 69,
+   "jp": "崑崙か。黄河の、もう一つの源であるという伝説がある。黄河を制する事、すなわち崑崙を制する・・・ということか{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D01E",
+   "addr": "0xD01E",
+   "size": 89,
+   "jp": "・・・果てしなき流れの果て。「敦煌（トンコウ）」から天山（テンザン）を越え、崑崙（コンロン）山脈に至るがよい{page}チザムどのたちも、その道を進むはずだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D077",
+   "addr": "0xD077",
+   "size": 45,
+   "jp": "崑崙は、いのちを持つ大地。何も語ることなく、人の世を試すという・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D0A4",
+   "addr": "0xD0A4",
+   "size": 103,
+   "jp": "古い言い伝えがある。憎しみが満ちる時、異界を封じる四つの扉が開くという{page}その力を宿した四人の魔将が、世界を破滅に導くであろうと言われているのだ。しかし・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D10B",
+   "addr": "0xD10B",
+   "size": 30,
+   "jp": "へー。あんたたちかい。水怪でやって来たって人たちは{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D129",
+   "addr": "0xD129",
+   "size": 50,
+   "jp": "五百年以上前、あの三蔵法師さまは、この街の中洲から黄河を渡ったのよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D15B",
+   "addr": "0xD15B",
+   "size": 39,
+   "jp": "今、蒙古兵たちがこの街に来ているんだ。みんなケンカ、強そうだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D182",
+   "addr": "0xD182",
+   "size": 62,
+   "jp": "あなたたち、「大同」から来たのね。じゃあ、雲崗（ユンカン）石窟に行ったでしょ。いいなあ。わたしも行きたい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D1C0",
+   "addr": "0xD1C0",
+   "size": 66,
+   "jp": "北路も南路も、けっきょくは西に向かう。でも今は行かないほうがいいよ。怪物が旅人を襲うって噂があるからね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D202",
+   "addr": "0xD202",
+   "size": 64,
+   "jp": "あんたたち。子どもたちを水怪に乗せたりしないでね。もしもの事があったら、たいへんなんだから{page}{name3}「・・・はい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D242",
+   "addr": "0xD242",
+   "size": 64,
+   "jp": "わしは易者だが、どうもいやな相がでてな。間もなく、このあたりに大地震が起こるというのだ。・・・外れればよいが{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D282",
+   "addr": "0xD282",
+   "size": 36,
+   "jp": "ねえねえ。あの水怪、何て言う名前？{page}{name3}「ホーだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D2A6",
+   "addr": "0xD2A6",
+   "size": 47,
+   "jp": "かあちゃんがさ。ここは「元」の兵隊さんの宿だから、近づいちゃいけないって言うんだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D2D5",
+   "addr": "0xD2D5",
+   "size": 30,
+   "jp": "ねえ。ホーに乗りたいんだけどさ。・・・やっぱ、だめだよね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D2F3",
+   "addr": "0xD2F3",
+   "size": 123,
+   "jp": "崑崙山脈に行くのかい？なら、南路と北路の二つがあるよ{page}南路は黄河の源流から、洞窟を抜けていく道で、遠回りだ{page}北路は近道だけど、けわしい山の中を抜けなけりゃあな。どっちも危険な道だよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D36E",
+   "addr": "0xD36E",
+   "size": 34,
+   "jp": "崑崙に行く？やめなよ。怪物がうじゃうじゃいるって話だよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D390",
+   "addr": "0xD390",
+   "size": 57,
+   "jp": "この町の易者は、よく当たるって評判なんだ。おれ、それで占ってもらおうと思って、ここに来たんだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D3C9",
+   "addr": "0xD3C9",
+   "size": 60,
+   "jp": "おれは、「元」の兵士である。わが隊がこの町を出るまで、ここを通っては困る。少しの間だけ、ガマンせよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D405",
+   "addr": "0xD405",
+   "size": 26,
+   "jp": "ここに異国人を通す訳には行かぬ。去れ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D41F",
+   "addr": "0xD41F",
+   "size": 56,
+   "jp": "ここは居酒屋だよ。でも今日は、「元」の兵隊さま方が大勢来ているから、よしたほうが・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D457",
+   "addr": "0xD457",
+   "size": 76,
+   "jp": "おい。おまえたち{page}弁慶「ん？なんだ？{page}蒙古兵「おまえたち、強そうだ。やるか！{page}{name1}「やる、とは何を・・・{page}蒙古兵「これだ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D4A3",
+   "addr": "0xD4A3",
+   "size": 19,
+   "jp": "{name2}「いてえ！この野郎！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D4B6",
+   "addr": "0xD4B6",
+   "size": 21,
+   "jp": "弁慶「わあっはっはっ！よし、やろう！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D4CB",
+   "addr": "0xD4CB",
+   "size": 26,
+   "jp": "{name3}「わあ。やめてよ、弁慶さん！うわっ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D4E5",
+   "addr": "0xD4E5",
+   "size": 14,
+   "jp": "やめぬか、バカ者ども！！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D4F3",
+   "addr": "0xD4F3",
+   "size": 17,
+   "jp": "蒙古兵「ハッ。チザムさま！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D504",
+   "addr": "0xD504",
+   "size": 108,
+   "jp": "チザム「まったくしょうのないやつらだ。さあ、館に帰るぞ。で、おまえたちは？{page}弁 慶「おれは武蔵坊弁慶だ{page}チザム「そうか。おれは、こいつらの隊長をつとめるチザムだ。よければ、館に遊びに来い{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D570",
+   "addr": "0xD570",
+   "size": 60,
+   "jp": "蒙古兵「おい、おまえ{page}弁慶「ん？何だ？{page}蒙古兵「楽しかったなあ、おい！{page}弁慶「わあっはっはっ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D5AC",
+   "addr": "0xD5AC",
+   "size": 39,
+   "jp": "いらっしゃい。居酒屋だよ。ああっ、あなたたちか。もうケンカはごめんだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D5D3",
+   "addr": "0xD5D3",
+   "size": 32,
+   "jp": "うーっヒック！魔物たちがなんだー！大地震がなんだー！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D5F3",
+   "addr": "0xD5F3",
+   "size": 76,
+   "jp": "莫高窟（バッコウクツ）って、ヒック。知ってっか？「敦煌」の{name4}山のなかに・・・あるんだ{page}月牙泉（ゲッカセン）のすぐそばだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D63F",
+   "addr": "0xD63F",
+   "size": 44,
+   "jp": "ちくしょう、易者のやつ。・・・妙な占いをしやがるから、商売上がったりだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D66B",
+   "addr": "0xD66B",
+   "size": 29,
+   "jp": "こら！ここには・・・ああ、おまえらか。なら、入っていい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D688",
+   "addr": "0xD688",
+   "size": 58,
+   "jp": "ここは空家だったの。でもお客が来たから、お屋敷に大変身よ。ちなみに私は、宿屋の女中です{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D6C2",
+   "addr": "0xD6C2",
+   "size": 35,
+   "jp": "あなたたちもここに泊まっていくんでしょう？準備、できているわよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D6E5",
+   "addr": "0xD6E5",
+   "size": 16,
+   "jp": "おう、おまえたち。よく来た！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D6F5",
+   "addr": "0xD6F5",
+   "size": 40,
+   "jp": "おれたちは、明日出発しなければならぬ。おまえたちも気をつけて行けよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D71D",
+   "addr": "0xD71D",
+   "size": 17,
+   "jp": "まあ、飲め。歌え。ワッハッハ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D72E",
+   "addr": "0xD72E",
+   "size": 20,
+   "jp": "ガアーッハッハッ。いやあ、楽しいなあ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D742",
+   "addr": "0xD742",
+   "size": 60,
+   "jp": "おう、おまえか。たしか、弁慶とかいったな{page}弁慶「そうだ。遊びに来たぞ{page}おお、そうか。よし、ゆっくりしていけ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D77E",
+   "addr": "0xD77E",
+   "size": 85,
+   "jp": "おれとおまえたちとは友だちだ。おまえの国とおれの国が戦争になっても、やっぱり友だちだ。な！そうだな{page}弁慶「わっはっはっ。そうだぞ{page}よしよし。友だちだ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D7D3",
+   "addr": "0xD7D3",
+   "size": 83,
+   "jp": "チザムさまこそ真の武将である。戦争で家族を皆殺しにされても、敵を恨んではおられぬ{page}争う事のおろかさを知り、その悲しみに耐えておられる{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D826",
+   "addr": "0xD826",
+   "size": 20,
+   "jp": "ここは、チザム隊長の部屋である{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D83A",
+   "addr": "0xD83A",
+   "size": 70,
+   "jp": "よく来た。おれは、この崑崙探索隊の隊長チザムである。ところでおまえたちは、倭人だな？{page}そして、目的は崑崙だな？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D880",
+   "addr": "0xD880",
+   "size": 25,
+   "jp": "本当の事を言え。目的は崑崙だな？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D899",
+   "addr": "0xD899",
+   "size": 61,
+   "jp": "そうか。では、われわれは きそいあうわけだ。わが隊は明日、北路を取って出発する。おまえたちも達者でな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D8D6",
+   "addr": "0xD8D6",
+   "size": 38,
+   "jp": "わが隊は明日、北路をとって出発する。おまえたちも達者でな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D8FC",
+   "addr": "0xD8FC",
+   "size": 83,
+   "jp": "おい、おまえたち。今日はここに泊まっていけ。部屋も用意させておいた。おれたちは朝一番で行くが、おまえたちはゆっくりできる{page}隊長の好意だ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D94F",
+   "addr": "0xD94F",
+   "size": 29,
+   "jp": "まあ、そう言わずに泊まっていけ。隊長の好意だ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D96C",
+   "addr": "0xD96C",
+   "size": 20,
+   "jp": "よし。では、部屋に案内してやる{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D980",
+   "addr": "0xD980",
+   "size": 22,
+   "jp": "おつかれでしたら、こちらでお休み下さい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D996",
+   "addr": "0xD996",
+   "size": 8,
+   "jp": "休みますか？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D99E",
+   "addr": "0xD99E",
+   "size": 56,
+   "jp": "おはようございます。「元」の方たちは、もう出発されましたよ。みなさまによろしくと、おっしゃっていました{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D9D6",
+   "addr": "0xD9D6",
+   "size": 40,
+   "jp": "{name0}「！！{page}{name1}「ムッ！地震だ{page}{name4}「大きいわ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_D9FE",
+   "addr": "0xD9FE",
+   "size": 15,
+   "jp": "わあ！揺れる。どうしよう！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DA0D",
+   "addr": "0xDA0D",
+   "size": 27,
+   "jp": "いやあ、スゴい地震だったな。死ぬかと思ったよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DA28",
+   "addr": "0xDA28",
+   "size": 32,
+   "jp": "あんな地震、きっと三蔵法師さまだってびっくりするわ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DA48",
+   "addr": "0xDA48",
+   "size": 46,
+   "jp": "あの地震でけが人ひとりでなかったなんて、奇跡だよ。占いの先生のおかげかもな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DA76",
+   "addr": "0xDA76",
+   "size": 54,
+   "jp": "おどろいたわ、あの地震には。でも、みんな無事でよかった。がけ崩れで道路はふさがっちゃったけど{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DAAC",
+   "addr": "0xDAAC",
+   "size": 73,
+   "jp": "地震で北路がふさがれてしまった{page}でも、南路から山道に抜ければ「敦煌」までは行けるよ。ものすごく危険な道だけど・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DAF5",
+   "addr": "0xDAF5",
+   "size": 45,
+   "jp": "もう、占いはやめたよ。こんな恐ろしい運命など、当てぬ方がよっぽど幸せじゃい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DB22",
+   "addr": "0xDB22",
+   "size": 48,
+   "jp": "だれも地震で傷つかず、なにより。だが、チザムどのたちは大丈夫だったであろうか・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DB52",
+   "addr": "0xDB52",
+   "size": 13,
+   "jp": "地震、すごかったねー{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DB5F",
+   "addr": "0xDB5F",
+   "size": 51,
+   "jp": "とうぶんこの町にいることにしたよ。南路なんて危険な道、とても通る気にはならないからな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DB92",
+   "addr": "0xDB92",
+   "size": 56,
+   "jp": "易者先生に占ってもらうつもりだったけど、やめたよ。本当にあたると思うと、やっぱおっかないよなあ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DBCA",
+   "addr": "0xDBCA",
+   "size": 12,
+   "jp": "地震、こわかったわ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DBD6",
+   "addr": "0xDBD6",
+   "size": 44,
+   "jp": "ああ、忘れていた。隊長さんからあずかっていたものがあるの。あなたたちにって。これ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DC02",
+   "addr": "0xDC02",
+   "size": 25,
+   "jp": " {name0}は、「炎の鎧」を受け取った{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DC1B",
+   "addr": "0xDC1B",
+   "size": 102,
+   "jp": "この町の南東には、{name4}山がある。山の東壁には莫高洞（バッコウクツ）、北側には月牙泉（ゲッカセン）があるのさ{page}{name1}「{name4}山・・・{name4}か・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DC81",
+   "addr": "0xDC81",
+   "size": 43,
+   "jp": "莫高窟は、千年も前からお坊さんたちが修業に使っているところなのよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DCAC",
+   "addr": "0xDCAC",
+   "size": 68,
+   "jp": "このあいだ、覚樹（カクジュ）って言うメチャクチャに強いやつが町に来たよ。魔物の群れを、一人でやっつけちまったんだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DCF0",
+   "addr": "0xDCF0",
+   "size": 64,
+   "jp": "覚樹さまは昔、この町を魔物の群れから守ってくださいました。今ごろは、あのお寺に戻られたのでしょうが・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DD30",
+   "addr": "0xDD30",
+   "size": 63,
+   "jp": "このあいだ、蒙古軍の軍隊がこの町に来たよ。{name4}山の坊さんたちに会ったあと、またすぐにいっちまった{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DD6F",
+   "addr": "0xDD6F",
+   "size": 30,
+   "jp": "あら、日本の方？じゃあ、チザムさまのお知り合い？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DD8D",
+   "addr": "0xDD8D",
+   "size": 5,
+   "jp": "あ、そう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DD92",
+   "addr": "0xDD92",
+   "size": 27,
+   "jp": "町長さんに会いに行って。伝言があるみたい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DDAD",
+   "addr": "0xDDAD",
+   "size": 46,
+   "jp": "「月牙」のいわれをご存知か？「月の牙」とは、「三日月」のことを言うのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DDDB",
+   "addr": "0xDDDB",
+   "size": 68,
+   "jp": "・・・まあ、あなた！麗花じゃないの。でも、・・・そんなはずないわね。ごめんなさい。よく似ていたものだから{page}{name4}「・・・？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DE1F",
+   "addr": "0xDE1F",
+   "size": 109,
+   "jp": "崑崙（コンロン）に行くの？よしなよ。あの蒙古軍だって、たぶん死んじまう。恐ろしい難所があるんだ{page}西の火焔山（カエンザン）と、南にあるナリンゴルの魔鬼谷さ。特に魔鬼谷は・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DE8C",
+   "addr": "0xDE8C",
+   "size": 84,
+   "jp": "この間の地震、すごかったでしょ。あれで、東と北の道がふさがってしまったのよ{page}でも、怖い噂のある魔鬼谷とは、行き来できなくなって良かったけど{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DEE0",
+   "addr": "0xDEE0",
+   "size": 44,
+   "jp": "修行中の坊さんが言ってたけど、この間の地震、何かの予兆なんだって{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DF0C",
+   "addr": "0xDF0C",
+   "size": 68,
+   "jp": "うちの息子、今は莫高窟で修行中なの。でも、もうすぐ逃げ出してくるんじゃないかしら。なんせ根性なしだから・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DF50",
+   "addr": "0xDF50",
+   "size": 31,
+   "jp": "町長さんはね。お医者さんの王（ワン）先生なんだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DF6F",
+   "addr": "0xDF6F",
+   "size": 18,
+   "jp": "あたし、強い男の人って好き{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DF81",
+   "addr": "0xDF81",
+   "size": 56,
+   "jp": "ヒーン。言うこと聞かないと、月牙泉の人さらいにオラを連れてってもらうって、かあちゃんが言うんだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DFB9",
+   "addr": "0xDFB9",
+   "size": 33,
+   "jp": "おれの兄ちゃん、「お窟」で修行しているんだぞ。エッヘン！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_DFDA",
+   "addr": "0xDFDA",
+   "size": 53,
+   "jp": "この街の町長は、王先生です。もう、三十年も町長をしておられる立派なお方ですよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E00F",
+   "addr": "0xE00F",
+   "size": 34,
+   "jp": "天山山脈の南にひろがっているのは、タクラマカン砂漠さ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E031",
+   "addr": "0xE031",
+   "size": 55,
+   "jp": "ここは六百年前に、西遊記で有名な三蔵法師さまが立ちよった街なんだ。知ってた？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E068",
+   "addr": "0xE068",
+   "size": 31,
+   "jp": "ここは、医者の王先生の家だよ。町長さんなんだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E087",
+   "addr": "0xE087",
+   "size": 102,
+   "jp": "お気の毒に、町長さんの娘の麗花ちゃんは、月牙泉のあたりで、行方知れずになってしまったの{page}もう、二十年も前の話だけれどね。あのとき、麗花ちゃんは五才だった・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E0ED",
+   "addr": "0xE0ED",
+   "size": 41,
+   "jp": "ハックシッ！ああ、カゼひいちゃって。先生に見てもらいに来たんだけど・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E116",
+   "addr": "0xE116",
+   "size": 22,
+   "jp": "王先生、ハッキリ言って、名医よ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E12C",
+   "addr": "0xE12C",
+   "size": 71,
+   "jp": "わたしが町長の王（ワン）です。チザムさまからことづけが・・・！おお、麗花！・・・いや、そんなはずが・・・{page}{name4}「・・・え？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E173",
+   "addr": "0xE173",
+   "size": 17,
+   "jp": "ああ、王先生！たいへんだあ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E184",
+   "addr": "0xE184",
+   "size": 12,
+   "jp": "奥様、先生が！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E190",
+   "addr": "0xE190",
+   "size": 26,
+   "jp": "町長の妻「どうしたの、あなた！いったい・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E1AA",
+   "addr": "0xE1AA",
+   "size": 31,
+   "jp": "「！ れ、麗花・・・{page}{name4}「いえ。わたしは・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E1C9",
+   "addr": "0xE1C9",
+   "size": 122,
+   "jp": "町長の妻「驚かせてごめんなさい。行方知れずの娘の麗花は、{name4}さんにそっくり。でも、そんなはずがありませんね{page}生きていれば、麗花はもう二十五才・・・。主人が目を覚ましたころに、またおいで下さい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E243",
+   "addr": "0xE243",
+   "size": 44,
+   "jp": "町長「ああ・・・麗花。わたしたちは、おまえが生きていると信じているよ・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E26F",
+   "addr": "0xE26F",
+   "size": 29,
+   "jp": "逃げてやる、明日こそ。もうこんな修行、いやだよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E28C",
+   "addr": "0xE28C",
+   "size": 50,
+   "jp": "今日のすいじ当番は、おまえたち・・・。ああ、すいません。新顔と間違えてしまいました{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E2BE",
+   "addr": "0xE2BE",
+   "size": 35,
+   "jp": "ここは、修行のための第一房です。第三房まであるんです{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E2E1",
+   "addr": "0xE2E1",
+   "size": 55,
+   "jp": "ここの修行はとてもきびしい。でもわたしは頑張ります。母はわたしを根性なしだと思っているけどね{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E318",
+   "addr": "0xE318",
+   "size": 52,
+   "jp": "「沙」とは、一切智。真理をあらわすもの。そして、「沙羅」。沙羅双樹の意・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E34C",
+   "addr": "0xE34C",
+   "size": 54,
+   "jp": "敦煌。古くは、「沙州」と呼ばれていた。「沙」の国と・・・。今はそれを知るものは少ない{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E382",
+   "addr": "0xE382",
+   "size": 65,
+   "jp": "「沙」は、砂。そして崑崙の王は、西王母の名を持つという。西へゆくがいい。帰らざる砂漠、タクラマカンへ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E3C3",
+   "addr": "0xE3C3",
+   "size": 37,
+   "jp": "第三房の秘窟には、力なきものの立ち入ることは許されない{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E3E8",
+   "addr": "0xE3E8",
+   "size": 78,
+   "jp": "「元」がはじまってから、この第三房の秘窟に立ち入ることのできたものは、ただ一人{page}少林寺からきた覚樹という武術家であった{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E436",
+   "addr": "0xE436",
+   "size": 35,
+   "jp": "「闇」は、おのれの陰。その向こうに、もう一つの崑崙がある{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E459",
+   "addr": "0xE459",
+   "size": 61,
+   "jp": "この先には古代の秘窟がある。四界の魔将さえも近づけぬ「闇」によって守られておる。・・・行くか？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E496",
+   "addr": "0xE496",
+   "size": 8,
+   "jp": "・・・よかろう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E49E",
+   "addr": "0xE49E",
+   "size": 29,
+   "jp": "{name0}「！{page}{name3}「なんだ、この石は・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E4BB",
+   "addr": "0xE4BB",
+   "size": 43,
+   "jp": "自らの闇に打ち勝った「沙・羅」のものたちに、その「飛跳印」をたくす{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E4E6",
+   "addr": "0xE4E6",
+   "size": 37,
+   "jp": "{name2}「何者だ！{page}{name1}「違う！石に刻まれた声だ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E50B",
+   "addr": "0xE50B",
+   "size": 18,
+   "jp": "そして、崑崙への道を示そう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E51D",
+   "addr": "0xE51D",
+   "size": 48,
+   "jp": "三日月の扉を捜し出すのだ。そして、「風と共にあゆむ泉」を出現させるがよい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E54D",
+   "addr": "0xE54D",
+   "size": 77,
+   "jp": "先日、蒙古の兵たちがここに来た。だがその時は、扉は閉ざされておった{page}それゆえ、彼らは秘窟の存在を知らぬまま、ここを去った{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E59A",
+   "addr": "0xE59A",
+   "size": 111,
+   "jp": "町長「もう、すっかりよくなりました。チザムさまからの伝言あります{page}あなたがたの命をねらう界将がおります。その名は、幻応界界将・雀皇（ジャコウ）というそうです{page}十分に、お気をつけくだされ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E609",
+   "addr": "0xE609",
+   "size": 69,
+   "jp": "町長の妻「{name4}さん、でしたね。つらい旅でしょう。本当に気をつけてね。・・・{name4}さん。・・・いえ。さようなら{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E64E",
+   "addr": "0xE64E",
+   "size": 7,
+   "jp": "そうか・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E655",
+   "addr": "0xE655",
+   "size": 34,
+   "jp": "覚樹が、戻ってきた。そなたたちを達磨洞で待っているぞ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E677",
+   "addr": "0xE677",
+   "size": 36,
+   "jp": "邵元は・・・今ごろどこにいるのであろうか。もう、会えぬな・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E69B",
+   "addr": "0xE69B",
+   "size": 57,
+   "jp": "覚樹「{name0}！きさまの力のほどを見せてもらおうか{page}{name0}「！！{page}覚樹「話はそれからだ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E6D4",
+   "addr": "0xE6D4",
+   "size": 60,
+   "jp": "覚樹「みごとだった。よくこれほどまで腕を上げたな{page}{name0}「・・・？{page}覚樹「気づかぬか。おれのことを{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E710",
+   "addr": "0xE710",
+   "size": 168,
+   "jp": "{name1}「ああ！あなたは、羅覚{page}覚樹「その名は、かつて「羅」の業（ゴウ）に準じていたころの姿だ。今は、武術に道をもとめている{page}{name2}「なぜだ？どうして、ここに！{page}覚樹「歴史を見定めるためだ。おまえたちにこれをゆずる。莫高窟で手に入れた{page}どこでどう使うかは、おまえたちしだいだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E7B8",
+   "addr": "0xE7B8",
+   "size": 28,
+   "jp": " {name0}たちは、「飛跳印」を手に入れた{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E7D4",
+   "addr": "0xE7D4",
+   "size": 22,
+   "jp": "覚樹「もう、会うこともあるまい・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E7EA",
+   "addr": "0xE7EA",
+   "size": 33,
+   "jp": "ここは、達磨大使が禅を組んでおられた修行房です{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E80B",
+   "addr": "0xE80B",
+   "size": 82,
+   "jp": "邵元さまはあなたたちのことを聞くと、すぐに旅に出ましたよ。西に行くと言い残されてな{page}恐らく、あなたたちと合流しようとなさっているのでしょう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E85D",
+   "addr": "0xE85D",
+   "size": 76,
+   "jp": "やあ、みなさん。わたしは以前、越後屋で手代をしていた者です。{page}今ではすっかり心を入れ替えて、この地で修行にはげんでいます{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E8A9",
+   "addr": "0xE8A9",
+   "size": 62,
+   "jp": "邵元さまは、修行により自らを虚体とし、時を超えることができるという。禅の奥義を極めたお方なのだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E8E7",
+   "addr": "0xE8E7",
+   "size": 42,
+   "jp": "雀皇「幻応界界将・雀皇（ジャコウ）、参る！{page}{name0}「！！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E911",
+   "addr": "0xE911",
+   "size": 23,
+   "jp": "雀皇「受けよ・・・。呪幻操虚！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E928",
+   "addr": "0xE928",
+   "size": 62,
+   "jp": "{name0}「！！{page}{name4}「ここは！・・・吉野ヶ里遺跡{page}{name1}「・・・まさか。邪馬台国！？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E966",
+   "addr": "0xE966",
+   "size": 29,
+   "jp": "そうだ。ここは、一千年前の邪馬台国・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E983",
+   "addr": "0xE983",
+   "size": 12,
+   "jp": "{name2}「だれだ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E98F",
+   "addr": "0xE98F",
+   "size": 86,
+   "jp": "卑弥呼「卑弥呼の名において、われは神獣鏡にうったえる{page}地に平和をもとむるがゆえに、その力にて、神獣「麒鱗（キリン）」の降臨を望む{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_E9E5",
+   "addr": "0xE9E5",
+   "size": 106,
+   "jp": "うぬらは今、わが呪幻操虚により、「虚体」に変えられて、この過去の時間に幽閉されているのだ{page}うぬらは、この地のものたちに触れることは出来ぬ。せめて、その心の声を聞け・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EA4F",
+   "addr": "0xEA4F",
+   "size": 87,
+   "jp": "・・・ウウッ。あやまちであった。神獣鏡は、麒鱗（キリン）を呼ぶためのものではなかったのか{page}あれは、心の闇をうつしだし、破壊の力を大地にふるう・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EAA6",
+   "addr": "0xEAA6",
+   "size": 108,
+   "jp": "し、神獣鏡は、人の手に触れてはならぬものであった{page}だがいつの日か、人々が・・・心に闇を持たぬ時代が来れば{page}・・・その時こそ神獣鏡は、麒鱗を降臨させることができよう・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EB12",
+   "addr": "0xEB12",
+   "size": 105,
+   "jp": "卑弥呼「こ、これは始まりに・・・過ぎぬ。真の恐怖は、一千年後「魔導宮」によみがえる・・・{page}神獣鏡を隠すのだ。北の果てに。崑崙にもどすことができるその日まで・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EB7B",
+   "addr": "0xEB7B",
+   "size": 58,
+   "jp": "もう、邪馬台国はおしまいだよ。神殿の外は、メチャクチャなんだ。みんな・・・みんな、死んじまったよ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EBB5",
+   "addr": "0xEBB5",
+   "size": 19,
+   "jp": "うわあ！もうダメだ。破滅だよー！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EBC8",
+   "addr": "0xEBC8",
+   "size": 109,
+   "jp": "わしは邵元（しょうげん）。修行により自らを「虚体」に変え、この時空に来た{page}おまえたちがもとの時代にもどるためには、この洞窟にある「時の結び目」をほどかねばならぬ。気をつけて行け{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EC35",
+   "addr": "0xEC35",
+   "size": 129,
+   "jp": "よくも、呪幻操虚を破った{page}だが・・・おまえらが むだに時を過ごした間に、チザムの隊を血まつりに上げた{page}弁慶「なに！{page}裏切り者は、みな死ね。チザムが死ねば、フビライ・カンは日本を攻めると約束した。・・・ざまあみろ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ECB6",
+   "addr": "0xECB6",
+   "size": 43,
+   "jp": "おれ、そこのさんばしの先で見たんだ。泉の中になにやら黒いもんが動くのをさ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ECE1",
+   "addr": "0xECE1",
+   "size": 12,
+   "jp": "すでに息絶えていた{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ECED",
+   "addr": "0xECED",
+   "size": 15,
+   "jp": "「至崩印」がうばわれた{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ECFC",
+   "addr": "0xECFC",
+   "size": 20,
+   "jp": "おぬしらに、力をかそう。武運をな{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ED10",
+   "addr": "0xED10",
+   "size": 30,
+   "jp": "ことだまにすべてを語れ。これまでの道、すべて覚えよう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ED2E",
+   "addr": "0xED2E",
+   "size": 66,
+   "jp": "ここは・・・「三日月の笛」を守るために築かれた、時の結界。魔将たちといえども、ここに立ち入ることはできぬ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ED70",
+   "addr": "0xED70",
+   "size": 47,
+   "jp": "われわれは、笛の番人だ。おまえたちが笛を手にしたとき、われわれの使命は終わる{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_ED9F",
+   "addr": "0xED9F",
+   "size": 52,
+   "jp": "崑崙は千年に一度、「三日月の笛」を地上に送る。こたび、笛はここに現われた{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EDD3",
+   "addr": "0xEDD3",
+   "size": 55,
+   "jp": "千年に一度、天と地の三日月が呼び合うとき、笛は地上と崑崙をつなぐ扉を呼ぶ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EE0A",
+   "addr": "0xEE0A",
+   "size": 41,
+   "jp": "崑崙は、時を超えた郷里。ここでは、不老不死を約束されます{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EE33",
+   "addr": "0xEE33",
+   "size": 68,
+   "jp": "地上にいるときだけ、崑崙の民は年を数えます。そして再び崑崙にもどるとき、地上での記億は消えてしまうのです{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EE77",
+   "addr": "0xEE77",
+   "size": 62,
+   "jp": "崑崙の民が最後に地上に降りたのは、もう十年近くも前のこと。麗花は、みずからそれを望んだのです{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EEB5",
+   "addr": "0xEEB5",
+   "size": 74,
+   "jp": "崑崙は意志を持つ郷里。人の世をためすのです。されど、その意をくむことは誰にもできませぬ{page}たとえ、西王母さまであろうとも{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EEFF",
+   "addr": "0xEEFF",
+   "size": 57,
+   "jp": "この地をつかさどる西王母のくらいにつくのは、恒沙（コウサ）さま。麗花の姉上さまでございました{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EF38",
+   "addr": "0xEF38",
+   "size": 55,
+   "jp": "あなたがたは地上から来たお方ね。それじゃあ、もしやあなたは・・・麗花なの？{page}{name4}「・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EF6F",
+   "addr": "0xEF6F",
+   "size": 64,
+   "jp": "神獣鏡は、魔導宮を封じる鍵である。しかし一千年におよぶ怨念が、人をして暗黒の道を開かしめる{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_EFAF",
+   "addr": "0xEFAF",
+   "size": 106,
+   "jp": "聖獣・麒鱗（キリン）には、地上から怨念を消す力などない。麒鱗は平和のあかしなのだ{page}だがいつの日か必ず、麒鱗は はるかな高みから地上に降臨すると、わたしは信じている{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F019",
+   "addr": "0xF019",
+   "size": 56,
+   "jp": "崑崙には、記録を語る「知識の輪」があります。その輪に問えば、こたえをかえしてくれるでしょう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F051",
+   "addr": "0xF051",
+   "size": 65,
+   "jp": "麗花が地上に降りるとき、恒沙さまは彼女に新しい名を送ったの。でもその名は、誰も教えてもらえないのよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F092",
+   "addr": "0xF092",
+   "size": 27,
+   "jp": "崑崙では、獣も人と同じ言葉を話すのよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F0AD",
+   "addr": "0xF0AD",
+   "size": 63,
+   "jp": "崑崙と地上とがつながるのは、千年に一度のわずかなあいだだけ。神獣鏡の発現が近づいたあかしでしょう{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F0EC",
+   "addr": "0xF0EC",
+   "size": 135,
+   "jp": "かつて源義経とジンギス・カンは、互いに信じあい、力を合わせて戦っていた{page}力により天下を制することが、戦国の争いを収める唯一の道であると信じていたがゆえに{page}だが、やがて二人は魔導宮の力をめぐり、対立していった・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F173",
+   "addr": "0xF173",
+   "size": 130,
+   "jp": "ジンギス・カンと源義経。力を手にしようとする心と、力を封じようとする心{page}二人は互いの信念をみとめつつも、たもとを分かつこととなった{page}そして人知れず剣を交え、相討ちて果てた。二人の魂は地上から消えた・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F1F5",
+   "addr": "0xF1F5",
+   "size": 67,
+   "jp": "魔導宮には、地上の全てを滅ぼす四界皇帝の力が幽閉されている。神獣鏡の力によって封じられたものだ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F238",
+   "addr": "0xF238",
+   "size": 51,
+   "jp": "魔導宮は、その力をもとめるものをも飲み込んでしまう。それでも力に挑むか？挑めるか？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F26B",
+   "addr": "0xF26B",
+   "size": 48,
+   "jp": "崑崙は争いのない永遠の楽園。魔導宮の恐ろしい力も、ここにはおよびません{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F29B",
+   "addr": "0xF29B",
+   "size": 31,
+   "jp": "わたし、争いはイヤなの！戦わないで話し合えばいいのに{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F2BA",
+   "addr": "0xF2BA",
+   "size": 118,
+   "jp": "亡き源義経の志は武蔵坊弁慶にたくされ、ジンギス・カンの意はフビライ・カンに受けつがれた{page}{name4}は弁慶の側に、四界衆はフビライ・カンについた。だが、行く末を決める力は・・・{name0}へ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F330",
+   "addr": "0xF330",
+   "size": 126,
+   "jp": "一千年前、邪馬台国で卑弥呼が神獣鏡を使ったとき、異界に魔導宮が生じた{page}その力は世の怨念をとらえつづけ、異界を流酷界に変えてしまった{page}そして今、魔導宮は地上に降りようとしている{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F3AE",
+   "addr": "0xF3AE",
+   "size": 108,
+   "jp": "呪界、鬼獣界、幻応界、そして流酷界。四界は人々の恐怖と憎悪から生じた{page}四界将とは、それら四つの暗黒をつかさどる魔性のものたち{page}すなわち、四界将こそが悪{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F41A",
+   "addr": "0xF41A",
+   "size": 47,
+   "jp": "魔導宮は流酷界の虚空にある。界将・宗玉（ソウギョク）が、守っている{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F449",
+   "addr": "0xF449",
+   "size": 27,
+   "jp": "ここは、西王母・恒沙の住まう宮層です{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F464",
+   "addr": "0xF464",
+   "size": 80,
+   "jp": "崑崙は意志を持つ郷里です。でも、神ではありません。誰もすがることはできないのです。人は人の道をあゆめばそれでよい{page}{name3}「・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F4B4",
+   "addr": "0xF4B4",
+   "size": 87,
+   "jp": "麗花。いえ、今は{name4}でしたね。本当に立派になって。でも、あなたは崑崙やわたしたちのことをわすれているでしょうけど・・・{page}さあ、姉上がお待ちよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F50B",
+   "addr": "0xF50B",
+   "size": 34,
+   "jp": "{name4}。よく無事にもどりました。恒沙さまがお待ちよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F52D",
+   "addr": "0xF52D",
+   "size": 30,
+   "jp": "ここの水をお飲みなさい。力をよみがえらせてくれますよ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F54B",
+   "addr": "0xF54B",
+   "size": 29,
+   "jp": "必要なものを持ってゆくがよい。あなたたちのものです{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F568",
+   "addr": "0xF568",
+   "size": 59,
+   "jp": "長城遺跡であなたがたを助けたのは、恒沙さまです。あれが地上と交信できる最後の機会でした{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F5A3",
+   "addr": "0xF5A3",
+   "size": 57,
+   "jp": "神獣鏡がその力をふるうとき、沙羅双樹が暗黒の道を開く。そしておまえたちは、魔導宮へ{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F5DC",
+   "addr": "0xF5DC",
+   "size": 53,
+   "jp": "「至崩輪（しほうりん）」は、崑崙の秘宝。四界のあらゆる結界を打ち破る力がある{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F611",
+   "addr": "0xF611",
+   "size": 182,
+   "jp": "ああ、{name4}！おかえりなさい。大変な旅だったでしょう？わたしが西王母・恒沙です{page}{name4}「・・・はい{page}フビライ・カンは今、神獣鏡をたずさえて「大都」の地底城にいます{page}あなたたちは源義経どのの志を受けついで、地底城のある流酷界に向かっていただけますか？{page}神獣鏡をこの地に取りもどすために{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F6C7",
+   "addr": "0xF6C7",
+   "size": 46,
+   "jp": "地底城のある流酷界に向かってください{nl}神獣鏡をこの地にとりもどすため{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F6F5",
+   "addr": "0xF6F5",
+   "size": 55,
+   "jp": "あなたたちに、この「至崩輪」を差し上げましょう。いかなる結界も打ち破ることができるはずです{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F72C",
+   "addr": "0xF72C",
+   "size": 27,
+   "jp": " {name0}らは、「至崩輪」を手に入れた{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F747",
+   "addr": "0xF747",
+   "size": 110,
+   "jp": "フビライ・カンは今、神獣鏡をたずさえて「大都」の地底城にいます。そして、時が満ちるのを待っているのです{page}いそいで。魔導宮への道が開く前に。・・・{name4}。くれぐれも、気をつけて{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F7B5",
+   "addr": "0xF7B5",
+   "size": 19,
+   "jp": "{name3}「{name0}さん・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F7C8",
+   "addr": "0xF7C8",
+   "size": 119,
+   "jp": "{name0}「？{page}弁慶「どうした？{name3} {page}{name3}「ぼく、・・・国にもどります{page}一番大変な戦いの前にこんなことを言い出して、臆病者と思われても仕方がないけど、でも・・・{page}{name0}「・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F83F",
+   "addr": "0xF83F",
+   "size": 219,
+   "jp": "{name2}「なにを言うんだ。だれも臆病だなんて思うものか{page}{name4}「そうよ。{name3}にはお母さんが待ってるんだから{page}{name1}「それに、{name3}は立派に父上の望みを果たしたではないですか。むねを張って国に帰れますよ{page}{name3}「みなさん・・・{page}弁慶「そうか・・・。よし、そうか！えらいぞ、{name3}！よく決心した。よく決心したぞ。ワッハッハッ。そうか、そうか。ワッハッハッ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F91A",
+   "addr": "0xF91A",
+   "size": 94,
+   "jp": "ついに「三日月の笛」が現世に降りたか{page}この三日月と、もうひとつの三日月が呼びあうとき、崑崙の扉が開くというが・・・はて、もうひとつの三日月とは？{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F978",
+   "addr": "0xF978",
+   "size": 76,
+   "jp": "{name3}「{name0}さん・・・。みなさん、いろいろありがとう。今日までのこと、一生忘れません。・・・さよなら！{page}{name0}「・・・！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F9C4",
+   "addr": "0xF9C4",
+   "size": 32,
+   "jp": "ここはどこだぴょーぷ{nl}またちがう次元にとばされたにょーひ！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_F9E4",
+   "addr": "0xF9E4",
+   "size": 52,
+   "jp": "崑崙は意志を持つ郷里。だれもすがることはできません{page}人は人の道をあゆめばそれでいい{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_FA18",
+   "addr": "0xFA18",
+   "size": 55,
+   "jp": "弁慶「ここから先ふみこめば、二度と現世に戻ることはかなわぬ{page}覚悟はいいか、{name0}！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_FA4F",
+   "addr": "0xFA4F",
+   "size": 32,
+   "jp": "弁慶「いくぞ、みんな。{name3}のとむらい合戦だ！！{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1C_FA6F",
+   "addr": "0xFA6F",
+   "size": 9,
+   "jp": "弁慶「・・・{end}",
+   "en": "",
+   "box": "dialogue",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

@@ -1,0 +1,1431 @@
+{
+ "file": "sys_bank1d_a8.json",
+ "bank": "0x1D",
+ "start": "0xA800",
+ "end": "0xB0AC",
+ "kind": "ff_strings",
+ "table": "jp.tbl",
+ "box": "system",
+ "entries": [
+  {
+   "id": "1D_A800",
+   "addr": "0xA800",
+   "size": 12,
+   "jp": "メッセージがありません{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A80C",
+   "addr": "0xA80C",
+   "size": 23,
+   "jp": "いらっしゃいまし。宿屋でございます。{page} {end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A823",
+   "addr": "0xA823",
+   "size": 23,
+   "jp": "いらっしゃいまし。飯店でございます。{page} {end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A83A",
+   "addr": "0xA83A",
+   "size": 19,
+   "jp": "では、ごゆっくりお休み下さいまし{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A84D",
+   "addr": "0xA84D",
+   "size": 24,
+   "jp": "おはようございます。では、お気をつけてどうぞ{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A865",
+   "addr": "0xA865",
+   "size": 22,
+   "jp": "そうですか、体には十分お気をつけて{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A87B",
+   "addr": "0xA87B",
+   "size": 34,
+   "jp": "いらっしゃいまし。道具屋でございます。{nl}どんなご用件で？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A89D",
+   "addr": "0xA89D",
+   "size": 34,
+   "jp": "いらっしゃいまし。武器屋でございます。{nl}どんなご用件で？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A8BF",
+   "addr": "0xA8BF",
+   "size": 34,
+   "jp": "いらっしゃいまし。防具屋でございます。{nl}どんなご用件で？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A8E1",
+   "addr": "0xA8E1",
+   "size": 27,
+   "jp": "ありがとうございました。{nl}ほかに何かございますか？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A8FC",
+   "addr": "0xA8FC",
+   "size": 17,
+   "jp": "お金がたりないようですね・・・{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A90D",
+   "addr": "0xA90D",
+   "size": 17,
+   "jp": "はい、さようで。では、またどうぞ{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A91E",
+   "addr": "0xA91E",
+   "size": 43,
+   "jp": "あなたがたが望むのなら、新しい名前で旅をすることができます。いかがですか？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A949",
+   "addr": "0xA949",
+   "size": 24,
+   "jp": "{name0}らの心に、光と力がみちてきた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A961",
+   "addr": "0xA961",
+   "size": 15,
+   "jp": "だれの名前を変えますか{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A970",
+   "addr": "0xA970",
+   "size": 17,
+   "jp": "特に変わった物は無かった{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A981",
+   "addr": "0xA981",
+   "size": 8,
+   "jp": " を見つけた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A989",
+   "addr": "0xA989",
+   "size": 9,
+   "jp": " が入っていた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A992",
+   "addr": "0xA992",
+   "size": 10,
+   "jp": " を受け取った{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A99C",
+   "addr": "0xA99C",
+   "size": 8,
+   "jp": " をなげすてた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A9A4",
+   "addr": "0xA9A4",
+   "size": 13,
+   "jp": "これ以上持てません{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A9B1",
+   "addr": "0xA9B1",
+   "size": 12,
+   "jp": "なにかをすててください{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A9BD",
+   "addr": "0xA9BD",
+   "size": 11,
+   "jp": "薬草を見つけた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A9C8",
+   "addr": "0xA9C8",
+   "size": 10,
+   "jp": "宝箱を開けた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A9D2",
+   "addr": "0xA9D2",
+   "size": 13,
+   "jp": "何も入っていなかった{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A9DF",
+   "addr": "0xA9DF",
+   "size": 3,
+   "jp": "銭{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A9E2",
+   "addr": "0xA9E2",
+   "size": 3,
+   "jp": "銀{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A9E5",
+   "addr": "0xA9E5",
+   "size": 11,
+   "jp": "両 が入っていた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A9F0",
+   "addr": "0xA9F0",
+   "size": 5,
+   "jp": "式符{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_A9F5",
+   "addr": "0xA9F5",
+   "size": 11,
+   "jp": "枚 が入っていた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AA00",
+   "addr": "0xAA00",
+   "size": 7,
+   "jp": " なら、銀{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AA07",
+   "addr": "0xAA07",
+   "size": 19,
+   "jp": "両 になろう。一両は銭20だ{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AA1A",
+   "addr": "0xAA1A",
+   "size": 11,
+   "jp": "どれにいたしますか？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AA25",
+   "addr": "0xAA25",
+   "size": 16,
+   "jp": "それは うちではちょっと・・・{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AA35",
+   "addr": "0xAA35",
+   "size": 6,
+   "jp": "・・・うむ{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AA3B",
+   "addr": "0xAA3B",
+   "size": 47,
+   "jp": "そなたらのすごした今日までの「刻」、聖霊は決して忘れん。気をつけてゆきなされ{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AA6A",
+   "addr": "0xAA6A",
+   "size": 17,
+   "jp": "どなたの名前を変えるかな？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AA7B",
+   "addr": "0xAA7B",
+   "size": 33,
+   "jp": "殿か・・・よい名ですな{nl}ほかに名を変えるものはおらぬか？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AA9C",
+   "addr": "0xAA9C",
+   "size": 25,
+   "jp": "では、また名前を変えたくなったら、いつでも{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AAB5",
+   "addr": "0xAAB5",
+   "size": 13,
+   "jp": "それをすててはいけません{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AAC2",
+   "addr": "0xAAC2",
+   "size": 17,
+   "jp": " になりますが{nl}よろしいですか？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AAD3",
+   "addr": "0xAAD3",
+   "size": 19,
+   "jp": "両 になりますが{nl}よろしいですか？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AAE6",
+   "addr": "0xAAE6",
+   "size": 9,
+   "jp": "お泊まりは銭{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AAEF",
+   "addr": "0xAAEF",
+   "size": 9,
+   "jp": "お泊まりは銀{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AAF8",
+   "addr": "0xAAF8",
+   "size": 27,
+   "jp": "忍「わたしの名は忍。ほかに名など、いりません{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AB13",
+   "addr": "0xAB13",
+   "size": 33,
+   "jp": "弁慶「このおれさまには、弁慶以外の名はいらんわい！{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AB34",
+   "addr": "0xAB34",
+   "size": 10,
+   "jp": "は戦いに勝った{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AB3E",
+   "addr": "0xAB3E",
+   "size": 7,
+   "jp": "経験値{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AB45",
+   "addr": "0xAB45",
+   "size": 5,
+   "jp": "と、銭{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AB4A",
+   "addr": "0xAB4A",
+   "size": 5,
+   "jp": "と、銀{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AB4F",
+   "addr": "0xAB4F",
+   "size": 5,
+   "jp": "を得た{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AB54",
+   "addr": "0xAB54",
+   "size": 7,
+   "jp": "両を得た{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AB5B",
+   "addr": "0xAB5B",
+   "size": 11,
+   "jp": "は、戦いに負けた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AB66",
+   "addr": "0xAB66",
+   "size": 11,
+   "jp": "のレベルが上がった{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AB71",
+   "addr": "0xAB71",
+   "size": 9,
+   "jp": "の術を覚えた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AB7A",
+   "addr": "0xAB7A",
+   "size": 5,
+   "jp": "敵から{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AB7F",
+   "addr": "0xAB7F",
+   "size": 24,
+   "jp": "{name0}らは、「海龍の骨」をかかげた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AB97",
+   "addr": "0xAB97",
+   "size": 11,
+   "jp": "は、敵をふりきった{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ABA2",
+   "addr": "0xABA2",
+   "size": 11,
+   "jp": "敵の虚をついた！{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ABAD",
+   "addr": "0xABAD",
+   "size": 7,
+   "jp": "ゆだんした！{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ABB4",
+   "addr": "0xABB4",
+   "size": 10,
+   "jp": "式符が守る！{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ABBE",
+   "addr": "0xABBE",
+   "size": 19,
+   "jp": "どちらの{name0}で始めますか？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ABD1",
+   "addr": "0xABD1",
+   "size": 15,
+   "jp": "名前を入力しますか？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ABE0",
+   "addr": "0xABE0",
+   "size": 28,
+   "jp": "たしかに記録した。気をつけて旅を続けるがよい{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ABFC",
+   "addr": "0xABFC",
+   "size": 28,
+   "jp": "気がついたかね。ゆめゆめ気をつけて旅をするがよい{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC18",
+   "addr": "0xAC18",
+   "size": 13,
+   "jp": "銭が足りないようだな{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC25",
+   "addr": "0xAC25",
+   "size": 14,
+   "jp": "式符を見つけた・・・{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC33",
+   "addr": "0xAC33",
+   "size": 7,
+   "jp": "の打撃を{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC3A",
+   "addr": "0xAC3A",
+   "size": 5,
+   "jp": "あたえた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC3F",
+   "addr": "0xAC3F",
+   "size": 4,
+   "jp": "うけた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC43",
+   "addr": "0xAC43",
+   "size": 6,
+   "jp": "は倒れた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC49",
+   "addr": "0xAC49",
+   "size": 6,
+   "jp": "は眠った{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC4F",
+   "addr": "0xAC4F",
+   "size": 9,
+   "jp": "は毒をくらった{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC58",
+   "addr": "0xAC58",
+   "size": 6,
+   "jp": "は起きた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC5E",
+   "addr": "0xAC5E",
+   "size": 29,
+   "jp": "剣を装備しなければ、剣技を使うことができない{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC7B",
+   "addr": "0xAC7B",
+   "size": 11,
+   "jp": "は、なにもしなかった{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC86",
+   "addr": "0xAC86",
+   "size": 15,
+   "jp": "は、攻撃を受け流した{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC95",
+   "addr": "0xAC95",
+   "size": 7,
+   "jp": "回復した{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AC9C",
+   "addr": "0xAC9C",
+   "size": 7,
+   "jp": "は、マヒした{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ACA3",
+   "addr": "0xACA3",
+   "size": 8,
+   "jp": "のマヒがとけた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ACAB",
+   "addr": "0xACAB",
+   "size": 10,
+   "jp": "は、生き返った{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ACB5",
+   "addr": "0xACB5",
+   "size": 10,
+   "jp": "の術がかかった！{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ACBF",
+   "addr": "0xACBF",
+   "size": 9,
+   "jp": "の毒が消えた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ACC8",
+   "addr": "0xACC8",
+   "size": 6,
+   "jp": "を倒した{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ACCE",
+   "addr": "0xACCE",
+   "size": 11,
+   "jp": "は、術を使えない{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ACD9",
+   "addr": "0xACD9",
+   "size": 8,
+   "jp": "は、使えない{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ACE1",
+   "addr": "0xACE1",
+   "size": 16,
+   "jp": "封魔香は風に流された{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ACF1",
+   "addr": "0xACF1",
+   "size": 12,
+   "jp": "聖踏の術がとけた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ACFD",
+   "addr": "0xACFD",
+   "size": 14,
+   "jp": "加聖踏の術がとけた{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AD0B",
+   "addr": "0xAD0B",
+   "size": 6,
+   "jp": "を使った{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AD11",
+   "addr": "0xAD11",
+   "size": 11,
+   "jp": "なにもおこらなかった{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AD1C",
+   "addr": "0xAD1C",
+   "size": 12,
+   "jp": "宝箱は、空だった{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AD28",
+   "addr": "0xAD28",
+   "size": 12,
+   "jp": "ありがとうございました{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AD34",
+   "addr": "0xAD34",
+   "size": 10,
+   "jp": "術をはね返した{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AD3E",
+   "addr": "0xAD3E",
+   "size": 16,
+   "jp": "よし、ゆっくり休むがよかろう{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AD4E",
+   "addr": "0xAD4E",
+   "size": 17,
+   "jp": "うむ、気をつけてゆくがよかろう{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AD5F",
+   "addr": "0xAD5F",
+   "size": 25,
+   "jp": "この旅の記録を{nl}書きかえてもよろしいか？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AD78",
+   "addr": "0xAD78",
+   "size": 23,
+   "jp": "この旅の記録で{nl}始めてもよろしいか？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AD8F",
+   "addr": "0xAD8F",
+   "size": 14,
+   "jp": "旅の記録がありません{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AD9D",
+   "addr": "0xAD9D",
+   "size": 24,
+   "jp": "文永の役（1274年）より2年後ー{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ADB5",
+   "addr": "0xADB5",
+   "size": 12,
+   "jp": "四国・修門砦{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ADC1",
+   "addr": "0xADC1",
+   "size": 8,
+   "jp": "は眠っている{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ADC9",
+   "addr": "0xADC9",
+   "size": 11,
+   "jp": "はマヒして動けない{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ADD4",
+   "addr": "0xADD4",
+   "size": 12,
+   "jp": "には攻撃がきかない{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ADE0",
+   "addr": "0xADE0",
+   "size": 11,
+   "jp": "いくつ売りますか？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_ADEB",
+   "addr": "0xADEB",
+   "size": 45,
+   "jp": "それと、危険な武器や防具の持ちこみもだめだ！{nl}すべて銀にかえさせてもらう{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AE18",
+   "addr": "0xAE18",
+   "size": 8,
+   "jp": "全部で銀{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AE20",
+   "addr": "0xAE20",
+   "size": 15,
+   "jp": "になる。では、通ってよいぞ{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AE2F",
+   "addr": "0xAE2F",
+   "size": 10,
+   "jp": "は、使えなかった{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AE39",
+   "addr": "0xAE39",
+   "size": 18,
+   "jp": "旅の記録が壊れています！！{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AE4B",
+   "addr": "0xAE4B",
+   "size": 9,
+   "jp": "よろしいですか？{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AE54",
+   "addr": "0xAE54",
+   "size": 12,
+   "jp": "メッセージ作成中{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AE60",
+   "addr": "0xAE60",
+   "size": 24,
+   "jp": " 鎌倉に都が開かれて八十二年。{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AE78",
+   "addr": "0xAE78",
+   "size": 21,
+   "jp": "最大の国難が日本を襲った。{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AE8D",
+   "addr": "0xAE8D",
+   "size": 24,
+   "jp": " 中国大陸全土の統一をもくろむ{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AEA5",
+   "addr": "0xAEA5",
+   "size": 26,
+   "jp": "最強の大国「元」の蒙古軍襲来。{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AEBF",
+   "addr": "0xAEBF",
+   "size": 26,
+   "jp": " 軍船九百隻、兵力三万三千の{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AED9",
+   "addr": "0xAED9",
+   "size": 26,
+   "jp": "圧倒的な武力で守備隊を打ち破り{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AEF3",
+   "addr": "0xAEF3",
+   "size": 18,
+   "jp": "九州・博多を制圧した。{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AF05",
+   "addr": "0xAF05",
+   "size": 25,
+   "jp": " しかしその時、突然ふき荒れた暴風に{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AF1E",
+   "addr": "0xAF1E",
+   "size": 26,
+   "jp": "よって蒙古軍は壊滅的な打撃を受け{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AF38",
+   "addr": "0xAF38",
+   "size": 22,
+   "jp": "退去を強いられた。（文永の役）{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AF4E",
+   "addr": "0xAF4E",
+   "size": 24,
+   "jp": " 「元」の皇帝フビライ・カンはこの嵐が{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AF66",
+   "addr": "0xAF66",
+   "size": 24,
+   "jp": "強力な古代の呪法であることをさっし{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AF7E",
+   "addr": "0xAF7E",
+   "size": 24,
+   "jp": "配下の四界将・呪魂（ジュゴン）を{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AF96",
+   "addr": "0xAF96",
+   "size": 11,
+   "jp": "日本に送った。{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AFA1",
+   "addr": "0xAFA1",
+   "size": 24,
+   "jp": " これを知った将軍・時宗は呪魂の{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AFB9",
+   "addr": "0xAFB9",
+   "size": 25,
+   "jp": "ひきいる呪界衆を迎え撃つべく全国の{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AFD2",
+   "addr": "0xAFD2",
+   "size": 15,
+   "jp": "法力者に発令した。{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AFE1",
+   "addr": "0xAFE1",
+   "size": 24,
+   "jp": "だが呪界衆は時宗のおもわくを超えて{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_AFF9",
+   "addr": "0xAFF9",
+   "size": 24,
+   "jp": "はるかに手強く、多くの法力者たちが{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_B011",
+   "addr": "0xB011",
+   "size": 15,
+   "jp": "次々に倒されていった。{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_B020",
+   "addr": "0xB020",
+   "size": 24,
+   "jp": "闇の世界で動く者たちの、血みどろの{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_B038",
+   "addr": "0xB038",
+   "size": 15,
+   "jp": "死闘がここに始まった。{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_B047",
+   "addr": "0xB047",
+   "size": 25,
+   "jp": " 源義経と武蔵坊弁慶が平泉で{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_B060",
+   "addr": "0xB060",
+   "size": 26,
+   "jp": "打ち果たされたといわれてから、八十余年{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_B07A",
+   "addr": "0xB07A",
+   "size": 9,
+   "jp": "が流れていた。{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_B083",
+   "addr": "0xB083",
+   "size": 1,
+   "jp": "{end}",
+   "en": "{end}",
+   "box": "system",
+   "status": "empty",
+   "notes": ""
+  },
+  {
+   "id": "1D_B084",
+   "addr": "0xB084",
+   "size": 10,
+   "jp": "不動（ふどう）{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_B08E",
+   "addr": "0xB08E",
+   "size": 10,
+   "jp": "巳陰（みかげ）{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_B098",
+   "addr": "0xB098",
+   "size": 10,
+   "jp": "常由（とこよ）{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_B0A2",
+   "addr": "0xB0A2",
+   "size": 10,
+   "jp": "鳴沙（めいさ）{end}",
+   "en": "",
+   "box": "system",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

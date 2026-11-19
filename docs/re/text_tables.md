@@ -13,7 +13,7 @@
 |---|---|---:|---:|---|---|
 | `$1A` | `$8000–$A52E` | `9,519` | `23,249` B (`$A52F–$FFFF`) | `179` `$FF`-strings | Act 1 (Japan, `$0D00 bit 7 == 0`) dialogue (`ptr = $8000–$A7FF`) |
 | `$1B` | `$8000–$FF47` | `32,584` | `184` B (`$FF48–$FFFF`) | `616` `$FF`-strings | Act 1 (Japan, `$0D00 bit 7 == 0`) dialogue (`encoded ptr = $0000–$7FFF`) |
-| `$1C` | `$8000–$FA76` | `31,351` | `1,417` B (`$FA77–$FFFF`) | `596` `$FF`-strings | Act 2 (China, `$0D00 bit 7 != 0`, set by `$09:9C7C`) dialogue (`encoded ptr = $0000–$7FFF`) |
+| `$1C` | `$8000–$FA77` | `31,352` | `1,416` B (`$FA78–$FFFF`) | `596` `$FF`-strings + `2` B `data` (`$88FC`) | Act 2 (China, `$0D00 bit 7 != 0`, set by `$09:9C7C`) dialogue (`encoded ptr = $0000–$7FFF`); `00 FE` padding at `$1C:88FC` before `$1C:88FE` (`$0D:B7CD` target) |
 | `$1D` (low) | `$8000–$A578` | `9,593` | `647` B gap (`$A579–$A7FF`) | `218` non-empty chunks (`219` total) | Prologue crawl (`$8000–$817A`, `$09:9DA0`), ending crawl (`$A200–$A578`, `$03:EA22..$EB25`), Act 2/UI (`$817B–$A1FF`) |
 | `$1D` (high) | `$A800–$F7F7` | `20,472` | `2,056` B (`$F7F8–$FFFF`) | See sub-tables below | Shared system/UI strings, item/spell/enemy/location tables, descriptions, credits overlay |
 
@@ -31,7 +31,7 @@ Every pointer table from `$B0AC` through `$ECCE` stores 16-bit pointers little-e
 | `$B5FA–$B795` | `$B5FA–$B65F` | `$B660–$B795` | `50` (+ sentinel `$B796`) | No (length by diff) | Consumables & Key Items (`$00:B480`, `$0C:A4A7`, `$0C:BF0F`, etc.) (**verified**) |
 | `$B796–$B8E8` | `$B796–$B7EF` | `$B7F0–$B8E8` | `44` (+ sentinel `$B8E9`) | No (length by diff) | Jutsu / Spell names (`$09:93CE`, `$0C:A3F7`, `$0C:B899`, etc.) (**verified**) |
 | `$B8E9–$B93C` | `$B8E9–$B8F8` | `$B8F9–$B93C` | `7` (+ sentinel `$B93D`) | No (length by diff) | Ougi / Special Combo Techniques (`$00:B8BD`, `$0C:A3FE`, `$0C:BB7F`, etc.) (**verified**) |
-| `$B93D–$C2D0` | `$B93D–$BA8E` | `$BA8F–$C2D0` | `168` (+ sentinel `$C2D1`) | Yes | Enemy names with `$1E <furigana> $1F` (`$0C:CA4A`, `$0C:CD19`) (**verified**) |
+| `$B93D–$C2D0` | `$B93D–$BA8E` | `$BA8F–$C2D0` | `168` (+ sentinel `$C2D1`) | No (length by diff) | Enemy names with `$1E <furigana> $1F` (`$0C:CA4A`, `$0C:CD19`) (**verified**) |
 | `$C2D1–$D833` | inline / code | `$C2D1–$D833` | `449` chunks | Yes | Menu/status/battle/shop/name-entry/settings UI strings (**verified**) |
 | `$D834–$DC3D` | `$D834–$D91B` | `$D91C–$DC3D` | `115` (+ sentinel `$DC3E`) | No (length by diff) | Location names (`$0B:8F58` 2x banner scaler; **`<= 16` half-width chars**) (**verified**) |
 | `$DC3E–$E827` | `$DC3E–$DDE5` | `$DDE6–$E827` | `211` (+ sentinel `$E828`) | Yes | Equipment descriptions (`$00:B4A3`, `$0C:BDE4`) (**verified**) |

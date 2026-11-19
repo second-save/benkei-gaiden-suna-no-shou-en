@@ -4,7 +4,8 @@ Skill: translate-retro-game (`/Users/antoineclerc-renaud/.agents/skills/translat
 Hooks setup on fresh clone: `git config core.hooksPath tools/hooks`.
 
 ## Commands (run from repo root)
-- Build:    `python3 -X utf8 build.py` (TBD in Phase 3+; checks `rom.sha1` first)
+- Build:    `python3 -X utf8 build.py` (checks `rom.sha1` first; `--mode identity` produces byte-identical `build/id.sfc`)
+- Extract:  `python3 -X utf8 tools/extract.py` (extracts all 17 script JSON files into `script/`; never clobbers without `--force`)
 - Check:    `python3 -X utf8 tools/check.py` (pre-commit hook runs this)
 - Smoke:    `python3 -X utf8 tools/run_emu.py build/benkei_suna_en.sfc --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python3 -X utf8 tools/run_emu.py build/benkei_suna_en.sfc --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet`

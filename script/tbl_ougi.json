@@ -1,0 +1,90 @@
+{
+ "file": "tbl_ougi.json",
+ "bank": "0x1D",
+ "start": "0xB8E9",
+ "end": "0xB93D",
+ "kind": "sentinel_table",
+ "table": "jp.tbl",
+ "box": "ougi_name",
+ "data_start": "0xB8F9",
+ "has_ff": false,
+ "entries": [
+  {
+   "id": "tbl_ougi_000",
+   "index": 0,
+   "addr": "0xB8F9",
+   "size": 8,
+   "jp": "双流伽断",
+   "en": "",
+   "box": "ougi_name",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "tbl_ougi_001",
+   "index": 1,
+   "addr": "0xB901",
+   "size": 8,
+   "jp": "流招甲武",
+   "en": "",
+   "box": "ougi_name",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "tbl_ougi_002",
+   "index": 2,
+   "addr": "0xB909",
+   "size": 8,
+   "jp": "昇獣牙斬",
+   "en": "",
+   "box": "ougi_name",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "tbl_ougi_003",
+   "index": 3,
+   "addr": "0xB911",
+   "size": 10,
+   "jp": "狼星破操散",
+   "en": "",
+   "box": "ougi_name",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "tbl_ougi_004",
+   "index": 4,
+   "addr": "0xB91B",
+   "size": 10,
+   "jp": "豪龍交破斬",
+   "en": "",
+   "box": "ougi_name",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "tbl_ougi_005",
+   "index": 5,
+   "addr": "0xB925",
+   "size": 12,
+   "jp": "闘虎麗気攻敢",
+   "en": "",
+   "box": "ougi_name",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "tbl_ougi_006",
+   "index": 6,
+   "addr": "0xB931",
+   "size": 12,
+   "jp": "至天法魔光翔",
+   "en": "",
+   "box": "ougi_name",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

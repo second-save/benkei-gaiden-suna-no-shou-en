@@ -1,0 +1,4501 @@
+{
+ "file": "ui_bank1d_c2.json",
+ "bank": "0x1D",
+ "start": "0xC2D1",
+ "end": "0xD834",
+ "kind": "ff_strings",
+ "table": "jp.tbl",
+ "box": "ui",
+ "entries": [
+  {
+   "id": "1D_C2D1",
+   "addr": "0xC2D1",
+   "size": 15,
+   "jp": "弁慶外伝 沙の章{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C2E0",
+   "addr": "0xC2E0",
+   "size": 18,
+   "jp": "1モ   2モ   ヨコ   タテ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C2F2",
+   "addr": "0xC2F2",
+   "size": 10,
+   "jp": "しょうがいチェック{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C2FC",
+   "addr": "0xC2FC",
+   "size": 9,
+   "jp": "人物チェック{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C305",
+   "addr": "0xC305",
+   "size": 7,
+   "jp": "敵チェック{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C30C",
+   "addr": "0xC30C",
+   "size": 5,
+   "jp": "サウンド{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C311",
+   "addr": "0xC311",
+   "size": 6,
+   "jp": "こうかおん{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C317",
+   "addr": "0xC317",
+   "size": 6,
+   "jp": "ステータス{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C31D",
+   "addr": "0xC31D",
+   "size": 4,
+   "jp": "おわり{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C321",
+   "addr": "0xC321",
+   "size": 3,
+   "jp": "有{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C324",
+   "addr": "0xC324",
+   "size": 3,
+   "jp": "無{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C327",
+   "addr": "0xC327",
+   "size": 5,
+   "jp": " 力 {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C32C",
+   "addr": "0xC32C",
+   "size": 5,
+   "jp": "法術{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C331",
+   "addr": "0xC331",
+   "size": 5,
+   "jp": "道具{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C336",
+   "addr": "0xC336",
+   "size": 5,
+   "jp": "装備{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C33B",
+   "addr": "0xC33B",
+   "size": 5,
+   "jp": "隊列{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C340",
+   "addr": "0xC340",
+   "size": 5,
+   "jp": "調査{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C345",
+   "addr": "0xC345",
+   "size": 7,
+   "jp": "作成中{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C34C",
+   "addr": "0xC34C",
+   "size": 7,
+   "jp": "{name0}{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C353",
+   "addr": "0xC353",
+   "size": 7,
+   "jp": "{name1}{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C35A",
+   "addr": "0xC35A",
+   "size": 7,
+   "jp": "{name2}{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C361",
+   "addr": "0xC361",
+   "size": 7,
+   "jp": "  忍  {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C368",
+   "addr": "0xC368",
+   "size": 7,
+   "jp": "{name4}{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C36F",
+   "addr": "0xC36F",
+   "size": 7,
+   "jp": "{name3}{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C376",
+   "addr": "0xC376",
+   "size": 7,
+   "jp": " 弁慶 {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C37D",
+   "addr": "0xC37D",
+   "size": 5,
+   "jp": "説明{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C382",
+   "addr": "0xC382",
+   "size": 7,
+   "jp": "入れ替え{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C389",
+   "addr": "0xC389",
+   "size": 4,
+   "jp": "すてる{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C38D",
+   "addr": "0xC38D",
+   "size": 4,
+   "jp": "買う{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C391",
+   "addr": "0xC391",
+   "size": 4,
+   "jp": "売る{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C395",
+   "addr": "0xC395",
+   "size": 4,
+   "jp": "レベル{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C399",
+   "addr": "0xC399",
+   "size": 5,
+   "jp": "体力{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C39E",
+   "addr": "0xC39E",
+   "size": 5,
+   "jp": "法力{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C3A3",
+   "addr": "0xC3A3",
+   "size": 8,
+   "jp": "素早さ ：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C3AB",
+   "addr": "0xC3AB",
+   "size": 8,
+   "jp": "  運  ：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C3B3",
+   "addr": "0xC3B3",
+   "size": 8,
+   "jp": "攻撃力：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C3BB",
+   "addr": "0xC3BB",
+   "size": 8,
+   "jp": "守備力：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C3C3",
+   "addr": "0xC3C3",
+   "size": 7,
+   "jp": "経験値{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C3CA",
+   "addr": "0xC3CA",
+   "size": 9,
+   "jp": "次のレベルまで{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C3D3",
+   "addr": "0xC3D3",
+   "size": 4,
+   "jp": "モード{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C3D7",
+   "addr": "0xC3D7",
+   "size": 5,
+   "jp": "スピード{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C3DC",
+   "addr": "0xC3DC",
+   "size": 4,
+   "jp": "使う{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C3E0",
+   "addr": "0xC3E0",
+   "size": 19,
+   "jp": "レベル   体力    法力{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C3F3",
+   "addr": "0xC3F3",
+   "size": 2,
+   "jp": "／{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C3F5",
+   "addr": "0xC3F5",
+   "size": 10,
+   "jp": "／       ／{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C3FF",
+   "addr": "0xC3FF",
+   "size": 8,
+   "jp": "  力  ：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C407",
+   "addr": "0xC407",
+   "size": 10,
+   "jp": "キャラクタチェック{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C411",
+   "addr": "0xC411",
+   "size": 3,
+   "jp": "銭{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C414",
+   "addr": "0xC414",
+   "size": 3,
+   "jp": "銀{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C417",
+   "addr": "0xC417",
+   "size": 4,
+   "jp": "武：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C41B",
+   "addr": "0xC41B",
+   "size": 4,
+   "jp": "鎧：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C41F",
+   "addr": "0xC41F",
+   "size": 4,
+   "jp": "兜：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C423",
+   "addr": "0xC423",
+   "size": 4,
+   "jp": "防：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C427",
+   "addr": "0xC427",
+   "size": 5,
+   "jp": "攻撃{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C42C",
+   "addr": "0xC42C",
+   "size": 5,
+   "jp": "一斉{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C431",
+   "addr": "0xC431",
+   "size": 5,
+   "jp": "守護{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C436",
+   "addr": "0xC436",
+   "size": 5,
+   "jp": "防御{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C43B",
+   "addr": "0xC43B",
+   "size": 5,
+   "jp": "幻術{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C440",
+   "addr": "0xC440",
+   "size": 5,
+   "jp": "剣術{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C445",
+   "addr": "0xC445",
+   "size": 3,
+   "jp": "はい{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C448",
+   "addr": "0xC448",
+   "size": 4,
+   "jp": "いいえ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C44C",
+   "addr": "0xC44C",
+   "size": 5,
+   "jp": "遁走{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C451",
+   "addr": "0xC451",
+   "size": 16,
+   "jp": " あ  い  う  え  お {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C461",
+   "addr": "0xC461",
+   "size": 16,
+   "jp": " か  き  く  け  こ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C471",
+   "addr": "0xC471",
+   "size": 16,
+   "jp": " さ  し  す  せ  そ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C481",
+   "addr": "0xC481",
+   "size": 16,
+   "jp": " た  ち  つ  て  と {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C491",
+   "addr": "0xC491",
+   "size": 16,
+   "jp": " な  に  ぬ  ね  の {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C4A1",
+   "addr": "0xC4A1",
+   "size": 16,
+   "jp": " は  ひ  ふ  へ  ほ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C4B1",
+   "addr": "0xC4B1",
+   "size": 16,
+   "jp": " ま  み  む  め  も {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C4C1",
+   "addr": "0xC4C1",
+   "size": 16,
+   "jp": " や     ゆ     よ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C4D1",
+   "addr": "0xC4D1",
+   "size": 16,
+   "jp": " ら  り  る  れ  ろ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C4E1",
+   "addr": "0xC4E1",
+   "size": 16,
+   "jp": " わ     を     ん {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C4F1",
+   "addr": "0xC4F1",
+   "size": 16,
+   "jp": " が  ぎ  ぐ  げ  ご {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C501",
+   "addr": "0xC501",
+   "size": 16,
+   "jp": " ざ  じ  ず  ぜ  ぞ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C511",
+   "addr": "0xC511",
+   "size": 16,
+   "jp": " だ  ぢ  づ  で  ど {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C521",
+   "addr": "0xC521",
+   "size": 16,
+   "jp": " ば  び  ぶ  べ  ぼ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C531",
+   "addr": "0xC531",
+   "size": 16,
+   "jp": " ぱ  ぴ  ぷ  ぺ  ぽ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C541",
+   "addr": "0xC541",
+   "size": 16,
+   "jp": " ぁ  ぃ  ぅ  ぇ  ぉ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C551",
+   "addr": "0xC551",
+   "size": 16,
+   "jp": " っ  ゃ  ゅ  ょ    {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C561",
+   "addr": "0xC561",
+   "size": 16,
+   "jp": " ア  イ  ウ  エ  オ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C571",
+   "addr": "0xC571",
+   "size": 16,
+   "jp": " カ  キ  ク  ケ  コ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C581",
+   "addr": "0xC581",
+   "size": 16,
+   "jp": " サ  シ  ス  セ  ソ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C591",
+   "addr": "0xC591",
+   "size": 16,
+   "jp": " タ  チ  ツ  テ  ト {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C5A1",
+   "addr": "0xC5A1",
+   "size": 16,
+   "jp": " ナ  ニ  ヌ  ネ  ノ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C5B1",
+   "addr": "0xC5B1",
+   "size": 16,
+   "jp": " ハ  ヒ  フ  ヘ  ホ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C5C1",
+   "addr": "0xC5C1",
+   "size": 16,
+   "jp": " マ  ミ  ム  メ  モ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C5D1",
+   "addr": "0xC5D1",
+   "size": 16,
+   "jp": " ヤ     ユ     ヨ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C5E1",
+   "addr": "0xC5E1",
+   "size": 16,
+   "jp": " ラ  リ  ル  レ  ロ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C5F1",
+   "addr": "0xC5F1",
+   "size": 16,
+   "jp": " ワ     ヲ     ン {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C601",
+   "addr": "0xC601",
+   "size": 16,
+   "jp": " ガ  ギ  グ  ゲ  ゴ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C611",
+   "addr": "0xC611",
+   "size": 16,
+   "jp": " ザ  ジ  ズ  ゼ  ゾ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C621",
+   "addr": "0xC621",
+   "size": 16,
+   "jp": " ダ  ヂ  ヅ  デ  ド {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C631",
+   "addr": "0xC631",
+   "size": 16,
+   "jp": " バ  ビ  ブ  ベ  ボ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C641",
+   "addr": "0xC641",
+   "size": 16,
+   "jp": " パ  ピ  プ  ペ  ポ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C651",
+   "addr": "0xC651",
+   "size": 16,
+   "jp": " ァ  ィ  ゥ  ェ  ォ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C661",
+   "addr": "0xC661",
+   "size": 16,
+   "jp": " ッ  ャ  ュ  ョ    {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C671",
+   "addr": "0xC671",
+   "size": 16,
+   "jp": " 0  1  2  3  4 {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C681",
+   "addr": "0xC681",
+   "size": 16,
+   "jp": " 5  6  7  8  9 {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C691",
+   "addr": "0xC691",
+   "size": 16,
+   "jp": "    ！  ？  ：  ー {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6A1",
+   "addr": "0xC6A1",
+   "size": 16,
+   "jp": " ＼  ／  。  、  ・ {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6B1",
+   "addr": "0xC6B1",
+   "size": 16,
+   "jp": " ’  「  」  （  ） {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6C1",
+   "addr": "0xC6C1",
+   "size": 5,
+   "jp": "ひらがな{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6C6",
+   "addr": "0xC6C6",
+   "size": 5,
+   "jp": "カタカナ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6CB",
+   "addr": "0xC6CB",
+   "size": 5,
+   "jp": "記号{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6D0",
+   "addr": "0xC6D0",
+   "size": 5,
+   "jp": "漢字{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6D5",
+   "addr": "0xC6D5",
+   "size": 5,
+   "jp": "作字{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6DA",
+   "addr": "0xC6DA",
+   "size": 4,
+   "jp": " 終{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6DE",
+   "addr": "0xC6DE",
+   "size": 7,
+   "jp": "全消去{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6E5",
+   "addr": "0xC6E5",
+   "size": 7,
+   "jp": "初期化{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6EC",
+   "addr": "0xC6EC",
+   "size": 5,
+   "jp": "設定{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6F1",
+   "addr": "0xC6F1",
+   "size": 5,
+   "jp": "文章{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6F6",
+   "addr": "0xC6F6",
+   "size": 5,
+   "jp": "戦闘{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C6FB",
+   "addr": "0xC6FB",
+   "size": 5,
+   "jp": "音楽{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C700",
+   "addr": "0xC700",
+   "size": 5,
+   "jp": "背色{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C705",
+   "addr": "0xC705",
+   "size": 5,
+   "jp": "超速{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C70A",
+   "addr": "0xC70A",
+   "size": 3,
+   "jp": "速{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C70D",
+   "addr": "0xC70D",
+   "size": 3,
+   "jp": "中{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C710",
+   "addr": "0xC710",
+   "size": 3,
+   "jp": "遅{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C713",
+   "addr": "0xC713",
+   "size": 5,
+   "jp": "極遅{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C718",
+   "addr": "0xC718",
+   "size": 3,
+   "jp": "動{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C71B",
+   "addr": "0xC71B",
+   "size": 3,
+   "jp": "文{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C71E",
+   "addr": "0xC71E",
+   "size": 3,
+   "jp": "双{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C721",
+   "addr": "0xC721",
+   "size": 3,
+   "jp": "一{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C724",
+   "addr": "0xC724",
+   "size": 3,
+   "jp": "赤{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C727",
+   "addr": "0xC727",
+   "size": 3,
+   "jp": "緑{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C72A",
+   "addr": "0xC72A",
+   "size": 3,
+   "jp": "青{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C72D",
+   "addr": "0xC72D",
+   "size": 9,
+   "jp": "経過時間{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C736",
+   "addr": "0xC736",
+   "size": 10,
+   "jp": "時間   分{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C740",
+   "addr": "0xC740",
+   "size": 5,
+   "jp": "文字{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C745",
+   "addr": "0xC745",
+   "size": 7,
+   "jp": "弁2フラグ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C74C",
+   "addr": "0xC74C",
+   "size": 6,
+   "jp": "武フラグ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C752",
+   "addr": "0xC752",
+   "size": 6,
+   "jp": "物フラグ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C758",
+   "addr": "0xC758",
+   "size": 24,
+   "jp": "名気体力法力経験値呪レベル{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C770",
+   "addr": "0xC770",
+   "size": 17,
+   "jp": " 0 1 2 3 4 5 6 7{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C781",
+   "addr": "0xC781",
+   "size": 3,
+   "jp": "00{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C784",
+   "addr": "0xC784",
+   "size": 3,
+   "jp": "04{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C787",
+   "addr": "0xC787",
+   "size": 3,
+   "jp": "08{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C78A",
+   "addr": "0xC78A",
+   "size": 3,
+   "jp": "0C{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C78D",
+   "addr": "0xC78D",
+   "size": 3,
+   "jp": "10{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C790",
+   "addr": "0xC790",
+   "size": 3,
+   "jp": "14{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C793",
+   "addr": "0xC793",
+   "size": 3,
+   "jp": "18{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C796",
+   "addr": "0xC796",
+   "size": 3,
+   "jp": "1C{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C799",
+   "addr": "0xC799",
+   "size": 5,
+   "jp": "マンラム{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C79E",
+   "addr": "0xC79E",
+   "size": 5,
+   "jp": "メンバー{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7A3",
+   "addr": "0xC7A3",
+   "size": 6,
+   "jp": "始めから{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7A9",
+   "addr": "0xC7A9",
+   "size": 6,
+   "jp": "続きから{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7AF",
+   "addr": "0xC7AF",
+   "size": 6,
+   "jp": "記録1{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7B5",
+   "addr": "0xC7B5",
+   "size": 6,
+   "jp": "記録2{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7BB",
+   "addr": "0xC7BB",
+   "size": 6,
+   "jp": "記録3{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7C1",
+   "addr": "0xC7C1",
+   "size": 4,
+   "jp": "セーブ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7C5",
+   "addr": "0xC7C5",
+   "size": 3,
+   "jp": "男{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7C8",
+   "addr": "0xC7C8",
+   "size": 3,
+   "jp": "女{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7CB",
+   "addr": "0xC7CB",
+   "size": 3,
+   "jp": "にて{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7CE",
+   "addr": "0xC7CE",
+   "size": 5,
+   "jp": "片手{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7D3",
+   "addr": "0xC7D3",
+   "size": 3,
+   "jp": " ー{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7D6",
+   "addr": "0xC7D6",
+   "size": 5,
+   "jp": "（前）{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7DB",
+   "addr": "0xC7DB",
+   "size": 4,
+   "jp": " 1つ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7DF",
+   "addr": "0xC7DF",
+   "size": 5,
+   "jp": "全部{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7E4",
+   "addr": "0xC7E4",
+   "size": 4,
+   "jp": " 極{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7E8",
+   "addr": "0xC7E8",
+   "size": 5,
+   "jp": "地図{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7ED",
+   "addr": "0xC7ED",
+   "size": 2,
+   "jp": "あ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7EF",
+   "addr": "0xC7EF",
+   "size": 11,
+   "jp": "      静寂{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C7FA",
+   "addr": "0xC7FA",
+   "size": 11,
+   "jp": "      おごそか{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C805",
+   "addr": "0xC805",
+   "size": 14,
+   "jp": "  青い空と月の夜{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C813",
+   "addr": "0xC813",
+   "size": 13,
+   "jp": "    敵は眼前！{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C820",
+   "addr": "0xC820",
+   "size": 13,
+   "jp": "   死闘の主題{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C82D",
+   "addr": "0xC82D",
+   "size": 11,
+   "jp": "     地の底{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C838",
+   "addr": "0xC838",
+   "size": 12,
+   "jp": "    天空の城{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C844",
+   "addr": "0xC844",
+   "size": 11,
+   "jp": "      呪界{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C84F",
+   "addr": "0xC84F",
+   "size": 11,
+   "jp": "      ほのぼの{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C85A",
+   "addr": "0xC85A",
+   "size": 15,
+   "jp": "  強者どもが夢のあと{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C869",
+   "addr": "0xC869",
+   "size": 13,
+   "jp": "    広がる世界{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C876",
+   "addr": "0xC876",
+   "size": 12,
+   "jp": "     おどりのうた{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C882",
+   "addr": "0xC882",
+   "size": 13,
+   "jp": "   大陸をいこう！{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C88F",
+   "addr": "0xC88F",
+   "size": 12,
+   "jp": "     強敵ども{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C89B",
+   "addr": "0xC89B",
+   "size": 12,
+   "jp": "     四天王{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C8A7",
+   "addr": "0xC8A7",
+   "size": 13,
+   "jp": "   平和が一番{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C8B4",
+   "addr": "0xC8B4",
+   "size": 13,
+   "jp": "   黄河の主題{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C8C1",
+   "addr": "0xC8C1",
+   "size": 13,
+   "jp": "    聖なる地平{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C8CE",
+   "addr": "0xC8CE",
+   "size": 17,
+   "jp": "雅（みやび）ー日本の美ー{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C8DF",
+   "addr": "0xC8DF",
+   "size": 14,
+   "jp": "  伽ー大陸の心ー{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C8ED",
+   "addr": "0xC8ED",
+   "size": 14,
+   "jp": "   さらば愛しきひとよ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C8FB",
+   "addr": "0xC8FB",
+   "size": 11,
+   "jp": "      試練{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C906",
+   "addr": "0xC906",
+   "size": 12,
+   "jp": "    呪われし魂{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C912",
+   "addr": "0xC912",
+   "size": 12,
+   "jp": "     風に語る{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C91E",
+   "addr": "0xC91E",
+   "size": 16,
+   "jp": " 大空を舞うとりのように{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C92E",
+   "addr": "0xC92E",
+   "size": 11,
+   "jp": "      宝箱{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C939",
+   "addr": "0xC939",
+   "size": 15,
+   "jp": " 重要アイテムうれしいな{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C948",
+   "addr": "0xC948",
+   "size": 11,
+   "jp": "      成長{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C953",
+   "addr": "0xC953",
+   "size": 10,
+   "jp": "      コドウ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C95D",
+   "addr": "0xC95D",
+   "size": 12,
+   "jp": "    水音その1{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C969",
+   "addr": "0xC969",
+   "size": 12,
+   "jp": "    水音その2{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C975",
+   "addr": "0xC975",
+   "size": 12,
+   "jp": "    地震その1{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C981",
+   "addr": "0xC981",
+   "size": 12,
+   "jp": "    地震その2{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C98D",
+   "addr": "0xC98D",
+   "size": 10,
+   "jp": "      勝ち{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C997",
+   "addr": "0xC997",
+   "size": 11,
+   "jp": "      仲間{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C9A2",
+   "addr": "0xC9A2",
+   "size": 12,
+   "jp": "      剣技1{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C9AE",
+   "addr": "0xC9AE",
+   "size": 12,
+   "jp": "      剣技2{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C9BA",
+   "addr": "0xC9BA",
+   "size": 11,
+   "jp": "      必殺{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C9C5",
+   "addr": "0xC9C5",
+   "size": 12,
+   "jp": "      遁走！{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C9D1",
+   "addr": "0xC9D1",
+   "size": 11,
+   "jp": "     ひとやすみ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C9DC",
+   "addr": "0xC9DC",
+   "size": 11,
+   "jp": "      転移{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C9E7",
+   "addr": "0xC9E7",
+   "size": 13,
+   "jp": "    全・滅・・・{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_C9F4",
+   "addr": "0xC9F4",
+   "size": 14,
+   "jp": "   三日月の笛1{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA02",
+   "addr": "0xCA02",
+   "size": 14,
+   "jp": "   三日月の笛2{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA10",
+   "addr": "0xCA10",
+   "size": 11,
+   "jp": "       風1{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA1B",
+   "addr": "0xCA1B",
+   "size": 11,
+   "jp": "       風2{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA26",
+   "addr": "0xCA26",
+   "size": 12,
+   "jp": "    大和の国{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA32",
+   "addr": "0xCA32",
+   "size": 13,
+   "jp": "   魔物の主題{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA3F",
+   "addr": "0xCA3F",
+   "size": 13,
+   "jp": "    悪戦苦闘{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA4C",
+   "addr": "0xCA4C",
+   "size": 13,
+   "jp": "     都（みやこ）{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA59",
+   "addr": "0xCA59",
+   "size": 11,
+   "jp": "      のんびり{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA64",
+   "addr": "0xCA64",
+   "size": 12,
+   "jp": "    心の準備{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA70",
+   "addr": "0xCA70",
+   "size": 13,
+   "jp": "    わかれの主題{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA7D",
+   "addr": "0xCA7D",
+   "size": 12,
+   "jp": "    過去のこと{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA89",
+   "addr": "0xCA89",
+   "size": 11,
+   "jp": "      洞窟{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA94",
+   "addr": "0xCA94",
+   "size": 10,
+   "jp": "       塔{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CA9E",
+   "addr": "0xCA9E",
+   "size": 10,
+   "jp": "       寺{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CAA8",
+   "addr": "0xCAA8",
+   "size": 16,
+   "jp": " 阿 愛 逢 悪 圧{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CAB8",
+   "addr": "0xCAB8",
+   "size": 16,
+   "jp": " 安 暗 案 闇   {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CAC8",
+   "addr": "0xCAC8",
+   "size": 16,
+   "jp": " 以 伊 依 偉 夷{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CAD8",
+   "addr": "0xCAD8",
+   "size": 16,
+   "jp": " 威 意 易 異 移{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CAE8",
+   "addr": "0xCAE8",
+   "size": 16,
+   "jp": " 衣 違 遺 医 井{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CAF8",
+   "addr": "0xCAF8",
+   "size": 16,
+   "jp": " 域 育 一 印 因{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CB08",
+   "addr": "0xCB08",
+   "size": 16,
+   "jp": " 引 飲 陰 隠   {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CB18",
+   "addr": "0xCB18",
+   "size": 16,
+   "jp": " 右 宇 烏 羽 渦{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CB28",
+   "addr": "0xCB28",
+   "size": 16,
+   "jp": " 浦 噂 運 雲   {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CB38",
+   "addr": "0xCB38",
+   "size": 16,
+   "jp": " 営 影 永 英 衛{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CB48",
+   "addr": "0xCB48",
+   "size": 16,
+   "jp": " 越 円 園 怨 炎{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CB58",
+   "addr": "0xCB58",
+   "size": 16,
+   "jp": " 焔 苑 遠      {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CB68",
+   "addr": "0xCB68",
+   "size": 16,
+   "jp": " 奥 応 王 黄 岡{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CB78",
+   "addr": "0xCB78",
+   "size": 16,
+   "jp": " 沖 屋 億 臆 音{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CB88",
+   "addr": "0xCB88",
+   "size": 16,
+   "jp": " 下 化 仮 何 伽{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CB98",
+   "addr": "0xCB98",
+   "size": 16,
+   "jp": " 加 可 家 果 歌{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CBA8",
+   "addr": "0xCBA8",
+   "size": 16,
+   "jp": " 河 火 花 蝦 過{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CBB8",
+   "addr": "0xCBB8",
+   "size": 16,
+   "jp": " 我 牙 画 芽 蛾{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CBC8",
+   "addr": "0xCBC8",
+   "size": 16,
+   "jp": " 賀 雅 餓 介 会{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CBD8",
+   "addr": "0xCBD8",
+   "size": 16,
+   "jp": " 解 回 壊 怪 戒{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CBE8",
+   "addr": "0xCBE8",
+   "size": 16,
+   "jp": " 海 界 皆 絵 開{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CBF8",
+   "addr": "0xCBF8",
+   "size": 16,
+   "jp": " 外 慨 街 鎧 確{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CC08",
+   "addr": "0xCC08",
+   "size": 16,
+   "jp": " 覚 角 閣 学 楽{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CC18",
+   "addr": "0xCC18",
+   "size": 16,
+   "jp": " 掛 笠 割 活 樺{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CC28",
+   "addr": "0xCC28",
+   "size": 16,
+   "jp": " 兜 鎌 巻 完 官{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CC38",
+   "addr": "0xCC38",
+   "size": 16,
+   "jp": " 感 敢 棺 漢 監{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CC48",
+   "addr": "0xCC48",
+   "size": 16,
+   "jp": " 看 緩 艦 観 間{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CC58",
+   "addr": "0xCC58",
+   "size": 16,
+   "jp": " 関 館 丸 岸 眼{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CC68",
+   "addr": "0xCC68",
+   "size": 16,
+   "jp": " 岩 頑 顔 願   {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CC78",
+   "addr": "0xCC78",
+   "size": 16,
+   "jp": " 危 喜 器 基 奇{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CC88",
+   "addr": "0xCC88",
+   "size": 16,
+   "jp": " 幾 揮 期 機 帰{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CC98",
+   "addr": "0xCC98",
+   "size": 16,
+   "jp": " 気 祈 稀 紀 記{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CCA8",
+   "addr": "0xCCA8",
+   "size": 16,
+   "jp": " 貴 起 軌 飢 鬼{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CCB8",
+   "addr": "0xCCB8",
+   "size": 16,
+   "jp": " 技 義 議 吉 客{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CCC8",
+   "addr": "0xCCC8",
+   "size": 16,
+   "jp": " 脚 久 休 宮 弓{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CCD8",
+   "addr": "0xCCD8",
+   "size": 16,
+   "jp": " 急 救 泣 球 究{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CCE8",
+   "addr": "0xCCE8",
+   "size": 16,
+   "jp": " 牛 去 居 巨 拠{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CCF8",
+   "addr": "0xCCF8",
+   "size": 16,
+   "jp": " 挙 虚 許 漁 魚{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CD08",
+   "addr": "0xCD08",
+   "size": 16,
+   "jp": " 京 供 共 凶 協{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CD18",
+   "addr": "0xCD18",
+   "size": 16,
+   "jp": " 叫 境 強 怯 恐{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CD28",
+   "addr": "0xCD28",
+   "size": 16,
+   "jp": " 教 橋 狂 郷 鏡{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CD38",
+   "addr": "0xCD38",
+   "size": 16,
+   "jp": " 驚 業 極 玉 巾{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CD48",
+   "addr": "0xCD48",
+   "size": 16,
+   "jp": " 禁 近 金 銀   {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CD58",
+   "addr": "0xCD58",
+   "size": 16,
+   "jp": " 九 狗 苦 具 空{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CD68",
+   "addr": "0xCD68",
+   "size": 16,
+   "jp": " 櫛 掘 窟 熊 君{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CD78",
+   "addr": "0xCD78",
+   "size": 16,
+   "jp": " 群 軍         {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CD88",
+   "addr": "0xCD88",
+   "size": 16,
+   "jp": " 係 刑 兄 形 慶{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CD98",
+   "addr": "0xCD98",
+   "size": 16,
+   "jp": " 経 継 警 芸 迎{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CDA8",
+   "addr": "0xCDA8",
+   "size": 16,
+   "jp": " 撃 決 結 血 月{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CDB8",
+   "addr": "0xCDB8",
+   "size": 16,
+   "jp": " 件 健 剣 堅 拳{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CDC8",
+   "addr": "0xCDC8",
+   "size": 16,
+   "jp": " 犬 献 研 絹 肩{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CDD8",
+   "addr": "0xCDD8",
+   "size": 16,
+   "jp": " 見 鍵 険 験 元{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CDE8",
+   "addr": "0xCDE8",
+   "size": 16,
+   "jp": " 原 幻 源 玄 現{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CDF8",
+   "addr": "0xCDF8",
+   "size": 16,
+   "jp": " 言 限         {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CE08",
+   "addr": "0xCE08",
+   "size": 16,
+   "jp": " 古 呼 固 己 湖{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CE18",
+   "addr": "0xCE18",
+   "size": 16,
+   "jp": " 虎 誇 五 互 後{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CE28",
+   "addr": "0xCE28",
+   "size": 16,
+   "jp": " 御 悟 語 護 交{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CE38",
+   "addr": "0xCE38",
+   "size": 16,
+   "jp": " 光 公 口 向 好{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CE48",
+   "addr": "0xCE48",
+   "size": 16,
+   "jp": " 工 巧 幸 広 弘{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CE58",
+   "addr": "0xCE58",
+   "size": 16,
+   "jp": " 恒 抗 攻 江 浩{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CE68",
+   "addr": "0xCE68",
+   "size": 16,
+   "jp": " 港 甲 皇 考 航{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CE78",
+   "addr": "0xCE78",
+   "size": 16,
+   "jp": " 荒 行 鋼 降 香{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CE88",
+   "addr": "0xCE88",
+   "size": 16,
+   "jp": " 高 剛 号 合 拷{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CE98",
+   "addr": "0xCE98",
+   "size": 16,
+   "jp": " 豪 克 刻 国 酷{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CEA8",
+   "addr": "0xCEA8",
+   "size": 16,
+   "jp": " 黒 獄 骨 込 今{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CEB8",
+   "addr": "0xCEB8",
+   "size": 16,
+   "jp": " 困 恨 根 魂   {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CEC8",
+   "addr": "0xCEC8",
+   "size": 16,
+   "jp": " 佐 左 差 査 沙{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CED8",
+   "addr": "0xCED8",
+   "size": 16,
+   "jp": " 砂 鎖 座 再 最{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CEE8",
+   "addr": "0xCEE8",
+   "size": 16,
+   "jp": " 塞 妻 才 砦 在{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CEF8",
+   "addr": "0xCEF8",
+   "size": 16,
+   "jp": " 坂 崎 作 索 桜{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CF08",
+   "addr": "0xCF08",
+   "size": 16,
+   "jp": " 札 殺 薩 三 参{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CF18",
+   "addr": "0xCF18",
+   "size": 16,
+   "jp": " 山 散 産 斬 残{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CF28",
+   "addr": "0xCF28",
+   "size": 16,
+   "jp": " 仕 使 刺 司 史{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CF38",
+   "addr": "0xCF38",
+   "size": 16,
+   "jp": " 四 士 始 姉 姿{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CF48",
+   "addr": "0xCF48",
+   "size": 16,
+   "jp": " 子 師 志 思 指{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CF58",
+   "addr": "0xCF58",
+   "size": 16,
+   "jp": " 支 止 死 氏 私{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CF68",
+   "addr": "0xCF68",
+   "size": 16,
+   "jp": " 糸 紫 至 詩 試{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CF78",
+   "addr": "0xCF78",
+   "size": 16,
+   "jp": " 資 事 似 児 字{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CF88",
+   "addr": "0xCF88",
+   "size": 16,
+   "jp": " 寺 持 時 次 治{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CF98",
+   "addr": "0xCF98",
+   "size": 16,
+   "jp": " 示 自 鹿 式 識{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CFA8",
+   "addr": "0xCFA8",
+   "size": 16,
+   "jp": " 七 執 失 室 質{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CFB8",
+   "addr": "0xCFB8",
+   "size": 16,
+   "jp": " 実 芝 者 蛇 邪{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CFC8",
+   "addr": "0xCFC8",
+   "size": 16,
+   "jp": " 灼 釈 若 寂 弱{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CFD8",
+   "addr": "0xCFD8",
+   "size": 16,
+   "jp": " 主 取 守 手 朱{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CFE8",
+   "addr": "0xCFE8",
+   "size": 16,
+   "jp": " 殊 珠 種 酒 首{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_CFF8",
+   "addr": "0xCFF8",
+   "size": 16,
+   "jp": " 受 呪 樹 収 宗{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D008",
+   "addr": "0xD008",
+   "size": 16,
+   "jp": " 州 修 洲 秀 秋{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D018",
+   "addr": "0xD018",
+   "size": 16,
+   "jp": " 終 習 舟 衆 襲{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D028",
+   "addr": "0xD028",
+   "size": 16,
+   "jp": " 讐 集 住 十 従{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D038",
+   "addr": "0xD038",
+   "size": 16,
+   "jp": " 獣 重 叙 宿 出{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D048",
+   "addr": "0xD048",
+   "size": 16,
+   "jp": " 術 春 準 盾 処{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D058",
+   "addr": "0xD058",
+   "size": 16,
+   "jp": " 初 所 緒 書 助{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D068",
+   "addr": "0xD068",
+   "size": 16,
+   "jp": " 女 傷 勝 匠 商{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D078",
+   "addr": "0xD078",
+   "size": 16,
+   "jp": " 将 小 少 承 招{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D088",
+   "addr": "0xD088",
+   "size": 16,
+   "jp": " 昇 晶 松 消 焼{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D098",
+   "addr": "0xD098",
+   "size": 16,
+   "jp": " 照 章 証 障 上{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D0A8",
+   "addr": "0xD0A8",
+   "size": 16,
+   "jp": " 丈 乗 城 場 常{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D0B8",
+   "addr": "0xD0B8",
+   "size": 16,
+   "jp": " 情 条 杖 譲 飾{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D0C8",
+   "addr": "0xD0C8",
+   "size": 16,
+   "jp": " 色 触 食 信 侵{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D0D8",
+   "addr": "0xD0D8",
+   "size": 16,
+   "jp": " 寝 心 新 森 深{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D0E8",
+   "addr": "0xD0E8",
+   "size": 16,
+   "jp": " 申 真 神 親 身{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D0F8",
+   "addr": "0xD0F8",
+   "size": 16,
+   "jp": " 進 針 震 人 仁{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D108",
+   "addr": "0xD108",
+   "size": 16,
+   "jp": " 刃 陣         {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D118",
+   "addr": "0xD118",
+   "size": 15,
+   "jp": " 図 水 数 雀  {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D127",
+   "addr": "0xD127",
+   "size": 16,
+   "jp": " 世 制 勢 性 成{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D137",
+   "addr": "0xD137",
+   "size": 16,
+   "jp": " 政 星 正 清 生{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D147",
+   "addr": "0xD147",
+   "size": 16,
+   "jp": " 聖 声 西 誠 醒{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D157",
+   "addr": "0xD157",
+   "size": 16,
+   "jp": " 青 静 斉 隻 昔{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D167",
+   "addr": "0xD167",
+   "size": 16,
+   "jp": " 石 責 赤 跡 切{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D177",
+   "addr": "0xD177",
+   "size": 16,
+   "jp": " 拙 節 説 絶 仙{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D187",
+   "addr": "0xD187",
+   "size": 16,
+   "jp": " 先 千 占 川 戦{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D197",
+   "addr": "0xD197",
+   "size": 16,
+   "jp": " 泉 浅 染 船 銭{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D1A7",
+   "addr": "0xD1A7",
+   "size": 16,
+   "jp": " 前 然 全 禅   {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D1B7",
+   "addr": "0xD1B7",
+   "size": 16,
+   "jp": " 祖 素 組 僧 双{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D1C7",
+   "addr": "0xD1C7",
+   "size": 16,
+   "jp": " 倉 宋 層 捜 操{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D1D7",
+   "addr": "0xD1D7",
+   "size": 16,
+   "jp": " 早 槍 争 相 総{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D1E7",
+   "addr": "0xD1E7",
+   "size": 16,
+   "jp": " 草 葬 蒼 藻 装{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D1F7",
+   "addr": "0xD1F7",
+   "size": 16,
+   "jp": " 走 送 増 憎 蔵{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D207",
+   "addr": "0xD207",
+   "size": 16,
+   "jp": " 造 側 息 束 足{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D217",
+   "addr": "0xD217",
+   "size": 16,
+   "jp": " 賊 族 続 存 孫{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D227",
+   "addr": "0xD227",
+   "size": 16,
+   "jp": " 村            {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D237",
+   "addr": "0xD237",
+   "size": 16,
+   "jp": " 他 多 太 打 体{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D247",
+   "addr": "0xD247",
+   "size": 16,
+   "jp": " 対 耐 待 替 泰{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D257",
+   "addr": "0xD257",
+   "size": 16,
+   "jp": " 退 隊 代 台 大{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D267",
+   "addr": "0xD267",
+   "size": 16,
+   "jp": " 第 題 沢 達 奪{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D277",
+   "addr": "0xD277",
+   "size": 16,
+   "jp": " 脱 谷 誰 探 短{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D287",
+   "addr": "0xD287",
+   "size": 16,
+   "jp": " 端 団 壇 断 男{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D297",
+   "addr": "0xD297",
+   "size": 16,
+   "jp": " 値 知 地 智 置{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D2A7",
+   "addr": "0xD2A7",
+   "size": 16,
+   "jp": " 築 竹 茶 着 中{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D2B7",
+   "addr": "0xD2B7",
+   "size": 16,
+   "jp": " 仲 忠 昼 虫 兆{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D2C7",
+   "addr": "0xD2C7",
+   "size": 16,
+   "jp": " 張 挑 朝 町 蝶{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D2D7",
+   "addr": "0xD2D7",
+   "size": 16,
+   "jp": " 調 超 跳 長 直{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D2E7",
+   "addr": "0xD2E7",
+   "size": 16,
+   "jp": " 津 槌 追 通 塚{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D2F7",
+   "addr": "0xD2F7",
+   "size": 16,
+   "jp": " 爪 釣         {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D307",
+   "addr": "0xD307",
+   "size": 16,
+   "jp": " 定 帝 底 廷 弟{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D317",
+   "addr": "0xD317",
+   "size": 16,
+   "jp": " 抵 敵 的 笛 哲{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D327",
+   "addr": "0xD327",
+   "size": 16,
+   "jp": " 鉄 天 店 転 点{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D337",
+   "addr": "0xD337",
+   "size": 16,
+   "jp": " 伝 殿 田      {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D347",
+   "addr": "0xD347",
+   "size": 16,
+   "jp": " 吐 渡 登 都 度{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D357",
+   "addr": "0xD357",
+   "size": 16,
+   "jp": " 土 奴 怒 倒 刀{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D367",
+   "addr": "0xD367",
+   "size": 16,
+   "jp": " 唐 塔 島 嶋 東{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D377",
+   "addr": "0xD377",
+   "size": 16,
+   "jp": " 盗 湯 灯 当 統{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D387",
+   "addr": "0xD387",
+   "size": 16,
+   "jp": " 藤 討 豆 踏 逃{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D397",
+   "addr": "0xD397",
+   "size": 16,
+   "jp": " 頭 闘 働 動 同{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D3A7",
+   "addr": "0xD3A7",
+   "size": 16,
+   "jp": " 堂 導 洞 童 胴{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D3B7",
+   "addr": "0xD3B7",
+   "size": 16,
+   "jp": " 道 銅 得 徳 特{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D3C7",
+   "addr": "0xD3C7",
+   "size": 16,
+   "jp": " 篤 毒 突 敦 遁{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D3D7",
+   "addr": "0xD3D7",
+   "size": 16,
+   "jp": " 鈍            {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D3E7",
+   "addr": "0xD3E7",
+   "size": 16,
+   "jp": " 内 南 難      {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D3F7",
+   "addr": "0xD3F7",
+   "size": 16,
+   "jp": " 二 肉 日 入 任{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D407",
+   "addr": "0xD407",
+   "size": 16,
+   "jp": " 忍            {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D417",
+   "addr": "0xD417",
+   "size": 16,
+   "jp": " 猫 熱 年 念   {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D427",
+   "addr": "0xD427",
+   "size": 16,
+   "jp": " 乃 之 能      {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D437",
+   "addr": "0xD437",
+   "size": 16,
+   "jp": " 派 琶 破 馬 廃{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D447",
+   "addr": "0xD447",
+   "size": 16,
+   "jp": " 背 配 買 売 博{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D457",
+   "addr": "0xD457",
+   "size": 16,
+   "jp": " 泊 白 漠 爆 縛{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D467",
+   "addr": "0xD467",
+   "size": 16,
+   "jp": " 莫 箱 肇 八 鉢{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D477",
+   "addr": "0xD477",
+   "size": 16,
+   "jp": " 発 髪 抜 判 半{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D487",
+   "addr": "0xD487",
+   "size": 16,
+   "jp": " 反 版 飯 番 盤{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D497",
+   "addr": "0xD497",
+   "size": 16,
+   "jp": " 卑 彼 悲 扉 皮{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D4A7",
+   "addr": "0xD4A7",
+   "size": 16,
+   "jp": " 碑 秘 飛 備 尾{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D4B7",
+   "addr": "0xD4B7",
+   "size": 16,
+   "jp": " 琵 眉 美 必 姫{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D4C7",
+   "addr": "0xD4C7",
+   "size": 16,
+   "jp": " 百 氷 評 病 浜{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D4D7",
+   "addr": "0xD4D7",
+   "size": 16,
+   "jp": " 貧            {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D4E7",
+   "addr": "0xD4E7",
+   "size": 16,
+   "jp": " 不 付 夫 府 怖{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D4F7",
+   "addr": "0xD4F7",
+   "size": 16,
+   "jp": " 敷 斧 父 符 腐{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D507",
+   "addr": "0xD507",
+   "size": 16,
+   "jp": " 負 武 舞 部 封{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D517",
+   "addr": "0xD517",
+   "size": 16,
+   "jp": " 風 副 復 幅 服{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D527",
+   "addr": "0xD527",
+   "size": 16,
+   "jp": " 仏 物 分 噴 粉{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D537",
+   "addr": "0xD537",
+   "size": 16,
+   "jp": " 文 聞         {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D547",
+   "addr": "0xD547",
+   "size": 16,
+   "jp": " 兵 平 閉 陛 壁{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D557",
+   "addr": "0xD557",
+   "size": 16,
+   "jp": " 変 片 編 辺 返{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D567",
+   "addr": "0xD567",
+   "size": 16,
+   "jp": " 勉 弁 鞭      {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D577",
+   "addr": "0xD577",
+   "size": 16,
+   "jp": " 保 捕 墓 母 宝{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D587",
+   "addr": "0xD587",
+   "size": 16,
+   "jp": " 崩 捧 放 方 法{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D597",
+   "addr": "0xD597",
+   "size": 16,
+   "jp": " 蜂 訪 鳳 乏 亡{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D5A7",
+   "addr": "0xD5A7",
+   "size": 16,
+   "jp": " 坊 帽 忘 忙 房{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D5B7",
+   "addr": "0xD5B7",
+   "size": 16,
+   "jp": " 暴 望 貿 防 北{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D5C7",
+   "addr": "0xD5C7",
+   "size": 16,
+   "jp": " 本 翻         {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D5D7",
+   "addr": "0xD5D7",
+   "size": 16,
+   "jp": " 摩 磨 魔 妹 槙{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D5E7",
+   "addr": "0xD5E7",
+   "size": 16,
+   "jp": " 幕 末 万 満   {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D5F7",
+   "addr": "0xD5F7",
+   "size": 16,
+   "jp": " 味 未 巳 岬 密{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D607",
+   "addr": "0xD607",
+   "size": 16,
+   "jp": " 脈 妙 民 眠   {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D617",
+   "addr": "0xD617",
+   "size": 16,
+   "jp": " 夢 無 矛 娘   {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D627",
+   "addr": "0xD627",
+   "size": 16,
+   "jp": " 名 命 明 迷 鳴{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D637",
+   "addr": "0xD637",
+   "size": 16,
+   "jp": " 滅 面         {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D647",
+   "addr": "0xD647",
+   "size": 16,
+   "jp": " 毛 蒙 木 目 戻{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D657",
+   "addr": "0xD657",
+   "size": 16,
+   "jp": " 問 紋 門      {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D667",
+   "addr": "0xD667",
+   "size": 16,
+   "jp": " 夜 野 弥 矢 役{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D677",
+   "addr": "0xD677",
+   "size": 16,
+   "jp": " 約 薬 訳 躍   {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D687",
+   "addr": "0xD687",
+   "size": 16,
+   "jp": " 唯 優 勇 友 幽{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D697",
+   "addr": "0xD697",
+   "size": 16,
+   "jp": " 有 由 祐 裕 遊{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D6A7",
+   "addr": "0xD6A7",
+   "size": 16,
+   "jp": " 予 余 幼 妖 揚{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D6B7",
+   "addr": "0xD6B7",
+   "size": 16,
+   "jp": " 揺 様 溶 用 葉{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D6C7",
+   "addr": "0xD6C7",
+   "size": 16,
+   "jp": " 要 陽 欲      {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D6D7",
+   "addr": "0xD6D7",
+   "size": 16,
+   "jp": " 羅 来 頼 雷 洛{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D6E7",
+   "addr": "0xD6E7",
+   "size": 16,
+   "jp": " 絡 落 乱 嵐 蘭{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D6F7",
+   "addr": "0xD6F7",
+   "size": 16,
+   "jp": " 李 理 裏 里 陸{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D707",
+   "addr": "0xD707",
+   "size": 16,
+   "jp": " 立 略 流 留 竜{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D717",
+   "addr": "0xD717",
+   "size": 16,
+   "jp": " 龍 侶 慮 旅 両{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D727",
+   "addr": "0xD727",
+   "size": 16,
+   "jp": " 料 良 陵 領 力{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D737",
+   "addr": "0xD737",
+   "size": 16,
+   "jp": " 緑 林 臨 輪 鱗{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D747",
+   "addr": "0xD747",
+   "size": 16,
+   "jp": " 類            {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D757",
+   "addr": "0xD757",
+   "size": 16,
+   "jp": " 令 冷 礼 鈴 隷{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D767",
+   "addr": "0xD767",
+   "size": 16,
+   "jp": " 霊 麗 歴 列 劣{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D777",
+   "addr": "0xD777",
+   "size": 16,
+   "jp": " 裂 恋 練 蓮 連{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D787",
+   "addr": "0xD787",
+   "size": 16,
+   "jp": " 路 朗 楼 牢 狼{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D797",
+   "addr": "0xD797",
+   "size": 16,
+   "jp": " 老 郎 六 録   {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7A7",
+   "addr": "0xD7A7",
+   "size": 16,
+   "jp": " 倭 和 話 鷲 腕{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7B7",
+   "addr": "0xD7B7",
+   "size": 16,
+   "jp": "               {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7C7",
+   "addr": "0xD7C7",
+   "size": 5,
+   "jp": "気監{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7CC",
+   "addr": "0xD7CC",
+   "size": 5,
+   "jp": "いっせい{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7D1",
+   "addr": "0xD7D1",
+   "size": 5,
+   "jp": "暗越{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7D6",
+   "addr": "0xD7D6",
+   "size": 5,
+   "jp": "英供{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7DB",
+   "addr": "0xD7DB",
+   "size": 5,
+   "jp": "軌共{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7E0",
+   "addr": "0xD7E0",
+   "size": 5,
+   "jp": "しゅご {end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7E5",
+   "addr": "0xD7E5",
+   "size": 5,
+   "jp": "ぼうぎょ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7EA",
+   "addr": "0xD7EA",
+   "size": 5,
+   "jp": "賀越{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7EF",
+   "addr": "0xD7EF",
+   "size": 5,
+   "jp": "樺江{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7F4",
+   "addr": "0xD7F4",
+   "size": 2,
+   "jp": "／{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7F6",
+   "addr": "0xD7F6",
+   "size": 3,
+   "jp": "はい{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7F9",
+   "addr": "0xD7F9",
+   "size": 4,
+   "jp": "いいえ{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D7FD",
+   "addr": "0xD7FD",
+   "size": 10,
+   "jp": "これでいいですか？{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D807",
+   "addr": "0xD807",
+   "size": 6,
+   "jp": "が残れた{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D80D",
+   "addr": "0xD80D",
+   "size": 8,
+   "jp": "気監月：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D815",
+   "addr": "0xD815",
+   "size": 8,
+   "jp": "刑屋月：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D81D",
+   "addr": "0xD81D",
+   "size": 7,
+   "jp": "処初さ：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D824",
+   "addr": "0xD824",
+   "size": 4,
+   "jp": "樺：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D828",
+   "addr": "0xD828",
+   "size": 4,
+   "jp": "掘：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D82C",
+   "addr": "0xD82C",
+   "size": 4,
+   "jp": "窟：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_D830",
+   "addr": "0xD830",
+   "size": 4,
+   "jp": "京：{end}",
+   "en": "",
+   "box": "ui",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

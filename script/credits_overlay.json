@@ -1,0 +1,661 @@
+{
+ "file": "credits_overlay.json",
+ "bank": "0x1D",
+ "start": "0xF59F",
+ "end": "0xF7F9",
+ "kind": "ff_strings",
+ "table": "credits_jp.tbl",
+ "box": "credits_overlay",
+ "entries": [
+  {
+   "id": "1D_F59F",
+   "addr": "0xF59F",
+   "size": 5,
+   "jp": "制作{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F5A4",
+   "addr": "0xF5A4",
+   "size": 10,
+   "jp": "酒{sF079} 敦史{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F5AE",
+   "addr": "0xF5AE",
+   "size": 9,
+   "jp": "籏野  篤{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F5B7",
+   "addr": "0xF5B7",
+   "size": 5,
+   "jp": "演出{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F5BC",
+   "addr": "0xF5BC",
+   "size": 10,
+   "jp": " 東  祐{sF0BA}{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F5C6",
+   "addr": "0xF5C6",
+   "size": 10,
+   "jp": "佐藤 秀{sF0FA}{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F5D0",
+   "addr": "0xF5D0",
+   "size": 9,
+   "jp": "村田  肇{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F5D9",
+   "addr": "0xF5D9",
+   "size": 5,
+   "jp": "美術{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F5DE",
+   "addr": "0xF5DE",
+   "size": 9,
+   "jp": "石川  巧{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F5E7",
+   "addr": "0xF5E7",
+   "size": 10,
+   "jp": "小島 裕{sF0BA}{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F5F1",
+   "addr": "0xF5F1",
+   "size": 10,
+   "jp": "打道 良二{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F5FB",
+   "addr": "0xF5FB",
+   "size": 5,
+   "jp": "作曲{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F600",
+   "addr": "0xF600",
+   "size": 10,
+   "jp": "{sF08D}山 {sF0B8}司{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F60A",
+   "addr": "0xF60A",
+   "size": 5,
+   "jp": "{sF0A2}{sF0CF}{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F60F",
+   "addr": "0xF60F",
+   "size": 9,
+   "jp": "塚本  浩{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F618",
+   "addr": "0xF618",
+   "size": 10,
+   "jp": "{sF088}田 則昭{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F622",
+   "addr": "0xF622",
+   "size": 10,
+   "jp": "鈴木 和子{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F62C",
+   "addr": "0xF62C",
+   "size": 5,
+   "jp": "題字{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F631",
+   "addr": "0xF631",
+   "size": 10,
+   "jp": "寺田 白{sF08B}{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F63B",
+   "addr": "0xF63B",
+   "size": 5,
+   "jp": "協力{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F640",
+   "addr": "0xF640",
+   "size": 10,
+   "jp": "東谷 浩明{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F64A",
+   "addr": "0xF64A",
+   "size": 10,
+   "jp": "江口 弘泰{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F654",
+   "addr": "0xF654",
+   "size": 10,
+   "jp": "山本 {sF08F}夫{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F65E",
+   "addr": "0xF65E",
+   "size": 5,
+   "jp": "{sF0DE}修{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F663",
+   "addr": "0xF663",
+   "size": 10,
+   "jp": "吉田 {sF0EE}春{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F66D",
+   "addr": "0xF66D",
+   "size": 10,
+   "jp": "丹{sF086} 正義{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F677",
+   "addr": "0xF677",
+   "size": 12,
+   "jp": "山本 千枝子{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F683",
+   "addr": "0xF683",
+   "size": 10,
+   "jp": "野村 佳弘{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F68D",
+   "addr": "0xF68D",
+   "size": 10,
+   "jp": "土{sF09F} 幸司{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F697",
+   "addr": "0xF697",
+   "size": 10,
+   "jp": "北川 正昭{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F6A1",
+   "addr": "0xF6A1",
+   "size": 10,
+   "jp": "槇原 {sF0B8}治{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F6AB",
+   "addr": "0xF6AB",
+   "size": 9,
+   "jp": "秋元  靖{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F6B4",
+   "addr": "0xF6B4",
+   "size": 12,
+   "jp": "湯沢 裕里子{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F6C0",
+   "addr": "0xF6C0",
+   "size": 10,
+   "jp": "桜{sF079} 幸治{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F6CA",
+   "addr": "0xF6CA",
+   "size": 10,
+   "jp": "塚田 {sF0B8}士{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F6D4",
+   "addr": "0xF6D4",
+   "size": 9,
+   "jp": "鹿野  克{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F6DD",
+   "addr": "0xF6DD",
+   "size": 9,
+   "jp": "網代  亨{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F6E6",
+   "addr": "0xF6E6",
+   "size": 12,
+   "jp": "{sF088}浜 浩三朗{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F6F2",
+   "addr": "0xF6F2",
+   "size": 12,
+   "jp": "{sF084}津木 武史{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F6FE",
+   "addr": "0xF6FE",
+   "size": 9,
+   "jp": " 林   保{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F707",
+   "addr": "0xF707",
+   "size": 10,
+   "jp": "竹内 昭人{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F711",
+   "addr": "0xF711",
+   "size": 10,
+   "jp": "{sF099}村 {sF07C}晃{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F71B",
+   "addr": "0xF71B",
+   "size": 10,
+   "jp": "後藤 和暁{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F725",
+   "addr": "0xF725",
+   "size": 10,
+   "jp": "{sF0AD}合 正人{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F72F",
+   "addr": "0xF72F",
+   "size": 10,
+   "jp": "浅田 明弘{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F739",
+   "addr": "0xF739",
+   "size": 10,
+   "jp": "{sF0E9}田 義明{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F743",
+   "addr": "0xF743",
+   "size": 10,
+   "jp": "白木 君明{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F74D",
+   "addr": "0xF74D",
+   "size": 10,
+   "jp": " 森  達男{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F757",
+   "addr": "0xF757",
+   "size": 10,
+   "jp": "渡辺 和幸{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F761",
+   "addr": "0xF761",
+   "size": 10,
+   "jp": "辛嶋 啓行{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F76B",
+   "addr": "0xF76B",
+   "size": 10,
+   "jp": "諏訪 智香{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F775",
+   "addr": "0xF775",
+   "size": 10,
+   "jp": "丹{sF086} 知美{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F77F",
+   "addr": "0xF77F",
+   "size": 10,
+   "jp": "{sF0E9}渕 直行{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F789",
+   "addr": "0xF789",
+   "size": 10,
+   "jp": "大田 正之{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F793",
+   "addr": "0xF793",
+   "size": 10,
+   "jp": "高田 久靖{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F79D",
+   "addr": "0xF79D",
+   "size": 10,
+   "jp": "徳{sF08E} 雄次{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F7A7",
+   "addr": "0xF7A7",
+   "size": 9,
+   "jp": "青柳  勝{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F7B0",
+   "addr": "0xF7B0",
+   "size": 9,
+   "jp": "{sF08E}野  修{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F7B9",
+   "addr": "0xF7B9",
+   "size": 5,
+   "jp": "脚本{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F7BE",
+   "addr": "0xF7BE",
+   "size": 10,
+   "jp": "中村 {sF07C}朗{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F7C8",
+   "addr": "0xF7C8",
+   "size": 12,
+   "jp": " 柳  草{sF07C}郎{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F7D4",
+   "addr": "0xF7D4",
+   "size": 10,
+   "jp": "山形 厚史{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F7DE",
+   "addr": "0xF7DE",
+   "size": 5,
+   "jp": "進行{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F7E3",
+   "addr": "0xF7E3",
+   "size": 10,
+   "jp": "酒{sF079} 豊澄{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "1D_F7ED",
+   "addr": "0xF7ED",
+   "size": 12,
+   "jp": "池下 友香子{end}",
+   "en": "",
+   "box": "credits_overlay",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "file": "party_names.json",
+ "bank": "0x00",
+ "start": "0xF534",
+ "end": "0xF552",
+ "kind": "fixed_records",
+ "table": "jp.tbl",
+ "box": "party_name",
+ "record_size": 6,
+ "entries": [
+  {
+   "id": "party_0",
+   "index": 0,
+   "addr": "0xF534",
+   "size": 6,
+   "max_bytes": 6,
+   "jp": " 不動 ",
+   "en": "",
+   "box": "party_name",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "party_1",
+   "index": 1,
+   "addr": "0xF53A",
+   "size": 6,
+   "max_bytes": 6,
+   "jp": " 巳陰 ",
+   "en": "",
+   "box": "party_name",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "party_2",
+   "index": 2,
+   "addr": "0xF540",
+   "size": 6,
+   "max_bytes": 6,
+   "jp": " 常由 ",
+   "en": "",
+   "box": "party_name",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "party_3",
+   "index": 3,
+   "addr": "0xF546",
+   "size": 6,
+   "max_bytes": 6,
+   "jp": " 白蓮 ",
+   "en": "",
+   "box": "party_name",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "party_4",
+   "index": 4,
+   "addr": "0xF54C",
+   "size": 6,
+   "max_bytes": 6,
+   "jp": " 鳴沙 ",
+   "en": "",
+   "box": "party_name",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}
