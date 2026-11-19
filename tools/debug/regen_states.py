@@ -51,10 +51,17 @@ def parse_scenes(path: Path = SCENES_LUA) -> list[dict]:
     return parsed
 
 
-def run_scene(scene: dict, rom: Path, timeout: int, dry_run: bool = False) -> bool:
+def run_scene(
+    scene: dict,
+    rom: Path,
+    timeout: int,
+    qa_root: Path,
+    no_states: bool = False,
+    dry_run: bool = False,
+) -> bool:
     name = scene["name"]
     state_out = ROOT / "work" / "states" / f"{name}.mss"
-    qa_dir = ROOT / "work" / "qa" / "debug_warp" / name
+    qa_dir = qa_root / name
     cmd = [
         sys.executable,
         "-X",
@@ -73,11 +80,11 @@ def run_scene(scene: dict, rom: Path, timeout: int, dry_run: bool = False) -> bo
         str(scene["shot_every"]),
         "--sheet",
         "--smoke",
-        "--state-out",
-        str(state_out),
         "--timeout",
         str(timeout),
     ]
+    if not no_states:
+        cmd.extend(["--state-out", str(state_out)])
     if scene["route"]:
         cmd.extend(["--route-str", scene["route"]])
     if dry_run:
@@ -93,10 +100,14 @@ def run_scene(scene: dict, rom: Path, timeout: int, dry_run: bool = False) -> bo
     if f"WARP_OK {name}" not in log_text:
         print(f"FAIL {name}: missing 'WARP_OK {name}' in {log_path}", file=sys.stderr)
         return False
-    if not state_out.is_file():
+    if not no_states and not state_out.is_file():
         print(f"FAIL {name}: savestate not written: {state_out}", file=sys.stderr)
         return False
-    print(f"OK {name}: state={state_out.relative_to(ROOT)} sheet={(qa_dir / 'sheet.png').relative_to(ROOT)}")
+    sheet_rel = (qa_dir / "sheet.png").relative_to(ROOT) if (qa_dir / "sheet.png").is_relative_to(ROOT) else (qa_dir / "sheet.png")
+    if no_states:
+        print(f"OK {name}: sheet={sheet_rel}")
+    else:
+        print(f"OK {name}: state={state_out.relative_to(ROOT)} sheet={sheet_rel}")
     return True
 
 
@@ -104,6 +115,8 @@ def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--rom", type=Path, default=DEFAULT_ROM, help="Target SFC ROM path")
     ap.add_argument("--scenes", nargs="*", help="Optional subset of scene names")
+    ap.add_argument("--qa-dir", type=Path, default=ROOT / "work" / "qa" / "debug_warp", help="Base QA output directory")
+    ap.add_argument("--no-states", action="store_true", help="Do not write or check work/states/*.mss savestates")
     ap.add_argument("--list", action="store_true", help="List available scenes and exit")
     ap.add_argument("--dry-run", action="store_true", help="Print emulator commands without executing")
     ap.add_argument("--timeout", type=int, default=120, help="Per-scene emulator timeout in seconds")
@@ -131,7 +144,7 @@ def main(argv: list[str] | None = None) -> int:
 
     ok = True
     for s in selected:
-        if not run_scene(s, args.rom, args.timeout, args.dry_run):
+        if not run_scene(s, args.rom, args.timeout, args.qa_dir, args.no_states, args.dry_run):
             ok = False
     return 0 if ok else 1
 

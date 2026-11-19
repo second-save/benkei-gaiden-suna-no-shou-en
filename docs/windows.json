@@ -1,0 +1,202 @@
+{
+  "dialogue": {
+    "width_px": 192,
+    "max_lines": 3,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/talk_MK_fixed/final.png",
+    "notes": "Paged dialogue box ($00:ED80): $D5=24 tiles (192px) x $D7=3 lines per {page} inside 28-tile (224px) window border (tx=2..29)."
+  },
+  "prologue_crawl": {
+    "width_px": 208,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/act2_prologue/final.png",
+    "notes": "Act 2 Kublai ocean crawl ($09:9C4A): 1x VWF per $FF string on full 256px BG3 with left/right margins (~208px safe)."
+  },
+  "ending_crawl": {
+    "width_px": 208,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/act2_prologue/final.png",
+    "notes": "Epilogue crawl ($1D:A200..A57A): uses same 1x BG3 line renderer as prologue_crawl; <=21 JP chars, ~208px safe width."
+  },
+  "system": {
+    "width_px": 192,
+    "max_lines": 3,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/talk_MK_fixed/final.png",
+    "notes": "Shop, inn, save, and system messages ($1D:A800..B0AB): rendered in the standard 192px x 3-line dialogue window."
+  },
+  "ui": {
+    "width_px": 144,
+    "max_lines": 2,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/name_entry/final.png",
+    "notes": "General UI labels ($1D:C2D1..D834); narrow sub-boxes (title_menu, battle_cmd, status_lv, status_slash, status_currency) have tighter limits below."
+  },
+  "equip_name": {
+    "width_px": 96,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/equip_and_items/final.png",
+    "notes": "2-column equip/shop item list inside 30-tile (240px) window (tx=1..30): ~12 printable tiles (96px) per column."
+  },
+  "item_name": {
+    "width_px": 96,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/equip_and_items/final.png",
+    "notes": "2-column consumable item/shop list inside 240px window: 96px (12 tiles) per column."
+  },
+  "jutsu_name": {
+    "width_px": 96,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/menus_detail/f000680.png",
+    "notes": "2-column jutsu/spell list in menu and battle windows: <=96px (12 tiles) per column."
+  },
+  "ougi_name": {
+    "width_px": 96,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/menus_detail/f000680.png",
+    "notes": "Special attack names displayed in battle/tech lists ($1D:B8E9..B93D): <=96px per entry."
+  },
+  "enemy_name": {
+    "width_px": 120,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/battle_rakan/final.png",
+    "notes": "Battle right enemy list shares 17-tile box (tx=14..30) minus cursor/margin -> 120px safe width; encounter banner has 192px."
+  },
+  "location_banner": {
+    "width_px": 224,
+    "max_lines": 1,
+    "fixed_char_px": 16,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/loc_banner/final.png",
+    "notes": "2x fixed-grid location banner ($0B:8F6C): 16px per char, 16-char (256px) hard max; 14 chars (224px) recommended for left/right margins."
+  },
+  "equip_desc": {
+    "width_px": 192,
+    "max_lines": 3,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/talk_MK_fixed/final.png",
+    "notes": "Equipment descriptions ($1D:DC3E..E827) shown in 192px x 3-line description/dialogue window (max 29 JP chars / 3 lines)."
+  },
+  "item_desc": {
+    "width_px": 192,
+    "max_lines": 2,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/talk_MK_fixed/final.png",
+    "notes": "Item descriptions ($1D:E828..ECCD) shown in 192px x 2-line description window."
+  },
+  "jutsu_desc": {
+    "width_px": 192,
+    "max_lines": 3,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/talk_MK_fixed/final.png",
+    "notes": "Jutsu descriptions & MP cost formatting ($1D:ECCE..F59E): 192px x 3 lines."
+  },
+  "credits_overlay": {
+    "width_px": 96,
+    "max_lines": 2,
+    "fixed_char_px": 16,
+    "status": "measured",
+    "shot": "work/qa/marker/chapter_card/final.png",
+    "notes": "2x ben_097 overlay ($1D:F59F..F7F7): conservative 6-char (96px) top-slot ceiling; see credits_overlay_top (96px) and credits_overlay_bottom (160px)."
+  },
+  "credits_overlay_top": {
+    "width_px": 96,
+    "max_lines": 1,
+    "fixed_char_px": 16,
+    "status": "measured",
+    "shot": "work/qa/marker/chapter_card/final.png",
+    "notes": "2x chapter/role top line ($0B:8EE3 -> VRAM $0400..$057F): hard limit 6 chars at 16px/char = 96px."
+  },
+  "credits_overlay_bottom": {
+    "width_px": 160,
+    "max_lines": 1,
+    "fixed_char_px": 16,
+    "status": "measured",
+    "shot": "work/qa/marker/chapter_card/final.png",
+    "notes": "2x staff/name bottom line ($0B:8F06 -> VRAM $0580..$07FF): hard limit 10 chars at 16px/char = 160px."
+  },
+  "party_name": {
+    "width_px": 48,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/battle_cmd_fixed/f000480.png",
+    "notes": "Default party member names ($30:A900 -> Hook_F4D9 -> $7E:A800): hardware 6 tiles x 8px = 48px max width."
+  },
+  "title_menu": {
+    "width_px": 48,
+    "max_lines": 2,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/title/final.png",
+    "notes": "Title Start/Continue box (1D_C7A3, 1D_C7A9): 6 printable tiles (48px) right of cursor at tx=12."
+  },
+  "battle_cmd": {
+    "width_px": 40,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/battle_cmd_fixed/f000480.png",
+    "notes": "Bottom-left 2x2 battle command box (1D_C427, 1D_C44C, 1D_C32C, 1D_C331): 5 tiles (40px) per option."
+  },
+  "battle_msg": {
+    "width_px": 192,
+    "max_lines": 3,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/battle_normal/final.png",
+    "notes": "Full-width bottom battle message box (tx=1..30, $D5=24 tiles printable)."
+  },
+  "battle_hud_name": {
+    "width_px": 48,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/battle_cmd_fixed/f000480.png",
+    "notes": "Top battle HUD & command box header party name: rendered from {name0..4} 48px slot."
+  },
+  "status_lv": {
+    "width_px": 24,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/status_screen/final.png",
+    "notes": "Status box level label (1D_C395): 3 tiles (24px) before numeric level overwrites column 4."
+  },
+  "status_slash": {
+    "width_px": 8,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/status_screen/final.png",
+    "notes": "Status HP/MP separator (1D_C3F3 / D7F4): 1 tile (8px) wide between current and max values."
+  },
+  "status_currency": {
+    "width_px": 16,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/marker/qa_interactive/status_screen/final.png",
+    "notes": "Status currency unit label (1D_C411): 2 tiles (16px) left of amount."
+  }
+}

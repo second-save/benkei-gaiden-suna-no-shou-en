@@ -4,18 +4,19 @@ Skill: translate-retro-game (`/Users/antoineclerc-renaud/.agents/skills/translat
 Hooks setup on fresh clone: `git config core.hooksPath tools/hooks`.
 
 ## Commands (run from repo root)
-- Build:    `python3 -X utf8 build.py` (checks `rom.sha1` first; `--mode identity` produces byte-identical `build/id.sfc`)
+- Build:    `python3 -X utf8 build.py [--mode identity|marker|translate]` (checks `rom.sha1` first; `--mode identity` -> `build/id.sfc`, `--mode marker` -> `build/marker.sfc`, `--mode translate` -> `build/benkei_suna_<lang>.sfc`)
+- Font:     `python3 -X utf8 tools/make_font.py [--check]` (generates `asm/font_en_1bpp.bin` and `asm/font_en_widths.bin`)
 - Extract:  `python3 -X utf8 tools/extract.py` (extracts all 17 script JSON files into `script/`; never clobbers without `--force`)
 - Check:    `python3 -X utf8 tools/check.py` (pre-commit hook runs this)
 - Smoke:    `python3 -X utf8 tools/run_emu.py build/benkei_suna_en.sfc --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python3 -X utf8 tools/run_emu.py build/benkei_suna_en.sfc --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet`
-- States:   `python3 -X utf8 tools/debug/regen_states.py` (cold-boot regenerates all 13 debug savestates + QA sheets from `tools/debug/scenes.lua`; `warp.lua` also accepts `--var "GOD=1"`, `NOENC=1`, `FAST=1`)
+- States:   `python3 -X utf8 tools/debug/regen_states.py [--qa-dir work/qa/...] [--no-states]` (cold-boot regenerates all 13 debug savestates + QA sheets from `tools/debug/scenes.lua`; `warp.lua` also accepts `--var "GOD=1"`, `NOENC=1`, `FAST=1`)
 - Release:  `python3 -X utf8 tools/release.py` (never publish without user approval)
 
 ## Paths
 - Original ROM: `rom/Benkei Gaiden - Suna no Shou (Japan).sfc` (gitignored; SHA-1 `05a71b38a66f285564ec8447ff4877db74387860` in `rom.sha1`).
 - Emulator: `tools/mesen/Mesen.app/Contents/MacOS/Mesen` (MesenCE 2.2.1 macOS ARM64; settings in `tools/emu-config/`). Assembler: `tools/asar/asar` (Asar 1.91).
-- Text: `script/` (JSON). Tables: `tbl/`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts: `docs/fonts.md`. Savestates: `work/states/`.
+- Text: `script/` (JSON). Tables: `tbl/`. ASM Engine: `asm/engine.asm`. Window Budgets: `docs/windows.json`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts: `docs/fonts.md`. Savestates: `work/states/`.
 
 ## Rulings
 - Edit source files (`.py .lua .asm .tbl .json`) only with the file-edit tool; never shell heredocs, `sed -i`, or `.replace()` scripts.
