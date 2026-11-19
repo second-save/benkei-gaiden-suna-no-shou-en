@@ -7,6 +7,8 @@ Hooks setup on fresh clone: `git config core.hooksPath tools/hooks`.
 - Build:    `python3 -X utf8 build.py [--mode identity|marker|translate]` (checks `rom.sha1` first; `--mode identity` -> `build/id.sfc`, `--mode marker` -> `build/marker.sfc`, `--mode translate` -> `build/benkei_suna_<lang>.sfc`)
 - Font:     `python3 -X utf8 tools/make_font.py [--check]` (generates `asm/font_en_1bpp.bin` and `asm/font_en_widths.bin`)
 - Extract:  `python3 -X utf8 tools/extract.py` (extracts all 17 script JSON files into `script/`; never clobbers without `--force`)
+- Lint/Fit: `python3 -X utf8 tools/lint.py` | `python3 -X utf8 tools/fit.py [--box dialogue "text" | --tsv work/tl/b001.out.tsv]`
+- Batches:  `python3 -X utf8 tools/batches.py [split --size 3500 [--files ...]|check [bNNN...]|merge bNNN...|--selftest]`
 - Check:    `python3 -X utf8 tools/check.py` (pre-commit hook runs this)
 - Smoke:    `python3 -X utf8 tools/run_emu.py build/benkei_suna_en.sfc --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python3 -X utf8 tools/run_emu.py build/benkei_suna_en.sfc --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet`

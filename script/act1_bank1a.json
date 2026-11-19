@@ -12,9 +12,9 @@
    "addr": "0x8000",
    "size": 302,
    "jp": "ハヤテ「才蔵どの、おひさしゅうござる。帝の命により、参上仕った{page}才蔵「天道のハヤテか。して、帝は何と？{page}ハヤテ「ここに時 至れり と・・・{page}才蔵「・・・この才蔵にも、「動け」とのおおせか・・・{page}ハヤテ「御意に{page}才蔵「ウム。この砦のことを配下のものにたくした後、{name0}を連れて早急に帝のもとにまいろう{page}そのむね、帝にお伝えくだされ{page}ハヤテ「敵の刺客が、この地にもせまっているやも知れませぬ。恐ろしい魔術を使う手練でござる{page}すでに多くの法力者が命を奪われておりまする。くれぐれもお気をつけくだされ{end}",
-   "en": "",
+   "en": "Hayate: \"Master Saizo, it has{nl}been too long. I come at{nl}the Emperor's command.\"{page}Saizo: \"Hayate of the Tendo,{nl}is it? Well then, what word{nl}from the Emperor?\"{page}Hayate: \"He bids me say,{nl}'The hour has come.'...\"{page}Saizo: \"...So His Majesty bids{nl}even old Saizo step forth{nl}at last...\"{page}Hayate: \"Just so, my lord.\"{page}Saizo: \"Hmm. Once I leave{nl}this fort to my men, I shall{nl}bring {name0} swiftly{page}before the Emperor himself.{nl}Carry that word back to{nl}His Majesty.\"{page}Hayate: \"Enemy assassins may{nl}already be near -- adepts{nl}wielding dreadful sorcery.{page}Many Mystics have already{nl}fallen by their hand. Pray{nl}keep your guard raised.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -22,9 +22,9 @@
    "addr": "0x812E",
    "size": 88,
    "jp": "ハヤテ「おぬしが、{name0}どのか・・・{page}つらい修行に、長い間よく耐えてきたな。{name0}どのには、語らねばならぬことが多くある。では、いずれ。達者でな{end}",
-   "en": "",
+   "en": "Hayate: \"So you are{nl}{name0}...\"{page}\"You endured long years of{nl}grueling training. I have much{nl}to tell you, {name0}.{page}Until we meet again -- stay{nl}strong.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -32,9 +32,9 @@
    "addr": "0x8186",
    "size": 47,
    "jp": "才蔵「 {name0}、旅のしたくをいたせ。準備ができ次第、京の都にむかうぞ{end}",
-   "en": "",
+   "en": "Saizo: \"{name0}, ready{nl}yourself for the road. Once{nl}packed, we head to Kyoto.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -42,9 +42,9 @@
    "addr": "0x81B5",
    "size": 66,
    "jp": "ここは、修門砦。七十余年前、やがて襲い来るであろう「恐怖」に抗するため、帝の命によって築かれたのだ{end}",
-   "en": "",
+   "en": "\"This is Shumon Fort, built{nl}over seventy years ago by{nl}Imperial decree to defy a{page}coming 'Terror' bound to{nl}strike this land.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -52,9 +52,9 @@
    "addr": "0x81F7",
    "size": 16,
    "jp": " {name0}、気をつけてね{end}",
-   "en": "",
+   "en": "\"Be careful out there,{nl}{name0}.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -62,9 +62,9 @@
    "addr": "0x8207",
    "size": 33,
    "jp": "こらこら。これは、「戦鬼の碑」じゃ。遊び場ではないぜよ{end}",
-   "en": "",
+   "en": "\"Hey now! This here's the{nl}War Demon Stele -- not a{nl}playground, mind you!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -72,9 +72,9 @@
    "addr": "0x8228",
    "size": 66,
    "jp": "ここからは、大勢のものたちが旅だっていったちや。「天道一族」のハヤテも、才蔵さまの弟子の一人だった・・・{end}",
-   "en": "",
+   "en": "\"Plenty of folk have set out{nl}from here over the years.{nl}Hayate of the Tendo Clan{page}was one of Lord Saizo's{nl}very own pupils too...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -82,9 +82,9 @@
    "addr": "0x826A",
    "size": 28,
    "jp": " {name0}。おんしゃももう、一人前の男ぜよ{end}",
-   "en": "",
+   "en": "\"Look at you, {name0}.{nl}You're every bit a grown{nl}man now!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -92,9 +92,9 @@
    "addr": "0x8286",
    "size": 42,
    "jp": "ねえ、{name0}。あたし、みそしる作ったよお。かあちゃんも、食べにおいでって{end}",
-   "en": "",
+   "en": "\"Hey, {name0}! I made{nl}miso soup! Mom says to{nl}come and eat with us!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -102,9 +102,9 @@
    "addr": "0x82B0",
    "size": 42,
    "jp": " {name0}、だれも外に出しちゃいかんといわれちょるんじゃ。おんしゃだけぞね{end}",
-   "en": "",
+   "en": "\"Orders are strict, {name0}.{nl}Not a soul leaves the fort--{nl}except you, mind.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -112,9 +112,9 @@
    "addr": "0x82DA",
    "size": 47,
    "jp": "才蔵「旅のしたくをいたせ。明日にでも、わしとおまえは京の都におもむかねばならぬ{end}",
-   "en": "",
+   "en": "Saizo: \"Prepare for travel.{nl}As soon as tomorrow, you and{nl}I must depart for Kyoto.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -122,9 +122,9 @@
    "addr": "0x8309",
    "size": 43,
    "jp": "この部屋に、おぬしの持ち物を用意させておいた。しっかり身に着けておけ{end}",
-   "en": "",
+   "en": "\"I had your gear set out in{nl}these quarters. See that you{nl}equip every piece of it.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -132,9 +132,9 @@
    "addr": "0x8334",
    "size": 59,
    "jp": "すでに多くの法力者が、敵の刺客の手により命を落としているという。十分に気をつけてゆくのだぞ{end}",
-   "en": "",
+   "en": "\"Word says many Mystics{nl}have already fallen to enemy{nl}assassins. Stay sharp.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -142,9 +142,9 @@
    "addr": "0x836F",
    "size": 20,
    "jp": "なんてこった！！見つかっちゃったよ！{end}",
-   "en": "",
+   "en": "\"Oh no!! Someone spotted us!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -152,9 +152,9 @@
    "addr": "0x8383",
    "size": 28,
    "jp": "才蔵「どうした。何が起きたのだ！{nl}{name0}{end}",
-   "en": "",
+   "en": "Saizo: \"What happened out{nl}there?! {name0}!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -162,9 +162,9 @@
    "addr": "0x839F",
    "size": 63,
    "jp": "この砦をおおうのは、我が呪法「八方外法陣」。私を倒さねば、この結界は消えぬ{page}才蔵「何奴！{end}",
-   "en": "",
+   "en": "\"This barrier sealing your{nl}fort is my curse: the{nl}Happo Outer Array.{page}Unless you defeat me, the{nl}seal will never lift.\"{page}Saizo: \"Who goes there?!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -172,9 +172,9 @@
    "addr": "0x83DE",
    "size": 101,
    "jp": "私の名は、羅観（ラカン）。沙（すな）の血を引く者「{name0}」。この砦の者の命は、おまえにかかっている{page}そしてまた、私自身の宿命も・・・{page}我がもとに、来るがよい。{end}",
-   "en": "",
+   "en": "\"I am Rakan. {name0},{nl}bearer of Suna blood...{nl}the lives of everyone in this{page}fort now rest upon your{nl}shoulders... and with them,{nl}my own fate as well.{page}Come and face me.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -182,9 +182,9 @@
    "addr": "0x8443",
    "size": 20,
    "jp": "才蔵「・・・いくか？ {name0}{end}",
-   "en": "",
+   "en": "Saizo: \"...Going, {name0}?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -192,9 +192,9 @@
    "addr": "0x8457",
    "size": 59,
    "jp": "才蔵「よし。全てをおまえにたくそう。おまえが無事に帰った時、わしの知る全てを語ろう。では、ゆけ！{end}",
-   "en": "",
+   "en": "Saizo: \"Very well. I entrust{nl}everything to you. When you{nl}return safely, I will tell{page}you all that I know.{nl}Now go!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -202,9 +202,9 @@
    "addr": "0x8492",
    "size": 16,
    "jp": "才蔵「バカもの！いくのじゃ{end}",
-   "en": "",
+   "en": "Saizo: \"Foolish child!{nl}Get going at once!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -212,7 +212,7 @@
    "addr": "0x84A2",
    "size": 33,
    "jp": "才蔵「わしは、おまえの強さを信じておる。生きて帰れよ{end}",
-   "en": "",
+   "en": "Saizo: \"I believe in your{nl}strength. Come back alive.\"{end}",
    "box": "dialogue",
    "status": "todo",
    "notes": ""

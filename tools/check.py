@@ -13,6 +13,13 @@ def main() -> int:
     check_rom.check()
     print("rom ok")
 
+    r_lint = subprocess.run(
+        [sys.executable, "-X", "utf8", str(ROOT / "tools" / "batches.py"), "check"],
+        cwd=ROOT,
+    )
+    if r_lint.returncode != 0:
+        return r_lint.returncode
+
     tests_dir = ROOT / "tests"
     if tests_dir.is_dir() and any(tests_dir.glob("test_*.py")):
         r = subprocess.run(

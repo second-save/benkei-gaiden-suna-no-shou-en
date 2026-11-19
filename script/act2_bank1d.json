@@ -12,9 +12,9 @@
    "addr": "0x8000",
    "size": 26,
    "jp": " 「守光楼閣」崩壊とともに、日本は{end}",
-   "en": "",
+   "en": "With Shuko Pavilion's fall, Japan{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -22,9 +22,9 @@
    "addr": "0x801A",
    "size": 28,
    "jp": "「招嵐の法」を失った。これを知ったフビライ・{end}",
-   "en": "",
+   "en": "lost the Storm-Calling Rite. Upon{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -32,9 +32,9 @@
    "addr": "0x8036",
    "size": 27,
    "jp": "カンは、日本への第二次攻撃の準備を{end}",
-   "en": "",
+   "en": "learning of this, Kublai Khan urged{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -42,9 +42,9 @@
    "addr": "0x8051",
    "size": 27,
    "jp": "急がせた。その数、兵力十四万人、艦{end}",
-   "en": "",
+   "en": "on plans for a second invasion:{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -52,9 +52,9 @@
    "addr": "0x806C",
    "size": 27,
    "jp": "船四千四百隻。かつての攻撃軍をはる{end}",
-   "en": "",
+   "en": "140,000 troops and 4,400 warships,{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -62,9 +62,9 @@
    "addr": "0x8087",
    "size": 9,
    "jp": "かに上回る。{end}",
-   "en": "",
+   "en": "vastly outnumbering the first.{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -72,9 +72,9 @@
    "addr": "0x8090",
    "size": 26,
    "jp": " これを予期した北条時宗は、強力な{end}",
-   "en": "",
+   "en": "Expecting this, Hojo Tokimune posted{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -82,9 +82,9 @@
    "addr": "0x80AA",
    "size": 27,
    "jp": "防衛軍を北九州におき、蒙古軍の襲{end}",
-   "en": "",
+   "en": "strong defenses across northern{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -92,9 +92,9 @@
    "addr": "0x80C5",
    "size": 21,
    "jp": "来に備えるべく、全力を挙げた。{end}",
-   "en": "",
+   "en": "Kyushu to face the Mongol army.{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -102,9 +102,9 @@
    "addr": "0x80DA",
    "size": 27,
    "jp": " 一方、{name0}たちは源義経の残した{end}",
-   "en": "",
+   "en": "Meanwhile, {name0}'s band took{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -112,9 +112,9 @@
    "addr": "0x80F5",
    "size": 24,
    "jp": "言葉を受け、鳴沙を連れて、はるかな{end}",
-   "en": "",
+   "en": "Minamoto no Yoshitsune's charge to{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -122,9 +122,9 @@
    "addr": "0x810D",
    "size": 27,
    "jp": "中国大陸に渡った。旅行く先は、幻の{end}",
-   "en": "",
+   "en": "heart, sailing with Meisa for China{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -132,9 +132,9 @@
    "addr": "0x8128",
    "size": 21,
    "jp": "霊境といわれる崑崙（コンロン）。{end}",
-   "en": "",
+   "en": "toward the fabled realm of Kunlun.{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -142,9 +142,9 @@
    "addr": "0x813D",
    "size": 27,
    "jp": " だが {name0}たちの行く手には、フビライ・{end}",
-   "en": "",
+   "en": "Yet ahead of {name0}, agents of{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -152,9 +152,9 @@
    "addr": "0x8158",
    "size": 20,
    "jp": "カンの命をうけた異界のものたちが{end}",
-   "en": "",
+   "en": "another world lay waiting by Kublai{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -162,9 +162,9 @@
    "addr": "0x816C",
    "size": 11,
    "jp": "待ちかまえていた。{end}",
-   "en": "",
+   "en": "Khan's dark command.{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {

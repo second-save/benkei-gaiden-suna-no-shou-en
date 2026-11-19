@@ -80,12 +80,12 @@
     "notes": "Battle right enemy list shares 17-tile box (tx=14..30) minus cursor/margin -> 120px safe width; encounter banner has 192px."
   },
   "location_banner": {
-    "width_px": 224,
+    "width_px": 240,
     "max_lines": 1,
-    "fixed_char_px": 16,
+    "fixed_char_px": 8,
     "status": "measured",
     "shot": "work/qa/marker/qa_interactive/loc_banner/final.png",
-    "notes": "2x fixed-grid location banner ($0B:8F6C): 16px per char, 16-char (256px) hard max; 14 chars (224px) recommended for left/right margins."
+    "notes": "8x32 banner scaler ($0B:8F6C/$0B:901C): 8px per char, 32-char (256px) VRAM max, 30 chars (240px) hard cap (28 chars / 224px recommended); centered via Hook_0B8F90."
   },
   "equip_desc": {
     "width_px": 192,
@@ -114,26 +114,26 @@
   "credits_overlay": {
     "width_px": 96,
     "max_lines": 2,
-    "fixed_char_px": 16,
+    "fixed_char_px": 8,
     "status": "measured",
     "shot": "work/qa/marker/chapter_card/final.png",
-    "notes": "2x ben_097 overlay ($1D:F59F..F7F7): conservative 6-char (96px) top-slot ceiling; see credits_overlay_top (96px) and credits_overlay_bottom (160px)."
+    "notes": "8x32 chapter-card overlay ($1D:F59F..F7F7): conservative 12-char (96px) top-slot ceiling; see credits_overlay_top (96px / 12 chars) and credits_overlay_bottom (160px / 20 chars)."
   },
   "credits_overlay_top": {
     "width_px": 96,
     "max_lines": 1,
-    "fixed_char_px": 16,
+    "fixed_char_px": 8,
     "status": "measured",
     "shot": "work/qa/marker/chapter_card/final.png",
-    "notes": "2x chapter/role top line ($0B:8EE3 -> VRAM $0400..$057F): hard limit 6 chars at 16px/char = 96px."
+    "notes": "8x32 chapter/role top line ($0B:8EE3 -> VRAM $0400..$057F): hard limit 12 chars at 8px/char = 96px."
   },
   "credits_overlay_bottom": {
     "width_px": 160,
     "max_lines": 1,
-    "fixed_char_px": 16,
+    "fixed_char_px": 8,
     "status": "measured",
     "shot": "work/qa/marker/chapter_card/final.png",
-    "notes": "2x staff/name bottom line ($0B:8F06 -> VRAM $0580..$07FF): hard limit 10 chars at 16px/char = 160px."
+    "notes": "8x32 staff/name bottom line ($0B:8F06 -> VRAM $0580..$07FF): hard limit 20 chars at 8px/char = 160px."
   },
   "party_name": {
     "width_px": 48,
@@ -149,7 +149,7 @@
     "fixed_char_px": null,
     "status": "measured",
     "shot": "work/qa/marker/title/final.png",
-    "notes": "Title Start/Continue box (1D_C7A3, 1D_C7A9): 6 printable tiles (48px) right of cursor at tx=12."
+    "notes": "Title Start/Continue box (1D_C7A3, 1D_C7A9): box width widened by 1 tile at $00:8095 (8->9) giving 6 clear interior tiles (48px) right of cursor."
   },
   "battle_cmd": {
     "width_px": 40,

@@ -15,9 +15,9 @@
    "size": 6,
    "max_bytes": 6,
    "jp": " 不動 ",
-   "en": "",
+   "en": "Fudo",
    "box": "party_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -27,9 +27,9 @@
    "size": 6,
    "max_bytes": 6,
    "jp": " 巳陰 ",
-   "en": "",
+   "en": "Mikage",
    "box": "party_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -39,9 +39,9 @@
    "size": 6,
    "max_bytes": 6,
    "jp": " 常由 ",
-   "en": "",
+   "en": "Tokoyo",
    "box": "party_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -51,9 +51,9 @@
    "size": 6,
    "max_bytes": 6,
    "jp": " 白蓮 ",
-   "en": "",
+   "en": "Byakuren",
    "box": "party_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -63,9 +63,9 @@
    "size": 6,
    "max_bytes": 6,
    "jp": " 鳴沙 ",
-   "en": "",
+   "en": "Meisa",
    "box": "party_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   }
  ]

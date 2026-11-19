@@ -75,6 +75,16 @@ class TestFontAndMarker(unittest.TestCase):
                 f"glyph {chr(code)!r} rightmost col {rightmost} overlaps advance-1 ({adv})",
             )
 
+        def px_of(s: str) -> int:
+            return sum(widths[ord(c)] for c in s)
+
+        self.assertLessEqual(px_of("Sen"), 16)
+        self.assertLessEqual(px_of("Ryo"), 16)
+        self.assertLessEqual(px_of("New Game"), 48)
+        self.assertLessEqual(px_of("Continue"), 48)
+        for pname in ("Fudo", "Mikage", "Tokoyo", "Byakuren", "Meisa"):
+            self.assertLessEqual(px_of(pname), 48, pname)
+
     def test_marker_build_in_tempdir(self):
         with tempfile.TemporaryDirectory() as tmp:
             tmp_dir = Path(tmp)
@@ -92,6 +102,7 @@ class TestFontAndMarker(unittest.TestCase):
             self.assertEqual(len(built), 0x200000)
             self.assertEqual(total_entries, 3197)
             self.assertEqual(built[extract.lorom_to_pc(0x00, 0xFFD7)], 0x0C)
+            self.assertEqual(built[extract.lorom_to_pc(0x00, 0x8095)], 0x09)
 
             # Bank byte patches
             for bank, addr in build.BANK31_SITES:
@@ -125,6 +136,17 @@ class TestFontAndMarker(unittest.TestCase):
             pc_0b8f7b = extract.lorom_to_pc(0x0B, 0x8F7B)
             self.assertEqual(built[pc_0b8f7b], 0x22)
             self.assertEqual(built[pc_0b8f7b + 3], 0x30)
+
+            pc_0b8f90 = extract.lorom_to_pc(0x0B, 0x8F90)
+            self.assertEqual(built[pc_0b8f90], 0x22)
+            self.assertEqual(built[pc_0b8f90 + 3], 0x30)
+            self.assertEqual(built[pc_0b8f90 + 4], 0xEA)
+
+            pc_0b8fb3 = extract.lorom_to_pc(0x0B, 0x8FB3)
+            self.assertEqual(built[pc_0b8fb3 : pc_0b8fb3 + 3], b"\xea\xea\xea")
+
+            pc_0b901c = extract.lorom_to_pc(0x0B, 0x901C)
+            self.assertEqual(built[pc_0b901c + 7 : pc_0b901c + 12], b"\xaa\xe2\x20\xe6\xb0")
 
             # Verify redirect_tables.bin structure & sorting
             redir = (tmp_dir / "redirect_tables.bin").read_bytes()

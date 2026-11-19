@@ -25,7 +25,7 @@ ASAR_BIN = ROOT / "tools" / "asar" / "asar"
 ENGINE_ASM = ROOT / "asm" / "engine.asm"
 EXPANDED_ROM_SIZE = 0x200000  # 2 MiB LoROM
 
-MARKER_PARTY_NAMES = ("Fudo", "Mikage", "Tsune", "Byakuren", "Meisha")
+MARKER_PARTY_NAMES = ("Fudo", "Mikage", "Tokoyo", "Byakuren", "Meisa")
 
 CTRL_TOKEN_RE = re.compile(r"\{([^}]+)\}")
 
@@ -147,7 +147,11 @@ def _check_prepatch_rom(orig: bytes) -> None:
         if orig[pc] != 0x1D:
             raise ValueError(f"Expected bank byte 0x1D at ${bank:02X}:{addr:04X}, got {orig[pc]:#04x}")
     checks = (
+        (0x00, 0x8090, "2027f10c0c0806"),
         (0x0B, 0x8F7B, "2206ec00"),
+        (0x0B, 0x8F90, "38a910e5b0"),
+        (0x0B, 0x8FB3, "20bb8f"),
+        (0x0B, 0x901C, "08c2200a"),
         (0x01, 0xA4DB, "a91d008502"),
         (0x0C, 0xCB0A, "e220bba0"),
         (0x0C, 0xCD11, "c22029ff"),

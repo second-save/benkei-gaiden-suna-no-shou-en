@@ -12,9 +12,9 @@
    "addr": "0xF59F",
    "size": 5,
    "jp": "制作{end}",
-   "en": "",
+   "en": "PRODUCER{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -22,9 +22,9 @@
    "addr": "0xF5A4",
    "size": 10,
    "jp": "酒{sF079} 敦史{end}",
-   "en": "",
+   "en": "Atsushi Sakai{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -592,9 +592,9 @@
    "addr": "0xF7B9",
    "size": 5,
    "jp": "脚本{end}",
-   "en": "",
+   "en": "SCENARIO{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -602,9 +602,9 @@
    "addr": "0xF7BE",
    "size": 10,
    "jp": "中村 {sF07C}朗{end}",
-   "en": "",
+   "en": "Ichiro Nakamura{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {

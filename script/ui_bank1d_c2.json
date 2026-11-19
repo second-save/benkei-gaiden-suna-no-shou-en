@@ -132,9 +132,9 @@
    "addr": "0xC32C",
    "size": 5,
    "jp": "法術{end}",
-   "en": "",
+   "en": "Jutsu{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -142,9 +142,9 @@
    "addr": "0xC331",
    "size": 5,
    "jp": "道具{end}",
-   "en": "",
+   "en": "Items{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -152,9 +152,9 @@
    "addr": "0xC336",
    "size": 5,
    "jp": "装備{end}",
-   "en": "",
+   "en": "Equip{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -162,9 +162,9 @@
    "addr": "0xC33B",
    "size": 5,
    "jp": "隊列{end}",
-   "en": "",
+   "en": "Party{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -172,9 +172,9 @@
    "addr": "0xC340",
    "size": 5,
    "jp": "調査{end}",
-   "en": "",
+   "en": "Check{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -192,9 +192,9 @@
    "addr": "0xC34C",
    "size": 7,
    "jp": "{name0}{end}",
-   "en": "",
+   "en": "{name0}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -202,9 +202,9 @@
    "addr": "0xC353",
    "size": 7,
    "jp": "{name1}{end}",
-   "en": "",
+   "en": "{name1}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -212,9 +212,9 @@
    "addr": "0xC35A",
    "size": 7,
    "jp": "{name2}{end}",
-   "en": "",
+   "en": "{name2}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -222,9 +222,9 @@
    "addr": "0xC361",
    "size": 7,
    "jp": "  忍  {end}",
-   "en": "",
+   "en": "Shinobu{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -232,9 +232,9 @@
    "addr": "0xC368",
    "size": 7,
    "jp": "{name4}{end}",
-   "en": "",
+   "en": "{name4}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -242,9 +242,9 @@
    "addr": "0xC36F",
    "size": 7,
    "jp": "{name3}{end}",
-   "en": "",
+   "en": "{name3}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -252,9 +252,9 @@
    "addr": "0xC376",
    "size": 7,
    "jp": " 弁慶 {end}",
-   "en": "",
+   "en": "Benkei{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -312,9 +312,9 @@
    "addr": "0xC395",
    "size": 4,
    "jp": "レベル{end}",
-   "en": "",
+   "en": "Lv{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -322,9 +322,9 @@
    "addr": "0xC399",
    "size": 5,
    "jp": "体力{end}",
-   "en": "",
+   "en": "HP{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -332,9 +332,9 @@
    "addr": "0xC39E",
    "size": 5,
    "jp": "法力{end}",
-   "en": "",
+   "en": "MP{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -342,9 +342,9 @@
    "addr": "0xC3A3",
    "size": 8,
    "jp": "素早さ ：{end}",
-   "en": "",
+   "en": "Speed:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -352,9 +352,9 @@
    "addr": "0xC3AB",
    "size": 8,
    "jp": "  運  ：{end}",
-   "en": "",
+   "en": "Luck:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -362,9 +362,9 @@
    "addr": "0xC3B3",
    "size": 8,
    "jp": "攻撃力：{end}",
-   "en": "",
+   "en": "Attack:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -372,9 +372,9 @@
    "addr": "0xC3BB",
    "size": 8,
    "jp": "守備力：{end}",
-   "en": "",
+   "en": "Defense:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -382,9 +382,9 @@
    "addr": "0xC3C3",
    "size": 7,
    "jp": "経験値{end}",
-   "en": "",
+   "en": "EXP{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -392,9 +392,9 @@
    "addr": "0xC3CA",
    "size": 9,
    "jp": "次のレベルまで{end}",
-   "en": "",
+   "en": "Next Lv{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -442,9 +442,9 @@
    "addr": "0xC3F3",
    "size": 2,
    "jp": "／{end}",
-   "en": "",
+   "en": "/{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -462,9 +462,9 @@
    "addr": "0xC3FF",
    "size": 8,
    "jp": "  力  ：{end}",
-   "en": "",
+   "en": "Strength:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -482,9 +482,9 @@
    "addr": "0xC411",
    "size": 3,
    "jp": "銭{end}",
-   "en": "",
+   "en": "Sen{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -492,9 +492,9 @@
    "addr": "0xC414",
    "size": 3,
    "jp": "銀{end}",
-   "en": "",
+   "en": "Ryo{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -542,9 +542,9 @@
    "addr": "0xC427",
    "size": 5,
    "jp": "攻撃{end}",
-   "en": "",
+   "en": "Attack{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -552,9 +552,9 @@
    "addr": "0xC42C",
    "size": 5,
    "jp": "一斉{end}",
-   "en": "",
+   "en": "All-Out{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -562,9 +562,9 @@
    "addr": "0xC431",
    "size": 5,
    "jp": "守護{end}",
-   "en": "",
+   "en": "Cover{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -572,9 +572,9 @@
    "addr": "0xC436",
    "size": 5,
    "jp": "防御{end}",
-   "en": "",
+   "en": "Defend{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -582,9 +582,9 @@
    "addr": "0xC43B",
    "size": 5,
    "jp": "幻術{end}",
-   "en": "",
+   "en": "Illusion{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -592,9 +592,9 @@
    "addr": "0xC440",
    "size": 5,
    "jp": "剣術{end}",
-   "en": "",
+   "en": "Sword{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -602,9 +602,9 @@
    "addr": "0xC445",
    "size": 3,
    "jp": "はい{end}",
-   "en": "",
+   "en": "Yes{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -612,9 +612,9 @@
    "addr": "0xC448",
    "size": 4,
    "jp": "いいえ{end}",
-   "en": "",
+   "en": "No{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -622,9 +622,9 @@
    "addr": "0xC44C",
    "size": 5,
    "jp": "遁走{end}",
-   "en": "",
+   "en": "Flee{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1452,9 +1452,9 @@
    "addr": "0xC7A3",
    "size": 6,
    "jp": "始めから{end}",
-   "en": "",
+   "en": "New Game{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1462,9 +1462,9 @@
    "addr": "0xC7A9",
    "size": 6,
    "jp": "続きから{end}",
-   "en": "",
+   "en": "Continue{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {

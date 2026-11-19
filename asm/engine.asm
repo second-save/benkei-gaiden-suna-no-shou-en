@@ -24,6 +24,10 @@ lorom
 org $00FFD7
   db $0C                     ; 2 MiB LoROM ($00-$3F)
 
+; Widen Title Start/Continue window by 1 tile ($00:8095 w=8 -> 9) so "New Game" (47px) clears right border
+org $008095
+  db $09
+
 ; Bank $31: 6 sentinel name tables (tbl_equip/items/jutsu/ougi/enemies/locations)
 org $00AF77 : db $31
 org $00AF7D : db $31
@@ -64,6 +68,49 @@ org $0CBDCA : db $32
 ; Location banner 2x scaler ($0B:8F7B was JSL $00:EC06; point directly to bank $31)
 org $0B8F7B
   jsl SetBank31
+
+; Convert 16x32 scaler ($0B:901C) to 8x32 so banners/credits double capacity without distortion
+org $0B8F90
+  jsl Hook_0B8F90            ; replaces SEC : LDA #$10 : SBC $B0 -> (#$20 - $B0) >> 1
+  nop
+
+org $0B8FB3
+  nop : nop : nop            ; replaces duplicate JSR $8FBB (1 column per glyph, not 2)
+
+org $0B901C
+Scaler8x32:
+  php
+  rep #$20
+  asl a
+  asl a
+  asl a
+  asl a                      ; glyph * 16 (caller keeps B=0 for 1-byte chars)
+  tax
+  sep #$20
+  inc $B0                    ; 1 tilemap column per 8x16 glyph
+  lda #$10                   ; 16 source rows -> 32 output scanlines (4 vertical tiles)
+.row_loop:
+  pha
+  phx
+  lda.l $7E2000,X            ; 1bpp 8px row (M=1)
+  rep #$20
+  and #$00FF
+  tay                        ; Y = row byte (preserved across $0B:9073)
+  ldx $AC
+  inc $AC
+  jsr $9073                  ; scanline copy 1 (returns M=0)
+  ldx $AC
+  inc $AC
+  jsr $9073                  ; scanline copy 2 (returns M=0)
+  sep #$20
+  plx
+  inx
+  pla
+  dec a
+  bne .row_loop
+  plp
+  rts
+assert pc() <= $0B9059
 
 ; Shop/Kanji-picker reader in bank $01 ($01:A4DB was LDA #$001D : STA $02)
 org $01A4DB
@@ -116,6 +163,17 @@ SetBank31:
   lda #$31
   sta $A2
   plp
+  rtl
+
+; Centers 8x32 location banners ($0B:8F90): returns X-tile offset = (32 - $B0) >> 1 with M=1.
+Hook_0B8F90:
+  sec
+  lda #$20
+  sbc $B0
+  bcs .ok
+  lda #$00
+.ok:
+  lsr a
   rtl
 
 ; ----------------------------------------------------------------------------
@@ -983,7 +1041,7 @@ VwfFlush:
 JslStockEA31:
   phk
   pea .ret-1
-  pea $EC61                  ; $00:EC62 is RTL (`6B`)!
+  pea $EC62                  ; $00:EC63 is RTL (`6B`)!
   jml $00EA31
 .ret:
   pha
@@ -1217,6 +1275,12 @@ BitMasks:
 
 ; Shared handler for single-byte chars < $F0 (VWF / static $00..$1F / katakana fallback)
 VwfHandleSingleByte:
+  cmp #$0010
+  bne .not_pad
+  jsr VwfFlush
+  lda #$0030
+  jmp VwfOutputTile
+.not_pad:
   cmp #$0020
   bcs .not_static
   ldx !VWF_PX
