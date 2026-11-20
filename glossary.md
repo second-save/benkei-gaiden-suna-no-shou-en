@@ -49,8 +49,19 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 義之 | Yoshiyuki | | Short reference | |
 | 宮緒 | Miyao | | Dewa Sanzan Elder | |
 | 孫ベエ | Magobee | | Harutsugu Nikaido's loyal retainer (saved Lady Shino) | |
-| 二海堂春次 | Harutsugu Nikaido | | Act 1 antagonist | |
+| 二海堂春次 / 仁海堂春次 | Harutsugu Nikaido | | Act 1 antagonist | |
+| 仁海堂 / 二海堂 | Nikaido | | House Nikaido family name | |
 | 春次 | Harutsugu | | Short reference | |
+| 信乃 | Shino | | Lady Shino, Shinobu's true Nikaido name | |
+| 佐助 | Sasuke | | Master of Renbukan, Kasumi Clan | |
+| 熊吉 | Kumakichi | | Noto fisherman | |
+| 千賀 | Chiga | | Kumakichi's wife | |
+| 輪眼 | Ringen | | High Abbot of Sado Zen temple | |
+| 徳ベエ | Tokubee | | Tosa Village Chief | |
+| バイ安 | Baian | | Tosa physician | |
+| ゴロべえ / ゴロベエ | Gorobee | | Yoshinogari thief | |
+| カメ吉 | Kamekichi | | Yoshinogari tavern owner | |
+| 不知火 | Shiranui | | Undying guardian voice at Mt. Tsurugi | |
 | 麗花 | Reika | | Meisa's true Dunhuang name (do NOT spoil early) | |
 | 恒沙 | Gosha | | Queen Mother of the West at Kunlun | Kousha |
 | チザム | Chizam | | Dadu/Dunhuang ally (impersonated by Jako late) | Chizamu |
@@ -179,6 +190,11 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 能登の漁村 | Noto Fishing Village | 28ch | Coastal village in Noto | |
 | 近江守護 | Omi Guardpost | 28ch | Shugo checkpoint in Omi | |
 | 風と共にあゆむ泉 | Spring Walking with the Wind | 28ch | Desert oasis spring on the Silk Road | |
+| からくり屋敷 | Trick House | | Sasuke's mechanical house in Nagato | |
+| 転馬輪門 | Tenma Wheel Gate | | Izumo moonlight gate sealing Path of Yomi | |
+| まよいの森 | Lost Woods | | Forest in Izu | |
+| 田辺水軍 | Tanabe Fleet | | Yoshiyuki Ogata's navy (`Tanabe Navy` in Avoid) | Tanabe Navy |
+| 戒王丸 | Kaiomaru | | Tanabe Fleet warship sailing to Ezo | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |

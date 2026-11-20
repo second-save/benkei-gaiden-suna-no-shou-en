@@ -8,9 +8,15 @@ Track non-blocking minor items, cross-file proper-noun checks during Wave 2 dial
 - [ ] Verify Status screen column alignment (`1D_C3E0` `Lv HP MP` header vs numeric HP/MP columns; `1D_C417..1D_C423` `Weapon:`/`Armor:`/`Helm:`/`Shield:` spacing against equipped item names).
 - [ ] Verify live Battle messages after Bank `$0C` `$20` particle patch: damage dealt/taken (`1D_AC33`/`1D_AC3A`/`1D_AC3F`), HP & MP recovery items/jutsu (`1D_AC95` check if MP items also call `$0C:AA58`), battle item use (`1D_AD0B` via `$0C:A635`), status effects (`1D_ACA3`/`1D_ACBF`), parry (`1D_AC86`), jutsu reflect (`1D_AD34`), and `tbl_jutsu_031` (`Call Ally`).
 - [ ] Cross-check event callers of `1D_ACC8` (`08:BC4A`, `1E:CA68`, `2E:AF5E`) during Wave 2 dialogue translation to confirm transitive vs passive phrasing (`defeated <target>` vs ` was defeated!`).
-- [ ] Cross-check `tbl_locations_016` (`近江守護` `Omi Guardpost` vs `Omi Governor's Estate`) against Act 1 dialogue mentions in `act1_bank1b.json`. (`tbl_locations_044` `虚虫洞` verified canon `こちゅうどう` in `1B_82A9` -> `Kochudo Cavern`.)
+- [ ] Cross-check `tbl_locations_016` (`近江守護` `Omi Guardpost` vs `Omi Governor's Estate`) during Act 2 / Phase 7 QA (confirmed absent from Act 1 `act1_bank1a`/`act1_bank1b` dialogue). (`tbl_locations_044` `虚虫洞` verified canon `こちゅうどう` in `1B_82A9` -> `Kochudo Cavern`.)
 - [ ] Cross-check `tbl_locations_100, 104, 105, 106` (`Magic Palace/... Realm`) banner fit in Phase 7 QA.
 - [ ] Check debug `1D_C770` (` 0 1 2 3 4 5 6 7`) / `1D_C7C5` (`Male`/`Female`) UI alignment if triggered.
+
+## Act 1 Dialogue QA Checks
+- [ ] Verify `1B_8B23` (`{name0}たち、（御礼）を受け取った。`) event reward in Dewa/northland in MesenCE (whether it gives an actual item/Sen or stays `a token of thanks.`).
+- [ ] Verify `1B_B031` (`ぐおーっぐおーっぐっ・・・{page}ぐおーっ`) in Kamakura mansion scene (whether snoring Tokoyo or monster sound) and `1B_D0D0` (`Shinobu joined the party!`) alignment.
+- [ ] Verify Act 1 lines `1B_CD6D`, `1B_CF1A`, `1B_D230`, `1B_D363`, `1B_DE30` (162–176px) visually in portrait/non-portrait dialogue boxes in MesenCE.
+- [ ] Disambiguate Act 2 `手代の三ちゃん` from Act 1 Nagato child `三ちゃん` (`Little San`) during Act 2 translation.
 
 ## Wave 1b Checks (Descriptions)
 - [ ] Check 4th equipment slot label `防：` (`1D_C423` / `1D_D830`): currently `Shield:`, whereas all `tbl_equip_192..210` items in that slot are gauntlets, bangles, bracers, charms, or wards (`Guard:` / `Ward:` / `Accessory:` may fit better once Status/Equip screens are visually inspected).

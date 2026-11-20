@@ -214,7 +214,7 @@
    "jp": "才蔵「わしは、おまえの強さを信じておる。生きて帰れよ{end}",
    "en": "Saizo: \"I believe in your{nl}strength. Come back alive.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -222,9 +222,9 @@
    "addr": "0x84C3",
    "size": 35,
    "jp": "ことだまにすべてを語るがよい。ことだまは旅の記録を刻もうぞ{end}",
-   "en": "",
+   "en": "\"Speak all to the{nl}Word-Spirit. It shall record{nl}the tale of your travels.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -232,9 +232,9 @@
    "addr": "0x84E6",
    "size": 129,
    "jp": "羅観「よく、ここにたどり着いた。私が羅観（ラカン）だ{page}私は私の国と、この国の行く末と、そして私自身のさだめを試してみたい{page}・・・それゆえ、久遠に眠るおまえの「力」を、一時の理（ことわり）として目覚めさせよう{end}",
-   "en": "",
+   "en": "Rakan: \"Well done reaching{nl}this place. I am Rakan.\"{page}\"I wish to put my homeland,{nl}this realm's future, and my{nl}own fate to the test.\"{page}\"...And so I shall awaken{nl}the timeless 'power' asleep{nl}in you for this brief hour!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -242,9 +242,9 @@
    "addr": "0x8567",
    "size": 13,
    "jp": "羅観「では、いくぞ！{end}",
-   "en": "",
+   "en": "Rakan: \"Now then -- come!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -252,9 +252,9 @@
    "addr": "0x8574",
    "size": 74,
    "jp": "羅観「なるほど・・・みごとだ{page}{name0}「・・・なぜ{page}羅観「いずれ、わかる・・・。さあ、これを受け取るがよい。金剛剣鬼龍だ{end}",
-   "en": "",
+   "en": "Rakan: \"I see... Splendidly{nl}fought.\"{page}{name0}: \"...Why?\"{page}Rakan: \"In time, you will{nl}understand... Now take this{nl}-- the Vajra Blade Kiryu.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -262,9 +262,9 @@
    "addr": "0x85BE",
    "size": 33,
    "jp": "フン。こんな弱え野郎に、羅観さまが倒されたってえのか{end}",
-   "en": "",
+   "en": "\"Hmph. You're telling me{nl}Lord Rakan got beat by a{nl}weakling like this?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -272,9 +272,9 @@
    "addr": "0x85DF",
    "size": 39,
    "jp": "こいつの首を持ち帰れば、おれたちのてがらだ。はええとこ切っちまおうぜ{end}",
-   "en": "",
+   "en": "\"Bring back this kid's head{nl}and the glory's all ours.{nl}Let's slice it off quick!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -282,9 +282,9 @@
    "addr": "0x8606",
    "size": 29,
    "jp": "大丈夫か？おれは {name2}（とこよ）。こいつは{end}",
-   "en": "",
+   "en": "\"You all right? I'm {name2}.{nl}And this here's--\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -292,9 +292,9 @@
    "addr": "0x8623",
    "size": 189,
    "jp": " {name1}（みかげ）です。礼にはおよびません。あなた、{name0}さん ですね。お噂はかねてより{page}わたしたちは、長門の練武館で修行をしていた者です。だが刺客に襲われ、砦は壊滅しました{page}{name2}「で、ここを訪ねてきたわけだ。何かあったら、才蔵どののもとへゆくようにとな。ところで、才蔵どのはどうしたのだ？{page}{name0}「・・・{end}",
-   "en": "",
+   "en": "\"I'm {name1}. No need for{nl}thanks. You're {name0}, yes?{nl}We've heard much about you.\"{page}\"We trained at Renbukan in{nl}Nagato, until assassins{nl}struck and destroyed it.\"{page}{name2}: \"So we came here.{nl}We were told to seek out{nl}Master Saizo in a crisis.{page}Say, where is Master Saizo?\"{page}{name0}: \"...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -302,9 +302,9 @@
    "addr": "0x86E0",
    "size": 78,
    "jp": "{name2}「そうか。分からないか。とにかく、おれたちはあんたと一緒に行くぜ。才蔵どのをさがさねばな{page}{name1}「よろしく、{name0}さん{end}",
-   "en": "",
+   "en": "{name2}: \"I see... Don't know{nl}either, huh? Well, we're{nl}sticking with you!{page}Gotta find Master Saizo.\"{page}{name1}: \"Glad to have you{nl}with us, {name0}.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -312,9 +312,9 @@
    "addr": "0x872E",
    "size": 31,
    "jp": "戦鬼の碑に語るがよい。おぬしに力をあたえてくれよう{end}",
-   "en": "",
+   "en": "\"Speak to the War Demon{nl}Stele. It shall grant you{nl}strength.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -322,9 +322,9 @@
    "addr": "0x874D",
    "size": 27,
    "jp": "{name0}は、金剛剣鬼龍を受け取った{end}",
-   "en": "",
+   "en": "{name0} received the{nl}Vajra Blade Kiryu.{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -332,9 +332,9 @@
    "addr": "0x8768",
    "size": 74,
    "jp": "羅観「今のお前にはまだ使いこなせんだろう。だが、いずれ役にたつ・・・{page}そして{name0}、おまえはもう一度わたしと会うことになる{end}",
-   "en": "",
+   "en": "Rakan: \"You cannot master{nl}it yet. Still, it will serve{nl}you well in time...\"{page}\"And {name0} -- you and I{nl}are fated to meet again.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -342,9 +342,9 @@
    "addr": "0x87B2",
    "size": 43,
    "jp": "羅観を倒した者どもか。こざかしい！！{nl}金剛剣鬼龍、返してもらおう{end}",
-   "en": "",
+   "en": "\"So you're the ones who{nl}beat Rakan? Insolent fools!!{page}Hand over the{nl}Vajra Blade Kiryu!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -352,9 +352,9 @@
    "addr": "0x87DD",
    "size": 31,
    "jp": "{name0}、女の身でありながら・・・だが、くじけるなよ{end}",
-   "en": "",
+   "en": "\"{name0}... Even as a young{nl}woman, you face all this...{nl}Do not lose heart.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -362,9 +362,9 @@
    "addr": "0x87FC",
    "size": 23,
    "jp": "才蔵さまのこと、残念であったな・・・{end}",
-   "en": "",
+   "en": "\"What befell Lord Saizo...{nl}A bitter loss indeed...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -372,9 +372,9 @@
    "addr": "0x8813",
    "size": 33,
    "jp": "お目覚めですね。まる三日間、眠り続けていたのですよ{end}",
-   "en": "",
+   "en": "\"Ah, you're awake! You've{nl}been asleep for three whole{nl}days, you know.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -382,9 +382,9 @@
    "addr": "0x8834",
    "size": 52,
    "jp": "{name2}「ここは？{page}出羽三山、修行の里。宮緒（みやお）さまがお待ちです。どうぞ{end}",
-   "en": "",
+   "en": "{name2}: \"Where are we?\"{page}\"Dewa Sanzan, the training{nl}village. Elder Miyao awaits{nl}you. Right this way.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -392,9 +392,9 @@
    "addr": "0x8868",
    "size": 190,
    "jp": "宮緒「私は、この里の長・宮緒です。みなさんの心中、おさっしします。ですが今は、この地から京の都にはいけません{page}平泉にある聖地を、何者かが侵したのです{page}そのためにこの北の領域は、大地の霊力によって結界に封じられてしまったのです{page}大地の霊力の源である「緑晶輪」を回収しない限り、結界は消えません{end}",
-   "en": "",
+   "en": "Miyao: \"I am Miyao, elder of{nl}this village. I feel deeply{nl}for your grief.{page}Yet right now, none may{nl}travel from here to Kyoto.{page}Someone has defiled the{nl}sacred ground at Hiraizumi.{page}Because of that, the earth's{nl}spiritual power sealed this{nl}northland in a barrier.{page}Until you recover the{nl}Green Crystal Ring -- source{nl}of that power --{page}the barrier will not lift.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -402,9 +402,9 @@
    "addr": "0x8926",
    "size": 66,
    "jp": "宮緒「大地の霊力の源である「緑晶輪」を回収しない限り、この北の地の結界は消えることはありません{end}",
-   "en": "",
+   "en": "Miyao: \"Until you recover{nl}the Green Crystal Ring,{nl}source of the earth's{page}power, the barrier over this{nl}northern land will not lift.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -412,9 +412,9 @@
    "addr": "0x8968",
    "size": 54,
    "jp": "宮緒「あなたたちのおかげで、殺生宮は消えました。さあ、気をつけて京の都にお向かいなさい{end}",
-   "en": "",
+   "en": "Miyao: \"Thanks to you,{nl}Sessho Shrine is gone. Now{nl}travel safely to Kyoto.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -422,9 +422,9 @@
    "addr": "0x899E",
    "size": 74,
    "jp": "宮緒「あなたたちのおかげで、大地の封印は、消えました。さあ、帝の待つ京の都にお向かいなさい{page}まっすぐ南に向かうのですよ{end}",
-   "en": "",
+   "en": "Miyao: \"Thanks to you, the{nl}earth's seal has lifted.{nl}Go now to Kyoto, where{page}the Emperor awaits.{nl}Head straight south.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -432,9 +432,9 @@
    "addr": "0x89E8",
    "size": 30,
    "jp": "おひかえあそばせ。この方は、里の長・宮緒さまです{end}",
-   "en": "",
+   "en": "\"Mind your manners! You{nl}stand before Elder Miyao,{nl}leader of this village.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -442,9 +442,9 @@
    "addr": "0x8A06",
    "size": 44,
    "jp": "才蔵さまを倒した敵は、四界将の一人・呪魂。恐ろしい相手です{end}",
-   "en": "",
+   "en": "\"The foe who slew Lord{nl}Saizo is Jugon, one of the{nl}Four Realm Generals.{page}He is a fearsome adversary.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -452,9 +452,9 @@
    "addr": "0x8A32",
    "size": 87,
    "jp": "平泉の聖地に築かれた ほこらは、大地の霊力によって殺生宮（せっしょうきゅう）と化してしまった{page}「緑晶輪」は、その奥にあるのだ。しかし・・・{end}",
-   "en": "",
+   "en": "\"The shrine upon Hiraizumi's{nl}sacred ground has been{nl}warped by earthly power{page}into Sessho Shrine.{nl}The Green Crystal Ring lies{nl}deep within it -- yet...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -462,9 +462,9 @@
    "addr": "0x8A89",
    "size": 35,
    "jp": "大地の霊力によって、北の大地を閉ざされてしまったのだ{end}",
-   "en": "",
+   "en": "\"The earth's spiritual power{nl}has sealed off these{nl}northern lands.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -472,9 +472,9 @@
    "addr": "0x8AAC",
    "size": 78,
    "jp": "昔ね。平泉では、源義経の一行が討たれて死んだのよ。武蔵坊弁慶の立おうじょうは、あまりに有名でしょ{page}え！知らなかった？{end}",
-   "en": "",
+   "en": "\"Long ago at Hiraizumi,{nl}Minamoto no Yoshitsune{nl}and his band were slain.{page}Everyone knows how{nl}Musashibo Benkei died{nl}standing on his feet!{page}Wait -- you didn't know?!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -482,9 +482,9 @@
    "addr": "0x8AFA",
    "size": 99,
    "jp": "平泉の聖地は、殺生宮と化しておるのだ。殺生宮は、生けるものの命をたちどころに奪ってしまう恐ろしい宮殿{nl}魔神の血を引くもののみが、おもむくことができるという{end}",
-   "en": "",
+   "en": "\"Hiraizumi's sacred ground{nl}became Sessho Shrine -- a{nl}dreadful palace that snuffs{page}out living breath on sight.{nl}They say only those of{nl}demon-god blood may enter.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -492,9 +492,9 @@
    "addr": "0x8B5D",
    "size": 30,
    "jp": "この里から北に行けば、男鹿（おが）村があります{end}",
-   "en": "",
+   "en": "\"Head north from this{nl}village and you will reach{nl}Oga Village.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -502,9 +502,9 @@
    "addr": "0x8B7B",
    "size": 28,
    "jp": "え！平泉の聖地に行くんですか？あぶないですよ{end}",
-   "en": "",
+   "en": "\"What?! You're going to the{nl}sacred site at Hiraizumi?{nl}It's far too dangerous!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -512,9 +512,9 @@
    "addr": "0x8B97",
    "size": 64,
    "jp": "まあ、男の人。でも、いけません。今の私は、修行中の身。でも、お茶ぐらいなら・・・{page}だめ！やっぱり、なりませぬ{end}",
-   "en": "",
+   "en": "\"Oh my, young men! No,{nl}no -- I'm still in training!{nl}Though maybe just tea...{page}No! I really mustn't!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -522,9 +522,9 @@
    "addr": "0x8BD7",
    "size": 65,
    "jp": "・・・「沙」の血。その秘密の源を知るお坊さまが、佐渡に住んでいるのだ。その方は、邵元（しょうげん）さま{end}",
-   "en": "",
+   "en": "\"...The blood of Suna.{nl}A monk who knows the{nl}source of that secret lives{page}on Sado Island. His name{nl}is Master Shogen.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -532,9 +532,9 @@
    "addr": "0x8C18",
    "size": 45,
    "jp": "才蔵さまも、昔はこの地で修行をつまれた方でした。ああ、おしいお方を・・・{end}",
-   "en": "",
+   "en": "\"Lord Saizo himself trained{nl}here in his youth, you know.{nl}Ah, what a cruel loss...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -542,9 +542,9 @@
    "addr": "0x8C45",
    "size": 10,
    "jp": "くうんくうん・・・{end}",
-   "en": "",
+   "en": "\"Whine, whine...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -552,9 +552,9 @@
    "addr": "0x8C4F",
    "size": 23,
    "jp": "なんと。だれにもなつかぬこの老犬が・・・{end}",
-   "en": "",
+   "en": "\"Well I never! That old{nl}hound won't take to a soul,{nl}yet look at him...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -562,9 +562,9 @@
    "addr": "0x8C66",
    "size": 35,
    "jp": "いま、おそろしい魔物たちが、国中で暴れているのよ。怖いわ{end}",
-   "en": "",
+   "en": "\"Dreadful monsters are{nl}running wild all over the{nl}country now. It's terrifying!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -572,9 +572,9 @@
    "addr": "0x8C89",
    "size": 45,
    "jp": "ああ、たいへんだ。早く京の都にもどらないと、私の店がつぶれてしまう。どうしよう{end}",
-   "en": "",
+   "en": "\"Oh, this is awful! If I{nl}don't get back to Kyoto{nl}soon, my shop'll go under!{page}What do I do?!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -582,9 +582,9 @@
    "addr": "0x8CB6",
    "size": 6,
    "jp": "ばうばう！{end}",
-   "en": "",
+   "en": "\"Woof, woof!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -592,9 +592,9 @@
    "addr": "0x8CBC",
    "size": 5,
    "jp": "ぶるるっ{end}",
-   "en": "",
+   "en": "\"Snort!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -602,9 +602,9 @@
    "addr": "0x8CC1",
    "size": 7,
    "jp": "こっこっこっ{end}",
-   "en": "",
+   "en": "\"Cluck, cluck, cluck!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -612,9 +612,9 @@
    "addr": "0x8CC8",
    "size": 49,
    "jp": "殺生宮？しんねえなあ。おらは、生れてから一度もこの村の外へは出たことはねえだぞ{end}",
-   "en": "",
+   "en": "\"Sessho Shrine? Never heard{nl}of it! I ain't stepped foot{nl}outside this village once{page}since the day I was born!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -622,9 +622,9 @@
    "addr": "0x8CF9",
    "size": 45,
    "jp": "北にある恐山（おそれざん）には、不思議な力を持つ人たちが住んでいます{end}",
-   "en": "",
+   "en": "\"Folk with strange, mystic{nl}powers dwell upon Mt. Osore{nl}to the north.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -632,9 +632,9 @@
    "addr": "0x8D26",
    "size": 98,
    "jp": "このあたりには、昔からいろいろな伝説があるよ{page}でも最近のは、源義経と武蔵坊弁慶の話だね。二人とも、平泉の戦いで死んだんだ。八十年ぐらい前のことだよ{end}",
-   "en": "",
+   "en": "\"Folks round here have{nl}plenty of old legends.{page}The newest is about{nl}Minamoto no Yoshitsune and{nl}Musashibo Benkei.{page}Both died fighting at{nl}Hiraizumi -- roughly eighty{nl}years back.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -642,9 +642,9 @@
    "addr": "0x8D88",
    "size": 56,
    "jp": "ねえ。大陸から蒙古軍が攻めてきて、大変なんでしょう？この先、日本はどうなっちゃうのかしら{end}",
-   "en": "",
+   "en": "\"Say, the Mongol army really{nl}attacked from the mainland,{nl}didn't they? What will{page}become of Japan now?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -652,9 +652,9 @@
    "addr": "0x8DC0",
    "size": 50,
    "jp": "この土地を守っていた神さままで、魔物になっちまった。神も仏もないって、このことだよ{end}",
-   "en": "",
+   "en": "\"Even the god guarding this{nl}land turned into a fiend!{nl}Guess there really ain't no{page}gods or Buddhas left.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -662,9 +662,9 @@
    "addr": "0x8DF2",
    "size": 10,
    "jp": "いーっ、ヤッホー！{end}",
-   "en": "",
+   "en": "\"Wheee! Yahoo!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -672,9 +672,9 @@
    "addr": "0x8DFC",
    "size": 20,
    "jp": "ひーん。かあちゃんが、怒ってんだよー{end}",
-   "en": "",
+   "en": "\"Waaah! Ma's mad at me!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -682,9 +682,9 @@
    "addr": "0x8E10",
    "size": 76,
    "jp": "そうか、才蔵が死んだか{page}最後に会ったのは、十年以上も前だったが。あの時才蔵のやつは、子犬なんか連れていたっけな・・・{end}",
-   "en": "",
+   "en": "\"So Saizo's dead, eh?{page}Last I saw him was over ten{nl}years back. As I recall,{nl}he had a little pup tagging{page}along with him...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -692,9 +692,9 @@
    "addr": "0x8E5C",
    "size": 70,
    "jp": "幼いころ、わしは平泉の戦いの後に義経さまと弁慶さまを村はずれのとうげで見たんじゃ{page}だれも信じんが、まちがいないわい{end}",
-   "en": "",
+   "en": "\"When I was a boy, I saw{nl}Lord Yoshitsune and Benkei{nl}on the pass outside town --{page}after the Hiraizumi battle!{nl}Nobody believes me, mind{nl}you, yet I know what I saw!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -702,9 +702,9 @@
    "addr": "0x8EA2",
    "size": 149,
    "jp": "わたしは、歴史学者。平泉の伝説を調べている{page}蒙古の祖・ジンギス・カンが歴史に登場したのは、源義経が平泉の戦いで死んでから数年後{page}だがもし、義経が死んではおらず、人目を逃れて大陸に渡ったとすれば・・・{page}わからん。しかし、まさかな{end}",
-   "en": "",
+   "en": "\"I am a historian studying{nl}the legends of Hiraizumi.{page}Genghis Khan, founder of{nl}the Mongols, rose to power{nl}just a few years after{page}Minamoto no Yoshitsune died{nl}at Hiraizumi.{page}Yet if Yoshitsune never{nl}died -- if he fled unseen{nl}across to the continent...{page}I cannot say. Surely not...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -712,9 +712,9 @@
    "addr": "0x8F37",
    "size": 96,
    "jp": "四界将・呪魂の目的は、法力者がりのみにあらず。一千年の古代より伝わる、「神の力」をねらっている{page}呪界衆どもは、それをもとめて聖地を侵したのだ。{end}",
-   "en": "",
+   "en": "\"Jugon of the{nl}Four Realm Generals isn't{nl}merely hunting Mystics.{page}He seeks a 'divine power'{nl}handed down for a thousand{nl}years. That is why the{page}Curse Realm Sect defiled{nl}these sacred sites.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -722,9 +722,9 @@
    "addr": "0x8F97",
    "size": 92,
    "jp": "この世界の行く末をゆだねられし者たちに語ろう{page}五つの霊晶輪がおまえたちを「戦鬼」のもとに導く。そして・・・鳴沙（メイサ）。・・・失われた記億・・・{end}",
-   "en": "",
+   "en": "\"Hear me, you to whom this{nl}world's fate is entrusted.{page}Five Spirit Crystal Rings{nl}shall guide you onward to{nl}the 'War Demon.'{page}And... Meisa...{nl}...lost memories...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -732,9 +732,9 @@
    "addr": "0x8FF3",
    "size": 75,
    "jp": "「マヤコ」さまは、最強の霊力を持つお方{page}聖地を侵した魔物たちは、「マヤコ」さまによって殺生宮に閉じ込められておるのだ{end}",
-   "en": "",
+   "en": "\"Elder Mayako wields the{nl}mightiest spiritual power.{page}It was Elder Mayako who{nl}sealed the fiends that{nl}defiled the holy ground{page}inside Sessho Shrine.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -742,9 +742,9 @@
    "addr": "0x903E",
    "size": 30,
    "jp": "ここにおあせられますのが、恐山の長「マヤコ」さまです{end}",
-   "en": "",
+   "en": "\"Here before you sits{nl}Elder Mayako, leader of{nl}Mt. Osore.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -752,9 +752,9 @@
    "addr": "0x905C",
    "size": 23,
    "jp": "マヤコさまの御前である。おひかえあそばせ{end}",
-   "en": "",
+   "en": "\"You stand in Elder{nl}Mayako's presence.{nl}Show due respect!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -762,9 +762,9 @@
    "addr": "0x9073",
    "size": 72,
    "jp": "わしは、マヤコ。ここの長（おさ）。赤き霊輪を持つ者たちに力をかそう{page}殺生宮を開く「破封の鍵」を、受け取るがよい{end}",
-   "en": "",
+   "en": "\"I am Mayako, elder here.{nl}To you who bear the crimson{nl}spirit ring, I lend my aid.{page}Take this Sealbreaker Key{nl}to unlock Sessho Shrine.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -772,9 +772,9 @@
    "addr": "0x90BB",
    "size": 88,
    "jp": "マヤコ「平泉の聖地を侵した魔物たちは、今も殺生宮に封じてある{page}もし生き残っておる魔物がおれば、それは手強き敵であろう。心してゆくがよい{end}",
-   "en": "",
+   "en": "Mayako: \"The fiends that{nl}defiled Hiraizumi's holy{nl}ground remain sealed within{page}Sessho Shrine. Should any{nl}still survive, they will be{nl}fierce foes. Stay sharp.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -782,9 +782,9 @@
    "addr": "0x9113",
    "size": 78,
    "jp": "マヤコ「見事。よくぞ無事にもどられた。やがて、北の領域の封印も消える{page}さあ、宮緒どのがおまえたちを待っておいでだぞ。急いでゆけ{end}",
-   "en": "",
+   "en": "Mayako: \"Well done! Glad to{nl}see you back safely. Soon{nl}the seal on these northern{page}lands will lift too. Elder{nl}Miyao awaits you -- make{nl}haste!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -792,9 +792,9 @@
    "addr": "0x9161",
    "size": 56,
    "jp": "かつては聖地とされた平泉にたつこの ほこらも、緑晶輪の霊力により殺生宮となってしまった{end}",
-   "en": "",
+   "en": "\"Even this shrine upon{nl}Hiraizumi's once-holy{nl}ground was warped into{page}Sessho Shrine by the{nl}Green Crystal Ring's power.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -802,9 +802,9 @@
    "addr": "0x9199",
    "size": 44,
    "jp": "そしてこの地を侵した者どもは、マヤコさまの力でこの中に閉じ込められておる{end}",
-   "en": "",
+   "en": "\"And those who trespassed{nl}here are sealed inside by{nl}Elder Mayako's power.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -812,9 +812,9 @@
    "addr": "0x91C5",
    "size": 42,
    "jp": "この中に入ることを望むのであれば、恐山におわすマヤコさまのもとにゆかれよ{end}",
-   "en": "",
+   "en": "\"If you wish to step inside,{nl}seek out Elder Mayako upon{nl}Mt. Osore.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -822,9 +822,9 @@
    "addr": "0x91EF",
    "size": 37,
    "jp": "その「破封の鍵」で、扉を開くがよい。ご武運をお祈り申す{end}",
-   "en": "",
+   "en": "\"Use that Sealbreaker Key{nl}to open the gate. May{nl}fortune favor you in battle.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -832,9 +832,9 @@
    "addr": "0x9214",
    "size": 14,
    "jp": "ご武運をお祈り申す{end}",
-   "en": "",
+   "en": "\"May fortune favor you in{nl}battle.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -842,9 +842,9 @@
    "addr": "0x9222",
    "size": 30,
    "jp": "おぉぉおう。われはこの緑晶輪を守るもの。死ねい！{end}",
-   "en": "",
+   "en": "\"Grrrraaah!! I am the{nl}guardian of the{nl}Green Crystal Ring! Die!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -852,9 +852,9 @@
    "addr": "0x9240",
    "size": 24,
    "jp": "{name0}、おまえがいなくなると、さみしいよ{end}",
-   "en": "",
+   "en": "\"{name0}... I'll miss you once{nl}you're gone.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -862,9 +862,9 @@
    "addr": "0x9258",
    "size": 4,
    "jp": "うむ！{end}",
-   "en": "",
+   "en": "\"Hmm!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -872,9 +872,9 @@
    "addr": "0x925C",
    "size": 4,
    "jp": "そうか{end}",
-   "en": "",
+   "en": "\"I see.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -882,9 +882,9 @@
    "addr": "0x9260",
    "size": 25,
    "jp": "{name0}らは、「破封の鍵」をうけとった{end}",
-   "en": "",
+   "en": "{name0}'s party received{nl}the Sealbreaker Key.{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -892,9 +892,9 @@
    "addr": "0x9279",
    "size": 20,
    "jp": "宮緒さまは、すばらしいお方ですよ{end}",
-   "en": "",
+   "en": "\"Elder Miyao is truly a{nl}wonderful soul.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -902,9 +902,9 @@
    "addr": "0x928D",
    "size": 24,
    "jp": "{name0}らは「緑晶輪」を手にいれた{end}",
-   "en": "",
+   "en": "{name0}'s party obtained{nl}the Green Crystal Ring!{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -912,9 +912,9 @@
    "addr": "0x92A5",
    "size": 52,
    "jp": "ねぇ、ぼくも宮緒さまのところで法術の修行をしてんだよ。みてみて、ほら{page}ぶんきとーしーん！ {end}",
-   "en": "",
+   "en": "\"Hey, I'm training in jutsu{nl}under Elder Miyao too!{nl}Watch this -- ready?{page}Spirit Cloooone!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -922,9 +922,9 @@
    "addr": "0x92D9",
    "size": 24,
    "jp": "また、いっこ法術おぼえたよ{page}てんいー！！ {end}",
-   "en": "",
+   "en": "\"I learned another new{nl}jutsu!{page}Waaarp!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -932,9 +932,9 @@
    "addr": "0x92F1",
    "size": 25,
    "jp": "今度の術はすごいぞー。ほら{page}へんげーっ！ {end}",
-   "en": "",
+   "en": "\"This next jutsu is awesome!{nl}Watch -- Transform!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -942,9 +942,9 @@
    "addr": "0x930A",
    "size": 19,
    "jp": "今日の修行はさぼろうかなぁー{end}",
-   "en": "",
+   "en": "\"Hmm... Maybe I'll skip{nl}training today...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -952,9 +952,9 @@
    "addr": "0x931D",
    "size": 23,
    "jp": "うぇーん。もうおまえは「はもん」だってー！ {end}",
-   "en": "",
+   "en": "\"Waaah! Master told me{nl}I'm 'expelled'!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -962,9 +962,9 @@
    "addr": "0x9334",
    "size": 44,
    "jp": "さあさ、神仏にお祈りをしましょう。ただで幸せになれれば、これはもう大もうけ！{end}",
-   "en": "",
+   "en": "\"Come, pray to the gods and{nl}Buddhas! Free bliss is pure{nl}profit, after all!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -972,9 +972,9 @@
    "addr": "0x9360",
    "size": 22,
    "jp": "わたくし、人の「愛」を信じております{end}",
-   "en": "",
+   "en": "\"I, for one, believe in{nl}human 'love.'\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -982,9 +982,9 @@
    "addr": "0x9376",
    "size": 46,
    "jp": "あー、こりゃこりゃ・・・。あ、すいません。まつりに備えて、歌の練習をしていたもので{end}",
-   "en": "",
+   "en": "\"A-heave, a-ho... Oh! Pardon{nl}me -- just practicing a song{nl}for the festival.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -992,9 +992,9 @@
    "addr": "0x93A4",
    "size": 16,
    "jp": "私、怒っています。プンプン{end}",
-   "en": "",
+   "en": "\"I'm fuming right now.{nl}Hmph, hmph!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1002,9 +1002,9 @@
    "addr": "0x93B4",
    "size": 27,
    "jp": "箱根の関所、だれも通してもらえないらしいぜ{end}",
-   "en": "",
+   "en": "\"Heard nobody's getting{nl}through Hakone Checkpoint!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1012,9 +1012,9 @@
    "addr": "0x93CF",
    "size": 49,
    "jp": "南紀の「田辺」には行きましたか？武蔵坊弁慶の生れたところだという噂ですよ{end}",
-   "en": "",
+   "en": "\"Have you been to Tanabe{nl}in southern Kii?{page}Word says Musashibo Benkei{nl}was born there.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1022,9 +1022,9 @@
    "addr": "0x9400",
    "size": 61,
    "jp": "友達がよ。二か月も箱根の関所で足止めにされてるらしいんだ。いったい、何が起きたっていうんだろう？{end}",
-   "en": "",
+   "en": "\"A buddy of mine's been{nl}stuck at Hakone Checkpoint{nl}for two months! What on{page}earth is going on over there?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1032,9 +1032,9 @@
    "addr": "0x943D",
    "size": 45,
    "jp": "魔物たちのために、海路ももうズタズタ。世の中、どうなってしまったんでしょうね{end}",
-   "en": "",
+   "en": "\"Monsters have torn the sea{nl}lanes to shreds too. What's{nl}this world coming to?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1042,9 +1042,9 @@
    "addr": "0x946A",
    "size": 90,
    "jp": "「月影の馬」という古代の絵のこと、聞いたことありませんか？{page}その絵には、あの世とこの世の橋渡しをする力があるっていう、いわく付きの代物なんですがね{end}",
-   "en": "",
+   "en": "\"Ever heard of an ancient{nl}painting called{nl}Moonshadow Steed?{page}It's a storied relic -- they{nl}say it holds power to bridge{nl}this world and the next.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1052,9 +1052,9 @@
    "addr": "0x94C4",
    "size": 83,
    "jp": "大きな声では言えぬが、幕府の水軍は海の魔物たちのために大打撃をうけたらしい{page}無傷なのは、日本最強の田辺水軍だけだそうだ{end}",
-   "en": "",
+   "en": "\"Keep this quiet, mind --{nl}sea fiends dealt the{nl}shogunate's navy a beating.{page}Word is the Tanabe Fleet,{nl}strongest in Japan, is the{nl}only one left intact.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1062,9 +1062,9 @@
    "addr": "0x9517",
    "size": 110,
    "jp": "京の都でも、四国や九州の情勢がつかめぬので、困っておる{page}なのに将軍・時宗公は、何を思ってのことか、関所を閉ざしてしまったという{page}・・・もしかしたら、鎌倉に何かゆゆしき事が！{end}",
-   "en": "",
+   "en": "\"Even Kyoto's in a bind,{nl}cut off from news out of{nl}Shikoku and Kyushu.{page}Yet whatever can Shogun{nl}Tokimune be thinking,{nl}shutting the checkpoints?{page}...Could something grave have{nl}befallen Kamakura?!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1072,9 +1072,9 @@
    "addr": "0x9585",
    "size": 9,
    "jp": "いらっしゃいまし{end}",
-   "en": "",
+   "en": "\"Welcome!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1082,9 +1082,9 @@
    "addr": "0x958E",
    "size": 72,
    "jp": "ウーッ、ヒック。やあ、旅人さん。三河には、三日は泊まりなよ。なあんちゃってナ。ヒーッヒヒッ、・・・ヒック{nl}{name1}「・・・？{end}",
-   "en": "",
+   "en": "\"Urrgh, *hic*! Stay a week-awa{nl}in Mikawa! Get it? *Hic*!\"{nl}{name1}: \"...?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1092,9 +1092,9 @@
    "addr": "0x95D6",
    "size": 74,
    "jp": "かんべんしてやって下さいな。この人、さっきからこんなことばかり言ってるんです{page}オチがちっとも落ちなくて、落ちつかないったらありゃあしない{end}",
-   "en": "",
+   "en": "\"Please excuse him -- he's{nl}been spouting awful puns{nl}like that all evening.{page}His punchlines fall so flat,{nl}it's flat-out maddening!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1102,9 +1102,9 @@
    "addr": "0x9620",
    "size": 53,
    "jp": "いっけねー。おイネとの約束、酒飲んでて、すっぽかしちゃった。きっと、プンプン怒ってるだろうなあ{end}",
-   "en": "",
+   "en": "\"Uh-oh! I got so busy{nl}drinking, I blew off my date{nl}with Ine! Man, she's gonna{page}be fuming!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1112,9 +1112,9 @@
    "addr": "0x9655",
    "size": 52,
    "jp": "まいっちまうよ。もう、二ヶ月だぜ。ここで待たされてんの。お役人は、わけも教えてくんねえし{end}",
-   "en": "",
+   "en": "\"What a pain! Two whole{nl}months they've kept us{nl}waiting here, and the guards{page}won't even tell us why!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1122,9 +1122,9 @@
    "addr": "0x9689",
    "size": 62,
    "jp": "ピーヒャラ、ピーヒャら。ああ、これはもう、歌でも歌って待つしかありませんなあ。あ、それ。ぴーひゃら、ぴーひゃら・・・{end}",
-   "en": "",
+   "en": "\"Too-tle-oo, too-tle-oo...{nl}Ah, all we can do now is{nl}sing and wait, eh?{page}Here we go! Too-tle-oo,{nl}too-tle-oo...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1132,9 +1132,9 @@
    "addr": "0x96C7",
    "size": 41,
    "jp": "この関所を通らなけりゃあ、鎌倉の都にはいけやしねえし。まいっただなや{end}",
-   "en": "",
+   "en": "\"Without getting through{nl}this checkpoint, we can't{nl}even reach Kamakura.{page}What a mess!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1142,9 +1142,9 @@
    "addr": "0x96F0",
    "size": 43,
    "jp": "わし、商人ですねん。もう、こんな恐ろしいところはいやや。早く帰りとうおます{end}",
-   "en": "",
+   "en": "\"I'm just a merchant, see!{nl}I've had enough of this{nl}dreadful place -- I just want{page}to get on home!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1152,9 +1152,9 @@
    "addr": "0x971B",
    "size": 45,
    "jp": "わたしは、旅の行商人。いろいろと、めずらしいものも売ってるよ。買わないかね？{end}",
-   "en": "",
+   "en": "\"I'm a traveling peddler.{nl}Got all sorts of rare wares{nl}here. Care to buy something?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1162,9 +1162,9 @@
    "addr": "0x9748",
    "size": 43,
    "jp": "いらっしゃいまし。宿屋でございます{nl}ここは、お安くお泊まりになれますよ。 {page}{end}",
-   "en": "",
+   "en": "\"Welcome! This is our inn.{nl}You can stay here for a{nl}bargain price.\"{page}{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1172,9 +1172,9 @@
    "addr": "0x9773",
    "size": 45,
    "jp": "すまぬが、将軍・北条時宗公の命である。おぬしたちを通すことはできぬのだ{end}",
-   "en": "",
+   "en": "\"Apologies, yet by order of{nl}Shogun Hojo Tokimune,{nl}we cannot let you pass.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1182,9 +1182,9 @@
    "addr": "0x97A0",
    "size": 30,
    "jp": "何も聞かず、立ち去りなされい。さもなくば、斬る！{end}",
-   "en": "",
+   "en": "\"Ask no questions and leave{nl}at once -- or be cut down!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1192,9 +1192,9 @@
    "addr": "0x97BE",
    "size": 42,
    "jp": "よかったよ、関所が通れるようになってさ。でも、二ヶ月だぜ。まいったよな{end}",
-   "en": "",
+   "en": "\"Thank goodness they opened{nl}the checkpoint at last!{page}Still, two whole months...{nl}That was rough!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1202,9 +1202,9 @@
    "addr": "0x97E8",
    "size": 66,
    "jp": "いやあ、よかった。これでやっと、女房と子供に会える。おいわいに得意な歌でも。あ、それ。ピーヒャラ、ピーヒャラ・・・{end}",
-   "en": "",
+   "en": "\"Ah, what a relief! Now I can{nl}finally see my wife and kids!{page}Time for a victory tune --{nl}here we go! Too-tle-oo,{nl}too-tle-oo...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1212,9 +1212,9 @@
    "addr": "0x982A",
    "size": 45,
    "jp": "これでやっと、国に帰れまんがな。もう鎌倉なんちゅうおそろしいところは、まっぴらや{end}",
-   "en": "",
+   "en": "\"At long last I can head back{nl}home! I never want to set{nl}foot near a dreadful place{page}like Kamakura again!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1222,9 +1222,9 @@
    "addr": "0x9857",
    "size": 29,
    "jp": "怪しいもの以外は、通っても良いことにあいなった{end}",
-   "en": "",
+   "en": "\"Orders have come down: all{nl}save suspicious characters{nl}may now pass.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1232,9 +1232,9 @@
    "addr": "0x9874",
    "size": 72,
    "jp": "さあ、お通りなされい。将軍北条時宗公のお許しが下ったのだ。だが、幕府の不安が消えたわけではないことをお忘れなく{end}",
-   "en": "",
+   "en": "\"Go right on through.{nl}Shogun Hojo Tokimune has{nl}granted you leave to pass.{page}Do not forget, though -- the{nl}shogunate's troubles are far{nl}from over.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1242,9 +1242,9 @@
    "addr": "0x98BC",
    "size": 10,
    "jp": "通っても、よし！{end}",
-   "en": "",
+   "en": "\"You may pass!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1252,9 +1252,9 @@
    "addr": "0x98C6",
    "size": 38,
    "jp": "ここは、田辺。あの武蔵坊弁慶さまがお生れになった地である{end}",
-   "en": "",
+   "en": "\"This is Tanabe -- birthplace{nl}of the famed{nl}Musashibo Benkei.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1262,9 +1262,9 @@
    "addr": "0x98EC",
    "size": 64,
    "jp": "われらは、朝廷にも幕府にも組みしない。ただ、信義においてのみ動く。それゆえに、このいくさを静観しておるのだ{end}",
-   "en": "",
+   "en": "\"We side with neither the{nl}Imperial Court nor the{nl}shogunate. We act on honor{page}alone -- and thus we watch{nl}this war from afar.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1272,9 +1272,9 @@
    "addr": "0x992C",
    "size": 44,
    "jp": "グッ、グウ。・・・わっはっはっ。高くようじをくわえているだけでは、はらがへるものだな{end}",
-   "en": "",
+   "en": "\"*Grrrgl*... Bwahaha! Guess{nl}picking your teeth with pride{nl}still leaves your belly empty!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1282,9 +1282,9 @@
    "addr": "0x9958",
    "size": 50,
    "jp": "船の使用をお望みか。それなら、役所で聞いてみるがよい。だが、おそらくかしてはやれぬぞ{end}",
-   "en": "",
+   "en": "\"Looking to borrow a ship?{nl}Try asking at the Government{nl}Office -- though I doubt{page}they'll lend you one.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1292,9 +1292,9 @@
    "addr": "0x998A",
    "size": 74,
    "jp": "見知らぬおなごに声をかけるとは、無礼であろう。まずは、父と母の許しを受けてからになされ{page}ところで、わらわの住所は・・・イヤ！{end}",
-   "en": "",
+   "en": "\"How rude, addressing a lady{nl}you do not even know! First{nl}seek my parents' permission!{page}Incidentally, my address is--{nl}Oh, perish the thought!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1302,9 +1302,9 @@
    "addr": "0x99D4",
    "size": 28,
    "jp": "質実剛健。殿方は、そうでなければなりませぬ{end}",
-   "en": "",
+   "en": "\"Frugal and resolute -- that{nl}is how a true gentleman{nl}ought to be!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1312,9 +1312,9 @@
    "addr": "0x99F0",
    "size": 61,
    "jp": "ああ、私が殿方に生れておれば、海で暴れている魔物たちを退治に行くところなのに。本当に、残念{end}",
-   "en": "",
+   "en": "\"Oh, if only I had been born{nl}a man, I'd march right out{nl}and slay those sea monsters{page}myself! What a pity!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1322,9 +1322,9 @@
    "addr": "0x9A2D",
    "size": 57,
    "jp": "武蔵坊弁慶さまは不死身のお身体を持っていたという伝説が、この地には残ってございます{end}",
-   "en": "",
+   "en": "\"Legend here says that{nl}Musashibo Benkei possessed{nl}an undying body.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1332,9 +1332,9 @@
    "addr": "0x9A66",
    "size": 58,
    "jp": "田辺水軍は日本最強の海軍だぜ。そして、陸で最強の戦闘部隊は「かすみ」の連中さ{end}",
-   "en": "",
+   "en": "\"The Tanabe Fleet is the{nl}mightiest navy in Japan!{nl}And on land, the strongest{page}fighters are the Kasumi lot.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1342,9 +1342,9 @@
    "addr": "0x9AA0",
    "size": 108,
    "jp": "ねえ。歴史の中で、一番強い人はだれだろうね？わたしは、武蔵坊弁慶さまだと思うの{page}でも、源義経さまの御家来だったのよね。義経さまは、よほど立派な方だったのに違いないわ{end}",
-   "en": "",
+   "en": "\"Say, who do you think was{nl}the strongest hero in history?{nl}I say it's Musashibo Benkei!{page}Yet even he served Lord{nl}Minamoto no Yoshitsune.{nl}Lord Yoshitsune must have{page}been quite a man indeed!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1352,9 +1352,9 @@
    "addr": "0x9B0C",
    "size": 103,
    "jp": "その昔、源義経さまと弁慶さまたちは平泉で、「鎌倉」に殺されたんだ。朝廷だって、見殺しにした{page}あいつらなんか助けてやる すじあいはないぜ。蒙古にでもやられちまえばいいんだ{end}",
-   "en": "",
+   "en": "\"Long ago at Hiraizumi,{nl}Kamakura killed Lord{nl}Minamoto no Yoshitsune and{page}Benkei -- and the Imperial{nl}Court stood by and watched!{page}We owe them nothing.{nl}Let the Mongols crush 'em,{nl}for all I care!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1362,9 +1362,9 @@
    "addr": "0x9B73",
    "size": 44,
    "jp": "我が殿様は、かしこいお方。決して、恨みや欲に動かされたりはいたしません{end}",
-   "en": "",
+   "en": "\"Our lord is a wise man.{nl}He is never swayed by{nl}grudges or greed.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1372,9 +1372,9 @@
    "addr": "0x9B9F",
    "size": 69,
    "jp": "あの旅人のおっちゃん、鎌倉の都よりもずっと北のほうから来たんだってさ。うそだよね、きっと。関所だって閉まっているのに{end}",
-   "en": "",
+   "en": "\"That traveling mister says{nl}he came from way up north{nl}past Kamakura! He's gotta be{page}lying -- the checkpoint's{nl}closed shut!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1382,9 +1382,9 @@
    "addr": "0x9BE4",
    "size": 62,
    "jp": "黄泉の国って知ってる？だれも入ることができないおばけたちの国だよ。でも「黄泉の道」には、行けるんだって{end}",
-   "en": "",
+   "en": "\"Ever heard of the Land of{nl}Yomi? It's a ghost realm{nl}where no living soul can go.{page}Still, folks say you can{nl}reach the Path of Yomi.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1392,9 +1392,9 @@
    "addr": "0x9C22",
    "size": 71,
    "jp": "「かすみ」の砦は、鎌倉のずっと北の山奥にあるぜ。覚えておくがいい{page}{name1}「あなたはだれです？{page}ただの旅ガラスさ。あばよ{end}",
-   "en": "",
+   "en": "\"Kasumi Fort lies deep{nl}in the mountains far north{nl}of Kamakura. Remember it.\"{page}{name1}: \"Who are you?\"{page}\"Just a wandering crow.{nl}See ya.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1402,9 +1402,9 @@
    "addr": "0x9C69",
    "size": 55,
    "jp": "船をかす事は、できぬ。我が領のあるじ・緒方さまの意である。たとえ、幕命であってもしたがわぬ{end}",
-   "en": "",
+   "en": "\"We cannot lend you a ship.{nl}That is the will of our lord,{nl}Lord Ogata. Even on orders{page}from the shogunate, we will{nl}not yield.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1412,9 +1412,9 @@
    "addr": "0x9CA0",
    "size": 74,
    "jp": "これにあるは、あるじ・緒方さまの御殿と町を仕切る唯一の門である。無用のものは、通すわけにはゆかぬ{page}お引き取りなされよ{end}",
-   "en": "",
+   "en": "\"This gate alone divides{nl}Lord Ogata's estate from the{nl}town. Those with no business{page}here may not pass.{nl}Take your leave.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1422,9 +1422,9 @@
    "addr": "0x9CEA",
    "size": 84,
    "jp": "うちの殿様、ほんとうにガンコでよ。先祖の遺言をかたくなに守っているんだ。「内なる声に、従って生きよ」とさ{page}おれ、そんな殿様が大好きなんだ{end}",
-   "en": "",
+   "en": "\"Our lord's stubborn as all{nl}get-out -- still keeping his{nl}ancestors' dying wish:{page}'Live true to the voice{nl}within.' Honestly, I love{nl}that about him!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1432,9 +1432,9 @@
    "addr": "0x9D3E",
    "size": 34,
    "jp": "われは「海龍の骨」を守護するもの。覚悟はよろしいか？{end}",
-   "en": "",
+   "en": "\"I am the guardian of the{nl}Sea Dragon Bone.{nl}Are you prepared?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1442,9 +1442,9 @@
    "addr": "0x9D60",
    "size": 73,
    "jp": "{name1}「いったいこれは・・・{page}{name2}「守光楼閣がおちちまった。それにしても、あの女の子は一体？{page}{name0}「・・・{end}",
-   "en": "",
+   "en": "{name1}: \"What is this...?\"{page}{name2}: \"Shuko Pavilion just{nl}fell! And who on earth was{nl}that girl?!\"{page}{name0}: \"...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1452,9 +1452,9 @@
    "addr": "0x9DA9",
    "size": 62,
    "jp": "守光楼閣がおちた今、さらに強き魔物がおしよせていると聞く{page}{name0}殿、急ぎ戦鬼の復活を！{end}",
-   "en": "",
+   "en": "\"With Shuko Pavilion fallen,{nl}even fiercer fiends are said{nl}to be closing in.{page}{name0}, make haste and{nl}awaken the War Demon!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1462,9 +1462,9 @@
    "addr": "0x9DE7",
    "size": 61,
    "jp": "玄三どのの傷は、そうとうの深手じゃ。安静にしておらねば命にかかわる。医者の言うことは守りなされよ{end}",
-   "en": "",
+   "en": "\"Master Genzo's wounds are{nl}grievous indeed. Unless he{nl}rests quietly, his life is{page}at stake. Heed the doctor's{nl}orders!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1472,9 +1472,9 @@
    "addr": "0x9E24",
    "size": 63,
    "jp": "影丸「かしらは、あれからずっと意識を失ったままだ。それでもおまえたちのことを、うわごとでくり返しくり返し・・・{end}",
-   "en": "",
+   "en": "Kagemaru: \"The chief's been{nl}out cold ever since.{page}Even so, he keeps calling{nl}out for you all in his{nl}delirium...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1482,9 +1482,9 @@
    "addr": "0x9E63",
    "size": 64,
    "jp": "かすみの玄三「ううっ {name0}。し、四国へ、四国の剣山のいただきへ。「戦鬼の棺」を・・・ううっ・・・{end}",
-   "en": "",
+   "en": "Genzo of Kasumi: \"Urgh...{nl}{name0}... Go to Shikoku...{nl}Atop Mt. Tsurugi... Seek{page}the War Demon's Coffin...{nl}Urgh...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1492,9 +1492,9 @@
    "addr": "0x9EA3",
    "size": 36,
    "jp": "いずれ、再びわれらは蝦夷に兵を進める。かたきは必ず、討つ{end}",
-   "en": "",
+   "en": "\"Before long, we march on{nl}Ezo once again. We will{nl}have our vengeance!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1502,9 +1502,9 @@
    "addr": "0x9EC7",
    "size": 30,
    "jp": "くそ、呪魂！ヤツのために、多くの仲間たちが・・・{end}",
-   "en": "",
+   "en": "\"Damn you, Jugon! So many{nl}of our comrades... because{nl}of him...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1512,9 +1512,9 @@
    "addr": "0x9EE5",
    "size": 41,
    "jp": "ああ！あんたたち。よくぞ無事で。才蔵さまのこと、お気の毒にねえ・・・{end}",
-   "en": "",
+   "en": "\"Oh, thank goodness you{nl}made it back safely! What{nl}happened to Lord Saizo...{page}It's just heartbreaking...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1522,9 +1522,9 @@
    "addr": "0x9F0E",
    "size": 75,
    "jp": "村長「やあ、{name0}さんか。立派になられたなあ。才蔵さまのお墓、戦鬼の碑のとなりに作らせてもらったよ{page}よい人だった・・・{end}",
-   "en": "",
+   "en": "Village Chief: \"Ah, {name0}.{nl}Look how strong you've{nl}grown. We laid Lord Saizo's{page}grave right beside the{nl}War Demon Stele.{nl}He was a good man...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1532,9 +1532,9 @@
    "addr": "0x9F59",
    "size": 68,
    "jp": "われらは、この地で修行をしている僧でござる。お気をつけなされ。とても強い魔物たちが、突然現われるようになったのだ{end}",
-   "en": "",
+   "en": "\"We are monks who train{nl}upon this mountain. Keep on{nl}your guard -- terribly fierce{page}fiends have suddenly begun{nl}appearing here.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1542,9 +1542,9 @@
    "addr": "0x9F9D",
    "size": 56,
    "jp": "この数日で、仲間たちが次々に殺されてしまった。だが、われらは逃げはせぬ。修行を続けるのだ{end}",
-   "en": "",
+   "en": "\"In just the past few days,{nl}our brethren were slain one{nl}after another. Yet we will{page}not flee. Our training{nl}shall continue.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1552,9 +1552,9 @@
    "addr": "0x9FD5",
    "size": 49,
    "jp": "このあたりは、その昔、「鬼国」と呼ばれていた時があるそうな。何ゆえかは、わからぬがな{end}",
-   "en": "",
+   "en": "\"They say this region was{nl}once called 'Demon Land'{nl}long ago -- though no one{page}knows why.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1562,9 +1562,9 @@
    "addr": "0xA006",
    "size": 4,
    "jp": "・・・{end}",
-   "en": "",
+   "en": "\"...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1572,9 +1572,9 @@
    "addr": "0xA00A",
    "size": 36,
    "jp": "・・・たしかにあなたがたには、これを使うしかくがある。取るが良い{end}",
-   "en": "",
+   "en": "\"...Indeed, you are worthy{nl}to wield this. Take it.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1582,9 +1582,9 @@
    "addr": "0xA02E",
    "size": 21,
    "jp": "{name2}「ムウッ！霊晶輪が！？{end}",
-   "en": "",
+   "en": "{name2}: \"Ngh! The{nl}Spirit Crystal Rings?!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1592,9 +1592,9 @@
    "addr": "0xA043",
    "size": 25,
    "jp": "{name0}「・・・{page}{name1}「・・・ここか{end}",
-   "en": "",
+   "en": "{name0}: \"...\"{page}{name1}: \"...Is this the place?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1602,9 +1602,9 @@
    "addr": "0xA05C",
    "size": 41,
    "jp": "{name2}「気をつけろ！殺気だ{page}{name1}「この気！ばかな、これは！{end}",
-   "en": "",
+   "en": "{name2}: \"Watch out!{nl}Bloodlust!\"{page}{name1}: \"That presence! No...{nl}How could this be?!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1612,9 +1612,9 @@
    "addr": "0xA085",
    "size": 127,
    "jp": "そうだ。そのバカなことが起きたのだ。・・・このおれが、おまえらごときに倒されたのだからな{page}{name0}「・・・！{page}おかげでおれは、呪魂さまにおしかりを受け、死ぬことも許されず、死霊としてさ迷うこととなった。おまえたちを、殺すまでな{end}",
-   "en": "",
+   "en": "\"That's right -- the{nl}impossible happened. I, of{nl}all warriors, actually fell{page}to the likes of you!\"{page}{name0}: \"...!\"{page}\"Because of that, I earned{nl}Lord Jugon's wrath -- denied{nl}even death, cursed to{page}wander as a wraith until I{nl}slaughter you all!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1622,9 +1622,9 @@
    "addr": "0xA104",
    "size": 107,
    "jp": "{name2}「きさまは、狂舞！{page}「死狂舞」として、よみがえったのだ。死肉となったこの体は、おまえたちごときに倒せるものではない。覚悟しろ{page}不死身の「戦鬼」など、復活させるものか{end}",
-   "en": "",
+   "en": "{name2}: \"You're Kyobu!\"{page}\"I have risen anew as{nl}Shikyobu! Now that this{nl}body is undead flesh, the{page}likes of you can never fell{nl}me! Prepare yourself!{page}I'll never let you revive{nl}your undying 'War Demon'!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1632,9 +1632,9 @@
    "addr": "0xA16F",
    "size": 11,
    "jp": "待て！死狂舞{end}",
-   "en": "",
+   "en": "\"Hold it, Shikyobu!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1642,9 +1642,9 @@
    "addr": "0xA17A",
    "size": 63,
    "jp": "{name1}「ハヤテさん！{page}ハヤテ「どうやら、おれの死に場所が決まったらしい。おい、{name0}{page}{name0}「！！{end}",
-   "en": "",
+   "en": "{name1}: \"Hayate!\"{page}Hayate: \"Looks like I've{nl}found where I'm meant to{nl}die. Hey, {name0}.\"{page}{name0}: \"!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1652,9 +1652,9 @@
    "addr": "0xA1B9",
    "size": 147,
    "jp": "ハヤテ「ここはおれに任せて、おまえたちは先に行け。この化け物を倒せぬまでも、時間ぐらいかせいでやる{page}{name2}「バカをいえ！そんなことが、できるか！{page}ハヤテ「達者でな。おれは、おまえたち三人を、死んだ弟たちの生まれ変りのように感じていたんだ・・・。あばよ！{end}",
-   "en": "",
+   "en": "Hayate: \"Leave this to me{nl}and go on ahead! Even if{nl}I can't slay this fiend, I'll{page}buy you some time.\"{page}{name2}: \"Don't talk crazy!{nl}Like hell we're leaving you!\"{page}Hayate: \"Stay safe, all of{nl}you. You three always felt{nl}like my lost siblings reborn...{page}Farewell!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1662,9 +1662,9 @@
    "addr": "0xA24C",
    "size": 13,
    "jp": "{name2}「ハヤテー！{end}",
-   "en": "",
+   "en": "{name2}: \"Hayate!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1672,9 +1672,9 @@
    "addr": "0xA259",
    "size": 49,
    "jp": "われは、不知火。不滅の声。おまえたちが、破れざる者としてあゆんできた証をここへ{end}",
-   "en": "",
+   "en": "\"I am Shiranui, the undying{nl}voice.{page}Bring forth the proof that{nl}you walked on unbroken.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1682,9 +1682,9 @@
    "addr": "0xA28A",
    "size": 176,
    "jp": "弁慶「ふあぁあ。ああ、寝過ぎた・・・ん？なんだ、おまえらは{page}{name1}「武蔵坊弁慶どのでござるな{page}弁慶「ああ。まあな{page}{name1}「実は・・・{page}弁慶「・・・そりゃあ、たいへんじゃねえか。とにかく、そのハヤテってやつがふんばっているなら、助けに行かなきゃな{page}{name2}「しかし、出口が・・・{page}弁慶「ついてこい{end}",
-   "en": "",
+   "en": "Benkei: \"Yaaawn... Man, I{nl}slept way too long... Huh?{nl}Who the heck are you lot?\"{page}{name1}: \"You are Master{nl}Musashibo Benkei, are you{nl}not?\"{page}Benkei: \"Yeah, I suppose so.\"{page}{name1}: \"You see...\"{page}Benkei: \"...Well, hell, that's{nl}a real mess! If this Hayate{nl}fellow's holding the line out{page}there, we'd better go save{nl}his hide!\"{page}{name2}: \"Wait -- how do we{nl}get out?\"{page}Benkei: \"Follow me!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1692,9 +1692,9 @@
    "addr": "0xA33A",
    "size": 4,
    "jp": "ふん！{end}",
-   "en": "",
+   "en": "\"Hmph!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1702,9 +1702,9 @@
    "addr": "0xA33E",
    "size": 12,
    "jp": "{name0}「ハヤテ！{end}",
-   "en": "",
+   "en": "{name0}: \"Hayate!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1712,9 +1712,9 @@
    "addr": "0xA34A",
    "size": 44,
    "jp": "死狂舞「戦鬼・武蔵坊弁慶。ついに復活したのか。ではまた、死ね{end}",
-   "en": "",
+   "en": "Shikyobu: \"Musashibo Benkei,{nl}the War Demon... So you've{nl}risen at last. Then die again!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1722,9 +1722,9 @@
    "addr": "0xA376",
    "size": 52,
    "jp": "ハヤテ「・・・すげえ。これほどとは。呪魂さえ恐れるはずだ{page}{name1}「ハヤテさん！生きている{end}",
-   "en": "",
+   "en": "Hayate: \"...Incredible. Power{nl}like this... No wonder even{nl}Jugon fears him.\"{page}{name1}: \"Hayate! He's alive!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1732,9 +1732,9 @@
    "addr": "0xA3AA",
    "size": 96,
    "jp": "ハヤテ「・・・虫の息だがな。武蔵坊弁慶さま、後のこと、お願い申し上げる{page}弁慶「ああ。わかった。だが最初の仕事は、おまえを医者のところに連れてゆくことだ{end}",
-   "en": "",
+   "en": "Hayate: \"...Barely clinging to{nl}life, though.{page}Lord Musashibo Benkei... I{nl}leave the rest in your{nl}hands.\"{page}Benkei: \"Yeah, got it! First{nl}order of business, though, is{nl}hauling you to a doctor!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1742,9 +1742,9 @@
    "addr": "0xA40A",
    "size": 16,
    "jp": "弁慶が仲間に加わった{end}",
-   "en": "",
+   "en": "Benkei joined the party!{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1752,9 +1752,9 @@
    "addr": "0xA41A",
    "size": 90,
    "jp": " {name0}さん、よくご無事で。おや？そちらの大きなお方は、新しいお仲間ですか{page}弁慶「おれは、武蔵坊弁慶だ{page}わっはっは、またまた。おもしろいお方だ{end}",
-   "en": "",
+   "en": "\"{name0}, thank goodness{nl}you're safe!{page}Oh? Is that big fellow{nl}there a new companion?\"{page}Benkei: \"I'm{nl}Musashibo Benkei.\"{page}\"Hahaha! Oh, come now --{nl}what a sense of humor!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1762,9 +1762,9 @@
    "addr": "0xA474",
    "size": 29,
    "jp": "ハヤテどのの傷は、とても深い。絶対安静ですぞ{end}",
-   "en": "",
+   "en": "\"Master Hayate's wounds run{nl}very deep. Complete rest is{nl}vital!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1772,9 +1772,9 @@
    "addr": "0xA491",
    "size": 97,
    "jp": "ハヤテ「すまぬ。また、死にそびれてしまったらしいな{page}弁慶さま、まだまだ半人前な{name0}たちのこと、よろしくお願いいたしまする{page}弁慶「まかせておけ。ハヤテは、体をいとえよ{end}",
-   "en": "",
+   "en": "Hayate: \"Forgive me. Looks{nl}like I failed to die cleanly{nl}yet again.{page}Lord Benkei, {name0} and the{nl}others are still green --{nl}please look after them.\"{page}Benkei: \"Hah! Leave it to me!{nl}You just focus on mending{nl}up, Hayate.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1782,9 +1782,9 @@
    "addr": "0xA4F2",
    "size": 20,
    "jp": "あなたがたの力、見せていただこう！{end}",
-   "en": "",
+   "en": "\"Show me what strength you{nl}possess!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1792,9 +1792,9 @@
    "addr": "0xA506",
    "size": 42,
    "jp": "{name0}、蝦夷にいる影丸を助けてやってくれ{page}呪魂は蝦夷にいる{end}",
-   "en": "",
+   "en": "\"{name0}, go help Kagemaru{nl}in Ezo.{page}Jugon is in Ezo!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   }
  ]
