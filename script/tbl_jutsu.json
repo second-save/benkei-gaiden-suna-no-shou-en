@@ -15,9 +15,9 @@
    "addr": "0xB7F0",
    "size": 4,
    "jp": "魔破",
-   "en": "",
+   "en": "Gale",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -26,9 +26,9 @@
    "addr": "0xB7F4",
    "size": 6,
    "jp": "魔破渦",
-   "en": "",
+   "en": "Whirlwind",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -37,9 +37,9 @@
    "addr": "0xB7FA",
    "size": 4,
    "jp": "冷鎖",
-   "en": "",
+   "en": "Frost",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -48,9 +48,9 @@
    "addr": "0xB7FE",
    "size": 6,
    "jp": "冷破陣",
-   "en": "",
+   "en": "Blizzard",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -59,9 +59,9 @@
    "addr": "0xB804",
    "size": 4,
    "jp": "軌炎",
-   "en": "",
+   "en": "Blaze",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -70,9 +70,9 @@
    "addr": "0xB808",
    "size": 6,
    "jp": "軌炎陣",
-   "en": "",
+   "en": "Inferno",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -81,9 +81,9 @@
    "addr": "0xB80E",
    "size": 4,
    "jp": "翔雷",
-   "en": "",
+   "en": "Thunder",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -92,9 +92,9 @@
    "addr": "0xB812",
    "size": 6,
    "jp": "散豪雷",
-   "en": "",
+   "en": "Lightning",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -103,9 +103,9 @@
    "addr": "0xB818",
    "size": 6,
    "jp": "刺光破",
-   "en": "",
+   "en": "Lightlance",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -114,9 +114,9 @@
    "addr": "0xB81E",
    "size": 6,
    "jp": "裂光斬",
-   "en": "",
+   "en": "Holy Slash",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -125,9 +125,9 @@
    "addr": "0xB824",
    "size": 6,
    "jp": "太極壊",
-   "en": "",
+   "en": "Void Rift",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -136,9 +136,9 @@
    "addr": "0xB82A",
    "size": 10,
    "jp": "火龍裂光陣",
-   "en": "",
+   "en": "Dragon Flare",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -147,9 +147,9 @@
    "addr": "0xB834",
    "size": 4,
    "jp": "眠倒",
-   "en": "",
+   "en": "Sleep",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -158,9 +158,9 @@
    "addr": "0xB838",
    "size": 4,
    "jp": "鈍動",
-   "en": "",
+   "en": "Slow",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -169,9 +169,9 @@
    "addr": "0xB83C",
    "size": 6,
    "jp": "天経覚",
-   "en": "",
+   "en": "Haste",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -180,9 +180,9 @@
    "addr": "0xB842",
    "size": 4,
    "jp": "豪昇",
-   "en": "",
+   "en": "Might",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -191,9 +191,9 @@
    "addr": "0xB846",
    "size": 6,
    "jp": "緩攻止",
-   "en": "",
+   "en": "Weaken",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -202,9 +202,9 @@
    "addr": "0xB84C",
    "size": 4,
    "jp": "封呪",
-   "en": "",
+   "en": "Silence",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -213,9 +213,9 @@
    "addr": "0xB850",
    "size": 6,
    "jp": "反気法",
-   "en": "",
+   "en": "Reflect",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -224,9 +224,9 @@
    "addr": "0xB856",
    "size": 4,
    "jp": "落守",
-   "en": "",
+   "en": "Sunder",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -235,9 +235,9 @@
    "addr": "0xB85A",
    "size": 4,
    "jp": "止盾",
-   "en": "",
+   "en": "Shield",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -246,9 +246,9 @@
    "addr": "0xB85E",
    "size": 4,
    "jp": "帰気",
-   "en": "",
+   "en": "Mend",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -257,9 +257,9 @@
    "addr": "0xB862",
    "size": 6,
    "jp": "帰回気",
-   "en": "",
+   "en": "Mass Heal",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -268,9 +268,9 @@
    "addr": "0xB868",
    "size": 6,
    "jp": "気応慨",
-   "en": "",
+   "en": "Cure",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -279,9 +279,9 @@
    "addr": "0xB86E",
    "size": 6,
    "jp": "気慨転",
-   "en": "",
+   "en": "Full Cure",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -290,9 +290,9 @@
    "addr": "0xB874",
    "size": 6,
    "jp": "極応慨",
-   "en": "",
+   "en": "Mass Cure",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -301,9 +301,9 @@
    "addr": "0xB87A",
    "size": 4,
    "jp": "転醒",
-   "en": "",
+   "en": "Revive",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -312,9 +312,9 @@
    "addr": "0xB87E",
    "size": 4,
    "jp": "聖踏",
-   "en": "",
+   "en": "Sacred Step",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -323,9 +323,9 @@
    "addr": "0xB882",
    "size": 6,
    "jp": "加聖踏",
-   "en": "",
+   "en": "Sacred Dash",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -334,9 +334,9 @@
    "addr": "0xB888",
    "size": 4,
    "jp": "飛虚",
-   "en": "",
+   "en": "Farsight",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -345,9 +345,9 @@
    "addr": "0xB88C",
    "size": 4,
    "jp": "転移",
-   "en": "",
+   "en": "Warp",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -356,9 +356,9 @@
    "addr": "0xB890",
    "size": 9,
    "jp": "仲間を呼んだ",
-   "en": "",
+   "en": "Call Ally",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -367,9 +367,9 @@
    "addr": "0xB899",
    "size": 8,
    "jp": "分気闘身",
-   "en": "",
+   "en": "Shadow Clone",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -378,9 +378,9 @@
    "addr": "0xB8A1",
    "size": 6,
    "jp": "加保足",
-   "en": "",
+   "en": "Fleetfoot",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -389,9 +389,9 @@
    "addr": "0xB8A7",
    "size": 4,
    "jp": "灼解",
-   "en": "",
+   "en": "Meltdown",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -400,9 +400,9 @@
    "addr": "0xB8AB",
    "size": 4,
    "jp": "呼霊",
-   "en": "",
+   "en": "Soul Rend",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -411,9 +411,9 @@
    "addr": "0xB8AF",
    "size": 6,
    "jp": "退魔法",
-   "en": "",
+   "en": "Purify",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -422,9 +422,9 @@
    "addr": "0xB8B5",
    "size": 6,
    "jp": "鬼招呪",
-   "en": "",
+   "en": "Demon Call",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -433,9 +433,9 @@
    "addr": "0xB8BB",
    "size": 6,
    "jp": "魔操障",
-   "en": "",
+   "en": "Confuse",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -444,9 +444,9 @@
    "addr": "0xB8C1",
    "size": 8,
    "jp": "幻獣変化",
-   "en": "",
+   "en": "Phantom Beast",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -455,9 +455,9 @@
    "addr": "0xB8C9",
    "size": 8,
    "jp": "幻獣変化",
-   "en": "",
+   "en": "Phantom Beast",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -466,9 +466,9 @@
    "addr": "0xB8D1",
    "size": 8,
    "jp": "幻獣変化",
-   "en": "",
+   "en": "Phantom Beast",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -477,9 +477,9 @@
    "addr": "0xB8D9",
    "size": 8,
    "jp": "幻獣変化",
-   "en": "",
+   "en": "Phantom Beast",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -488,9 +488,9 @@
    "addr": "0xB8E1",
    "size": 8,
    "jp": "幻獣変化",
-   "en": "",
+   "en": "Phantom Beast",
    "box": "jutsu_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   }
  ]

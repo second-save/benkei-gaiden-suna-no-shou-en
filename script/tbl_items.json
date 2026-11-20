@@ -15,9 +15,9 @@
    "addr": "0xB660",
    "size": 2,
    "jp": "薬",
-   "en": "",
+   "en": "Medicine",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -26,9 +26,9 @@
    "addr": "0xB662",
    "size": 4,
    "jp": "大薬",
-   "en": "",
+   "en": "Great Medicine",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -37,9 +37,9 @@
    "addr": "0xB666",
    "size": 5,
    "jp": "毒消し",
-   "en": "",
+   "en": "Antidote",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -48,9 +48,9 @@
    "addr": "0xB66B",
    "size": 6,
    "jp": "封魔香",
-   "en": "",
+   "en": "Sealing Incense",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -59,9 +59,9 @@
    "addr": "0xB671",
    "size": 7,
    "jp": "風の霊薬",
-   "en": "",
+   "en": "Wind Elixir",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -70,9 +70,9 @@
    "addr": "0xB678",
    "size": 7,
    "jp": "火の霊薬",
-   "en": "",
+   "en": "Fire Elixir",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -81,9 +81,9 @@
    "addr": "0xB67F",
    "size": 7,
    "jp": "水の霊薬",
-   "en": "",
+   "en": "Water Elixir",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -92,9 +92,9 @@
    "addr": "0xB686",
    "size": 7,
    "jp": "木の霊薬",
-   "en": "",
+   "en": "Wood Elixir",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -103,9 +103,9 @@
    "addr": "0xB68D",
    "size": 7,
    "jp": "土の霊薬",
-   "en": "",
+   "en": "Earth Elixir",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -114,9 +114,9 @@
    "addr": "0xB694",
    "size": 9,
    "jp": "六道の秘薬",
-   "en": "",
+   "en": "Six-Realms Elixir",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -125,9 +125,9 @@
    "addr": "0xB69D",
    "size": 4,
    "jp": "式符",
-   "en": "",
+   "en": "Talisman",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -136,9 +136,9 @@
    "addr": "0xB6A1",
    "size": 6,
    "jp": "練気丸",
-   "en": "",
+   "en": "Ki Pill",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -147,9 +147,9 @@
    "addr": "0xB6A7",
    "size": 8,
    "jp": "練気大丸",
-   "en": "",
+   "en": "Great Ki Pill",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -158,9 +158,9 @@
    "addr": "0xB6AF",
    "size": 6,
    "jp": "風霊芝",
-   "en": "",
+   "en": "Wind Reishi",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -169,9 +169,9 @@
    "addr": "0xB6B5",
    "size": 6,
    "jp": "火霊芝",
-   "en": "",
+   "en": "Fire Reishi",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -180,9 +180,9 @@
    "addr": "0xB6BB",
    "size": 6,
    "jp": "氷霊芝",
-   "en": "",
+   "en": "Ice Reishi",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -191,9 +191,9 @@
    "addr": "0xB6C1",
    "size": 6,
    "jp": "木霊芝",
-   "en": "",
+   "en": "Wood Reishi",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -202,9 +202,9 @@
    "addr": "0xB6C7",
    "size": 6,
    "jp": "雷鳴石",
-   "en": "",
+   "en": "Thunderstone",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -213,9 +213,9 @@
    "addr": "0xB6CD",
    "size": 7,
    "jp": "毒虫の粉",
-   "en": "",
+   "en": "Venom Bug Dust",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -224,9 +224,9 @@
    "addr": "0xB6D4",
    "size": 4,
    "jp": "式符",
-   "en": "",
+   "en": "Talisman",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -235,9 +235,9 @@
    "addr": "0xB6D8",
    "size": 4,
    "jp": "式符",
-   "en": "",
+   "en": "Talisman",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -246,9 +246,9 @@
    "addr": "0xB6DC",
    "size": 4,
    "jp": "式符",
-   "en": "",
+   "en": "Talisman",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -257,9 +257,9 @@
    "addr": "0xB6E0",
    "size": 4,
    "jp": "式符",
-   "en": "",
+   "en": "Talisman",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -268,9 +268,9 @@
    "addr": "0xB6E4",
    "size": 4,
    "jp": "式符",
-   "en": "",
+   "en": "Talisman",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -279,9 +279,9 @@
    "addr": "0xB6E8",
    "size": 9,
    "jp": "夢操の回鏡",
-   "en": "",
+   "en": "Dream Mirror",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -290,9 +290,9 @@
    "addr": "0xB6F1",
    "size": 6,
    "jp": "霊晶輪",
-   "en": "",
+   "en": "Spirit Crystal Ring",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -312,9 +312,9 @@
    "addr": "0xB6F7",
    "size": 9,
    "jp": "あやかしの風鈴",
-   "en": "",
+   "en": "Eerie Windchime",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -323,9 +323,9 @@
    "addr": "0xB700",
    "size": 6,
    "jp": "夢操印",
-   "en": "",
+   "en": "Dream-Weaving Seal",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -334,9 +334,9 @@
    "addr": "0xB706",
    "size": 6,
    "jp": "通行証",
-   "en": "",
+   "en": "Travel Pass",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -345,9 +345,9 @@
    "addr": "0xB70C",
    "size": 6,
    "jp": "飛跳印",
-   "en": "",
+   "en": "Soaring Seal",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -356,9 +356,9 @@
    "addr": "0xB712",
    "size": 6,
    "jp": "赤晶輪",
-   "en": "",
+   "en": "Red Crystal Ring",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -367,9 +367,9 @@
    "addr": "0xB718",
    "size": 6,
    "jp": "緑晶輪",
-   "en": "",
+   "en": "Green Crystal Ring",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -378,9 +378,9 @@
    "addr": "0xB71E",
    "size": 6,
    "jp": "青晶輪",
-   "en": "",
+   "en": "Blue Crystal Ring",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -389,9 +389,9 @@
    "addr": "0xB724",
    "size": 6,
    "jp": "紫晶輪",
-   "en": "",
+   "en": "Purple Crystal Ring",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -400,9 +400,9 @@
    "addr": "0xB72A",
    "size": 6,
    "jp": "黄晶輪",
-   "en": "",
+   "en": "Yellow Crystal Ring",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -411,9 +411,9 @@
    "addr": "0xB730",
    "size": 9,
    "jp": "三日月の笛",
-   "en": "",
+   "en": "Crescent Flute",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -422,9 +422,9 @@
    "addr": "0xB739",
    "size": 7,
    "jp": "破封の鍵",
-   "en": "",
+   "en": "Sealbreaker Key",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -433,9 +433,9 @@
    "addr": "0xB740",
    "size": 6,
    "jp": "月光灯",
-   "en": "",
+   "en": "Moonlight Lantern",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -444,9 +444,9 @@
    "addr": "0xB746",
    "size": 7,
    "jp": "月影の馬",
-   "en": "",
+   "en": "Moonshadow Steed",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -455,9 +455,9 @@
    "addr": "0xB74D",
    "size": 11,
    "jp": "天昇流舞の書",
-   "en": "",
+   "en": "Sky-Dance Tome",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -466,9 +466,9 @@
    "addr": "0xB758",
    "size": 8,
    "jp": "泣き蛇の鈴",
-   "en": "",
+   "en": "Weeping Snake Bell",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -477,9 +477,9 @@
    "addr": "0xB760",
    "size": 7,
    "jp": "海龍の骨",
-   "en": "",
+   "en": "Sea Dragon Bone",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -488,9 +488,9 @@
    "addr": "0xB767",
    "size": 5,
    "jp": "割り札",
-   "en": "",
+   "en": "Wooden Tally",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -499,9 +499,9 @@
    "addr": "0xB76C",
    "size": 10,
    "jp": "隠し扉の合鍵",
-   "en": "",
+   "en": "Hidden Door Key",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -510,9 +510,9 @@
    "addr": "0xB776",
    "size": 9,
    "jp": "皇家の紋章",
-   "en": "",
+   "en": "Imperial Crest",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -521,9 +521,9 @@
    "addr": "0xB77F",
    "size": 7,
    "jp": "皇帝の闇",
-   "en": "",
+   "en": "Emperor's Darkness",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -532,9 +532,9 @@
    "addr": "0xB786",
    "size": 6,
    "jp": "至崩輪",
-   "en": "",
+   "en": "Ring of Ruin",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -543,9 +543,9 @@
    "addr": "0xB78C",
    "size": 4,
    "jp": "薬草",
-   "en": "",
+   "en": "Healing Herb",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -554,9 +554,9 @@
    "addr": "0xB790",
    "size": 6,
    "jp": "大薬草",
-   "en": "",
+   "en": "Great Healing Herb",
    "box": "item_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   }
  ]

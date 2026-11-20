@@ -15,9 +15,9 @@
    "addr": "0xB254",
    "size": 2,
    "jp": "刀",
-   "en": "",
+   "en": "Katana",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -26,9 +26,9 @@
    "addr": "0xB256",
    "size": 6,
    "jp": "斬魔刀",
-   "en": "",
+   "en": "Demonbane Blade",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -37,9 +37,9 @@
    "addr": "0xB25C",
    "size": 11,
    "jp": "妖刀・百鬼丸",
-   "en": "",
+   "en": "Cursed Hyakkimaru",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -48,9 +48,9 @@
    "addr": "0xB267",
    "size": 8,
    "jp": "七星宝剣",
-   "en": "",
+   "en": "Seven-Star Sword",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -59,9 +59,9 @@
    "addr": "0xB26F",
    "size": 7,
    "jp": "イザナギの剣",
-   "en": "",
+   "en": "Sword of Izanagi",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -70,9 +70,9 @@
    "addr": "0xB276",
    "size": 11,
    "jp": "超重剣・獣鬼",
-   "en": "",
+   "en": "Heavy Beast Sword",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -81,9 +81,9 @@
    "addr": "0xB281",
    "size": 2,
    "jp": "槍",
-   "en": "",
+   "en": "Spear",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -92,9 +92,9 @@
    "addr": "0xB283",
    "size": 7,
    "jp": "鉄のなぎなた",
-   "en": "",
+   "en": "Iron Naginata",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -103,9 +103,9 @@
    "addr": "0xB28A",
    "size": 7,
    "jp": "逢魔の剣",
-   "en": "",
+   "en": "Duskfiend Sword",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -114,9 +114,9 @@
    "addr": "0xB291",
    "size": 7,
    "jp": "雷呼の槍",
-   "en": "",
+   "en": "Thundercall Spear",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -125,9 +125,9 @@
    "addr": "0xB298",
    "size": 9,
    "jp": "鋼の六角杖",
-   "en": "",
+   "en": "Steel Hex Staff",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -136,9 +136,9 @@
    "addr": "0xB2A1",
    "size": 9,
    "jp": "鋼鉄の大槌",
-   "en": "",
+   "en": "Steel Greathammer",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -147,9 +147,9 @@
    "addr": "0xB2AA",
    "size": 7,
    "jp": "修羅の斧",
-   "en": "",
+   "en": "Asura Battleaxe",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -158,9 +158,9 @@
    "addr": "0xB2B1",
    "size": 8,
    "jp": "鞭・バラのトゲ",
-   "en": "",
+   "en": "Rose-Thorn Whip",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -169,9 +169,9 @@
    "addr": "0xB2B9",
    "size": 5,
    "jp": "クサリ鎌",
-   "en": "",
+   "en": "Chain Sickle",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -180,9 +180,9 @@
    "addr": "0xB2BE",
    "size": 7,
    "jp": "クサリ鉄球",
-   "en": "",
+   "en": "Chained Iron Ball",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -191,9 +191,9 @@
    "addr": "0xB2C5",
    "size": 6,
    "jp": "手裏剣",
-   "en": "",
+   "en": "Shuriken",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -202,9 +202,9 @@
    "addr": "0xB2CB",
    "size": 10,
    "jp": "爆裂手裏剣",
-   "en": "",
+   "en": "Blast Shuriken",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -213,9 +213,9 @@
    "addr": "0xB2D5",
    "size": 4,
    "jp": "弓矢",
-   "en": "",
+   "en": "Bow & Arrows",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -224,9 +224,9 @@
    "addr": "0xB2D9",
    "size": 9,
    "jp": "破魔の剛弓",
-   "en": "",
+   "en": "Evilbane Greatbow",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -235,9 +235,9 @@
    "addr": "0xB2E2",
    "size": 6,
    "jp": "双節棍",
-   "en": "",
+   "en": "Nunchaku",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -246,9 +246,9 @@
    "addr": "0xB2E8",
    "size": 10,
    "jp": "金剛双節棍",
-   "en": "",
+   "en": "Vajra Nunchaku",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -257,9 +257,9 @@
    "addr": "0xB2F2",
    "size": 4,
    "jp": "かぎ爪",
-   "en": "",
+   "en": "Hook Claws",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -268,9 +268,9 @@
    "addr": "0xB2F6",
    "size": 7,
    "jp": "荒鷲の爪",
-   "en": "",
+   "en": "Eagle Talons",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -279,9 +279,9 @@
    "addr": "0xB2FD",
    "size": 8,
    "jp": "百裂剛槍",
-   "en": "",
+   "en": "Hundred-Rend Spear",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -290,9 +290,9 @@
    "addr": "0xB305",
    "size": 7,
    "jp": "天帝の槍",
-   "en": "",
+   "en": "Celestial Spear",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -301,9 +301,9 @@
    "addr": "0xB30C",
    "size": 10,
    "jp": "超合金角杖",
-   "en": "",
+   "en": "Super-Alloy Staff",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -312,9 +312,9 @@
    "addr": "0xB316",
    "size": 8,
    "jp": "鞭・龍の尾",
-   "en": "",
+   "en": "Dragon-Tail Whip",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -323,9 +323,9 @@
    "addr": "0xB31E",
    "size": 7,
    "jp": "死神の鎌",
-   "en": "",
+   "en": "Reaper's Scythe",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -334,9 +334,9 @@
    "addr": "0xB325",
    "size": 8,
    "jp": "陰陽魔弓",
-   "en": "",
+   "en": "Yin-Yang Spellbow",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -345,9 +345,9 @@
    "addr": "0xB32D",
    "size": 11,
    "jp": "金剛剣・鬼龍",
-   "en": "",
+   "en": "Vajra Blade Kiryu",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -356,9 +356,9 @@
    "addr": "0xB338",
    "size": 11,
    "jp": "聖王剣・紫苑",
-   "en": "",
+   "en": "Sacred King Shion",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -367,9 +367,9 @@
    "addr": "0xB343",
    "size": 11,
    "jp": "帝釈剣・朱雀",
-   "en": "",
+   "en": "Indra Blade Suzaku",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -378,9 +378,9 @@
    "addr": "0xB34E",
    "size": 9,
    "jp": "極破のなぎなた",
-   "en": "",
+   "en": "Ultimate Naginata",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -389,9 +389,9 @@
    "addr": "0xB357",
    "size": 9,
    "jp": "銘刀・宋永",
-   "en": "",
+   "en": "Soei Katana",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -400,9 +400,9 @@
    "addr": "0xB360",
    "size": 9,
    "jp": "銘刀・忠信",
-   "en": "",
+   "en": "Tadanobu Katana",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -411,9 +411,9 @@
    "addr": "0xB369",
    "size": 9,
    "jp": "銘刀・犬戒",
-   "en": "",
+   "en": "Inukai Katana",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -422,9 +422,9 @@
    "addr": "0xB372",
    "size": 11,
    "jp": "金剛剣・鬼龍",
-   "en": "",
+   "en": "Vajra Blade Kiryu",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -433,9 +433,9 @@
    "addr": "0xB37D",
    "size": 6,
    "jp": "青龍刀",
-   "en": "",
+   "en": "Azure Dragon Blade",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -444,9 +444,9 @@
    "addr": "0xB383",
    "size": 6,
    "jp": "裂山剣",
-   "en": "",
+   "en": "Mountain-Cleaver",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -455,9 +455,9 @@
    "addr": "0xB389",
    "size": 9,
    "jp": "侶酒仙の杖",
-   "en": "",
+   "en": "Wine Sage Staff",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -466,9 +466,9 @@
    "addr": "0xB392",
    "size": 9,
    "jp": "ジャムハの豪刀",
-   "en": "",
+   "en": "Jamukha's Saber",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -477,9 +477,9 @@
    "addr": "0xB39B",
    "size": 11,
    "jp": "讐聖剣・麗鳳",
-   "en": "",
+   "en": "Holy Avenger Reiho",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -488,9 +488,9 @@
    "addr": "0xB3A6",
    "size": 9,
    "jp": "戦鬼のなぎなた",
-   "en": "",
+   "en": "War Demon Naginata",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -499,9 +499,9 @@
    "addr": "0xB3AF",
    "size": 9,
    "jp": "戦鬼のさすまた",
-   "en": "",
+   "en": "War Demon Fork",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -510,9 +510,9 @@
    "addr": "0xB3B8",
    "size": 9,
    "jp": "戦鬼の双杖",
-   "en": "",
+   "en": "War Demon Staves",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -521,9 +521,9 @@
    "addr": "0xB3C1",
    "size": 9,
    "jp": "戦鬼の鉄ぼう",
-   "en": "",
+   "en": "War Demon Iron Bar",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -532,9 +532,9 @@
    "addr": "0xB3CA",
    "size": 9,
    "jp": "戦鬼の木槌",
-   "en": "",
+   "en": "War Demon Mallet",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -543,9 +543,9 @@
    "addr": "0xB3D3",
    "size": 9,
    "jp": "戦鬼の豪剣",
-   "en": "",
+   "en": "War Demon Blade",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -554,9 +554,9 @@
    "addr": "0xB3DC",
    "size": 9,
    "jp": "戦鬼のまさかり",
-   "en": "",
+   "en": "War Demon Greataxe",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -719,9 +719,9 @@
    "addr": "0xB3E5",
    "size": 4,
    "jp": "肩あて",
-   "en": "",
+   "en": "Shoulder Guard",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -730,9 +730,9 @@
    "addr": "0xB3E9",
    "size": 2,
    "jp": "鎧",
-   "en": "",
+   "en": "Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -741,9 +741,9 @@
    "addr": "0xB3EB",
    "size": 6,
    "jp": "鎖かたびら",
-   "en": "",
+   "en": "Chainmail",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -752,9 +752,9 @@
    "addr": "0xB3F1",
    "size": 9,
    "jp": "荒武者の鎧",
-   "en": "",
+   "en": "Warrior's Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -763,9 +763,9 @@
    "addr": "0xB3FA",
    "size": 8,
    "jp": "赤糸威鎧",
-   "en": "",
+   "en": "Red-Laced Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -774,9 +774,9 @@
    "addr": "0xB402",
    "size": 11,
    "jp": "重豪鎧・胴丸",
-   "en": "",
+   "en": "Heavy Cuirass",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -785,9 +785,9 @@
    "addr": "0xB40D",
    "size": 7,
    "jp": "伽羅の鎧",
-   "en": "",
+   "en": "Agarwood Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -796,9 +796,9 @@
    "addr": "0xB414",
    "size": 8,
    "jp": "鋼鉄甲冑",
-   "en": "",
+   "en": "Full Steel Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -807,9 +807,9 @@
    "addr": "0xB41C",
    "size": 6,
    "jp": "鬼王鎧",
-   "en": "",
+   "en": "Demon King Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -818,9 +818,9 @@
    "addr": "0xB422",
    "size": 10,
    "jp": "超合金かたびら",
-   "en": "",
+   "en": "Super-Alloy Mail",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -829,9 +829,9 @@
    "addr": "0xB42C",
    "size": 11,
    "jp": "帝王鎧・玄武",
-   "en": "",
+   "en": "Royal Genbu Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -840,9 +840,9 @@
    "addr": "0xB437",
    "size": 11,
    "jp": "帝王鎧・白虎",
-   "en": "",
+   "en": "Royal Byakko Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -851,9 +851,9 @@
    "addr": "0xB442",
    "size": 11,
    "jp": "帝王鎧・青龍",
-   "en": "",
+   "en": "Royal Seiryu Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -862,9 +862,9 @@
    "addr": "0xB44D",
    "size": 9,
    "jp": "七色の肩かけ",
-   "en": "",
+   "en": "Rainbow Mantle",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -873,9 +873,9 @@
    "addr": "0xB456",
    "size": 7,
    "jp": "鉄の肩かけ",
-   "en": "",
+   "en": "Iron Mantle",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -884,9 +884,9 @@
    "addr": "0xB45D",
    "size": 7,
    "jp": "愛の肩かけ",
-   "en": "",
+   "en": "Mantle of Love",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -895,9 +895,9 @@
    "addr": "0xB464",
    "size": 7,
    "jp": "太古の鎧",
-   "en": "",
+   "en": "Primeval Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -906,9 +906,9 @@
    "addr": "0xB46B",
    "size": 2,
    "jp": "衣",
-   "en": "",
+   "en": "Robe",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -917,9 +917,9 @@
    "addr": "0xB46D",
    "size": 4,
    "jp": "法衣",
-   "en": "",
+   "en": "Monk's Robe",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -928,9 +928,9 @@
    "addr": "0xB471",
    "size": 4,
    "jp": "羽衣",
-   "en": "",
+   "en": "Feather Robe",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -939,9 +939,9 @@
    "addr": "0xB475",
    "size": 6,
    "jp": "戦闘服",
-   "en": "",
+   "en": "Battle Garb",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -950,9 +950,9 @@
    "addr": "0xB47B",
    "size": 9,
    "jp": "聖獣の法衣",
-   "en": "",
+   "en": "Sacred Beast Robe",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -961,9 +961,9 @@
    "addr": "0xB484",
    "size": 6,
    "jp": "防護服",
-   "en": "",
+   "en": "Protective Garb",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -972,9 +972,9 @@
    "addr": "0xB48A",
    "size": 11,
    "jp": "霊法衣・斬光",
-   "en": "",
+   "en": "Lightslash Robe",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -983,9 +983,9 @@
    "addr": "0xB495",
    "size": 10,
    "jp": "戦闘防護服",
-   "en": "",
+   "en": "Heavy Battle Garb",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -994,9 +994,9 @@
    "addr": "0xB49F",
    "size": 9,
    "jp": "仙女の羽衣",
-   "en": "",
+   "en": "Celestial Raiment",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1005,9 +1005,9 @@
    "addr": "0xB4A8",
    "size": 11,
    "jp": "聖法衣・沙羅",
-   "en": "",
+   "en": "Sacred Sal Robe",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1016,9 +1016,9 @@
    "addr": "0xB4B3",
    "size": 9,
    "jp": "妖姫の玉衣",
-   "en": "",
+   "en": "Jade Princess Robe",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1027,9 +1027,9 @@
    "addr": "0xB4BC",
    "size": 7,
    "jp": "絹の肩かけ",
-   "en": "",
+   "en": "Silk Mantle",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1038,9 +1038,9 @@
    "addr": "0xB4C3",
    "size": 5,
    "jp": "鉄の鎧",
-   "en": "",
+   "en": "Iron Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1049,9 +1049,9 @@
    "addr": "0xB4C8",
    "size": 7,
    "jp": "月影の鎧",
-   "en": "",
+   "en": "Moonshadow Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1060,9 +1060,9 @@
    "addr": "0xB4CF",
    "size": 7,
    "jp": "太陽の鎧",
-   "en": "",
+   "en": "Solar Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1071,9 +1071,9 @@
    "addr": "0xB4D6",
    "size": 5,
    "jp": "炎の鎧",
-   "en": "",
+   "en": "Flame Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1082,9 +1082,9 @@
    "addr": "0xB4DB",
    "size": 7,
    "jp": "雷帝の鎧",
-   "en": "",
+   "en": "Thunderlord Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1093,9 +1093,9 @@
    "addr": "0xB4E2",
    "size": 10,
    "jp": "タシュクルガンの鎧",
-   "en": "",
+   "en": "Tashkurgan Armor",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1423,9 +1423,9 @@
    "addr": "0xB4EC",
    "size": 4,
    "jp": "鉢がね",
-   "en": "",
+   "en": "Headband",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1434,9 +1434,9 @@
    "addr": "0xB4F0",
    "size": 2,
    "jp": "兜",
-   "en": "",
+   "en": "Helm",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1445,9 +1445,9 @@
    "addr": "0xB4F2",
    "size": 5,
    "jp": "鉄の面",
-   "en": "",
+   "en": "Iron Mask",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1456,9 +1456,9 @@
    "addr": "0xB4F7",
    "size": 9,
    "jp": "鉄糸の頭巾",
-   "en": "",
+   "en": "Ironweave Hood",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1467,9 +1467,9 @@
    "addr": "0xB500",
    "size": 9,
    "jp": "破邪の編笠",
-   "en": "",
+   "en": "Warded Straw Hat",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1478,9 +1478,9 @@
    "addr": "0xB509",
    "size": 5,
    "jp": "鋼の兜",
-   "en": "",
+   "en": "Steel Helm",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1489,9 +1489,9 @@
    "addr": "0xB50E",
    "size": 7,
    "jp": "鬼神の兜",
-   "en": "",
+   "en": "Demon God Helm",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1500,9 +1500,9 @@
    "addr": "0xB515",
    "size": 7,
    "jp": "火神の兜",
-   "en": "",
+   "en": "Fire God Helm",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1511,9 +1511,9 @@
    "addr": "0xB51C",
    "size": 7,
    "jp": "海神の兜",
-   "en": "",
+   "en": "Sea God Helm",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1522,9 +1522,9 @@
    "addr": "0xB523",
    "size": 7,
    "jp": "風神の兜",
-   "en": "",
+   "en": "Wind God Helm",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1533,9 +1533,9 @@
    "addr": "0xB52A",
    "size": 7,
    "jp": "雷帝の兜",
-   "en": "",
+   "en": "Thunderlord Helm",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1544,9 +1544,9 @@
    "addr": "0xB531",
    "size": 5,
    "jp": "銀の櫛",
-   "en": "",
+   "en": "Silver Comb",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1555,9 +1555,9 @@
    "addr": "0xB536",
    "size": 10,
    "jp": "法殊の髪飾り",
-   "en": "",
+   "en": "Mystic Hairpin",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1566,9 +1566,9 @@
    "addr": "0xB540",
    "size": 9,
    "jp": "麒鱗のたてがみ",
-   "en": "",
+   "en": "Kirin's Mane",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1577,9 +1577,9 @@
    "addr": "0xB549",
    "size": 6,
    "jp": "怒りの兜",
-   "en": "",
+   "en": "Helm of Wrath",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1588,9 +1588,9 @@
    "addr": "0xB54F",
    "size": 7,
    "jp": "蝶の仮面",
-   "en": "",
+   "en": "Butterfly Mask",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1599,9 +1599,9 @@
    "addr": "0xB556",
    "size": 6,
    "jp": "呪いの面",
-   "en": "",
+   "en": "Cursed Mask",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2127,9 +2127,9 @@
    "addr": "0xB55C",
    "size": 4,
    "jp": "手甲",
-   "en": "",
+   "en": "Gauntlets",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2138,9 +2138,9 @@
    "addr": "0xB560",
    "size": 9,
    "jp": "龍骨の手甲",
-   "en": "",
+   "en": "Dragonbone Guards",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2149,9 +2149,9 @@
    "addr": "0xB569",
    "size": 9,
    "jp": "霊毛の腕輪",
-   "en": "",
+   "en": "Spirit-Fur Bangle",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2160,9 +2160,9 @@
    "addr": "0xB572",
    "size": 9,
    "jp": "静寂の腕輪",
-   "en": "",
+   "en": "Stillness Bangle",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2171,9 +2171,9 @@
    "addr": "0xB57B",
    "size": 9,
    "jp": "封魔の小手",
-   "en": "",
+   "en": "Demonseal Bracers",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2182,9 +2182,9 @@
    "addr": "0xB584",
    "size": 7,
    "jp": "光の腕輪",
-   "en": "",
+   "en": "Bracelet of Light",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2193,9 +2193,9 @@
    "addr": "0xB58B",
    "size": 9,
    "jp": "虚無の小手",
-   "en": "",
+   "en": "Void Bracers",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2204,9 +2204,9 @@
    "addr": "0xB594",
    "size": 8,
    "jp": "鋼鉄手甲",
-   "en": "",
+   "en": "Steel Gauntlets",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2215,9 +2215,9 @@
    "addr": "0xB59C",
    "size": 9,
    "jp": "守霊の血障",
-   "en": "",
+   "en": "Spirit-Guard Ward",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2226,9 +2226,9 @@
    "addr": "0xB5A5",
    "size": 9,
    "jp": "陰陽の血障",
-   "en": "",
+   "en": "Yin-Yang Ward",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2237,9 +2237,9 @@
    "addr": "0xB5AE",
    "size": 9,
    "jp": "天地の血障",
-   "en": "",
+   "en": "Heaven-Earth Ward",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2248,9 +2248,9 @@
    "addr": "0xB5B7",
    "size": 5,
    "jp": "御守り",
-   "en": "",
+   "en": "Charm",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2259,9 +2259,9 @@
    "addr": "0xB5BC",
    "size": 9,
    "jp": "天照の血障",
-   "en": "",
+   "en": "Amaterasu Ward",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2270,9 +2270,9 @@
    "addr": "0xB5C5",
    "size": 10,
    "jp": "竜門の御守り",
-   "en": "",
+   "en": "Dragon Gate Charm",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2281,9 +2281,9 @@
    "addr": "0xB5CF",
    "size": 9,
    "jp": "退呪の御札",
-   "en": "",
+   "en": "Curse-Ward Seal",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2292,9 +2292,9 @@
    "addr": "0xB5D8",
    "size": 7,
    "jp": "鉄の手甲",
-   "en": "",
+   "en": "Iron Gauntlets",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2303,9 +2303,9 @@
    "addr": "0xB5DF",
    "size": 9,
    "jp": "月光の手甲",
-   "en": "",
+   "en": "Moonlight Gauntlets",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2314,9 +2314,9 @@
    "addr": "0xB5E8",
    "size": 9,
    "jp": "沙羅の腕輪",
-   "en": "",
+   "en": "Sal-Tree Bangle",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2325,9 +2325,9 @@
    "addr": "0xB5F1",
    "size": 9,
    "jp": "炎獄の腕輪",
-   "en": "",
+   "en": "Hellfire Bracelet",
    "box": "equip_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   }
  ]

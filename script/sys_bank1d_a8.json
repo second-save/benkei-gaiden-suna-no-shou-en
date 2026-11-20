@@ -12,9 +12,9 @@
    "addr": "0xA800",
    "size": 12,
    "jp": "メッセージがありません{end}",
-   "en": "",
+   "en": "No message.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -22,9 +22,9 @@
    "addr": "0xA80C",
    "size": 23,
    "jp": "いらっしゃいまし。宿屋でございます。{page} {end}",
-   "en": "",
+   "en": "Welcome to our inn!{page} {end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -32,9 +32,9 @@
    "addr": "0xA823",
    "size": 23,
    "jp": "いらっしゃいまし。飯店でございます。{page} {end}",
-   "en": "",
+   "en": "Welcome to our guesthouse!{page} {end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -42,9 +42,9 @@
    "addr": "0xA83A",
    "size": 19,
    "jp": "では、ごゆっくりお休み下さいまし{end}",
-   "en": "",
+   "en": "Please rest well and enjoy{nl}your stay.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -52,9 +52,9 @@
    "addr": "0xA84D",
    "size": 24,
    "jp": "おはようございます。では、お気をつけてどうぞ{end}",
-   "en": "",
+   "en": "Good morning! Safe travels{nl}to you.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -62,9 +62,9 @@
    "addr": "0xA865",
    "size": 22,
    "jp": "そうですか、体には十分お気をつけて{end}",
-   "en": "",
+   "en": "Oh, I see. Do take good{nl}care of yourself.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -72,9 +72,9 @@
    "addr": "0xA87B",
    "size": 34,
    "jp": "いらっしゃいまし。道具屋でございます。{nl}どんなご用件で？{end}",
-   "en": "",
+   "en": "Welcome! This is the item{nl}shop. How may I help you?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -82,9 +82,9 @@
    "addr": "0xA89D",
    "size": 34,
    "jp": "いらっしゃいまし。武器屋でございます。{nl}どんなご用件で？{end}",
-   "en": "",
+   "en": "Welcome! This is the{nl}weapon shop. How may I{nl}help you?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -92,9 +92,9 @@
    "addr": "0xA8BF",
    "size": 34,
    "jp": "いらっしゃいまし。防具屋でございます。{nl}どんなご用件で？{end}",
-   "en": "",
+   "en": "Welcome! This is the armor{nl}shop. How may I help you?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -102,9 +102,9 @@
    "addr": "0xA8E1",
    "size": 27,
    "jp": "ありがとうございました。{nl}ほかに何かございますか？{end}",
-   "en": "",
+   "en": "Thank you kindly.{nl}Is there anything else?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -112,9 +112,9 @@
    "addr": "0xA8FC",
    "size": 17,
    "jp": "お金がたりないようですね・・・{end}",
-   "en": "",
+   "en": "I'm afraid you don't have{nl}enough money...{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -122,9 +122,9 @@
    "addr": "0xA90D",
    "size": 17,
    "jp": "はい、さようで。では、またどうぞ{end}",
-   "en": "",
+   "en": "Very well, then. Do come{nl}again.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -132,9 +132,9 @@
    "addr": "0xA91E",
    "size": 43,
    "jp": "あなたがたが望むのなら、新しい名前で旅をすることができます。いかがですか？{end}",
-   "en": "",
+   "en": "If you so wish, you may{nl}travel under new names.{nl}What say you?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -142,9 +142,9 @@
    "addr": "0xA949",
    "size": 24,
    "jp": "{name0}らの心に、光と力がみちてきた{end}",
-   "en": "",
+   "en": "Light and strength fill the{nl}hearts of {name0}'s party!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -152,9 +152,9 @@
    "addr": "0xA961",
    "size": 15,
    "jp": "だれの名前を変えますか{end}",
-   "en": "",
+   "en": "Whose name will you change?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -162,9 +162,9 @@
    "addr": "0xA970",
    "size": 17,
    "jp": "特に変わった物は無かった{end}",
-   "en": "",
+   "en": "Nothing unusual turned up.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -172,9 +172,9 @@
    "addr": "0xA981",
    "size": 8,
    "jp": " を見つけた{end}",
-   "en": "",
+   "en": " was found!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -182,9 +182,9 @@
    "addr": "0xA989",
    "size": 9,
    "jp": " が入っていた{end}",
-   "en": "",
+   "en": " found inside!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -192,9 +192,9 @@
    "addr": "0xA992",
    "size": 10,
    "jp": " を受け取った{end}",
-   "en": "",
+   "en": " received!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -202,9 +202,9 @@
    "addr": "0xA99C",
    "size": 8,
    "jp": " をなげすてた{end}",
-   "en": "",
+   "en": " discarded.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -212,9 +212,9 @@
    "addr": "0xA9A4",
    "size": 13,
    "jp": "これ以上持てません{end}",
-   "en": "",
+   "en": "You cannot carry any more.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -222,9 +222,9 @@
    "addr": "0xA9B1",
    "size": 12,
    "jp": "なにかをすててください{end}",
-   "en": "",
+   "en": "Please discard something.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -232,9 +232,9 @@
    "addr": "0xA9BD",
    "size": 11,
    "jp": "薬草を見つけた{end}",
-   "en": "",
+   "en": "Found a Healing Herb!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -242,9 +242,9 @@
    "addr": "0xA9C8",
    "size": 10,
    "jp": "宝箱を開けた{end}",
-   "en": "",
+   "en": "Opened the treasure chest.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -252,9 +252,9 @@
    "addr": "0xA9D2",
    "size": 13,
    "jp": "何も入っていなかった{end}",
-   "en": "",
+   "en": "It was completely empty.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -262,9 +262,9 @@
    "addr": "0xA9DF",
    "size": 3,
    "jp": "銭{end}",
-   "en": "",
+   "en": "Sen: {end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -272,9 +272,9 @@
    "addr": "0xA9E2",
    "size": 3,
    "jp": "銀{end}",
-   "en": "",
+   "en": "Silver: {end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -282,9 +282,9 @@
    "addr": "0xA9E5",
    "size": 11,
    "jp": "両 が入っていた{end}",
-   "en": "",
+   "en": " Ryo found inside!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -292,9 +292,9 @@
    "addr": "0xA9F0",
    "size": 5,
    "jp": "式符{end}",
-   "en": "",
+   "en": "Talisman x{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -302,9 +302,9 @@
    "addr": "0xA9F5",
    "size": 11,
    "jp": "枚 が入っていた{end}",
-   "en": "",
+   "en": " found inside!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -312,9 +312,9 @@
    "addr": "0xAA00",
    "size": 7,
    "jp": " なら、銀{end}",
-   "en": "",
+   "en": " equals Silver: {end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -322,9 +322,9 @@
    "addr": "0xAA07",
    "size": 19,
    "jp": "両 になろう。一両は銭20だ{end}",
-   "en": "",
+   "en": " Ryo.{nl}One Ryo is 20 Sen.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -332,9 +332,9 @@
    "addr": "0xAA1A",
    "size": 11,
    "jp": "どれにいたしますか？{end}",
-   "en": "",
+   "en": "Which one would you like?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -342,9 +342,9 @@
    "addr": "0xAA25",
    "size": 16,
    "jp": "それは うちではちょっと・・・{end}",
-   "en": "",
+   "en": "I'm afraid we can't take{nl}that here...{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -352,9 +352,9 @@
    "addr": "0xAA35",
    "size": 6,
    "jp": "・・・うむ{end}",
-   "en": "",
+   "en": "...Hmm.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -362,9 +362,9 @@
    "addr": "0xAA3B",
    "size": 47,
    "jp": "そなたらのすごした今日までの「刻」、聖霊は決して忘れん。気をつけてゆきなされ{end}",
-   "en": "",
+   "en": "The sacred spirits shall{nl}never forget the 'hours'{nl}you have spent. Go safely.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -372,9 +372,9 @@
    "addr": "0xAA6A",
    "size": 17,
    "jp": "どなたの名前を変えるかな？{end}",
-   "en": "",
+   "en": "Whose name shall we{nl}change, hmm?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -382,9 +382,9 @@
    "addr": "0xAA7B",
    "size": 33,
    "jp": "殿か・・・よい名ですな{nl}ほかに名を変えるものはおらぬか？{end}",
-   "en": "",
+   "en": ", is it? ...A fine name.{nl}Does anyone else wish to{nl}change their name?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -392,9 +392,9 @@
    "addr": "0xAA9C",
    "size": 25,
    "jp": "では、また名前を変えたくなったら、いつでも{end}",
-   "en": "",
+   "en": "Should you ever wish new{nl}names again, come anytime.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -402,9 +402,9 @@
    "addr": "0xAAB5",
    "size": 13,
    "jp": "それをすててはいけません{end}",
-   "en": "",
+   "en": "You must not discard that.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -412,9 +412,9 @@
    "addr": "0xAAC2",
    "size": 17,
    "jp": " になりますが{nl}よろしいですか？{end}",
-   "en": "",
+   "en": " in all.{nl}Is that all right?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -422,9 +422,9 @@
    "addr": "0xAAD3",
    "size": 19,
    "jp": "両 になりますが{nl}よろしいですか？{end}",
-   "en": "",
+   "en": " Ryo in all.{nl}Is that all right?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -432,9 +432,9 @@
    "addr": "0xAAE6",
    "size": 9,
    "jp": "お泊まりは銭{end}",
-   "en": "",
+   "en": "A stay is Sen: {end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -442,9 +442,9 @@
    "addr": "0xAAEF",
    "size": 9,
    "jp": "お泊まりは銀{end}",
-   "en": "",
+   "en": "A stay is Silver: {end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -452,9 +452,9 @@
    "addr": "0xAAF8",
    "size": 27,
    "jp": "忍「わたしの名は忍。ほかに名など、いりません{end}",
-   "en": "",
+   "en": "Shinobu: \"My name is Shinobu.{nl}I have no need for another.\"{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -462,9 +462,9 @@
    "addr": "0xAB13",
    "size": 33,
    "jp": "弁慶「このおれさまには、弁慶以外の名はいらんわい！{end}",
-   "en": "",
+   "en": "Benkei: \"Hah! There's no name{nl}for me other than Benkei!\"{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -472,9 +472,9 @@
    "addr": "0xAB34",
    "size": 10,
    "jp": "は戦いに勝った{end}",
-   "en": "",
+   "en": " won the battle!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -482,9 +482,9 @@
    "addr": "0xAB3E",
    "size": 7,
    "jp": "経験値{end}",
-   "en": "",
+   "en": "EXP: {end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -492,9 +492,9 @@
    "addr": "0xAB45",
    "size": 5,
    "jp": "と、銭{end}",
-   "en": "",
+   "en": ", Sen: {end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -502,9 +502,9 @@
    "addr": "0xAB4A",
    "size": 5,
    "jp": "と、銀{end}",
-   "en": "",
+   "en": ", Silver: {end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -512,9 +512,9 @@
    "addr": "0xAB4F",
    "size": 5,
    "jp": "を得た{end}",
-   "en": "",
+   "en": " gained!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -522,9 +522,9 @@
    "addr": "0xAB54",
    "size": 7,
    "jp": "両を得た{end}",
-   "en": "",
+   "en": " Ryo gained!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -532,9 +532,9 @@
    "addr": "0xAB5B",
    "size": 11,
    "jp": "は、戦いに負けた{end}",
-   "en": "",
+   "en": " lost the battle...{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -542,9 +542,9 @@
    "addr": "0xAB66",
    "size": 11,
    "jp": "のレベルが上がった{end}",
-   "en": "",
+   "en": " leveled up!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -552,9 +552,9 @@
    "addr": "0xAB71",
    "size": 9,
    "jp": "の術を覚えた{end}",
-   "en": "",
+   "en": " jutsu learned!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -562,9 +562,9 @@
    "addr": "0xAB7A",
    "size": 5,
    "jp": "敵から{end}",
-   "en": "",
+   "en": "From the foe: {end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -572,9 +572,9 @@
    "addr": "0xAB7F",
    "size": 24,
    "jp": "{name0}らは、「海龍の骨」をかかげた{end}",
-   "en": "",
+   "en": "{name0}'s party held up{nl}the Sea Dragon Bone!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -582,9 +582,9 @@
    "addr": "0xAB97",
    "size": 11,
    "jp": "は、敵をふりきった{end}",
-   "en": "",
+   "en": " shook off the enemy!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -592,9 +592,9 @@
    "addr": "0xABA2",
    "size": 11,
    "jp": "敵の虚をついた！{end}",
-   "en": "",
+   "en": "Caught the enemy off guard!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -602,9 +602,9 @@
    "addr": "0xABAD",
    "size": 7,
    "jp": "ゆだんした！{end}",
-   "en": "",
+   "en": "Caught off guard!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -612,9 +612,9 @@
    "addr": "0xABB4",
    "size": 10,
    "jp": "式符が守る！{end}",
-   "en": "",
+   "en": "The Talisman protects you!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -622,9 +622,9 @@
    "addr": "0xABBE",
    "size": 19,
    "jp": "どちらの{name0}で始めますか？{end}",
-   "en": "",
+   "en": "Which {name0} will you{nl}begin as?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -632,9 +632,9 @@
    "addr": "0xABD1",
    "size": 15,
    "jp": "名前を入力しますか？{end}",
-   "en": "",
+   "en": "Enter a custom name?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -642,9 +642,9 @@
    "addr": "0xABE0",
    "size": 28,
    "jp": "たしかに記録した。気をつけて旅を続けるがよい{end}",
-   "en": "",
+   "en": "Your deeds are recorded.{nl}Journey onward with care.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -652,9 +652,9 @@
    "addr": "0xABFC",
    "size": 28,
    "jp": "気がついたかね。ゆめゆめ気をつけて旅をするがよい{end}",
-   "en": "",
+   "en": "Awake at last? Take every{nl}care upon the road ahead.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -662,9 +662,9 @@
    "addr": "0xAC18",
    "size": 13,
    "jp": "銭が足りないようだな{end}",
-   "en": "",
+   "en": "Looks like you're short on Sen.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -672,9 +672,9 @@
    "addr": "0xAC25",
    "size": 14,
    "jp": "式符を見つけた・・・{end}",
-   "en": "",
+   "en": "Found a Talisman...{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -682,9 +682,9 @@
    "addr": "0xAC33",
    "size": 7,
    "jp": "の打撃を{end}",
-   "en": "",
+   "en": " damage {end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -692,9 +692,9 @@
    "addr": "0xAC3A",
    "size": 5,
    "jp": "あたえた{end}",
-   "en": "",
+   "en": "dealt!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -702,9 +702,9 @@
    "addr": "0xAC3F",
    "size": 4,
    "jp": "うけた{end}",
-   "en": "",
+   "en": "taken!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -712,9 +712,9 @@
    "addr": "0xAC43",
    "size": 6,
    "jp": "は倒れた{end}",
-   "en": "",
+   "en": " fell!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -722,9 +722,9 @@
    "addr": "0xAC49",
    "size": 6,
    "jp": "は眠った{end}",
-   "en": "",
+   "en": " fell asleep!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -732,9 +732,9 @@
    "addr": "0xAC4F",
    "size": 9,
    "jp": "は毒をくらった{end}",
-   "en": "",
+   "en": " was poisoned!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -742,9 +742,9 @@
    "addr": "0xAC58",
    "size": 6,
    "jp": "は起きた{end}",
-   "en": "",
+   "en": " woke up!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -752,9 +752,9 @@
    "addr": "0xAC5E",
    "size": 29,
    "jp": "剣を装備しなければ、剣技を使うことができない{end}",
-   "en": "",
+   "en": "You must equip a sword to{nl}use sword skills!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -762,9 +762,9 @@
    "addr": "0xAC7B",
    "size": 11,
    "jp": "は、なにもしなかった{end}",
-   "en": "",
+   "en": " did nothing.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -772,9 +772,9 @@
    "addr": "0xAC86",
    "size": 15,
    "jp": "は、攻撃を受け流した{end}",
-   "en": "",
+   "en": " parried the blow!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -782,9 +782,9 @@
    "addr": "0xAC95",
    "size": 7,
    "jp": "回復した{end}",
-   "en": "",
+   "en": " HP recovered!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -792,9 +792,9 @@
    "addr": "0xAC9C",
    "size": 7,
    "jp": "は、マヒした{end}",
-   "en": "",
+   "en": " was paralyzed!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -802,9 +802,9 @@
    "addr": "0xACA3",
    "size": 8,
    "jp": "のマヒがとけた{end}",
-   "en": "",
+   "en": "'s paralysis wore off!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -812,9 +812,9 @@
    "addr": "0xACAB",
    "size": 10,
    "jp": "は、生き返った{end}",
-   "en": "",
+   "en": " was revived!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -822,9 +822,9 @@
    "addr": "0xACB5",
    "size": 10,
    "jp": "の術がかかった！{end}",
-   "en": "",
+   "en": " took effect!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -832,9 +832,9 @@
    "addr": "0xACBF",
    "size": 9,
    "jp": "の毒が消えた{end}",
-   "en": "",
+   "en": "'s poison cleared!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -842,9 +842,9 @@
    "addr": "0xACC8",
    "size": 6,
    "jp": "を倒した{end}",
-   "en": "",
+   "en": " was defeated!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -852,9 +852,9 @@
    "addr": "0xACCE",
    "size": 11,
    "jp": "は、術を使えない{end}",
-   "en": "",
+   "en": " cannot cast jutsu!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -862,9 +862,9 @@
    "addr": "0xACD9",
    "size": 8,
    "jp": "は、使えない{end}",
-   "en": "",
+   "en": " cannot be used!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -872,9 +872,9 @@
    "addr": "0xACE1",
    "size": 16,
    "jp": "封魔香は風に流された{end}",
-   "en": "",
+   "en": "The Sealing Incense{nl}drifted away on the wind.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -882,9 +882,9 @@
    "addr": "0xACF1",
    "size": 12,
    "jp": "聖踏の術がとけた{end}",
-   "en": "",
+   "en": "The Sacred Step jutsu{nl}wore off.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -892,9 +892,9 @@
    "addr": "0xACFD",
    "size": 14,
    "jp": "加聖踏の術がとけた{end}",
-   "en": "",
+   "en": "The Sacred Dash jutsu{nl}wore off.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -902,9 +902,9 @@
    "addr": "0xAD0B",
    "size": 6,
    "jp": "を使った{end}",
-   "en": "",
+   "en": " was used!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -912,9 +912,9 @@
    "addr": "0xAD11",
    "size": 11,
    "jp": "なにもおこらなかった{end}",
-   "en": "",
+   "en": "Nothing happened.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -922,9 +922,9 @@
    "addr": "0xAD1C",
    "size": 12,
    "jp": "宝箱は、空だった{end}",
-   "en": "",
+   "en": "The treasure chest was empty.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -932,9 +932,9 @@
    "addr": "0xAD28",
    "size": 12,
    "jp": "ありがとうございました{end}",
-   "en": "",
+   "en": "Thank you kindly.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -942,9 +942,9 @@
    "addr": "0xAD34",
    "size": 10,
    "jp": "術をはね返した{end}",
-   "en": "",
+   "en": "reflected the jutsu!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -952,9 +952,9 @@
    "addr": "0xAD3E",
    "size": 16,
    "jp": "よし、ゆっくり休むがよかろう{end}",
-   "en": "",
+   "en": "Very well. Take a good rest.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -962,9 +962,9 @@
    "addr": "0xAD4E",
    "size": 17,
    "jp": "うむ、気をつけてゆくがよかろう{end}",
-   "en": "",
+   "en": "Hmm. Travel safely now.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -972,9 +972,9 @@
    "addr": "0xAD5F",
    "size": 25,
    "jp": "この旅の記録を{nl}書きかえてもよろしいか？{end}",
-   "en": "",
+   "en": "Overwrite this travel{nl}record?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -982,9 +982,9 @@
    "addr": "0xAD78",
    "size": 23,
    "jp": "この旅の記録で{nl}始めてもよろしいか？{end}",
-   "en": "",
+   "en": "Begin from this travel{nl}record?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -992,9 +992,9 @@
    "addr": "0xAD8F",
    "size": 14,
    "jp": "旅の記録がありません{end}",
-   "en": "",
+   "en": "There is no travel record.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1002,9 +1002,9 @@
    "addr": "0xAD9D",
    "size": 24,
    "jp": "文永の役（1274年）より2年後ー{end}",
-   "en": "",
+   "en": "Two years after the{nl}Bun'ei Campaign (1274)--{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1012,9 +1012,9 @@
    "addr": "0xADB5",
    "size": 12,
    "jp": "四国・修門砦{end}",
-   "en": "",
+   "en": "Shikoku -- Shumon Fort{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1022,9 +1022,9 @@
    "addr": "0xADC1",
    "size": 8,
    "jp": "は眠っている{end}",
-   "en": "",
+   "en": " is fast asleep.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1032,9 +1032,9 @@
    "addr": "0xADC9",
    "size": 11,
    "jp": "はマヒして動けない{end}",
-   "en": "",
+   "en": " is paralyzed,{nl}unable to move!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1042,9 +1042,9 @@
    "addr": "0xADD4",
    "size": 12,
    "jp": "には攻撃がきかない{end}",
-   "en": "",
+   "en": " shrugs off{nl}the attack!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1052,9 +1052,9 @@
    "addr": "0xADE0",
    "size": 11,
    "jp": "いくつ売りますか？{end}",
-   "en": "",
+   "en": "How many will you sell?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1062,9 +1062,9 @@
    "addr": "0xADEB",
    "size": 45,
    "jp": "それと、危険な武器や防具の持ちこみもだめだ！{nl}すべて銀にかえさせてもらう{end}",
-   "en": "",
+   "en": "And no bringing dangerous{nl}weapons or armor inside!{nl}I'll convert them all to Ryo.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1072,9 +1072,9 @@
    "addr": "0xAE18",
    "size": 8,
    "jp": "全部で銀{end}",
-   "en": "",
+   "en": "That comes to {end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1082,9 +1082,9 @@
    "addr": "0xAE20",
    "size": 15,
    "jp": "になる。では、通ってよいぞ{end}",
-   "en": "",
+   "en": " Ryo total.{nl}Very well, you may pass.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1092,9 +1092,9 @@
    "addr": "0xAE2F",
    "size": 10,
    "jp": "は、使えなかった{end}",
-   "en": "",
+   "en": " could not be used!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1102,9 +1102,9 @@
    "addr": "0xAE39",
    "size": 18,
    "jp": "旅の記録が壊れています！！{end}",
-   "en": "",
+   "en": "This travel record is{nl}corrupted!!{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1112,9 +1112,9 @@
    "addr": "0xAE4B",
    "size": 9,
    "jp": "よろしいですか？{end}",
-   "en": "",
+   "en": "Is that all right?{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1122,9 +1122,9 @@
    "addr": "0xAE54",
    "size": 12,
    "jp": "メッセージ作成中{end}",
-   "en": "",
+   "en": "Message in progress.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1132,9 +1132,9 @@
    "addr": "0xAE60",
    "size": 24,
    "jp": " 鎌倉に都が開かれて八十二年。{end}",
-   "en": "",
+   "en": " Eighty-two years after Kamakura's{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1142,9 +1142,9 @@
    "addr": "0xAE78",
    "size": 21,
    "jp": "最大の国難が日本を襲った。{end}",
-   "en": "",
+   "en": "rise, Japan faced its gravest peril.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1152,9 +1152,9 @@
    "addr": "0xAE8D",
    "size": 24,
    "jp": " 中国大陸全土の統一をもくろむ{end}",
-   "en": "",
+   "en": " Bent on uniting all of China,{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1162,9 +1162,9 @@
    "addr": "0xAEA5",
    "size": 26,
    "jp": "最強の大国「元」の蒙古軍襲来。{end}",
-   "en": "",
+   "en": "the mighty Yuan's Mongol army struck.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1172,9 +1172,9 @@
    "addr": "0xAEBF",
    "size": 26,
    "jp": " 軍船九百隻、兵力三万三千の{end}",
-   "en": "",
+   "en": " Nine hundred ships and thirty-three{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1182,9 +1182,9 @@
    "addr": "0xAED9",
    "size": 26,
    "jp": "圧倒的な武力で守備隊を打ち破り{end}",
-   "en": "",
+   "en": "thousand troops broke the defenders{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1192,9 +1192,9 @@
    "addr": "0xAEF3",
    "size": 18,
    "jp": "九州・博多を制圧した。{end}",
-   "en": "",
+   "en": "and seized Hakata in Kyushu.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1202,9 +1202,9 @@
    "addr": "0xAF05",
    "size": 25,
    "jp": " しかしその時、突然ふき荒れた暴風に{end}",
-   "en": "",
+   "en": " Yet just then, a sudden tempest{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1212,9 +1212,9 @@
    "addr": "0xAF1E",
    "size": 26,
    "jp": "よって蒙古軍は壊滅的な打撃を受け{end}",
-   "en": "",
+   "en": "shattered the Mongol army, forcing{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1222,9 +1222,9 @@
    "addr": "0xAF38",
    "size": 22,
    "jp": "退去を強いられた。（文永の役）{end}",
-   "en": "",
+   "en": "their retreat (the Bun'ei Campaign).{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1232,9 +1232,9 @@
    "addr": "0xAF4E",
    "size": 24,
    "jp": " 「元」の皇帝フビライ・カンはこの嵐が{end}",
-   "en": "",
+   "en": " Yuan Emperor Kublai Khan saw that{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1242,9 +1242,9 @@
    "addr": "0xAF66",
    "size": 24,
    "jp": "強力な古代の呪法であることをさっし{end}",
-   "en": "",
+   "en": "this storm was potent ancient sorcery,{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1252,9 +1252,9 @@
    "addr": "0xAF7E",
    "size": 24,
    "jp": "配下の四界将・呪魂（ジュゴン）を{end}",
-   "en": "",
+   "en": "and sent Jugon of his{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1262,9 +1262,9 @@
    "addr": "0xAF96",
    "size": 11,
    "jp": "日本に送った。{end}",
-   "en": "",
+   "en": "Four Realm Generals to Japan.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1272,9 +1272,9 @@
    "addr": "0xAFA1",
    "size": 24,
    "jp": " これを知った将軍・時宗は呪魂の{end}",
-   "en": "",
+   "en": " Learning of this, General Tokimune{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1282,9 +1282,9 @@
    "addr": "0xAFB9",
    "size": 25,
    "jp": "ひきいる呪界衆を迎え撃つべく全国の{end}",
-   "en": "",
+   "en": "called on Mystics across the land to{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1292,9 +1292,9 @@
    "addr": "0xAFD2",
    "size": 15,
    "jp": "法力者に発令した。{end}",
-   "en": "",
+   "en": "meet Jugon's Curse Realm Sect.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1302,9 +1302,9 @@
    "addr": "0xAFE1",
    "size": 24,
    "jp": "だが呪界衆は時宗のおもわくを超えて{end}",
-   "en": "",
+   "en": "Yet the Curse Realm Sect proved far{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1312,9 +1312,9 @@
    "addr": "0xAFF9",
    "size": 24,
    "jp": "はるかに手強く、多くの法力者たちが{end}",
-   "en": "",
+   "en": "fiercer than Tokimune foresaw,{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1322,9 +1322,9 @@
    "addr": "0xB011",
    "size": 15,
    "jp": "次々に倒されていった。{end}",
-   "en": "",
+   "en": "and many Mystics fell one by one.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1332,9 +1332,9 @@
    "addr": "0xB020",
    "size": 24,
    "jp": "闇の世界で動く者たちの、血みどろの{end}",
-   "en": "",
+   "en": "Thus began a bloody struggle waged{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1342,9 +1342,9 @@
    "addr": "0xB038",
    "size": 15,
    "jp": "死闘がここに始まった。{end}",
-   "en": "",
+   "en": "by those who move in shadow.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1352,9 +1352,9 @@
    "addr": "0xB047",
    "size": 25,
    "jp": " 源義経と武蔵坊弁慶が平泉で{end}",
-   "en": "",
+   "en": " Since Minamoto no Yoshitsune and{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1362,9 +1362,9 @@
    "addr": "0xB060",
    "size": 26,
    "jp": "打ち果たされたといわれてから、八十余年{end}",
-   "en": "",
+   "en": "Musashibo Benkei supposedly fell at{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1372,9 +1372,9 @@
    "addr": "0xB07A",
    "size": 9,
    "jp": "が流れていた。{end}",
-   "en": "",
+   "en": "Hiraizumi, over eighty years had passed.{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1392,9 +1392,9 @@
    "addr": "0xB084",
    "size": 10,
    "jp": "不動（ふどう）{end}",
-   "en": "",
+   "en": "Fudo{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1402,9 +1402,9 @@
    "addr": "0xB08E",
    "size": 10,
    "jp": "巳陰（みかげ）{end}",
-   "en": "",
+   "en": "Mikage{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1412,9 +1412,9 @@
    "addr": "0xB098",
    "size": 10,
    "jp": "常由（とこよ）{end}",
-   "en": "",
+   "en": "Tokoyo{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1422,9 +1422,9 @@
    "addr": "0xB0A2",
    "size": 10,
    "jp": "鳴沙（めいさ）{end}",
-   "en": "",
+   "en": "Meisa{end}",
    "box": "system",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   }
  ]

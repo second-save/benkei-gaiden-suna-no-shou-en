@@ -15,9 +15,9 @@
    "addr": "0xB8F9",
    "size": 8,
    "jp": "双流伽断",
-   "en": "",
+   "en": "Twin Gale Slash",
    "box": "ougi_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -26,9 +26,9 @@
    "addr": "0xB901",
    "size": 8,
    "jp": "流招甲武",
-   "en": "",
+   "en": "Flowing Strike",
    "box": "ougi_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -37,9 +37,9 @@
    "addr": "0xB909",
    "size": 8,
    "jp": "昇獣牙斬",
-   "en": "",
+   "en": "Beast Fang Slash",
    "box": "ougi_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -48,9 +48,9 @@
    "addr": "0xB911",
    "size": 10,
    "jp": "狼星破操散",
-   "en": "",
+   "en": "Wolf Star Rend",
    "box": "ougi_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -59,9 +59,9 @@
    "addr": "0xB91B",
    "size": 10,
    "jp": "豪龍交破斬",
-   "en": "",
+   "en": "Dragon Breaker",
    "box": "ougi_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -70,9 +70,9 @@
    "addr": "0xB925",
    "size": 12,
    "jp": "闘虎麗気攻敢",
-   "en": "",
+   "en": "Tiger Strike",
    "box": "ougi_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -81,9 +81,9 @@
    "addr": "0xB931",
    "size": 12,
    "jp": "至天法魔光翔",
-   "en": "",
+   "en": "Heaven's Flash",
    "box": "ougi_name",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   }
  ]

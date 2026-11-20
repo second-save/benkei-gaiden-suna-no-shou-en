@@ -15,9 +15,9 @@
    "addr": "0xE88A",
    "size": 25,
    "jp": "くすり{nl}1人の体力を30ほど回復させる{end}",
-   "en": "",
+   "en": "Medicine{nl}Restores roughly 30 HP to one ally.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -26,9 +26,9 @@
    "addr": "0xE8A3",
    "size": 27,
    "jp": "たいやく{nl}1人の体力を100ほど回復させる{end}",
-   "en": "",
+   "en": "Great Medicine{nl}Restores roughly 100 HP to one ally.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -37,9 +37,9 @@
    "addr": "0xE8BE",
    "size": 25,
    "jp": "どくけし{nl}1人の体内の毒を中和させる{end}",
-   "en": "",
+   "en": "Antidote{nl}Neutralizes poison in one ally.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -48,9 +48,9 @@
    "addr": "0xE8D7",
    "size": 26,
    "jp": "ふうまこう{nl}しばらくの間、魔物をよせつけない{end}",
-   "en": "",
+   "en": "Sealing Incense{nl}Keeps monsters away for a while.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -59,9 +59,9 @@
    "addr": "0xE8F1",
    "size": 21,
    "jp": "かぜのれいやく{nl}魔破の力を秘める{end}",
-   "en": "",
+   "en": "Wind Elixir{nl}Holds the power of Gale.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -70,9 +70,9 @@
    "addr": "0xE906",
    "size": 20,
    "jp": "ひのれいやく{nl}軌炎の力を秘める{end}",
-   "en": "",
+   "en": "Fire Elixir{nl}Holds the power of Blaze.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -81,9 +81,9 @@
    "addr": "0xE91A",
    "size": 21,
    "jp": "みずのれいやく{nl}冷鎖の力を秘める{end}",
-   "en": "",
+   "en": "Water Elixir{nl}Holds the power of Frost.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -92,9 +92,9 @@
    "addr": "0xE92F",
    "size": 28,
    "jp": "きのれいやく{nl}1人の法力を完全回復させる{end}",
-   "en": "",
+   "en": "Wood Elixir{nl}Fully restores one ally's MP.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -103,9 +103,9 @@
    "addr": "0xE94B",
    "size": 33,
    "jp": "つちのれいやく{nl}仲間全ての体力を完全回復させる{end}",
-   "en": "",
+   "en": "Earth Elixir{nl}Fully restores all allies' HP.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -114,9 +114,9 @@
    "addr": "0xE96C",
    "size": 27,
    "jp": "りくどうのひやく{nl}1人を気絶から回復させる{end}",
-   "en": "",
+   "en": "Six-Realms Elixir{nl}Revives one fallen ally.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -125,9 +125,9 @@
    "addr": "0xE987",
    "size": 39,
    "jp": "しきふ{nl}幻を御札に封じた物。枚数により式神が強力になる{end}",
-   "en": "",
+   "en": "Talisman{nl}Illusion seal; each boosts the shikigami.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -136,9 +136,9 @@
    "addr": "0xE9AE",
    "size": 35,
    "jp": "れんきがん{nl}1人の体力を100ほど回復。毒も中和する{end}",
-   "en": "",
+   "en": "Ki Pill{nl}Heals one ally ~100 HP and cures poison.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -147,9 +147,9 @@
    "addr": "0xE9D1",
    "size": 37,
    "jp": "れんきたいがん{nl}1人の体力を200ほど回復。毒も中和する{end}",
-   "en": "",
+   "en": "Great Ki Pill{nl}Heals one ally ~200 HP and cures poison.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -158,9 +158,9 @@
    "addr": "0xE9F6",
    "size": 21,
    "jp": "ふうれいし{nl}魔破渦の力を秘める{end}",
-   "en": "",
+   "en": "Wind Reishi{nl}Holds the power of Whirlwind.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -169,9 +169,9 @@
    "addr": "0xEA0B",
    "size": 20,
    "jp": "かれいし{nl}軌炎陣の力を秘める{end}",
-   "en": "",
+   "en": "Fire Reishi{nl}Holds the power of Inferno.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -180,9 +180,9 @@
    "addr": "0xEA1F",
    "size": 22,
    "jp": "ひょうれいし{nl}冷破陣の力を秘める{end}",
-   "en": "",
+   "en": "Ice Reishi{nl}Holds the power of Blizzard.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -191,9 +191,9 @@
    "addr": "0xEA35",
    "size": 30,
    "jp": "もくれいし{nl}仲間全ての法力を、あるていど回復{end}",
-   "en": "",
+   "en": "Wood Reishi{nl}Moderately restores all allies' MP.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -202,9 +202,9 @@
    "addr": "0xEA53",
    "size": 28,
    "jp": "らいめいせき{nl}味方にかけられた呪術を消しさる{end}",
-   "en": "",
+   "en": "Thunderstone{nl}Dispels curses cast upon allies.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -213,9 +213,9 @@
    "addr": "0xEA6F",
    "size": 28,
    "jp": "どくむしのこな{nl}敵の目をくらまし、逃げやすくする{end}",
-   "en": "",
+   "en": "Venom Bug Dust{nl}Blinds foes, making it easier to flee.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -279,9 +279,9 @@
    "addr": "0xEA8B",
    "size": 29,
    "jp": "むそうのかいきょう{nl}見知っている街へ転移できる{end}",
-   "en": "",
+   "en": "Dream Mirror{nl}Lets you warp to any known town.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -290,9 +290,9 @@
    "addr": "0xEAA8",
    "size": 23,
    "jp": "れいしょうりん{nl}才蔵より受けとりし輪{end}",
-   "en": "",
+   "en": "Spirit Crystal Ring{nl}A ring received from Saizo.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -312,9 +312,9 @@
    "addr": "0xEABF",
    "size": 22,
    "jp": "あやかしのふうりん{nl}古びた鉄の風鈴{end}",
-   "en": "",
+   "en": "Eerie Windchime{nl}An old iron windchime.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -323,9 +323,9 @@
    "addr": "0xEAD5",
    "size": 27,
    "jp": "むそういん{nl}こまかい装飾の入った古い銅印{end}",
-   "en": "",
+   "en": "Dream-Weaving Seal{nl}An old bronze seal with fine filigree.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -334,9 +334,9 @@
    "addr": "0xEAF0",
    "size": 21,
    "jp": "つうこうしょう{nl}バヤンの書いた証書{end}",
-   "en": "",
+   "en": "Travel Pass{nl}A document written by Bayan.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -345,9 +345,9 @@
    "addr": "0xEB05",
    "size": 22,
    "jp": "ひちょういん{nl}うきぼりのある白金の印{end}",
-   "en": "",
+   "en": "Soaring Seal{nl}A platinum seal carved in relief.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -356,9 +356,9 @@
    "addr": "0xEB1B",
    "size": 23,
    "jp": "せきしょうりん{nl}赤い光を宿した水晶{end}",
-   "en": "",
+   "en": "Red Crystal Ring{nl}A crystal holding a crimson glow.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -367,9 +367,9 @@
    "addr": "0xEB32",
    "size": 24,
    "jp": "りょくしょうりん{nl}緑の光を宿した水晶{end}",
-   "en": "",
+   "en": "Green Crystal Ring{nl}A crystal holding a green glow.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -378,9 +378,9 @@
    "addr": "0xEB4A",
    "size": 23,
    "jp": "せいしょうりん{nl}青い光を宿した水晶{end}",
-   "en": "",
+   "en": "Blue Crystal Ring{nl}A crystal holding a blue glow.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -389,9 +389,9 @@
    "addr": "0xEB61",
    "size": 22,
    "jp": "ししょうりん{nl}紫の光を宿した水晶{end}",
-   "en": "",
+   "en": "Purple Crystal Ring{nl}A crystal holding a purple glow.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -400,9 +400,9 @@
    "addr": "0xEB77",
    "size": 23,
    "jp": "おうしょうりん{nl}黄の光を宿した水晶{end}",
-   "en": "",
+   "en": "Yellow Crystal Ring{nl}A crystal holding a yellow glow.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -411,9 +411,9 @@
    "addr": "0xEB8E",
    "size": 23,
    "jp": "みかづきのふえ{nl}あわく月光を発する笛{end}",
-   "en": "",
+   "en": "Crescent Flute{nl}A flute glowing with pale moonlight.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -422,9 +422,9 @@
    "addr": "0xEBA5",
    "size": 27,
    "jp": "はふうのかぎ{nl}マヤコによる呪法の書いてある鍵{end}",
-   "en": "",
+   "en": "Sealbreaker Key{nl}A key inscribed with Mayako's jutsu.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -433,9 +433,9 @@
    "addr": "0xEBC0",
    "size": 30,
    "jp": "げっこうとう{nl}火をつけずとも、あわい光を放つろうそく{end}",
-   "en": "",
+   "en": "Moonlight Lantern{nl}A candle glowing softly even unlit.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -444,9 +444,9 @@
    "addr": "0xEBDE",
    "size": 25,
    "jp": "つきかげのうま{nl}数頭の馬をえがいてある絵{end}",
-   "en": "",
+   "en": "Moonshadow Steed{nl}A painting depicting several horses.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -455,9 +455,9 @@
    "addr": "0xEBF7",
    "size": 30,
    "jp": "てんしょうるぶのしょ{nl}木の箱に収められた古文書{end}",
-   "en": "",
+   "en": "Sky-Dance Tome{nl}An ancient text in a wooden box.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -466,9 +466,9 @@
    "addr": "0xEC15",
    "size": 28,
    "jp": "なきへびのすず{nl}銅でできた、とぐろをまいた蛇の鈴{end}",
-   "en": "",
+   "en": "Weeping Snake Bell{nl}A coiled-snake bell cast in copper.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -477,9 +477,9 @@
    "addr": "0xEC31",
    "size": 29,
    "jp": "かいりゅうのほね{nl}古びた、うす茶色の動物の骨{end}",
-   "en": "",
+   "en": "Sea Dragon Bone{nl}An old, light-brown animal bone.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -488,9 +488,9 @@
    "addr": "0xEC4E",
    "size": 25,
    "jp": "わりふだ{nl}越後屋の印が入った木の札{end}",
-   "en": "",
+   "en": "Wooden Tally{nl}A wooden tag bearing Echigoya's seal.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -499,9 +499,9 @@
    "addr": "0xEC67",
    "size": 18,
    "jp": "かくしとびらのあいかぎ{nl}銅の鍵{end}",
-   "en": "",
+   "en": "Hidden Door Key{nl}A copper key.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -510,9 +510,9 @@
    "addr": "0xEC79",
    "size": 31,
    "jp": "こうけのもんしょう{nl}石に紋章らしきものがきざまれている{end}",
-   "en": "",
+   "en": "Imperial Crest{nl}A crest-like emblem carved in stone.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -521,9 +521,9 @@
    "addr": "0xEC98",
    "size": 29,
    "jp": "こうていのやみ{nl}水晶の器に黒い粉が入っている{end}",
-   "en": "",
+   "en": "Emperor's Darkness{nl}Black powder inside a crystal vessel.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -532,9 +532,9 @@
    "addr": "0xECB5",
    "size": 25,
    "jp": "しほうりん{nl}七色にかがやく円形の水晶{end}",
-   "en": "",
+   "en": "Ring of Ruin{nl}A round crystal gleaming in seven hues.{end}",
    "box": "item_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   }
  ]

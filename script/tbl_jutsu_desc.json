@@ -15,9 +15,9 @@
    "addr": "0xED5E",
    "size": 43,
    "jp": "まは                法／5{nl}敵一体を風の刃で斬り裂く{end}",
-   "en": "",
+   "en": "Gale                                MP: 5{nl}Slashes one foe with blades of wind.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -26,9 +26,9 @@
    "addr": "0xED89",
    "size": 39,
    "jp": "まはが               法／10{nl}敵全体に魔破をうつ{end}",
-   "en": "",
+   "en": "Whirlwind                         MP: 10{nl}Unleashes Gale upon all foes.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -37,9 +37,9 @@
    "addr": "0xEDB0",
    "size": 40,
    "jp": "れいさ               法／7{nl}敵一体に冷気をぶつける{end}",
-   "en": "",
+   "en": "Frost                              MP: 7{nl}Strikes one foe with bitter chill.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -48,9 +48,9 @@
    "addr": "0xEDD8",
    "size": 41,
    "jp": "れいはじん             法／14{nl}敵全体に冷鎖をあびせる{end}",
-   "en": "",
+   "en": "Blizzard                           MP: 14{nl}Showers all foes with Frost.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -59,9 +59,9 @@
    "addr": "0xEE01",
    "size": 44,
    "jp": "ぎえん               法／10{nl}敵一体を念の炎で焼きはらう{end}",
-   "en": "",
+   "en": "Blaze                              MP: 10{nl}Scorches one foe with spirit fire.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -70,9 +70,9 @@
    "addr": "0xEE2D",
    "size": 43,
    "jp": "ぎえんじん             法／18{nl}敵全体を軌炎で焼きつくす{end}",
-   "en": "",
+   "en": "Inferno                            MP: 18{nl}Consumes all foes in Blaze.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -81,9 +81,9 @@
    "addr": "0xEE58",
    "size": 46,
    "jp": "しょうらい             法／12{nl}敵一体のまわりに落雷をひきおこす{end}",
-   "en": "",
+   "en": "Thunder                           MP: 12{nl}Calls lightning down around one foe.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -92,9 +92,9 @@
    "addr": "0xEE86",
    "size": 42,
    "jp": "さんごうらい            法／20{nl}敵全体を放電でつつみこむ{end}",
-   "en": "",
+   "en": "Lightning                          MP: 20{nl}Engulfs all foes in lightning bursts.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -103,9 +103,9 @@
    "addr": "0xEEB0",
    "size": 43,
    "jp": "しこうは              法／25{nl}敵全体をするどい光がつらぬく{end}",
-   "en": "",
+   "en": "Lightlance                         MP: 25{nl}Shafts of keen light pierce all foes.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -114,9 +114,9 @@
    "addr": "0xEEDB",
    "size": 46,
    "jp": "れっこうざん            法／30{nl}敵全体を破邪の光で斬り裂く{end}",
-   "en": "",
+   "en": "Holy Slash                         MP: 30{nl}Cleaves all foes with sacred light.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -125,9 +125,9 @@
    "addr": "0xEF09",
    "size": 44,
    "jp": "たいきょくかい           法／40{nl}敵全体を虚空へ転移させる{end}",
-   "en": "",
+   "en": "Void Rift                          MP: 40{nl}Warps all foes away into the void.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -136,9 +136,9 @@
    "addr": "0xEF35",
    "size": 46,
    "jp": "かりゅうれっこうじん        法／40{nl}火龍が全てを焼きはらい滅殺する{end}",
-   "en": "",
+   "en": "Dragon Flare                      MP: 40{nl}A fire dragon scorches and{nl}annihilates everything.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -147,9 +147,9 @@
    "addr": "0xEF63",
    "size": 36,
    "jp": "みんと               法／5{nl}敵全体を眠らせる{end}",
-   "en": "",
+   "en": "Sleep                              MP: 5{nl}Puts all foes to sleep.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -158,9 +158,9 @@
    "addr": "0xEF87",
    "size": 40,
    "jp": "どむどう              法／8{nl}敵一体の動きを鈍らせる{end}",
-   "en": "",
+   "en": "Slow                               MP: 8{nl}Slows down one foe's movements.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -169,9 +169,9 @@
    "addr": "0xEFAF",
    "size": 43,
    "jp": "てんけいかく            法／5{nl}仲間1人の動きを素早くする{end}",
-   "en": "",
+   "en": "Haste                              MP: 5{nl}Quickens one ally's movements.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -180,9 +180,9 @@
    "addr": "0xEFDA",
    "size": 44,
    "jp": "ごうしょう             法／10{nl}仲間1人の攻撃力を上げる{end}",
-   "en": "",
+   "en": "Might                              MP: 10{nl}Raises one ally's Attack.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -191,9 +191,9 @@
    "addr": "0xF006",
    "size": 42,
    "jp": "かんこうし             法／8{nl}敵全体の攻撃力を落とす{end}",
-   "en": "",
+   "en": "Weaken                            MP: 8{nl}Lowers all foes' Attack.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -202,9 +202,9 @@
    "addr": "0xF030",
    "size": 41,
    "jp": "ふうじゅ              法／10{nl}敵全体の呪術を封じる{end}",
-   "en": "",
+   "en": "Silence                            MP: 10{nl}Seals all foes' jutsu.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -213,9 +213,9 @@
    "addr": "0xF059",
    "size": 51,
    "jp": "はんきほう             法／15{nl}仲間全てを、呪術を跳ね返す壁で守る{end}",
-   "en": "",
+   "en": "Reflect                            MP: 15{nl}Shields all allies behind a wall{nl}that reflects jutsu.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -224,9 +224,9 @@
    "addr": "0xF08C",
    "size": 42,
    "jp": "らくしゅ              法／8{nl}敵一体の守備力を落とす{end}",
-   "en": "",
+   "en": "Sunder                             MP: 8{nl}Lowers one foe's Defense.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -235,9 +235,9 @@
    "addr": "0xF0B6",
    "size": 44,
    "jp": "しじゅん              法／15{nl}仲間全てを見えない盾が守る{end}",
-   "en": "",
+   "en": "Shield                              MP: 15{nl}An unseen shield guards all allies.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -246,9 +246,9 @@
    "addr": "0xF0E2",
    "size": 43,
    "jp": "きき                法／5{nl}1人の体力を少し回復させる{end}",
-   "en": "",
+   "en": "Mend                               MP: 5{nl}Restores a little HP to one ally.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -257,9 +257,9 @@
    "addr": "0xF10D",
    "size": 50,
    "jp": "きかいき              法／10{nl}仲間全ての体力をあるていど回復させる{end}",
-   "en": "",
+   "en": "Mass Heal                         MP: 10{nl}Restores moderate HP to all allies.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -268,9 +268,9 @@
    "addr": "0xF13F",
    "size": 45,
    "jp": "きおうがい             法／12{nl}1人の体力を大きく回復させる{end}",
-   "en": "",
+   "en": "Cure                               MP: 12{nl}Greatly restores one ally's HP.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -279,9 +279,9 @@
    "addr": "0xF16C",
    "size": 42,
    "jp": "きがいてん             法／20{nl}1人の体力を完全回復{end}",
-   "en": "",
+   "en": "Full Cure                          MP: 20{nl}Fully restores one ally's HP.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -290,9 +290,9 @@
    "addr": "0xF196",
    "size": 46,
    "jp": "ごくおうがい            法／30{nl}仲間全ての体力を完全回復{end}",
-   "en": "",
+   "en": "Mass Cure                        MP: 30{nl}Fully restores all allies' HP.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -301,9 +301,9 @@
    "addr": "0xF1C4",
    "size": 57,
    "jp": "てんせい              法／20{nl}1人を気絶から回復させ、体力を少し回復させる{end}",
-   "en": "",
+   "en": "Revive                             MP: 20{nl}Revives one fallen ally and{nl}restores a little HP.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -312,9 +312,9 @@
    "addr": "0xF1FD",
    "size": 46,
    "jp": "せいとう              法／7{nl}少しの間、敵をよせつけず移動できる{end}",
-   "en": "",
+   "en": "Sacred Step                      MP: 7{nl}Lets you travel briefly while{nl}keeping enemies at bay.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -323,9 +323,9 @@
    "addr": "0xF22B",
    "size": 49,
    "jp": "かせいとう             法／18{nl}少しの間敵をよせつけず速く移動できる{end}",
-   "en": "",
+   "en": "Sacred Dash                      MP: 18{nl}Lets you move swiftly while{nl}warding off foes for a time.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -334,9 +334,9 @@
    "addr": "0xF25C",
    "size": 47,
    "jp": "ひきょ               法／40{nl}千里眼。進路を調べる事ができる{end}",
-   "en": "",
+   "en": "Farsight                           MP: 40{nl}Clairvoyance. Lets you inspect{nl}the path ahead.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -345,9 +345,9 @@
    "addr": "0xF28B",
    "size": 67,
    "jp": "てんい               法／15{nl}見知ってる街を思うだけで転移できる{nl}洞窟、塔からの脱出ができる{end}",
-   "en": "",
+   "en": "Warp                               MP: 15{nl}Think of a known town to warp there.{nl}Also escapes caves and towers.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -367,9 +367,9 @@
    "addr": "0xF2CE",
    "size": 47,
    "jp": "ぶんきとうしん           法／10{nl}分身を作り、攻撃回数を増やす{end}",
-   "en": "",
+   "en": "Shadow Clone                     MP: 10{nl}Creates a double to increase your{nl}number of attacks.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -378,9 +378,9 @@
    "addr": "0xF2FD",
    "size": 45,
    "jp": "こざん               法／12{nl}幻影を作り、敵の一撃をそらす{end}",
-   "en": "",
+   "en": "Mirage                             MP: 12{nl}Creates an illusion to turn aside{nl}an enemy blow.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -389,9 +389,9 @@
    "addr": "0xF32A",
    "size": 45,
    "jp": "しゃっかい             法／20{nl}敵一体を発火させ、溶解する{end}",
-   "en": "",
+   "en": "Meltdown                         MP: 20{nl}Ignites and melts one foe.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -400,9 +400,9 @@
    "addr": "0xF357",
    "size": 41,
    "jp": "こだま               法／20{nl}敵一体の魂を破壊する{end}",
-   "en": "",
+   "en": "Soul Rend                         MP: 20{nl}Shatters one foe's soul.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -411,9 +411,9 @@
    "addr": "0xF380",
    "size": 49,
    "jp": "たいまほう             法／15{nl}仲間全てにかけられた呪術を退散する{end}",
-   "en": "",
+   "en": "Purify                             MP: 15{nl}Dispels curses cast on all allies.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -422,9 +422,9 @@
    "addr": "0xF3B1",
    "size": 40,
    "jp": "きしょうじゅ            法／30{nl}魔界より鬼気をよびだす{end}",
-   "en": "",
+   "en": "Demon Call                        MP: 30{nl}Summons demonic fury from the{nl}Demon Realm.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -433,9 +433,9 @@
    "addr": "0xF3D9",
    "size": 46,
    "jp": "まそうしょう            法／15{nl}敵一体の魂を操り、こんらんさせる{end}",
-   "en": "",
+   "en": "Confuse                           MP: 15{nl}Manipulates one foe's soul to{nl}confuse them.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -444,9 +444,9 @@
    "addr": "0xF407",
    "size": 43,
    "jp": "げんじゅうへんげ          法／10{nl}敵全体を幻獣が攻撃する{end}",
-   "en": "",
+   "en": "Phantom Beast                   MP: 10{nl}A phantom beast attacks all foes.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -488,9 +488,9 @@
    "addr": "0xF432",
    "size": 42,
    "jp": "かほそく              法／15{nl}少しの間、速く移動できる{end}",
-   "en": "",
+   "en": "Fleetfoot                         MP: 15{nl}Lets you move swiftly for a time.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -499,9 +499,9 @@
    "addr": "0xF45C",
    "size": 42,
    "jp": "くとけ               法／5{nl}1人の体内の毒を中和する{end}",
-   "en": "",
+   "en": "Detox                              MP: 5{nl}Neutralizes poison in one ally.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -719,9 +719,9 @@
    "addr": "0xF486",
    "size": 35,
    "jp": "そうりゅうかだん          法／3{nl}双刃の嵐が襲う{end}",
-   "en": "",
+   "en": "Twin Gale Slash                  MP: 3{nl}A tempest of twin blades strikes.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -730,9 +730,9 @@
    "addr": "0xF4A9",
    "size": 39,
    "jp": "りゅうしょうこうぶ         法／5{nl}流れるような軌跡が走る{end}",
-   "en": "",
+   "en": "Flowing Strike                   MP: 5{nl}A flowing blade arc sweeps forth.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -741,9 +741,9 @@
    "addr": "0xF4D0",
    "size": 40,
    "jp": "しょうじゅうがざん         法／7{nl}無数の剣流が斬り裂く{end}",
-   "en": "",
+   "en": "Beast Fang Slash                 MP: 7{nl}Countless blade currents rend foes.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -752,9 +752,9 @@
    "addr": "0xF4F8",
    "size": 42,
    "jp": "ろうせいはそうざん         法／10{nl}巨大な幻が、敵をなぎはらう{end}",
-   "en": "",
+   "en": "Wolf Star Rend                  MP: 10{nl}A giant phantom sweeps foes down.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -763,9 +763,9 @@
    "addr": "0xF522",
    "size": 43,
    "jp": "ごうりゅうこうはざん        法／13{nl}龍の一撃が、敵に降りそそぐ{end}",
-   "en": "",
+   "en": "Dragon Breaker                   MP: 13{nl}A dragon's blow rains down on foes.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -774,9 +774,9 @@
    "addr": "0xF54D",
    "size": 42,
    "jp": "とうこれいきこうかん        法／16{nl}虎霊と化した剣圧が襲う{end}",
-   "en": "",
+   "en": "Tiger Strike                      MP: 16{nl}A tiger-spirit blade force lunges.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -785,9 +785,9 @@
    "addr": "0xF577",
    "size": 40,
    "jp": "してんほうまこうしょう       法／20{nl}一撃必殺の秘奥義{end}",
-   "en": "",
+   "en": "Heaven's Flash                    MP: 20{nl}A secret art that fells in one blow.{end}",
    "box": "jutsu_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   }
  ]

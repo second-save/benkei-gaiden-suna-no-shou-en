@@ -15,9 +15,9 @@
    "addr": "0xDDE6",
    "size": 9,
    "jp": "かたな{nl}攻・3{end}",
-   "en": "",
+   "en": "Katana{nl}Attack +3{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -26,9 +26,9 @@
    "addr": "0xDDEF",
    "size": 29,
    "jp": "ざんまとう{nl}攻・10{nl}刀身に炎を宿した魔剣{end}",
-   "en": "",
+   "en": "Demonbane Blade{nl}Attack +10{nl}A mystic blade imbued with flame.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -37,9 +37,9 @@
    "addr": "0xDE0C",
    "size": 40,
    "jp": "ようとう・ひゃっきまる{nl}攻・74{nl}鬼を斬るために作られた氷気の刀{end}",
-   "en": "",
+   "en": "Cursed Hyakkimaru{nl}Attack +74{nl}An icy blade forged to slay demons.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -48,9 +48,9 @@
    "addr": "0xDE34",
    "size": 27,
    "jp": "しちせいほうけん{nl}攻・82{nl}なぞを秘めた神器{end}",
-   "en": "",
+   "en": "Seven-Star Sword{nl}Attack +82{nl}A sacred relic veiled in mystery.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -59,9 +59,9 @@
    "addr": "0xDE4F",
    "size": 31,
    "jp": "いざなぎのつるぎ{nl}攻・90{nl}伝説にうたわれた神の剣{end}",
-   "en": "",
+   "en": "Sword of Izanagi{nl}Attack +90{nl}A divine sword sung of in legend.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -70,9 +70,9 @@
    "addr": "0xDE6E",
    "size": 42,
    "jp": "ちょうじゅうけん・じゅうき{nl}攻・100{nl}その雷刃は近づく敵を破壊する{end}",
-   "en": "",
+   "en": "Heavy Beast Sword{nl}Attack +100{nl}Its thunder edge shatters nearby foes.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -81,9 +81,9 @@
    "addr": "0xDE98",
    "size": 8,
    "jp": "やり{nl}攻・5{end}",
-   "en": "",
+   "en": "Spear{nl}Attack +5{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -92,9 +92,9 @@
    "addr": "0xDEA0",
    "size": 14,
    "jp": "てつのなぎなた{nl}攻・17{end}",
-   "en": "",
+   "en": "Iron Naginata{nl}Attack +17{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -103,9 +103,9 @@
    "addr": "0xDEAE",
    "size": 31,
    "jp": "ほうまのけん{nl}攻・52{nl}刀身に冷気をおびる魔剣{end}",
-   "en": "",
+   "en": "Duskfiend Sword{nl}Attack +52{nl}A mystic blade steeped in icy chill.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -114,9 +114,9 @@
    "addr": "0xDECD",
    "size": 29,
    "jp": "らいこのやり{nl}攻・60{nl}雷獣の気をうけた古槍{end}",
-   "en": "",
+   "en": "Thundercall Spear{nl}Attack +60{nl}An old spear holding thunder-beast ki.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -125,9 +125,9 @@
    "addr": "0xDEEA",
    "size": 18,
    "jp": "はがねのろっかくじょう{nl}攻・26{end}",
-   "en": "",
+   "en": "Steel Hex Staff{nl}Attack +26{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -136,9 +136,9 @@
    "addr": "0xDEFC",
    "size": 16,
    "jp": "こうてつのおおづち{nl}攻・58{end}",
-   "en": "",
+   "en": "Steel Greathammer{nl}Attack +58{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -147,9 +147,9 @@
    "addr": "0xDF0C",
    "size": 34,
    "jp": "しゅらのおの{nl}攻・67{nl}一撃で敵を断つといわれる戦斧{end}",
-   "en": "",
+   "en": "Asura Battleaxe{nl}Attack +67{nl}A battleaxe said to slay in one strike.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -158,9 +158,9 @@
    "addr": "0xDF2E",
    "size": 36,
    "jp": "むち・ばらのとげ{nl}攻・30{nl}鞭のトゲは時として、敵をマヒさせる{end}",
-   "en": "",
+   "en": "Rose-Thorn Whip{nl}Attack +30{nl}Its thorns sometimes paralyze foes.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -169,9 +169,9 @@
    "addr": "0xDF52",
    "size": 12,
    "jp": "くさりがま{nl}攻・21{end}",
-   "en": "",
+   "en": "Chain Sickle{nl}Attack +21{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -180,9 +180,9 @@
    "addr": "0xDF5E",
    "size": 36,
    "jp": "くさりてっきゅう{nl}攻・45{nl}鎖に巨大な鉄球をつけた武器{end}",
-   "en": "",
+   "en": "Chained Iron Ball{nl}Attack +45{nl}A huge iron ball fastened to a chain.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -191,9 +191,9 @@
    "addr": "0xDF82",
    "size": 11,
    "jp": "しゅりけん{nl}攻・2{end}",
-   "en": "",
+   "en": "Shuriken{nl}Attack +2{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -202,9 +202,9 @@
    "addr": "0xDF8D",
    "size": 37,
    "jp": "ばくれつしゅりけん{nl}攻・33{nl}手裏剣に火薬をむすんだ武器{end}",
-   "en": "",
+   "en": "Blast Shuriken{nl}Attack +33{nl}A shuriken rigged with gunpowder.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -213,9 +213,9 @@
    "addr": "0xDFB2",
    "size": 27,
    "jp": "ゆみや{nl}攻・3{nl}敵に先制攻撃がかけやすい{end}",
-   "en": "",
+   "en": "Bow & Arrows{nl}Attack +3{nl}Makes it easier to strike foes first.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -224,9 +224,9 @@
    "addr": "0xDFCD",
    "size": 29,
    "jp": "はまのごうきゅう{nl}攻・40{nl}高僧に清められた弓{end}",
-   "en": "",
+   "en": "Evilbane Greatbow{nl}Attack +40{nl}A bow purified by a high monk.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -235,9 +235,9 @@
    "addr": "0xDFEA",
    "size": 34,
    "jp": "そうせつこん{nl}攻・60{nl}二つの棍を金具であわせた武器{end}",
-   "en": "",
+   "en": "Nunchaku{nl}Attack +60{nl}Two rods joined by metal fittings.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -246,9 +246,9 @@
    "addr": "0xE00C",
    "size": 17,
    "jp": "こんごうそうせつこん{nl}攻・84{end}",
-   "en": "",
+   "en": "Vajra Nunchaku{nl}Attack +84{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -257,9 +257,9 @@
    "addr": "0xE01D",
    "size": 28,
    "jp": "かぎづめ{nl}攻・52{nl}素手に装備する鉄の爪{end}",
-   "en": "",
+   "en": "Hook Claws{nl}Attack +52{nl}Iron claws worn on bare hands.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -268,9 +268,9 @@
    "addr": "0xE039",
    "size": 14,
    "jp": "あらわしのつめ{nl}攻・72{end}",
-   "en": "",
+   "en": "Eagle Talons{nl}Attack +72{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -279,9 +279,9 @@
    "addr": "0xE047",
    "size": 40,
    "jp": "ひゃくれつごうそう{nl}攻・145{nl}素早く強力な攻撃を敵にあたえる{end}",
-   "en": "",
+   "en": "Hundred-Rend Spear{nl}Attack +145{nl}Strikes foes with swift, brutal force.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -290,9 +290,9 @@
    "addr": "0xE06F",
    "size": 29,
    "jp": "てんていのやり{nl}攻・160{nl}七色に光る銀の槍{end}",
-   "en": "",
+   "en": "Celestial Spear{nl}Attack +160{nl}A silver spear aglow in seven hues.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -301,9 +301,9 @@
    "addr": "0xE08C",
    "size": 19,
    "jp": "ちょうごうきんかくじょう{nl}攻・93{end}",
-   "en": "",
+   "en": "Super-Alloy Staff{nl}Attack +93{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -312,9 +312,9 @@
    "addr": "0xE09F",
    "size": 35,
    "jp": "むち・りゅうのお{nl}攻・105{nl}龍の尾のように敵を切り裂く{end}",
-   "en": "",
+   "en": "Dragon-Tail Whip{nl}Attack +105{nl}Rips foes apart like a dragon's tail.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -323,9 +323,9 @@
    "addr": "0xE0C2",
    "size": 29,
    "jp": "しにがみのかま{nl}攻・120{nl}魂の糸を斬る大鎌{end}",
-   "en": "",
+   "en": "Reaper's Scythe{nl}Attack +120{nl}A scythe that severs threads of soul.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -334,9 +334,9 @@
    "addr": "0xE0DF",
    "size": 33,
    "jp": "おんみょうまきゅう{nl}攻・120{nl}氷と炎をあわせもつ密弓{end}",
-   "en": "",
+   "en": "Yin-Yang Spellbow{nl}Attack +120{nl}An arcane bow uniting ice and flame.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -345,9 +345,9 @@
    "addr": "0xE100",
    "size": 37,
    "jp": "こんごうけん・きりゅう{nl}攻・？{nl}火焔を秘めたる金剛の聖剣{end}",
-   "en": "",
+   "en": "Vajra Blade Kiryu{nl}Attack +?{nl}A holy vajra blade concealing flame.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -356,9 +356,9 @@
    "addr": "0xE125",
    "size": 33,
    "jp": "せいおうけん・しおん{nl}攻・？{nl}雷神を統べる聖王の剣{end}",
-   "en": "",
+   "en": "Sacred King Shion{nl}Attack +?{nl}Holy king's blade ruling the thunder god.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -367,9 +367,9 @@
    "addr": "0xE146",
    "size": 36,
    "jp": "たいしゃくけん・すざく{nl}攻・？{nl}朱雀のごとく風を斬る聖剣{end}",
-   "en": "",
+   "en": "Indra Blade Suzaku{nl}Attack +?{nl}A holy blade slicing wind like Suzaku.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -378,9 +378,9 @@
    "addr": "0xE16A",
    "size": 32,
    "jp": "ごくはのなぎなた{nl}攻・132{nl}究極の刃を持つなぎなた{end}",
-   "en": "",
+   "en": "Ultimate Naginata{nl}Attack +132{nl}A naginata honed to the ultimate edge.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -389,9 +389,9 @@
    "addr": "0xE18A",
    "size": 35,
    "jp": "めいとう・そうえい{nl}攻・24{nl}名工により打たれた日本刀{end}",
-   "en": "",
+   "en": "Soei Katana{nl}Attack +24{nl}A fine blade forged by a master smith.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -400,9 +400,9 @@
    "addr": "0xE1AD",
    "size": 34,
    "jp": "めいとう・ただのぶ{nl}攻・38{nl}長門の名工、忠信の作{end}",
-   "en": "",
+   "en": "Tadanobu Katana{nl}Attack +38{nl}By Tadanobu, master smith of Nagato.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -411,9 +411,9 @@
    "addr": "0xE1CF",
    "size": 30,
    "jp": "めいとう・いぬかい{nl}攻・63{nl}血をもとめる日本刀{end}",
-   "en": "",
+   "en": "Inukai Katana{nl}Attack +63{nl}A katana that hungers for blood.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -422,9 +422,9 @@
    "addr": "0xE1ED",
    "size": 53,
    "jp": "こんごうけん・きりゅう{nl}羅観より譲りうけた魔剣。剣に見あった力を持つ者のみが抜ける{end}",
-   "en": "",
+   "en": "Vajra Blade Kiryu{nl}A mystic sword given by Rakan. Only one{nl}worthy of its strength can draw it.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -433,9 +433,9 @@
    "addr": "0xE222",
    "size": 14,
    "jp": "せいりゅうとう{nl}攻・79{end}",
-   "en": "",
+   "en": "Azure Dragon Blade{nl}Attack +79{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -444,9 +444,9 @@
    "addr": "0xE230",
    "size": 31,
    "jp": "れつざんけん{nl}攻・120{nl}山をも裂くといわれる雷剣{end}",
-   "en": "",
+   "en": "Mountain-Cleaver{nl}Attack +120{nl}A thunder blade said to split mountains.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -455,9 +455,9 @@
    "addr": "0xE24F",
    "size": 39,
    "jp": "りょしゅせんのつえ{nl}攻・110{nl}仙人が作った杖。神気を秘める{end}",
-   "en": "",
+   "en": "Wine Sage Staff{nl}Attack +110{nl}A sage's staff holding sacred spirit.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -466,9 +466,9 @@
    "addr": "0xE276",
    "size": 30,
    "jp": "じゃむはのごうとう{nl}攻・152{nl}さびついた古い豪刀{end}",
-   "en": "",
+   "en": "Jamukha's Saber{nl}Attack +152{nl}An old, rusted greatsaber.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -477,9 +477,9 @@
    "addr": "0xE294",
    "size": 42,
    "jp": "しゅうせいけん・れいほう{nl}攻・？{nl}女神を思わせる、しなやかな刀身の剣{end}",
-   "en": "",
+   "en": "Holy Avenger Reiho{nl}Attack +?{nl}A supple blade reminiscent of a goddess.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -488,9 +488,9 @@
    "addr": "0xE2BE",
    "size": 9,
    "jp": "せんきのなぎなた{end}",
-   "en": "",
+   "en": "War Demon Naginata{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -499,9 +499,9 @@
    "addr": "0xE2C7",
    "size": 9,
    "jp": "せんきのさすまた{end}",
-   "en": "",
+   "en": "War Demon Fork{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -510,9 +510,9 @@
    "addr": "0xE2D0",
    "size": 10,
    "jp": "せんきのそうじょう{end}",
-   "en": "",
+   "en": "War Demon Staves{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -521,9 +521,9 @@
    "addr": "0xE2DA",
    "size": 9,
    "jp": "せんきのてつぼう{end}",
-   "en": "",
+   "en": "War Demon Iron Bar{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -532,9 +532,9 @@
    "addr": "0xE2E3",
    "size": 8,
    "jp": "せんきのきづち{end}",
-   "en": "",
+   "en": "War Demon Mallet{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -543,9 +543,9 @@
    "addr": "0xE2EB",
    "size": 9,
    "jp": "せんきのごうけん{end}",
-   "en": "",
+   "en": "War Demon Blade{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -554,9 +554,9 @@
    "addr": "0xE2F4",
    "size": 9,
    "jp": "せんきのまさかり{end}",
-   "en": "",
+   "en": "War Demon Greataxe{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -719,9 +719,9 @@
    "addr": "0xE2FD",
    "size": 10,
    "jp": "かたあて{nl}鎧・2{end}",
-   "en": "",
+   "en": "Shoulder Guard{nl}Armor Defense +2{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -730,9 +730,9 @@
    "addr": "0xE307",
    "size": 9,
    "jp": "よろい{nl}鎧・8{end}",
-   "en": "",
+   "en": "Armor{nl}Armor Defense +8{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -741,9 +741,9 @@
    "addr": "0xE310",
    "size": 13,
    "jp": "くさりかたびら{nl}鎧・5{end}",
-   "en": "",
+   "en": "Chainmail{nl}Armor Defense +5{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -752,9 +752,9 @@
    "addr": "0xE31D",
    "size": 16,
    "jp": "あらむしゃのよろい{nl}鎧・18{end}",
-   "en": "",
+   "en": "Warrior's Armor{nl}Armor Defense +18{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -763,9 +763,9 @@
    "addr": "0xE32D",
    "size": 38,
    "jp": "あかいとおどしよろい{nl}鎧・28{nl}炎のような赤い鎧。冷気を防ぐ{end}",
-   "en": "",
+   "en": "Red-Laced Armor{nl}Armor Defense +28{nl}Flame-red armor. Wards off cold.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -774,9 +774,9 @@
    "addr": "0xE353",
    "size": 20,
    "jp": "じゅうごうよろい・どうまる{nl}鎧・54{end}",
-   "en": "",
+   "en": "Heavy Cuirass{nl}Armor Defense +54{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -785,9 +785,9 @@
    "addr": "0xE367",
    "size": 15,
    "jp": "きゃらのよろい{nl}鎧・124{end}",
-   "en": "",
+   "en": "Agarwood Armor{nl}Armor Defense +124{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -796,9 +796,9 @@
    "addr": "0xE376",
    "size": 17,
    "jp": "こうてつかっちゅう{nl}鎧・105{end}",
-   "en": "",
+   "en": "Full Steel Armor{nl}Armor Defense +105{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -807,9 +807,9 @@
    "addr": "0xE387",
    "size": 12,
    "jp": "きおうがい{nl}鎧・62{end}",
-   "en": "",
+   "en": "Demon King Armor{nl}Armor Defense +62{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -818,9 +818,9 @@
    "addr": "0xE393",
    "size": 36,
    "jp": "ちょうごうきんかたびら{nl}鎧・84{nl}鋼鉄を編みこんだ鎖かたびら{end}",
-   "en": "",
+   "en": "Super-Alloy Mail{nl}Armor Defense +84{nl}Chainmail woven with tempered steel.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -829,9 +829,9 @@
    "addr": "0xE3B7",
    "size": 36,
    "jp": "ていおうがい・げんぶ{nl}鎧・148{nl}玄武の甲羅をかたどった鎧{end}",
-   "en": "",
+   "en": "Royal Genbu Armor{nl}Armor Defense +148{nl}Armor shaped after Genbu's shell.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -840,9 +840,9 @@
    "addr": "0xE3DB",
    "size": 36,
    "jp": "ていおうがい・びゃっこ{nl}鎧・152{nl}白金にかがやく白虎の鎧{end}",
-   "en": "",
+   "en": "Royal Byakko Armor{nl}Armor Defense +152{nl}Byakko armor gleaming like platinum.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -851,9 +851,9 @@
    "addr": "0xE3FF",
    "size": 41,
    "jp": "ていおうがい・せいりゅう{nl}鎧・158{nl}青龍のうろこで作ったといわれる鎧{end}",
-   "en": "",
+   "en": "Royal Seiryu Armor{nl}Armor Defense +158{nl}Armor said to be made of Seiryu scales.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -862,9 +862,9 @@
    "addr": "0xE428",
    "size": 16,
    "jp": "なないろのかたかけ{nl}鎧・30{end}",
-   "en": "",
+   "en": "Rainbow Mantle{nl}Armor Defense +30{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -873,9 +873,9 @@
    "addr": "0xE438",
    "size": 14,
    "jp": "てつのかたかけ{nl}鎧・34{end}",
-   "en": "",
+   "en": "Iron Mantle{nl}Armor Defense +34{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -884,9 +884,9 @@
    "addr": "0xE446",
    "size": 14,
    "jp": "あいのかたかけ{nl}鎧・64{end}",
-   "en": "",
+   "en": "Mantle of Love{nl}Armor Defense +64{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -895,9 +895,9 @@
    "addr": "0xE454",
    "size": 38,
    "jp": "たいこのよろい{nl}鎧・36{nl}石で作られた全身鎧。法術を防ぐ{end}",
-   "en": "",
+   "en": "Primeval Armor{nl}Armor Defense +36{nl}Full stone armor. Guards against jutsu.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -906,9 +906,9 @@
    "addr": "0xE47A",
    "size": 9,
    "jp": "ころも{nl}鎧・1{end}",
-   "en": "",
+   "en": "Robe{nl}Armor Defense +1{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -917,9 +917,9 @@
    "addr": "0xE483",
    "size": 9,
    "jp": "ほうい{nl}鎧・3{end}",
-   "en": "",
+   "en": "Monk's Robe{nl}Armor Defense +3{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -928,9 +928,9 @@
    "addr": "0xE48C",
    "size": 32,
    "jp": "はごろも{nl}鎧・20{nl}魔力をおびた衣。素早く動ける{end}",
-   "en": "",
+   "en": "Feather Robe{nl}Armor Defense +20{nl}A magic robe that quickens your step.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -939,9 +939,9 @@
    "addr": "0xE4AC",
    "size": 13,
    "jp": "せんとうふく{nl}鎧・23{end}",
-   "en": "",
+   "en": "Battle Garb{nl}Armor Defense +23{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -950,9 +950,9 @@
    "addr": "0xE4B9",
    "size": 16,
    "jp": "せいじゅうのほうい{nl}鎧・46{end}",
-   "en": "",
+   "en": "Sacred Beast Robe{nl}Armor Defense +46{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -961,9 +961,9 @@
    "addr": "0xE4C9",
    "size": 12,
    "jp": "ぼうごふく{nl}鎧・53{end}",
-   "en": "",
+   "en": "Protective Garb{nl}Armor Defense +53{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -972,9 +972,9 @@
    "addr": "0xE4D5",
    "size": 37,
    "jp": "れいほうい・ざんこう{nl}鎧・72{nl}光をおびた法衣。法術を防ぐ{end}",
-   "en": "",
+   "en": "Lightslash Robe{nl}Armor Defense +72{nl}A glowing robe that wards off jutsu.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -983,9 +983,9 @@
    "addr": "0xE4FA",
    "size": 16,
    "jp": "せんとうぼうごふく{nl}鎧・90{end}",
-   "en": "",
+   "en": "Heavy Battle Garb{nl}Armor Defense +90{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -994,9 +994,9 @@
    "addr": "0xE50A",
    "size": 16,
    "jp": "せんにょのはごろも{nl}鎧・92{end}",
-   "en": "",
+   "en": "Celestial Raiment{nl}Armor Defense +92{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1005,9 +1005,9 @@
    "addr": "0xE51A",
    "size": 16,
    "jp": "せいほうい・さら{nl}鎧・136{end}",
-   "en": "",
+   "en": "Sacred Sal Robe{nl}Armor Defense +136{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1016,9 +1016,9 @@
    "addr": "0xE52A",
    "size": 15,
    "jp": "ようきのぎょくい{nl}鎧・96{end}",
-   "en": "",
+   "en": "Jade Princess Robe{nl}Armor Defense +96{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1027,9 +1027,9 @@
    "addr": "0xE539",
    "size": 13,
    "jp": "きぬのかたかけ{nl}鎧・1{end}",
-   "en": "",
+   "en": "Silk Mantle{nl}Armor Defense +1{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1038,9 +1038,9 @@
    "addr": "0xE546",
    "size": 13,
    "jp": "てつのよろい{nl}鎧・13{end}",
-   "en": "",
+   "en": "Iron Armor{nl}Armor Defense +13{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1049,9 +1049,9 @@
    "addr": "0xE553",
    "size": 16,
    "jp": "つきかげのよろい{nl}鎧・112{end}",
-   "en": "",
+   "en": "Moonshadow Armor{nl}Armor Defense +112{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1060,9 +1060,9 @@
    "addr": "0xE563",
    "size": 16,
    "jp": "たいようのよろい{nl}鎧・120{end}",
-   "en": "",
+   "en": "Solar Armor{nl}Armor Defense +120{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1071,9 +1071,9 @@
    "addr": "0xE573",
    "size": 15,
    "jp": "ほのおのよろい{nl}鎧・114{end}",
-   "en": "",
+   "en": "Flame Armor{nl}Armor Defense +114{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1082,9 +1082,9 @@
    "addr": "0xE582",
    "size": 16,
    "jp": "らいていのよろい{nl}鎧・128{end}",
-   "en": "",
+   "en": "Thunderlord Armor{nl}Armor Defense +128{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1093,9 +1093,9 @@
    "addr": "0xE592",
    "size": 35,
    "jp": "たしゅくるがんのよろい{nl}鎧・164{nl}古代文明の作りし鎧{end}",
-   "en": "",
+   "en": "Tashkurgan Armor{nl}Armor Defense +164{nl}Armor forged by an ancient civilization.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1423,9 +1423,9 @@
    "addr": "0xE5B5",
    "size": 10,
    "jp": "はちがね{nl}兜・1{end}",
-   "en": "",
+   "en": "Headband{nl}Helm Defense +1{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1434,9 +1434,9 @@
    "addr": "0xE5BF",
    "size": 9,
    "jp": "かぶと{nl}兜・3{end}",
-   "en": "",
+   "en": "Helm{nl}Helm Defense +3{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1445,9 +1445,9 @@
    "addr": "0xE5C8",
    "size": 11,
    "jp": "てつのめん{nl}兜・4{end}",
-   "en": "",
+   "en": "Iron Mask{nl}Helm Defense +4{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1456,9 +1456,9 @@
    "addr": "0xE5D3",
    "size": 13,
    "jp": "てっしのずきん{nl}兜・6{end}",
-   "en": "",
+   "en": "Ironweave Hood{nl}Helm Defense +6{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1467,9 +1467,9 @@
    "addr": "0xE5E0",
    "size": 30,
    "jp": "はじゃのあみがさ{nl}兜・10{nl}法術をほどこした編笠{end}",
-   "en": "",
+   "en": "Warded Straw Hat{nl}Helm Defense +10{nl}A woven hat inscribed with jutsu wards.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1478,9 +1478,9 @@
    "addr": "0xE5FE",
    "size": 14,
    "jp": "はがねのかぶと{nl}兜・20{end}",
-   "en": "",
+   "en": "Steel Helm{nl}Helm Defense +20{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1489,9 +1489,9 @@
    "addr": "0xE60C",
    "size": 14,
    "jp": "きじんのかぶと{nl}兜・26{end}",
-   "en": "",
+   "en": "Demon God Helm{nl}Helm Defense +26{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1500,9 +1500,9 @@
    "addr": "0xE61A",
    "size": 34,
    "jp": "かじんのかぶと{nl}兜・51{nl}炎に守られた兜。冷気を防ぐ{end}",
-   "en": "",
+   "en": "Fire God Helm{nl}Helm Defense +51{nl}A flame-guarded helm. Wards off cold.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1511,9 +1511,9 @@
    "addr": "0xE63C",
    "size": 33,
    "jp": "かいじんのかぶと{nl}兜・55{nl}氷に守られた兜。炎を防ぐ{end}",
-   "en": "",
+   "en": "Sea God Helm{nl}Helm Defense +55{nl}An ice-guarded helm. Wards off flame.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1522,9 +1522,9 @@
    "addr": "0xE65D",
    "size": 33,
    "jp": "ふうじんのかぶと{nl}兜・58{nl}気を操る兜。法術を防ぐ{end}",
-   "en": "",
+   "en": "Wind God Helm{nl}Helm Defense +58{nl}A ki-channeling helm. Wards off jutsu.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1533,9 +1533,9 @@
    "addr": "0xE67E",
    "size": 28,
    "jp": "らいていのかぶと{nl}兜・62{nl}全ての雷をはね返す{end}",
-   "en": "",
+   "en": "Thunderlord Helm{nl}Helm Defense +62{nl}Deflects every strike of lightning.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1544,9 +1544,9 @@
    "addr": "0xE69A",
    "size": 25,
    "jp": "ぎんのくし{nl}兜・16{nl}霊的な加護がある{end}",
-   "en": "",
+   "en": "Silver Comb{nl}Helm Defense +16{nl}Carries a spiritual blessing.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1555,9 +1555,9 @@
    "addr": "0xE6B3",
    "size": 17,
    "jp": "ほうじゅのかみかざり{nl}兜・32{end}",
-   "en": "",
+   "en": "Mystic Hairpin{nl}Helm Defense +32{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1566,9 +1566,9 @@
    "addr": "0xE6C4",
    "size": 35,
    "jp": "きりんのたてがみ{nl}兜・40{nl}聖獣の力により法術から護る{end}",
-   "en": "",
+   "en": "Kirin's Mane{nl}Helm Defense +40{nl}Sacred beast power wards off jutsu.{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1577,9 +1577,9 @@
    "addr": "0xE6E7",
    "size": 14,
    "jp": "いかりのかぶと{nl}兜・22{end}",
-   "en": "",
+   "en": "Helm of Wrath{nl}Helm Defense +22{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1588,9 +1588,9 @@
    "addr": "0xE6F5",
    "size": 14,
    "jp": "ちょうのかめん{nl}兜・25{end}",
-   "en": "",
+   "en": "Butterfly Mask{nl}Helm Defense +25{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1599,9 +1599,9 @@
    "addr": "0xE703",
    "size": 14,
    "jp": "のろいのめん{nl}兜・ー10{end}",
-   "en": "",
+   "en": "Cursed Mask{nl}Helm Defense -10{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2127,9 +2127,9 @@
    "addr": "0xE711",
    "size": 10,
    "jp": "てっこう{nl}防・3{end}",
-   "en": "",
+   "en": "Gauntlets{nl}Defense +3{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2138,9 +2138,9 @@
    "addr": "0xE71B",
    "size": 16,
    "jp": "りゅうこつのてっこう{nl}防・6{end}",
-   "en": "",
+   "en": "Dragonbone Guards{nl}Defense +6{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2149,9 +2149,9 @@
    "addr": "0xE72B",
    "size": 14,
    "jp": "れいもうのうでわ{nl}防・9{end}",
-   "en": "",
+   "en": "Spirit-Fur Bangle{nl}Defense +9{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2160,9 +2160,9 @@
    "addr": "0xE739",
    "size": 16,
    "jp": "せいじゃくのうでわ{nl}防・13{end}",
-   "en": "",
+   "en": "Stillness Bangle{nl}Defense +13{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2171,9 +2171,9 @@
    "addr": "0xE749",
    "size": 13,
    "jp": "ふうまのこて{nl}防・16{end}",
-   "en": "",
+   "en": "Demonseal Bracers{nl}Defense +16{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2182,9 +2182,9 @@
    "addr": "0xE756",
    "size": 14,
    "jp": "ひかりのうでわ{nl}防・20{end}",
-   "en": "",
+   "en": "Bracelet of Light{nl}Defense +20{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2193,9 +2193,9 @@
    "addr": "0xE764",
    "size": 12,
    "jp": "こむのこて{nl}防・28{end}",
-   "en": "",
+   "en": "Void Bracers{nl}Defense +28{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2204,9 +2204,9 @@
    "addr": "0xE770",
    "size": 15,
    "jp": "こうてつてっこう{nl}防・38{end}",
-   "en": "",
+   "en": "Steel Gauntlets{nl}Defense +38{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2215,9 +2215,9 @@
    "addr": "0xE77F",
    "size": 17,
    "jp": "しゅれいのけっしょう{nl}防・24{end}",
-   "en": "",
+   "en": "Spirit-Guard Ward{nl}Defense +24{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2226,9 +2226,9 @@
    "addr": "0xE790",
    "size": 18,
    "jp": "おんみょうのけっしょう{nl}防・37{end}",
-   "en": "",
+   "en": "Yin-Yang Ward{nl}Defense +37{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2237,9 +2237,9 @@
    "addr": "0xE7A2",
    "size": 16,
    "jp": "てんちのけっしょう{nl}防・40{end}",
-   "en": "",
+   "en": "Heaven-Earth Ward{nl}Defense +40{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2248,9 +2248,9 @@
    "addr": "0xE7B2",
    "size": 10,
    "jp": "おまもり{nl}防・1{end}",
-   "en": "",
+   "en": "Charm{nl}Defense +1{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2259,9 +2259,9 @@
    "addr": "0xE7BC",
    "size": 18,
    "jp": "あまてらすのけっしょう{nl}防・32{end}",
-   "en": "",
+   "en": "Amaterasu Ward{nl}Defense +32{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2270,9 +2270,9 @@
    "addr": "0xE7CE",
    "size": 17,
    "jp": "りゅうもんのおまもり{nl}防・28{end}",
-   "en": "",
+   "en": "Dragon Gate Charm{nl}Defense +28{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2281,9 +2281,9 @@
    "addr": "0xE7DF",
    "size": 15,
    "jp": "たいじゅのみふだ{nl}防・34{end}",
-   "en": "",
+   "en": "Curse-Ward Seal{nl}Defense +34{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2292,9 +2292,9 @@
    "addr": "0xE7EE",
    "size": 14,
    "jp": "てつのてっこう{nl}防・20{end}",
-   "en": "",
+   "en": "Iron Gauntlets{nl}Defense +20{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2303,9 +2303,9 @@
    "addr": "0xE7FC",
    "size": 16,
    "jp": "げっこうのてっこう{nl}防・43{end}",
-   "en": "",
+   "en": "Moonlight Gauntlets{nl}Defense +43{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2314,9 +2314,9 @@
    "addr": "0xE80C",
    "size": 13,
    "jp": "さらのうでわ{nl}防・47{end}",
-   "en": "",
+   "en": "Sal-Tree Bangle{nl}Defense +47{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2325,9 +2325,9 @@
    "addr": "0xE819",
    "size": 15,
    "jp": "えんごくのうでわ{nl}防・50{end}",
-   "en": "",
+   "en": "Hellfire Bracelet{nl}Defense +50{end}",
    "box": "equip_desc",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   }
  ]

@@ -48,7 +48,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 緒方義之 | Yoshiyuki Ogata | | Lord of Tanabe | |
 | 義之 | Yoshiyuki | | Short reference | |
 | 宮緒 | Miyao | | Dewa Sanzan Elder | |
-| 孫ベエ | Magobee | | Blacksmith / artisan | |
+| 孫ベエ | Magobee | | Harutsugu Nikaido's loyal retainer (saved Lady Shino) | |
 | 二海堂春次 | Harutsugu Nikaido | | Act 1 antagonist | |
 | 春次 | Harutsugu | | Short reference | |
 | 麗花 | Reika | | Meisa's true Dunhuang name (do NOT spoil early) | |
@@ -59,7 +59,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 兵馬 | Hyoma | | Allied fighter | |
 | 宗忠 | Munetada | | Allied lord / retainer | |
 | マヤコ | Mayako | | NPC character | |
-| 四界皇帝 | Emperor of the Four Realms | | Final overlord sealed beneath Magic Palace | Four Worlds Emperor |
+| 四界皇帝 | Emperor of the Four Realms / Four Realms Emperor | | Final overlord sealed beneath Magic Palace (`Four Realms Emperor` in fixed 120px battle enemy window) | Four Worlds Emperor |
 | 四界将 | Four Realm Generals / Four Realm General | | Four commanders of the Curse Realm Sect | Four Worlds Generals |
 | 呪魂 | Jugon | | General of the Curse Realm (canon reading ジュゴン) | Jukon |
 | 武克 | Bukoku | | General of the Demon-Beast Realm | |
@@ -161,6 +161,24 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 平泉 | Hiraizumi | | Historical site of Yoshitsune's supposed death | |
 | 開京 | Kaesong | 28ch | Goryeo capital on port map | |
 | 蝦夷 | Ezo | | Northern island (Hokkaido) | |
+| 田辺 | Tanabe | 28ch | Wakayama port town ruled by Yoshiyuki Ogata | |
+| 佐渡 | Sado Island / Sado | 28ch | Island where Enjo schemes (`Sado Island` on banner) | |
+| 長門 | Nagato | 28ch | Home province of Mikage and Tokoyo | |
+| 出雲 | Izumo | 28ch | Province with Old Temple (`出雲の古寺`) | |
+| 安芸 | Aki | 28ch | Western Honshu province | |
+| 三河 | Mikawa | 28ch | Eastern Tokaido province | |
+| 薩摩 | Satsuma | 28ch | Southern Kyushu domain | |
+| 桜島城砦 | Sakurajima Fortress | 28ch | Volcanic island stronghold in Satsuma | |
+| 桜島 | Sakurajima | 28ch | Volcanic island off Satsuma | |
+| 虚虫洞 | Kochudo Cavern | 28ch | Hidden cavern beneath Kuroba Shrine (canon furigana こちゅうどう) | Kyochu |
+| 箱根の関所 | Hakone Checkpoint | 28ch | Guarded pass east toward Kamakura | |
+| 越後屋 | Echigoya | 28ch | Frontier trading house | |
+| 長城遺跡 | Great Wall Ruins | 28ch | Ancient Great Wall dungeon | |
+| 魔鬼谷 | Demon Valley | 28ch | Valley dungeon west on the Silk Road | |
+| 男鹿村 | Oga Village | 28ch | Northern Honshu village | |
+| 能登の漁村 | Noto Fishing Village | 28ch | Coastal village in Noto | |
+| 近江守護 | Omi Guardpost | 28ch | Shugo checkpoint in Omi | |
+| 風と共にあゆむ泉 | Spring Walking with the Wind | 28ch | Desert oasis spring on the Silk Road | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
@@ -189,6 +207,33 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 破封の鍵 | Sealbreaker Key | 96px | Key item | |
 | 月光灯 | Moonlight Lantern | 96px | Key item | |
 | 月影の馬 | Moonshadow Steed | 96px | Key item | |
+| 金剛剣・鬼龍 / 金剛剣鬼龍 | Vajra Blade Kiryu | 96px | Sacred dragon-fang katana | |
+| 聖王剣・紫苑 | Sacred King Shion | 96px | Sacred blade (`tbl_equip`) | |
+| 帝釈剣・朱雀 | Indra Blade Suzaku | 96px | Sacred blade (`tbl_equip`) | |
+| 讐聖剣・麗鳳 | Holy Avenger Reiho | 96px | Sacred blade (`tbl_equip`) | |
+| 天昇流舞の書 | Sky-Dance Tome | 96px | Key scroll (`天昇流舞` chant -> `Sky-Dance`) | |
+| 夢操の回鏡 | Dream Mirror | 96px | Key relic | |
+| あやかしの風鈴 | Eerie Windchime | 96px | Key relic | |
+| 泣き蛇の鈴 | Weeping Snake Bell | 96px | Key relic | |
+| 割り札 | Wooden Tally | 96px | Guard tally pass | |
+| 隠し扉の合鍵 | Hidden Door Key | 96px | Key item | |
+| 皇家の紋章 | Imperial Crest | 96px | Royal emblem key item | |
+| 通行証 | Travel Pass | 96px | Border checkpoint pass | |
+| 封魔香 | Sealing Incense | 96px | Repels weaker encounters (`1D_ACE1` + `tbl_items_003`) | Ward Incense |
+| 聖踏 | Sacred Step | 72px | Sanctuary step jutsu (`1D_ACF1` + `tbl_jutsu_027`) | |
+| 加聖踏 | Sacred Dash | 72px | Upgraded Sanctuary jutsu (`1D_ACFD` + `tbl_jutsu_028`) | |
+| 魔破渦 | Whirlwind | 72px | High wind jutsu | |
+| 魔破 | Gale | 72px | Base wind jutsu | |
+| 冷破陣 | Blizzard | 72px | High ice jutsu | |
+| 冷鎖 | Frost | 72px | Base ice jutsu | |
+| 軌炎陣 | Inferno | 72px | High fire jutsu | |
+| 軌炎 | Blaze | 72px | Base fire jutsu | |
+| 翔雷 | Thunder | 72px | Base lightning jutsu | |
+| 散豪雷 | Lightning | 72px | Multi-target lightning jutsu | |
+| 刺光破 | Lightlance | 72px | Holy light jutsu | |
+| 裂光斬 | Holy Slash | 72px | Light slash jutsu | |
+| 太極壊 | Void Rift | 72px | Ultimate dark/void jutsu | |
+| 火龍裂光陣 | Dragon Flare | 72px | Ultimate dragon-fire jutsu | |
 | 式符 | Talisman / Talismans | 96px | Consumable paper ward | Shikifu |
 | 沙羅双樹 | Twin Sal Trees | | Bridge linking the two otherworlds | |
 | 文永の役 | Bun'ei Campaign | | 1274 first Mongol invasion of Japan | |
@@ -196,4 +241,4 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 麒鱗 | Kirin | | Mythic sacred beast summoned by Himiko | |
 
 ## Decisions from earlier batches
-- (Updated 2026-11-20: initial glossary seeded from verified ROM extraction and pilot survey.)
+- (Updated 2026-11-20: Wave 1a locked sacred gear, key items, attack/sanctuary jutsu, and named places.)

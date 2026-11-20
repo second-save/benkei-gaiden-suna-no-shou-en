@@ -12,9 +12,9 @@
    "addr": "0xC2D1",
    "size": 15,
    "jp": "弁慶外伝 沙の章{end}",
-   "en": "",
+   "en": "Benkei Gaiden: Suna no Shou{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -22,9 +22,9 @@
    "addr": "0xC2E0",
    "size": 18,
    "jp": "1モ   2モ   ヨコ   タテ{end}",
-   "en": "",
+   "en": "Mode1  Mode2  Horiz  Vert{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -32,9 +32,9 @@
    "addr": "0xC2F2",
    "size": 10,
    "jp": "しょうがいチェック{end}",
-   "en": "",
+   "en": "Obstacle Check{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -42,9 +42,9 @@
    "addr": "0xC2FC",
    "size": 9,
    "jp": "人物チェック{end}",
-   "en": "",
+   "en": "NPC Check{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -52,9 +52,9 @@
    "addr": "0xC305",
    "size": 7,
    "jp": "敵チェック{end}",
-   "en": "",
+   "en": "Enemy Check{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -62,9 +62,9 @@
    "addr": "0xC30C",
    "size": 5,
    "jp": "サウンド{end}",
-   "en": "",
+   "en": "Sound{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -72,9 +72,9 @@
    "addr": "0xC311",
    "size": 6,
    "jp": "こうかおん{end}",
-   "en": "",
+   "en": "Sound Effects{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -82,9 +82,9 @@
    "addr": "0xC317",
    "size": 6,
    "jp": "ステータス{end}",
-   "en": "",
+   "en": "Status{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -92,9 +92,9 @@
    "addr": "0xC31D",
    "size": 4,
    "jp": "おわり{end}",
-   "en": "",
+   "en": "Exit{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -102,9 +102,9 @@
    "addr": "0xC321",
    "size": 3,
    "jp": "有{end}",
-   "en": "",
+   "en": "On{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -112,9 +112,9 @@
    "addr": "0xC324",
    "size": 3,
    "jp": "無{end}",
-   "en": "",
+   "en": "Off{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -122,9 +122,9 @@
    "addr": "0xC327",
    "size": 5,
    "jp": " 力 {end}",
-   "en": "",
+   "en": "Status{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -182,9 +182,9 @@
    "addr": "0xC345",
    "size": 7,
    "jp": "作成中{end}",
-   "en": "",
+   "en": "In Progress{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -262,9 +262,9 @@
    "addr": "0xC37D",
    "size": 5,
    "jp": "説明{end}",
-   "en": "",
+   "en": "Details{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -272,9 +272,9 @@
    "addr": "0xC382",
    "size": 7,
    "jp": "入れ替え{end}",
-   "en": "",
+   "en": "Swap{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -282,9 +282,9 @@
    "addr": "0xC389",
    "size": 4,
    "jp": "すてる{end}",
-   "en": "",
+   "en": "Drop{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -292,9 +292,9 @@
    "addr": "0xC38D",
    "size": 4,
    "jp": "買う{end}",
-   "en": "",
+   "en": "Buy{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -302,9 +302,9 @@
    "addr": "0xC391",
    "size": 4,
    "jp": "売る{end}",
-   "en": "",
+   "en": "Sell{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -402,9 +402,9 @@
    "addr": "0xC3D3",
    "size": 4,
    "jp": "モード{end}",
-   "en": "",
+   "en": "Mode{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -412,9 +412,9 @@
    "addr": "0xC3D7",
    "size": 5,
    "jp": "スピード{end}",
-   "en": "",
+   "en": "Speed{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -422,9 +422,9 @@
    "addr": "0xC3DC",
    "size": 4,
    "jp": "使う{end}",
-   "en": "",
+   "en": "Use{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -432,9 +432,9 @@
    "addr": "0xC3E0",
    "size": 19,
    "jp": "レベル   体力    法力{end}",
-   "en": "",
+   "en": "Lv          HP             MP{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -452,9 +452,9 @@
    "addr": "0xC3F5",
    "size": 10,
    "jp": "／       ／{end}",
-   "en": "",
+   "en": "/               /{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -472,9 +472,9 @@
    "addr": "0xC407",
    "size": 10,
    "jp": "キャラクタチェック{end}",
-   "en": "",
+   "en": "Character Check{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -502,9 +502,9 @@
    "addr": "0xC417",
    "size": 4,
    "jp": "武：{end}",
-   "en": "",
+   "en": "Weapon:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -512,9 +512,9 @@
    "addr": "0xC41B",
    "size": 4,
    "jp": "鎧：{end}",
-   "en": "",
+   "en": "Armor:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -522,9 +522,9 @@
    "addr": "0xC41F",
    "size": 4,
    "jp": "兜：{end}",
-   "en": "",
+   "en": "Helm:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -532,9 +532,9 @@
    "addr": "0xC423",
    "size": 4,
    "jp": "防：{end}",
-   "en": "",
+   "en": "Shield:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -632,9 +632,9 @@
    "addr": "0xC451",
    "size": 16,
    "jp": " あ  い  う  え  お {end}",
-   "en": "",
+   "en": "{pad}A{pad}{pad}B{pad}{pad}C{pad}{pad}D{pad}{pad}E{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -642,9 +642,9 @@
    "addr": "0xC461",
    "size": 16,
    "jp": " か  き  く  け  こ {end}",
-   "en": "",
+   "en": "{pad}F{pad}{pad}G{pad}{pad}H{pad}{pad}I{pad}{pad}J{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -652,9 +652,9 @@
    "addr": "0xC471",
    "size": 16,
    "jp": " さ  し  す  せ  そ {end}",
-   "en": "",
+   "en": "{pad}K{pad}{pad}L{pad}{pad}M{pad}{pad}N{pad}{pad}O{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -662,9 +662,9 @@
    "addr": "0xC481",
    "size": 16,
    "jp": " た  ち  つ  て  と {end}",
-   "en": "",
+   "en": "{pad}P{pad}{pad}Q{pad}{pad}R{pad}{pad}S{pad}{pad}T{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -672,9 +672,9 @@
    "addr": "0xC491",
    "size": 16,
    "jp": " な  に  ぬ  ね  の {end}",
-   "en": "",
+   "en": "{pad}U{pad}{pad}V{pad}{pad}W{pad}{pad}X{pad}{pad}Y{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -682,9 +682,9 @@
    "addr": "0xC4A1",
    "size": 16,
    "jp": " は  ひ  ふ  へ  ほ {end}",
-   "en": "",
+   "en": "{pad}Z{pad}{pad}-{pad}{pad}'{pad}{pad}.{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -692,9 +692,9 @@
    "addr": "0xC4B1",
    "size": 16,
    "jp": " ま  み  む  め  も {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -702,9 +702,9 @@
    "addr": "0xC4C1",
    "size": 16,
    "jp": " や     ゆ     よ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -712,9 +712,9 @@
    "addr": "0xC4D1",
    "size": 16,
    "jp": " ら  り  る  れ  ろ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -722,9 +722,9 @@
    "addr": "0xC4E1",
    "size": 16,
    "jp": " わ     を     ん {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -732,9 +732,9 @@
    "addr": "0xC4F1",
    "size": 16,
    "jp": " が  ぎ  ぐ  げ  ご {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -742,9 +742,9 @@
    "addr": "0xC501",
    "size": 16,
    "jp": " ざ  じ  ず  ぜ  ぞ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -752,9 +752,9 @@
    "addr": "0xC511",
    "size": 16,
    "jp": " だ  ぢ  づ  で  ど {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -762,9 +762,9 @@
    "addr": "0xC521",
    "size": 16,
    "jp": " ば  び  ぶ  べ  ぼ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -772,9 +772,9 @@
    "addr": "0xC531",
    "size": 16,
    "jp": " ぱ  ぴ  ぷ  ぺ  ぽ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -782,9 +782,9 @@
    "addr": "0xC541",
    "size": 16,
    "jp": " ぁ  ぃ  ぅ  ぇ  ぉ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -792,9 +792,9 @@
    "addr": "0xC551",
    "size": 16,
    "jp": " っ  ゃ  ゅ  ょ    {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -802,9 +802,9 @@
    "addr": "0xC561",
    "size": 16,
    "jp": " ア  イ  ウ  エ  オ {end}",
-   "en": "",
+   "en": "{pad}a{pad}{pad}b{pad}{pad}c{pad}{pad}d{pad}{pad}e{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -812,9 +812,9 @@
    "addr": "0xC571",
    "size": 16,
    "jp": " カ  キ  ク  ケ  コ {end}",
-   "en": "",
+   "en": "{pad}f{pad}{pad}g{pad}{pad}h{pad}{pad}i{pad}{pad}j{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -822,9 +822,9 @@
    "addr": "0xC581",
    "size": 16,
    "jp": " サ  シ  ス  セ  ソ {end}",
-   "en": "",
+   "en": "{pad}k{pad}{pad}l{pad}{pad}m{pad}{pad}n{pad}{pad}o{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -832,9 +832,9 @@
    "addr": "0xC591",
    "size": 16,
    "jp": " タ  チ  ツ  テ  ト {end}",
-   "en": "",
+   "en": "{pad}p{pad}{pad}q{pad}{pad}r{pad}{pad}s{pad}{pad}t{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -842,9 +842,9 @@
    "addr": "0xC5A1",
    "size": 16,
    "jp": " ナ  ニ  ヌ  ネ  ノ {end}",
-   "en": "",
+   "en": "{pad}u{pad}{pad}v{pad}{pad}w{pad}{pad}x{pad}{pad}y{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -852,9 +852,9 @@
    "addr": "0xC5B1",
    "size": 16,
    "jp": " ハ  ヒ  フ  ヘ  ホ {end}",
-   "en": "",
+   "en": "{pad}z{pad}{pad}-{pad}{pad}'{pad}{pad}.{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -862,9 +862,9 @@
    "addr": "0xC5C1",
    "size": 16,
    "jp": " マ  ミ  ム  メ  モ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -872,9 +872,9 @@
    "addr": "0xC5D1",
    "size": 16,
    "jp": " ヤ     ユ     ヨ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -882,9 +882,9 @@
    "addr": "0xC5E1",
    "size": 16,
    "jp": " ラ  リ  ル  レ  ロ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -892,9 +892,9 @@
    "addr": "0xC5F1",
    "size": 16,
    "jp": " ワ     ヲ     ン {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -902,9 +902,9 @@
    "addr": "0xC601",
    "size": 16,
    "jp": " ガ  ギ  グ  ゲ  ゴ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -912,9 +912,9 @@
    "addr": "0xC611",
    "size": 16,
    "jp": " ザ  ジ  ズ  ゼ  ゾ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -922,9 +922,9 @@
    "addr": "0xC621",
    "size": 16,
    "jp": " ダ  ヂ  ヅ  デ  ド {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -932,9 +932,9 @@
    "addr": "0xC631",
    "size": 16,
    "jp": " バ  ビ  ブ  ベ  ボ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -942,9 +942,9 @@
    "addr": "0xC641",
    "size": 16,
    "jp": " パ  ピ  プ  ペ  ポ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -952,9 +952,9 @@
    "addr": "0xC651",
    "size": 16,
    "jp": " ァ  ィ  ゥ  ェ  ォ {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -962,9 +962,9 @@
    "addr": "0xC661",
    "size": 16,
    "jp": " ッ  ャ  ュ  ョ    {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -972,9 +972,9 @@
    "addr": "0xC671",
    "size": 16,
    "jp": " 0  1  2  3  4 {end}",
-   "en": "",
+   "en": "{pad}0{pad}{pad}1{pad}{pad}2{pad}{pad}3{pad}{pad}4{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -982,9 +982,9 @@
    "addr": "0xC681",
    "size": 16,
    "jp": " 5  6  7  8  9 {end}",
-   "en": "",
+   "en": "{pad}5{pad}{pad}6{pad}{pad}7{pad}{pad}8{pad}{pad}9{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -992,9 +992,9 @@
    "addr": "0xC691",
    "size": 16,
    "jp": "    ！  ？  ：  ー {end}",
-   "en": "",
+   "en": "{pad}{pad}{pad}{pad}!{pad}{pad}?{pad}{pad}:{pad}{pad}-{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1002,9 +1002,9 @@
    "addr": "0xC6A1",
    "size": 16,
    "jp": " ＼  ／  。  、  ・ {end}",
-   "en": "",
+   "en": "{pad}/{pad}{pad}.{pad}{pad},{pad}{pad}'{pad}{pad}\"{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1012,9 +1012,9 @@
    "addr": "0xC6B1",
    "size": 16,
    "jp": " ’  「  」  （  ） {end}",
-   "en": "",
+   "en": "{pad}({pad}{pad}){pad}{pad}+{pad}{pad}&{pad}{pad}{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1022,9 +1022,9 @@
    "addr": "0xC6C1",
    "size": 5,
    "jp": "ひらがな{end}",
-   "en": "",
+   "en": "UPPER{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1032,9 +1032,9 @@
    "addr": "0xC6C6",
    "size": 5,
    "jp": "カタカナ{end}",
-   "en": "",
+   "en": "lower{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1042,9 +1042,9 @@
    "addr": "0xC6CB",
    "size": 5,
    "jp": "記号{end}",
-   "en": "",
+   "en": "123/#{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1052,9 +1052,9 @@
    "addr": "0xC6D0",
    "size": 5,
    "jp": "漢字{end}",
-   "en": "",
+   "en": "Kanji{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1062,9 +1062,9 @@
    "addr": "0xC6D5",
    "size": 5,
    "jp": "作字{end}",
-   "en": "",
+   "en": "Custom{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1072,9 +1072,9 @@
    "addr": "0xC6DA",
    "size": 4,
    "jp": " 終{end}",
-   "en": "",
+   "en": "Done{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1082,9 +1082,9 @@
    "addr": "0xC6DE",
    "size": 7,
    "jp": "全消去{end}",
-   "en": "",
+   "en": "Clear{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1092,9 +1092,9 @@
    "addr": "0xC6E5",
    "size": 7,
    "jp": "初期化{end}",
-   "en": "",
+   "en": "Reset{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1102,9 +1102,9 @@
    "addr": "0xC6EC",
    "size": 5,
    "jp": "設定{end}",
-   "en": "",
+   "en": "Settings{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1112,9 +1112,9 @@
    "addr": "0xC6F1",
    "size": 5,
    "jp": "文章{end}",
-   "en": "",
+   "en": "Text{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1122,9 +1122,9 @@
    "addr": "0xC6F6",
    "size": 5,
    "jp": "戦闘{end}",
-   "en": "",
+   "en": "Battle{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1132,9 +1132,9 @@
    "addr": "0xC6FB",
    "size": 5,
    "jp": "音楽{end}",
-   "en": "",
+   "en": "Music{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1142,9 +1142,9 @@
    "addr": "0xC700",
    "size": 5,
    "jp": "背色{end}",
-   "en": "",
+   "en": "Backdrop{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1152,9 +1152,9 @@
    "addr": "0xC705",
    "size": 5,
    "jp": "超速{end}",
-   "en": "",
+   "en": "Ultra{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1162,9 +1162,9 @@
    "addr": "0xC70A",
    "size": 3,
    "jp": "速{end}",
-   "en": "",
+   "en": "Fast{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1172,9 +1172,9 @@
    "addr": "0xC70D",
    "size": 3,
    "jp": "中{end}",
-   "en": "",
+   "en": "Mid{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1182,9 +1182,9 @@
    "addr": "0xC710",
    "size": 3,
    "jp": "遅{end}",
-   "en": "",
+   "en": "Slow{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1192,9 +1192,9 @@
    "addr": "0xC713",
    "size": 5,
    "jp": "極遅{end}",
-   "en": "",
+   "en": "Crawl{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1202,9 +1202,9 @@
    "addr": "0xC718",
    "size": 3,
    "jp": "動{end}",
-   "en": "",
+   "en": "Active{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1212,9 +1212,9 @@
    "addr": "0xC71B",
    "size": 3,
    "jp": "文{end}",
-   "en": "",
+   "en": "Text{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1222,9 +1222,9 @@
    "addr": "0xC71E",
    "size": 3,
    "jp": "双{end}",
-   "en": "",
+   "en": "Stereo{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1232,9 +1232,9 @@
    "addr": "0xC721",
    "size": 3,
    "jp": "一{end}",
-   "en": "",
+   "en": "Mono{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1242,9 +1242,9 @@
    "addr": "0xC724",
    "size": 3,
    "jp": "赤{end}",
-   "en": "",
+   "en": "Red{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1252,9 +1252,9 @@
    "addr": "0xC727",
    "size": 3,
    "jp": "緑{end}",
-   "en": "",
+   "en": "Green{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1262,9 +1262,9 @@
    "addr": "0xC72A",
    "size": 3,
    "jp": "青{end}",
-   "en": "",
+   "en": "Blue{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1272,9 +1272,9 @@
    "addr": "0xC72D",
    "size": 9,
    "jp": "経過時間{end}",
-   "en": "",
+   "en": "Play Time{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1282,9 +1282,9 @@
    "addr": "0xC736",
    "size": 10,
    "jp": "時間   分{end}",
-   "en": "",
+   "en": "Hrs      Min{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1292,9 +1292,9 @@
    "addr": "0xC740",
    "size": 5,
    "jp": "文字{end}",
-   "en": "",
+   "en": "Letters{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1302,9 +1302,9 @@
    "addr": "0xC745",
    "size": 7,
    "jp": "弁2フラグ{end}",
-   "en": "",
+   "en": "Ben2 Flags{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1312,9 +1312,9 @@
    "addr": "0xC74C",
    "size": 6,
    "jp": "武フラグ{end}",
-   "en": "",
+   "en": "Weapon Flags{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1322,9 +1322,9 @@
    "addr": "0xC752",
    "size": 6,
    "jp": "物フラグ{end}",
-   "en": "",
+   "en": "Item Flags{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1332,9 +1332,9 @@
    "addr": "0xC758",
    "size": 24,
    "jp": "名気体力法力経験値呪レベル{end}",
-   "en": "",
+   "en": "Name Ki HP MP EXP Curse Lv{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1342,9 +1342,9 @@
    "addr": "0xC770",
    "size": 17,
    "jp": " 0 1 2 3 4 5 6 7{end}",
-   "en": "",
+   "en": " 0 1 2 3 4 5 6 7{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1352,9 +1352,9 @@
    "addr": "0xC781",
    "size": 3,
    "jp": "00{end}",
-   "en": "",
+   "en": "00{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1362,9 +1362,9 @@
    "addr": "0xC784",
    "size": 3,
    "jp": "04{end}",
-   "en": "",
+   "en": "04{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1372,9 +1372,9 @@
    "addr": "0xC787",
    "size": 3,
    "jp": "08{end}",
-   "en": "",
+   "en": "08{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1382,9 +1382,9 @@
    "addr": "0xC78A",
    "size": 3,
    "jp": "0C{end}",
-   "en": "",
+   "en": "0C{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1392,9 +1392,9 @@
    "addr": "0xC78D",
    "size": 3,
    "jp": "10{end}",
-   "en": "",
+   "en": "10{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1402,9 +1402,9 @@
    "addr": "0xC790",
    "size": 3,
    "jp": "14{end}",
-   "en": "",
+   "en": "14{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1412,9 +1412,9 @@
    "addr": "0xC793",
    "size": 3,
    "jp": "18{end}",
-   "en": "",
+   "en": "18{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1422,9 +1422,9 @@
    "addr": "0xC796",
    "size": 3,
    "jp": "1C{end}",
-   "en": "",
+   "en": "1C{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1432,9 +1432,9 @@
    "addr": "0xC799",
    "size": 5,
    "jp": "マンラム{end}",
-   "en": "",
+   "en": "Main RAM{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1442,9 +1442,9 @@
    "addr": "0xC79E",
    "size": 5,
    "jp": "メンバー{end}",
-   "en": "",
+   "en": "Members{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1472,9 +1472,9 @@
    "addr": "0xC7AF",
    "size": 6,
    "jp": "記録1{end}",
-   "en": "",
+   "en": "File 1{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1482,9 +1482,9 @@
    "addr": "0xC7B5",
    "size": 6,
    "jp": "記録2{end}",
-   "en": "",
+   "en": "File 2{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1492,9 +1492,9 @@
    "addr": "0xC7BB",
    "size": 6,
    "jp": "記録3{end}",
-   "en": "",
+   "en": "File 3{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1502,9 +1502,9 @@
    "addr": "0xC7C1",
    "size": 4,
    "jp": "セーブ{end}",
-   "en": "",
+   "en": "Save{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1512,9 +1512,9 @@
    "addr": "0xC7C5",
    "size": 3,
    "jp": "男{end}",
-   "en": "",
+   "en": "Male{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1522,9 +1522,9 @@
    "addr": "0xC7C8",
    "size": 3,
    "jp": "女{end}",
-   "en": "",
+   "en": "Female{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1532,9 +1532,9 @@
    "addr": "0xC7CB",
    "size": 3,
    "jp": "にて{end}",
-   "en": "",
+   "en": "at{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1542,9 +1542,9 @@
    "addr": "0xC7CE",
    "size": 5,
    "jp": "片手{end}",
-   "en": "",
+   "en": "One-Hand{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1552,9 +1552,9 @@
    "addr": "0xC7D3",
    "size": 3,
    "jp": " ー{end}",
-   "en": "",
+   "en": " --{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1562,9 +1562,9 @@
    "addr": "0xC7D6",
    "size": 5,
    "jp": "（前）{end}",
-   "en": "",
+   "en": "(Prev){end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1572,9 +1572,9 @@
    "addr": "0xC7DB",
    "size": 4,
    "jp": " 1つ{end}",
-   "en": "",
+   "en": "One{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1582,9 +1582,9 @@
    "addr": "0xC7DF",
    "size": 5,
    "jp": "全部{end}",
-   "en": "",
+   "en": "All{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1592,9 +1592,9 @@
    "addr": "0xC7E4",
    "size": 4,
    "jp": " 極{end}",
-   "en": "",
+   "en": "Max{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1602,9 +1602,9 @@
    "addr": "0xC7E8",
    "size": 5,
    "jp": "地図{end}",
-   "en": "",
+   "en": "Map{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1612,9 +1612,9 @@
    "addr": "0xC7ED",
    "size": 2,
    "jp": "あ{end}",
-   "en": "",
+   "en": "A{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1622,9 +1622,9 @@
    "addr": "0xC7EF",
    "size": 11,
    "jp": "      静寂{end}",
-   "en": "",
+   "en": "           Stillness{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1632,9 +1632,9 @@
    "addr": "0xC7FA",
    "size": 11,
    "jp": "      おごそか{end}",
-   "en": "",
+   "en": "          Solemnity{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1642,9 +1642,9 @@
    "addr": "0xC805",
    "size": 14,
    "jp": "  青い空と月の夜{end}",
-   "en": "",
+   "en": "  Blue Sky, Moonlit Night{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1652,9 +1652,9 @@
    "addr": "0xC813",
    "size": 13,
    "jp": "    敵は眼前！{end}",
-   "en": "",
+   "en": "      Foes Before Us!{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1662,9 +1662,9 @@
    "addr": "0xC820",
    "size": 13,
    "jp": "   死闘の主題{end}",
-   "en": "",
+   "en": " Theme of Mortal Combat{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1672,9 +1672,9 @@
    "addr": "0xC82D",
    "size": 11,
    "jp": "     地の底{end}",
-   "en": "",
+   "en": "    Depths of the Earth{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1682,9 +1682,9 @@
    "addr": "0xC838",
    "size": 12,
    "jp": "    天空の城{end}",
-   "en": "",
+   "en": "      Castle in the Sky{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1692,9 +1692,9 @@
    "addr": "0xC844",
    "size": 11,
    "jp": "      呪界{end}",
-   "en": "",
+   "en": "        Curse Realm{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1702,9 +1702,9 @@
    "addr": "0xC84F",
    "size": 11,
    "jp": "      ほのぼの{end}",
-   "en": "",
+   "en": "       Gentle Warmth{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1712,9 +1712,9 @@
    "addr": "0xC85A",
    "size": 15,
    "jp": "  強者どもが夢のあと{end}",
-   "en": "",
+   "en": " Where Warriors Dreamed{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1722,9 +1722,9 @@
    "addr": "0xC869",
    "size": 13,
    "jp": "    広がる世界{end}",
-   "en": "",
+   "en": "      Expanding World{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1732,9 +1732,9 @@
    "addr": "0xC876",
    "size": 12,
    "jp": "     おどりのうた{end}",
-   "en": "",
+   "en": "       Song of Dance{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1742,9 +1742,9 @@
    "addr": "0xC882",
    "size": 13,
    "jp": "   大陸をいこう！{end}",
-   "en": "",
+   "en": "   Across the Continent!{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1752,9 +1752,9 @@
    "addr": "0xC88F",
    "size": 12,
    "jp": "     強敵ども{end}",
-   "en": "",
+   "en": "         Mighty Foes{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1762,9 +1762,9 @@
    "addr": "0xC89B",
    "size": 12,
    "jp": "     四天王{end}",
-   "en": "",
+   "en": "    Four Heavenly Kings{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1772,9 +1772,9 @@
    "addr": "0xC8A7",
    "size": 13,
    "jp": "   平和が一番{end}",
-   "en": "",
+   "en": "       Peace Above All{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1782,9 +1782,9 @@
    "addr": "0xC8B4",
    "size": 13,
    "jp": "   黄河の主題{end}",
-   "en": "",
+   "en": "Theme of the Yellow River{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1792,9 +1792,9 @@
    "addr": "0xC8C1",
    "size": 13,
    "jp": "    聖なる地平{end}",
-   "en": "",
+   "en": "       Sacred Horizon{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1802,9 +1802,9 @@
    "addr": "0xC8CE",
    "size": 17,
    "jp": "雅（みやび）ー日本の美ー{end}",
-   "en": "",
+   "en": "Miyabi -- Beauty of Japan{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1812,9 +1812,9 @@
    "addr": "0xC8DF",
    "size": 14,
    "jp": "  伽ー大陸の心ー{end}",
-   "en": "",
+   "en": " Ka -- Heart of the Land{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1822,9 +1822,9 @@
    "addr": "0xC8ED",
    "size": 14,
    "jp": "   さらば愛しきひとよ{end}",
-   "en": "",
+   "en": "   Farewell, My Beloved{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1832,9 +1832,9 @@
    "addr": "0xC8FB",
    "size": 11,
    "jp": "      試練{end}",
-   "en": "",
+   "en": "          The Trial{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1842,9 +1842,9 @@
    "addr": "0xC906",
    "size": 12,
    "jp": "    呪われし魂{end}",
-   "en": "",
+   "en": "         Cursed Soul{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1852,9 +1852,9 @@
    "addr": "0xC912",
    "size": 12,
    "jp": "     風に語る{end}",
-   "en": "",
+   "en": "   Speaking to the Wind{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1862,9 +1862,9 @@
    "addr": "0xC91E",
    "size": 16,
    "jp": " 大空を舞うとりのように{end}",
-   "en": "",
+   "en": "Like a Bird in the Open Sky{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1872,9 +1872,9 @@
    "addr": "0xC92E",
    "size": 11,
    "jp": "      宝箱{end}",
-   "en": "",
+   "en": "       Treasure Chest{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1882,9 +1882,9 @@
    "addr": "0xC939",
    "size": 15,
    "jp": " 重要アイテムうれしいな{end}",
-   "en": "",
+   "en": "      Joy! A Key Item!{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1892,9 +1892,9 @@
    "addr": "0xC948",
    "size": 11,
    "jp": "      成長{end}",
-   "en": "",
+   "en": "           Level Up{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1902,9 +1902,9 @@
    "addr": "0xC953",
    "size": 10,
    "jp": "      コドウ{end}",
-   "en": "",
+   "en": "          Heartbeat{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1912,9 +1912,9 @@
    "addr": "0xC95D",
    "size": 12,
    "jp": "    水音その1{end}",
-   "en": "",
+   "en": "       Water Sound 1{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1922,9 +1922,9 @@
    "addr": "0xC969",
    "size": 12,
    "jp": "    水音その2{end}",
-   "en": "",
+   "en": "       Water Sound 2{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1932,9 +1932,9 @@
    "addr": "0xC975",
    "size": 12,
    "jp": "    地震その1{end}",
-   "en": "",
+   "en": "        Earthquake 1{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1942,9 +1942,9 @@
    "addr": "0xC981",
    "size": 12,
    "jp": "    地震その2{end}",
-   "en": "",
+   "en": "        Earthquake 2{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1952,9 +1952,9 @@
    "addr": "0xC98D",
    "size": 10,
    "jp": "      勝ち{end}",
-   "en": "",
+   "en": "           Victory{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1962,9 +1962,9 @@
    "addr": "0xC997",
    "size": 11,
    "jp": "      仲間{end}",
-   "en": "",
+   "en": "           New Ally{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1972,9 +1972,9 @@
    "addr": "0xC9A2",
    "size": 12,
    "jp": "      剣技1{end}",
-   "en": "",
+   "en": "        Sword Art 1{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1982,9 +1982,9 @@
    "addr": "0xC9AE",
    "size": 12,
    "jp": "      剣技2{end}",
-   "en": "",
+   "en": "        Sword Art 2{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1992,9 +1992,9 @@
    "addr": "0xC9BA",
    "size": 11,
    "jp": "      必殺{end}",
-   "en": "",
+   "en": "         Critical Hit{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2002,9 +2002,9 @@
    "addr": "0xC9C5",
    "size": 12,
    "jp": "      遁走！{end}",
-   "en": "",
+   "en": "             Flee!{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2012,9 +2012,9 @@
    "addr": "0xC9D1",
    "size": 11,
    "jp": "     ひとやすみ{end}",
-   "en": "",
+   "en": "         Short Rest{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2022,9 +2022,9 @@
    "addr": "0xC9DC",
    "size": 11,
    "jp": "      転移{end}",
-   "en": "",
+   "en": "           Teleport{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2032,9 +2032,9 @@
    "addr": "0xC9E7",
    "size": 13,
    "jp": "    全・滅・・・{end}",
-   "en": "",
+   "en": "     Party Wiped Out...{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2042,9 +2042,9 @@
    "addr": "0xC9F4",
    "size": 14,
    "jp": "   三日月の笛1{end}",
-   "en": "",
+   "en": "      Crescent Flute 1{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2052,9 +2052,9 @@
    "addr": "0xCA02",
    "size": 14,
    "jp": "   三日月の笛2{end}",
-   "en": "",
+   "en": "      Crescent Flute 2{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2062,9 +2062,9 @@
    "addr": "0xCA10",
    "size": 11,
    "jp": "       風1{end}",
-   "en": "",
+   "en": "            Wind 1{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2072,9 +2072,9 @@
    "addr": "0xCA1B",
    "size": 11,
    "jp": "       風2{end}",
-   "en": "",
+   "en": "            Wind 2{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2082,9 +2082,9 @@
    "addr": "0xCA26",
    "size": 12,
    "jp": "    大和の国{end}",
-   "en": "",
+   "en": "      Land of Yamato{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2092,9 +2092,9 @@
    "addr": "0xCA32",
    "size": 13,
    "jp": "   魔物の主題{end}",
-   "en": "",
+   "en": "      Theme of Fiends{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2102,9 +2102,9 @@
    "addr": "0xCA3F",
    "size": 13,
    "jp": "    悪戦苦闘{end}",
-   "en": "",
+   "en": "    Desperate Struggle{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2112,9 +2112,9 @@
    "addr": "0xCA4C",
    "size": 13,
    "jp": "     都（みやこ）{end}",
-   "en": "",
+   "en": "         The Capital{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2122,9 +2122,9 @@
    "addr": "0xCA59",
    "size": 11,
    "jp": "      のんびり{end}",
-   "en": "",
+   "en": "          Carefree{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2132,9 +2132,9 @@
    "addr": "0xCA64",
    "size": 12,
    "jp": "    心の準備{end}",
-   "en": "",
+   "en": "      Steel Your Heart{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2142,9 +2142,9 @@
    "addr": "0xCA70",
    "size": 13,
    "jp": "    わかれの主題{end}",
-   "en": "",
+   "en": "     Theme of Parting{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2152,9 +2152,9 @@
    "addr": "0xCA7D",
    "size": 12,
    "jp": "    過去のこと{end}",
-   "en": "",
+   "en": "       Days Long Past{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2162,9 +2162,9 @@
    "addr": "0xCA89",
    "size": 11,
    "jp": "      洞窟{end}",
-   "en": "",
+   "en": "            Cavern{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2172,9 +2172,9 @@
    "addr": "0xCA94",
    "size": 10,
    "jp": "       塔{end}",
-   "en": "",
+   "en": "            Tower{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2182,9 +2182,9 @@
    "addr": "0xCA9E",
    "size": 10,
    "jp": "       寺{end}",
-   "en": "",
+   "en": "            Temple{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4292,9 +4292,9 @@
    "addr": "0xD7C7",
    "size": 5,
    "jp": "気監{end}",
-   "en": "",
+   "en": "Attack{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4302,9 +4302,9 @@
    "addr": "0xD7CC",
    "size": 5,
    "jp": "いっせい{end}",
-   "en": "",
+   "en": "All-Out{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4312,9 +4312,9 @@
    "addr": "0xD7D1",
    "size": 5,
    "jp": "暗越{end}",
-   "en": "",
+   "en": "Jutsu{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4322,9 +4322,9 @@
    "addr": "0xD7D6",
    "size": 5,
    "jp": "英供{end}",
-   "en": "",
+   "en": "Items{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4332,9 +4332,9 @@
    "addr": "0xD7DB",
    "size": 5,
    "jp": "軌共{end}",
-   "en": "",
+   "en": "Equip{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4342,9 +4342,9 @@
    "addr": "0xD7E0",
    "size": 5,
    "jp": "しゅご {end}",
-   "en": "",
+   "en": "Cover{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4352,9 +4352,9 @@
    "addr": "0xD7E5",
    "size": 5,
    "jp": "ぼうぎょ{end}",
-   "en": "",
+   "en": "Defend{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4362,9 +4362,9 @@
    "addr": "0xD7EA",
    "size": 5,
    "jp": "賀越{end}",
-   "en": "",
+   "en": "Sword{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4372,9 +4372,9 @@
    "addr": "0xD7EF",
    "size": 5,
    "jp": "樺江{end}",
-   "en": "",
+   "en": "Flee{pad}{pad}{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4382,9 +4382,9 @@
    "addr": "0xD7F4",
    "size": 2,
    "jp": "／{end}",
-   "en": "",
+   "en": "/{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4392,9 +4392,9 @@
    "addr": "0xD7F6",
    "size": 3,
    "jp": "はい{end}",
-   "en": "",
+   "en": "Yes{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4402,9 +4402,9 @@
    "addr": "0xD7F9",
    "size": 4,
    "jp": "いいえ{end}",
-   "en": "",
+   "en": "No{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4412,9 +4412,9 @@
    "addr": "0xD7FD",
    "size": 10,
    "jp": "これでいいですか？{end}",
-   "en": "",
+   "en": "Is this okay?{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4422,9 +4422,9 @@
    "addr": "0xD807",
    "size": 6,
    "jp": "が残れた{end}",
-   "en": "",
+   "en": " appeared!{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4432,9 +4432,9 @@
    "addr": "0xD80D",
    "size": 8,
    "jp": "気監月：{end}",
-   "en": "",
+   "en": "Attack:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4442,9 +4442,9 @@
    "addr": "0xD815",
    "size": 8,
    "jp": "刑屋月：{end}",
-   "en": "",
+   "en": "Defense:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4452,9 +4452,9 @@
    "addr": "0xD81D",
    "size": 7,
    "jp": "処初さ：{end}",
-   "en": "",
+   "en": "Speed:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4462,9 +4462,9 @@
    "addr": "0xD824",
    "size": 4,
    "jp": "樺：{end}",
-   "en": "",
+   "en": "Weapon:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4472,9 +4472,9 @@
    "addr": "0xD828",
    "size": 4,
    "jp": "掘：{end}",
-   "en": "",
+   "en": "Armor:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4482,9 +4482,9 @@
    "addr": "0xD82C",
    "size": 4,
    "jp": "窟：{end}",
-   "en": "",
+   "en": "Helm:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -4492,9 +4492,9 @@
    "addr": "0xD830",
    "size": 4,
    "jp": "京：{end}",
-   "en": "",
+   "en": "Shield:{end}",
    "box": "ui",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   }
  ]

@@ -152,10 +152,21 @@ def _check_prepatch_rom(orig: bytes) -> None:
         (0x0B, 0x8F90, "38a910e5b0"),
         (0x0B, 0x8FB3, "20bb8f"),
         (0x0B, 0x901C, "08c2200a"),
+        (0x01, 0xA2A2, "a20000e220"),
+        (0x01, 0xA34E, "f0a2f0cff0bbff"),
         (0x01, 0xA4DB, "a91d008502"),
         (0x0C, 0xCB0A, "e220bba0"),
         (0x0C, 0xCD11, "c22029ff"),
         (0x0C, 0xCF25, "a6aba000"),
+        (0x0C, 0xA5E4, "a9462092aa"),
+        (0x0C, 0xA617, "a9392092aa"),
+        (0x0C, 0xA621, "a9382092aa"),
+        (0x0C, 0xA8B7, "a939eba93920a6a9"),
+        (0x0C, 0xA913, "a9572092aa"),
+        (0x0C, 0xA97C, "a939eba93920a6a9"),
+        (0x0C, 0xA98A, "a939eba93520a6a9"),
+        (0x0C, 0xA998, "a939eba93920a6a9"),
+        (0x0C, 0xA9C4, "a9392092aa"),
     )
     for bank, addr, hex_exp in checks:
         pc = extract.lorom_to_pc(bank, addr)

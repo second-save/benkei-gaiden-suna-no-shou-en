@@ -32,9 +32,9 @@
    "addr": "0xF5AE",
    "size": 9,
    "jp": "籏野  篤{end}",
-   "en": "",
+   "en": "Atsushi Hatano{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -42,9 +42,9 @@
    "addr": "0xF5B7",
    "size": 5,
    "jp": "演出{end}",
-   "en": "",
+   "en": "DIRECTOR{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -52,9 +52,9 @@
    "addr": "0xF5BC",
    "size": 10,
    "jp": " 東  祐{sF0BA}{end}",
-   "en": "",
+   "en": "Yusuke Azuma{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -62,9 +62,9 @@
    "addr": "0xF5C6",
    "size": 10,
    "jp": "佐藤 秀{sF0FA}{end}",
-   "en": "",
+   "en": "Hideki Sato{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -72,9 +72,9 @@
    "addr": "0xF5D0",
    "size": 9,
    "jp": "村田  肇{end}",
-   "en": "",
+   "en": "Hajime Murata{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -82,9 +82,9 @@
    "addr": "0xF5D9",
    "size": 5,
    "jp": "美術{end}",
-   "en": "",
+   "en": "ART{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -92,9 +92,9 @@
    "addr": "0xF5DE",
    "size": 9,
    "jp": "石川  巧{end}",
-   "en": "",
+   "en": "Takumi Ishikawa{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -102,9 +102,9 @@
    "addr": "0xF5E7",
    "size": 10,
    "jp": "小島 裕{sF0BA}{end}",
-   "en": "",
+   "en": "Yusuke Kojima{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -112,9 +112,9 @@
    "addr": "0xF5F1",
    "size": 10,
    "jp": "打道 良二{end}",
-   "en": "",
+   "en": "Ryoji Uchimichi{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -122,9 +122,9 @@
    "addr": "0xF5FB",
    "size": 5,
    "jp": "作曲{end}",
-   "en": "",
+   "en": "COMPOSER{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -132,9 +132,9 @@
    "addr": "0xF600",
    "size": 10,
    "jp": "{sF08D}山 {sF0B8}司{end}",
-   "en": "",
+   "en": "Masashi Kageyama{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -142,9 +142,9 @@
    "addr": "0xF60A",
    "size": 5,
    "jp": "{sF0A2}{sF0CF}{end}",
-   "en": "",
+   "en": "MUSIC{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -152,9 +152,9 @@
    "addr": "0xF60F",
    "size": 9,
    "jp": "塚本  浩{end}",
-   "en": "",
+   "en": "Hiroshi Tsukamoto{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -162,9 +162,9 @@
    "addr": "0xF618",
    "size": 10,
    "jp": "{sF088}田 則昭{end}",
-   "en": "",
+   "en": "Noriaki Urata{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -172,9 +172,9 @@
    "addr": "0xF622",
    "size": 10,
    "jp": "鈴木 和子{end}",
-   "en": "",
+   "en": "Kazuko Suzuki{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -182,9 +182,9 @@
    "addr": "0xF62C",
    "size": 5,
    "jp": "題字{end}",
-   "en": "",
+   "en": "CALLIGRAPHY{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -192,9 +192,9 @@
    "addr": "0xF631",
    "size": 10,
    "jp": "寺田 白{sF08B}{end}",
-   "en": "",
+   "en": "Hakuun Terada{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -202,9 +202,9 @@
    "addr": "0xF63B",
    "size": 5,
    "jp": "協力{end}",
-   "en": "",
+   "en": "THANKS{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -212,9 +212,9 @@
    "addr": "0xF640",
    "size": 10,
    "jp": "東谷 浩明{end}",
-   "en": "",
+   "en": "Hiroaki Higashitani{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -222,9 +222,9 @@
    "addr": "0xF64A",
    "size": 10,
    "jp": "江口 弘泰{end}",
-   "en": "",
+   "en": "Hiroyasu Eguchi{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -232,9 +232,9 @@
    "addr": "0xF654",
    "size": 10,
    "jp": "山本 {sF08F}夫{end}",
-   "en": "",
+   "en": "Hideo Yamamoto{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -242,9 +242,9 @@
    "addr": "0xF65E",
    "size": 5,
    "jp": "{sF0DE}修{end}",
-   "en": "",
+   "en": "SUPERVISOR{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -252,9 +252,9 @@
    "addr": "0xF663",
    "size": 10,
    "jp": "吉田 {sF0EE}春{end}",
-   "en": "",
+   "en": "Yoshiharu Yoshida{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -262,9 +262,9 @@
    "addr": "0xF66D",
    "size": 10,
    "jp": "丹{sF086} 正義{end}",
-   "en": "",
+   "en": "Masayoshi Niwa{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -272,9 +272,9 @@
    "addr": "0xF677",
    "size": 12,
    "jp": "山本 千枝子{end}",
-   "en": "",
+   "en": "Chieko Yamamoto{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -282,9 +282,9 @@
    "addr": "0xF683",
    "size": 10,
    "jp": "野村 佳弘{end}",
-   "en": "",
+   "en": "Yoshihiro Nomura{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -292,9 +292,9 @@
    "addr": "0xF68D",
    "size": 10,
    "jp": "土{sF09F} 幸司{end}",
-   "en": "",
+   "en": "Koji Tsuchiya{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -302,9 +302,9 @@
    "addr": "0xF697",
    "size": 10,
    "jp": "北川 正昭{end}",
-   "en": "",
+   "en": "Masaaki Kitagawa{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -312,9 +312,9 @@
    "addr": "0xF6A1",
    "size": 10,
    "jp": "槇原 {sF0B8}治{end}",
-   "en": "",
+   "en": "Masaharu Makihara{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -322,9 +322,9 @@
    "addr": "0xF6AB",
    "size": 9,
    "jp": "秋元  靖{end}",
-   "en": "",
+   "en": "Yasushi Akimoto{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -332,9 +332,9 @@
    "addr": "0xF6B4",
    "size": 12,
    "jp": "湯沢 裕里子{end}",
-   "en": "",
+   "en": "Yuriko Yuzawa{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -342,9 +342,9 @@
    "addr": "0xF6C0",
    "size": 10,
    "jp": "桜{sF079} 幸治{end}",
-   "en": "",
+   "en": "Koji Sakurai{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -352,9 +352,9 @@
    "addr": "0xF6CA",
    "size": 10,
    "jp": "塚田 {sF0B8}士{end}",
-   "en": "",
+   "en": "Masashi Tsukada{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -362,9 +362,9 @@
    "addr": "0xF6D4",
    "size": 9,
    "jp": "鹿野  克{end}",
-   "en": "",
+   "en": "Masaru Shikano{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -372,9 +372,9 @@
    "addr": "0xF6DD",
    "size": 9,
    "jp": "網代  亨{end}",
-   "en": "",
+   "en": "Toru Ajiro{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -382,9 +382,9 @@
    "addr": "0xF6E6",
    "size": 12,
    "jp": "{sF088}浜 浩三朗{end}",
-   "en": "",
+   "en": "Kozaburo Urahama{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -392,9 +392,9 @@
    "addr": "0xF6F2",
    "size": 12,
    "jp": "{sF084}津木 武史{end}",
-   "en": "",
+   "en": "Takeshi Utsugi{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -402,9 +402,9 @@
    "addr": "0xF6FE",
    "size": 9,
    "jp": " 林   保{end}",
-   "en": "",
+   "en": "Tamotsu Hayashi{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -412,9 +412,9 @@
    "addr": "0xF707",
    "size": 10,
    "jp": "竹内 昭人{end}",
-   "en": "",
+   "en": "Akito Takeuchi{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -422,9 +422,9 @@
    "addr": "0xF711",
    "size": 10,
    "jp": "{sF099}村 {sF07C}晃{end}",
-   "en": "",
+   "en": "Kazuaki Okumura{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -432,9 +432,9 @@
    "addr": "0xF71B",
    "size": 10,
    "jp": "後藤 和暁{end}",
-   "en": "",
+   "en": "Kazuaki Goto{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -442,9 +442,9 @@
    "addr": "0xF725",
    "size": 10,
    "jp": "{sF0AD}合 正人{end}",
-   "en": "",
+   "en": "Masato Kawai{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -452,9 +452,9 @@
    "addr": "0xF72F",
    "size": 10,
    "jp": "浅田 明弘{end}",
-   "en": "",
+   "en": "Akihiro Asada{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -462,9 +462,9 @@
    "addr": "0xF739",
    "size": 10,
    "jp": "{sF0E9}田 義明{end}",
-   "en": "",
+   "en": "Yoshiaki Iwata{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -472,9 +472,9 @@
    "addr": "0xF743",
    "size": 10,
    "jp": "白木 君明{end}",
-   "en": "",
+   "en": "Kimiaki Shiraki{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -482,9 +482,9 @@
    "addr": "0xF74D",
    "size": 10,
    "jp": " 森  達男{end}",
-   "en": "",
+   "en": "Tatsuo Mori{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -492,9 +492,9 @@
    "addr": "0xF757",
    "size": 10,
    "jp": "渡辺 和幸{end}",
-   "en": "",
+   "en": "Kazuyuki Watanabe{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -502,9 +502,9 @@
    "addr": "0xF761",
    "size": 10,
    "jp": "辛嶋 啓行{end}",
-   "en": "",
+   "en": "Hiroyuki Karashima{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -512,9 +512,9 @@
    "addr": "0xF76B",
    "size": 10,
    "jp": "諏訪 智香{end}",
-   "en": "",
+   "en": "Chika Suwa{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -522,9 +522,9 @@
    "addr": "0xF775",
    "size": 10,
    "jp": "丹{sF086} 知美{end}",
-   "en": "",
+   "en": "Tomomi Niwa{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -532,9 +532,9 @@
    "addr": "0xF77F",
    "size": 10,
    "jp": "{sF0E9}渕 直行{end}",
-   "en": "",
+   "en": "Naoyuki Iwabuchi{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -542,9 +542,9 @@
    "addr": "0xF789",
    "size": 10,
    "jp": "大田 正之{end}",
-   "en": "",
+   "en": "Masayuki Ota{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -552,9 +552,9 @@
    "addr": "0xF793",
    "size": 10,
    "jp": "高田 久靖{end}",
-   "en": "",
+   "en": "Hisayasu Takada{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -562,9 +562,9 @@
    "addr": "0xF79D",
    "size": 10,
    "jp": "徳{sF08E} 雄次{end}",
-   "en": "",
+   "en": "Yuji Tokunaga{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -572,9 +572,9 @@
    "addr": "0xF7A7",
    "size": 9,
    "jp": "青柳  勝{end}",
-   "en": "",
+   "en": "Masaru Aoyagi{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -582,9 +582,9 @@
    "addr": "0xF7B0",
    "size": 9,
    "jp": "{sF08E}野  修{end}",
-   "en": "",
+   "en": "Osamu Nagano{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -612,9 +612,9 @@
    "addr": "0xF7C8",
    "size": 12,
    "jp": " 柳  草{sF07C}郎{end}",
-   "en": "",
+   "en": "Soichiro Yanagi{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -622,9 +622,9 @@
    "addr": "0xF7D4",
    "size": 10,
    "jp": "山形 厚史{end}",
-   "en": "",
+   "en": "Atsushi Yamagata{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -632,9 +632,9 @@
    "addr": "0xF7DE",
    "size": 5,
    "jp": "進行{end}",
-   "en": "",
+   "en": "COORDINATOR{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -642,9 +642,9 @@
    "addr": "0xF7E3",
    "size": 10,
    "jp": "酒{sF079} 豊澄{end}",
-   "en": "",
+   "en": "Toyozumi Sakai{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -652,9 +652,9 @@
    "addr": "0xF7ED",
    "size": 12,
    "jp": "池下 友香子{end}",
-   "en": "",
+   "en": "Yukako Ikeshita{end}",
    "box": "credits_overlay",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   }
  ]

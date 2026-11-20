@@ -15,9 +15,9 @@
    "addr": "0xBA8F",
    "size": 10,
    "jp": "式魂（しきだま）",
-   "en": "",
+   "en": "Shiki Spirit",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -26,9 +26,9 @@
    "addr": "0xBA99",
    "size": 9,
    "jp": "妖鬼（ようき）",
-   "en": "",
+   "en": "Foul Oni",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -37,9 +37,9 @@
    "addr": "0xBAA2",
    "size": 13,
    "jp": "死人つき（しにんつき）",
-   "en": "",
+   "en": "Possessed Dead",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -48,9 +48,9 @@
    "addr": "0xBAAF",
    "size": 12,
    "jp": "魔鬼魂（まきだま）",
-   "en": "",
+   "en": "Fiend Wisp",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -59,9 +59,9 @@
    "addr": "0xBABB",
    "size": 9,
    "jp": "幽鬼（ゆうき）",
-   "en": "",
+   "en": "Spectral Oni",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -70,9 +70,9 @@
    "addr": "0xBAC4",
    "size": 9,
    "jp": "乱鬼（らんき）",
-   "en": "",
+   "en": "Chaos Oni",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -81,9 +81,9 @@
    "addr": "0xBACD",
    "size": 11,
    "jp": "蒙霊（もうりょう）",
-   "en": "",
+   "en": "Moryo Spirit",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -92,9 +92,9 @@
    "addr": "0xBAD8",
    "size": 9,
    "jp": "紫魂（しこん）",
-   "en": "",
+   "en": "Violet Wisp",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -103,9 +103,9 @@
    "addr": "0xBAE1",
    "size": 10,
    "jp": "邪犬（じゃけん）",
-   "en": "",
+   "en": "Foul Hound",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -114,9 +114,9 @@
    "addr": "0xBAEB",
    "size": 9,
    "jp": "死鱗（しりん）",
-   "en": "",
+   "en": "Deathscale",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -125,9 +125,9 @@
    "addr": "0xBAF4",
    "size": 9,
    "jp": "麒狼（きろう）",
-   "en": "",
+   "en": "Kirin Wolf",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -136,9 +136,9 @@
    "addr": "0xBAFD",
    "size": 11,
    "jp": "凶死（きょんしー）",
-   "en": "",
+   "en": "Jiangshi",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -147,9 +147,9 @@
    "addr": "0xBB08",
    "size": 9,
    "jp": "至霊（しれい）",
-   "en": "",
+   "en": "Archspirit",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -158,9 +158,9 @@
    "addr": "0xBB11",
    "size": 13,
    "jp": "操霊師（そうれいし）",
-   "en": "",
+   "en": "Necromancer",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -169,9 +169,9 @@
    "addr": "0xBB1E",
    "size": 13,
    "jp": "闇坊主（やみぼうず）",
-   "en": "",
+   "en": "Dark Bonze",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -180,9 +180,9 @@
    "addr": "0xBB2B",
    "size": 13,
    "jp": "外道坊（げどうぼう）",
-   "en": "",
+   "en": "Heretic Monk",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -191,9 +191,9 @@
    "addr": "0xBB38",
    "size": 15,
    "jp": "どくろ武者（どくろむしゃ）",
-   "en": "",
+   "en": "Skull Samurai",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -202,9 +202,9 @@
    "addr": "0xBB47",
    "size": 16,
    "jp": "死人武者（しびとむしゃ）",
-   "en": "",
+   "en": "Corpse Samurai",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -213,9 +213,9 @@
    "addr": "0xBB57",
    "size": 21,
    "jp": "落武者の魂（おちむしゃのたましい）",
-   "en": "",
+   "en": "Samurai Ghost",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -224,9 +224,9 @@
    "addr": "0xBB6C",
    "size": 10,
    "jp": "毛人（もうじん）",
-   "en": "",
+   "en": "Wildman",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -235,9 +235,9 @@
    "addr": "0xBB76",
    "size": 14,
    "jp": "夢操獣（むそうじゅう）",
-   "en": "",
+   "en": "Dream Beast",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -246,9 +246,9 @@
    "addr": "0xBB84",
    "size": 10,
    "jp": "落頭（らくとう）",
-   "en": "",
+   "en": "Flying Head",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -257,9 +257,9 @@
    "addr": "0xBB8E",
    "size": 12,
    "jp": "呼妖舞（こようぶ）",
-   "en": "",
+   "en": "Spirit Dancer",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -268,9 +268,9 @@
    "addr": "0xBB9A",
    "size": 14,
    "jp": "女人ぐも（にょにんぐも）",
-   "en": "",
+   "en": "Spider Woman",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -279,9 +279,9 @@
    "addr": "0xBBA8",
    "size": 22,
    "jp": "戦場の怨霊（せんじょうのおんりょう）",
-   "en": "",
+   "en": "Battlefield Wraith",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -290,9 +290,9 @@
    "addr": "0xBBBE",
    "size": 18,
    "jp": "幻妖幽帝（げんようゆうてい）",
-   "en": "",
+   "en": "Phantom Emperor",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -301,9 +301,9 @@
    "addr": "0xBBD0",
    "size": 11,
    "jp": "賀死魔（かしま）",
-   "en": "",
+   "en": "Kashima Fiend",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -312,9 +312,9 @@
    "addr": "0xBBDB",
    "size": 10,
    "jp": "口角（こうかく）",
-   "en": "",
+   "en": "Hornmouth",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -323,9 +323,9 @@
    "addr": "0xBBE5",
    "size": 16,
    "jp": "死肉食らい（しにくくらい）",
-   "en": "",
+   "en": "Carrion Eater",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -334,9 +334,9 @@
    "addr": "0xBBF5",
    "size": 13,
    "jp": "呪応士（じゅおうし）",
-   "en": "",
+   "en": "Curse Adept",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -345,9 +345,9 @@
    "addr": "0xBC02",
    "size": 17,
    "jp": "邪黒幻士（じゃこくげんし）",
-   "en": "",
+   "en": "Dark Illusionist",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -356,9 +356,9 @@
    "addr": "0xBC13",
    "size": 16,
    "jp": "触角獣（しょっかくじゅう）",
-   "en": "",
+   "en": "Tentacle Beast",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -367,9 +367,9 @@
    "addr": "0xBC23",
    "size": 10,
    "jp": "ケルベム（けるべむ）",
-   "en": "",
+   "en": "Cherubim",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -378,9 +378,9 @@
    "addr": "0xBC2D",
    "size": 16,
    "jp": "呪いの叫び（のろいのさけび）",
-   "en": "",
+   "en": "Cursed Wail",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -389,9 +389,9 @@
    "addr": "0xBC3D",
    "size": 12,
    "jp": "腐首鬼（ふしゅき）",
-   "en": "",
+   "en": "Rothead Oni",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -400,9 +400,9 @@
    "addr": "0xBC49",
    "size": 9,
    "jp": "怒豪（どごう）",
-   "en": "",
+   "en": "Wrath Brute",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -411,9 +411,9 @@
    "addr": "0xBC52",
    "size": 17,
    "jp": "暗黒力士（あんこくりきし）",
-   "en": "",
+   "en": "Dark Rikishi",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -422,9 +422,9 @@
    "addr": "0xBC63",
    "size": 12,
    "jp": "邪羽根（じゃばね）",
-   "en": "",
+   "en": "Wicked Wing",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -433,9 +433,9 @@
    "addr": "0xBC6F",
    "size": 12,
    "jp": "針魔王（はりまお）",
-   "en": "",
+   "en": "Needle Demon Lord",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -444,9 +444,9 @@
    "addr": "0xBC7B",
    "size": 10,
    "jp": "牛鬼（ぎゅうき）",
-   "en": "",
+   "en": "Ushi-Oni",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -455,9 +455,9 @@
    "addr": "0xBC85",
    "size": 15,
    "jp": "牛魔獣（ぎゅうまじゅう）",
-   "en": "",
+   "en": "Ox Fiend",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -466,9 +466,9 @@
    "addr": "0xBC94",
    "size": 13,
    "jp": "金剛鬼（こんごうき）",
-   "en": "",
+   "en": "Vajra Oni",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -477,9 +477,9 @@
    "addr": "0xBCA1",
    "size": 9,
    "jp": "獄鬼（ごくき）",
-   "en": "",
+   "en": "Hell Oni",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -488,9 +488,9 @@
    "addr": "0xBCAA",
    "size": 14,
    "jp": "闇僧侶（やみそうりょ）",
-   "en": "",
+   "en": "Dark Monk",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -499,9 +499,9 @@
    "addr": "0xBCB8",
    "size": 18,
    "jp": "外道僧正（げどうそうじょう）",
-   "en": "",
+   "en": "Heretic Abbot",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -510,9 +510,9 @@
    "addr": "0xBCCA",
    "size": 17,
    "jp": "魔界童女（まかいどうじょ）",
-   "en": "",
+   "en": "Demon Maiden",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -521,9 +521,9 @@
    "addr": "0xBCDB",
    "size": 18,
    "jp": "幽界妖女（ゆうかいようじょ）",
-   "en": "",
+   "en": "Nether Witch",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -532,9 +532,9 @@
    "addr": "0xBCED",
    "size": 14,
    "jp": "虚心兵（きょしんへい）",
-   "en": "",
+   "en": "Hollow Soldier",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -543,9 +543,9 @@
    "addr": "0xBCFB",
    "size": 15,
    "jp": "霊兵将（れいへいしょう）",
-   "en": "",
+   "en": "Spirit Captain",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -554,9 +554,9 @@
    "addr": "0xBD0A",
    "size": 10,
    "jp": "頼豪（らいごう）",
-   "en": "",
+   "en": "Raigo",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -565,9 +565,9 @@
    "addr": "0xBD14",
    "size": 16,
    "jp": "人面ねずみ（じんめんねずみ）",
-   "en": "",
+   "en": "Man-Faced Rat",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -576,9 +576,9 @@
    "addr": "0xBD24",
    "size": 10,
    "jp": "月角（げっかく）",
-   "en": "",
+   "en": "Moonhorn",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -587,9 +587,9 @@
    "addr": "0xBD2E",
    "size": 16,
    "jp": "鬼面闘士（きめんとうし）",
-   "en": "",
+   "en": "Demon-Mask Fighter",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -598,9 +598,9 @@
    "addr": "0xBD3E",
    "size": 17,
    "jp": "炎天小僧（えんてんこぞう）",
-   "en": "",
+   "en": "Sunfire Imp",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -609,9 +609,9 @@
    "addr": "0xBD4F",
    "size": 10,
    "jp": "冷憎（れいぞう）",
-   "en": "",
+   "en": "Frosthate",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -620,9 +620,9 @@
    "addr": "0xBD59",
    "size": 12,
    "jp": "破呪羅（はじゅら）",
-   "en": "",
+   "en": "Hajura",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -631,9 +631,9 @@
    "addr": "0xBD65",
    "size": 15,
    "jp": "魔破羅邪（まはらじゃ）",
-   "en": "",
+   "en": "Maharaja",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -642,9 +642,9 @@
    "addr": "0xBD74",
    "size": 18,
    "jp": "魔憎人形（まぞうにんぎょう）",
-   "en": "",
+   "en": "Malice Doll",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -653,9 +653,9 @@
    "addr": "0xBD86",
    "size": 17,
    "jp": "大道魔人（だいどうまじん）",
-   "en": "",
+   "en": "Grand Fiend",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -664,9 +664,9 @@
    "addr": "0xBD97",
    "size": 12,
    "jp": "躍り猫（おどりねこ）",
-   "en": "",
+   "en": "Dancing Cat",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -675,9 +675,9 @@
    "addr": "0xBDA3",
    "size": 12,
    "jp": "大ねずみ（おおねずみ）",
-   "en": "",
+   "en": "Giant Rat",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -686,9 +686,9 @@
    "addr": "0xBDAF",
    "size": 13,
    "jp": "化けねずみ（ばけねずみ）",
-   "en": "",
+   "en": "Monster Rat",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -697,9 +697,9 @@
    "addr": "0xBDBC",
    "size": 8,
    "jp": "魔藻（まも）",
-   "en": "",
+   "en": "Demon Kelp",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -708,9 +708,9 @@
    "addr": "0xBDC4",
    "size": 14,
    "jp": "人食い藻（ひとくいも）",
-   "en": "",
+   "en": "Man-Eating Kelp",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -719,9 +719,9 @@
    "addr": "0xBDD2",
    "size": 15,
    "jp": "早流牙草（さるがそう）",
-   "en": "",
+   "en": "Sargasso Weed",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -730,9 +730,9 @@
    "addr": "0xBDE1",
    "size": 15,
    "jp": "カラス天狗（からすてんぐ）",
-   "en": "",
+   "en": "Crow Tengu",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -741,9 +741,9 @@
    "addr": "0xBDF0",
    "size": 15,
    "jp": "カラス法師（からすほうし）",
-   "en": "",
+   "en": "Crow Priest",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -752,9 +752,9 @@
    "addr": "0xBDFF",
    "size": 9,
    "jp": "鬼女（きじょ）",
-   "en": "",
+   "en": "Demoness",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -763,9 +763,9 @@
    "addr": "0xBE08",
    "size": 11,
    "jp": "口裂け（くちさけ）",
-   "en": "",
+   "en": "Slit-Mouth",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -774,9 +774,9 @@
    "addr": "0xBE13",
    "size": 11,
    "jp": "小眉留（こびる）",
-   "en": "",
+   "en": "Kobiru",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -785,9 +785,9 @@
    "addr": "0xBE1E",
    "size": 11,
    "jp": "阿眉留（あびる）",
-   "en": "",
+   "en": "Abiru",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -796,9 +796,9 @@
    "addr": "0xBE29",
    "size": 9,
    "jp": "狼虎（ろうこ）",
-   "en": "",
+   "en": "Wolf-Tiger",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -807,9 +807,9 @@
    "addr": "0xBE32",
    "size": 8,
    "jp": "餓鬼（がき）",
-   "en": "",
+   "en": "Gaki",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -818,9 +818,9 @@
    "addr": "0xBE3A",
    "size": 9,
    "jp": "毒吐（どくと）",
-   "en": "",
+   "en": "Venom Spitter",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -829,9 +829,9 @@
    "addr": "0xBE43",
    "size": 15,
    "jp": "大入道（おおにゅうどう）",
-   "en": "",
+   "en": "Onyudo",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -840,9 +840,9 @@
    "addr": "0xBE52",
    "size": 16,
    "jp": "蝦夷幽霊（えぞゆうれい）",
-   "en": "",
+   "en": "Ezo Ghost",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -851,9 +851,9 @@
    "addr": "0xBE62",
    "size": 9,
    "jp": "遺魂（いこん）",
-   "en": "",
+   "en": "Lingering Soul",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -862,9 +862,9 @@
    "addr": "0xBE6B",
    "size": 14,
    "jp": "漠酷坊（ばっこくぼう）",
-   "en": "",
+   "en": "Bakkoku Bonze",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -873,9 +873,9 @@
    "addr": "0xBE79",
    "size": 11,
    "jp": "死の爪（しのつめ）",
-   "en": "",
+   "en": "Death Claw",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -884,9 +884,9 @@
    "addr": "0xBE84",
    "size": 9,
    "jp": "空鬼（くうき）",
-   "en": "",
+   "en": "Sky Oni",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -895,9 +895,9 @@
    "addr": "0xBE8D",
    "size": 10,
    "jp": "白鬼（びゃっき）",
-   "en": "",
+   "en": "White Oni",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -906,9 +906,9 @@
    "addr": "0xBE97",
    "size": 12,
    "jp": "苦討牙（くとうが）",
-   "en": "",
+   "en": "Bitterfang",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -917,9 +917,9 @@
    "addr": "0xBEA3",
    "size": 15,
    "jp": "赤龍蜂（せきりゅうほう）",
-   "en": "",
+   "en": "Red-Dragon Wasp",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -928,9 +928,9 @@
    "addr": "0xBEB2",
    "size": 9,
    "jp": "羅覚（らかく）",
-   "en": "",
+   "en": "Rakaku",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -939,9 +939,9 @@
    "addr": "0xBEBB",
    "size": 10,
    "jp": "覚樹（かくじゅ）",
-   "en": "",
+   "en": "Kakuju",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -950,9 +950,9 @@
    "addr": "0xBEC5",
    "size": 9,
    "jp": "羅観（らかん）",
-   "en": "",
+   "en": "Rakan",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -961,9 +961,9 @@
    "addr": "0xBECE",
    "size": 12,
    "jp": "飛天尾（ひてんび）",
-   "en": "",
+   "en": "Soaring Tail",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -972,9 +972,9 @@
    "addr": "0xBEDA",
    "size": 10,
    "jp": "狂奴（きょうど）",
-   "en": "",
+   "en": "Mad Brute",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -983,9 +983,9 @@
    "addr": "0xBEE4",
    "size": 14,
    "jp": "卑眼将（ひがんしょう）",
-   "en": "",
+   "en": "Evil-Eye Captain",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -994,9 +994,9 @@
    "addr": "0xBEF2",
    "size": 9,
    "jp": "水虎（すいこ）",
-   "en": "",
+   "en": "Water Tiger",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1005,9 +1005,9 @@
    "addr": "0xBEFB",
    "size": 13,
    "jp": "狼角師（ろうかくし）",
-   "en": "",
+   "en": "Wolfhorn Mystic",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1016,9 +1016,9 @@
    "addr": "0xBF08",
    "size": 13,
    "jp": "邪香蛾（じゃこうが）",
-   "en": "",
+   "en": "Blight Moth",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1027,9 +1027,9 @@
    "addr": "0xBF15",
    "size": 8,
    "jp": "魔蛾（まが）",
-   "en": "",
+   "en": "Demon Moth",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1038,9 +1038,9 @@
    "addr": "0xBF1D",
    "size": 17,
    "jp": "地獄の羽根（じごくのはね）",
-   "en": "",
+   "en": "Wings of Hell",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1049,9 +1049,9 @@
    "addr": "0xBF2E",
    "size": 10,
    "jp": "大蜂（おおばち）",
-   "en": "",
+   "en": "Giant Hornet",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1060,9 +1060,9 @@
    "addr": "0xBF38",
    "size": 14,
    "jp": "兵隊蜂（へいたいばち）",
-   "en": "",
+   "en": "Soldier Hornet",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1071,9 +1071,9 @@
    "addr": "0xBF46",
    "size": 10,
    "jp": "大ぐも（おおぐも）",
-   "en": "",
+   "en": "Giant Spider",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1082,9 +1082,9 @@
    "addr": "0xBF50",
    "size": 15,
    "jp": "入道ぐも（にゅうどうぐも）",
-   "en": "",
+   "en": "Nyudo Spider",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1093,9 +1093,9 @@
    "addr": "0xBF5F",
    "size": 10,
    "jp": "大邪（だいじゃ）",
-   "en": "",
+   "en": "Dread Serpent",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1104,9 +1104,9 @@
    "addr": "0xBF69",
    "size": 8,
    "jp": "みづち（みづち）",
-   "en": "",
+   "en": "Mizuchi",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1115,9 +1115,9 @@
    "addr": "0xBF71",
    "size": 14,
    "jp": "珠妖蛇（じゅようじゃ）",
-   "en": "",
+   "en": "Jewel Serpent",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1126,9 +1126,9 @@
    "addr": "0xBF7F",
    "size": 15,
    "jp": "白霊蛇（びゃくれいじゃ）",
-   "en": "",
+   "en": "White Spirit Serpent",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1137,9 +1137,9 @@
    "addr": "0xBF8E",
    "size": 10,
    "jp": "魚頭（ぎょとう）",
-   "en": "",
+   "en": "Fish-Head",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1148,9 +1148,9 @@
    "addr": "0xBF98",
    "size": 11,
    "jp": "仙獣（せんじゅう）",
-   "en": "",
+   "en": "Sage Beast",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1159,9 +1159,9 @@
    "addr": "0xBFA3",
    "size": 13,
    "jp": "雷霊虎（らいれいこ）",
-   "en": "",
+   "en": "Thunder Spirit Tiger",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1170,9 +1170,9 @@
    "addr": "0xBFB0",
    "size": 13,
    "jp": "大百足（おおむかで）",
-   "en": "",
+   "en": "Giant Centipede",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1181,9 +1181,9 @@
    "addr": "0xBFBD",
    "size": 13,
    "jp": "毒百足（どくむかで）",
-   "en": "",
+   "en": "Venom Centipede",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1192,9 +1192,9 @@
    "addr": "0xBFCA",
    "size": 15,
    "jp": "鉄甲虫（てっこうちゅう）",
-   "en": "",
+   "en": "Ironclad Beetle",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1203,9 +1203,9 @@
    "addr": "0xBFD9",
    "size": 10,
    "jp": "砂虫（すなむし）",
-   "en": "",
+   "en": "Sandworm",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1214,9 +1214,9 @@
    "addr": "0xBFE3",
    "size": 10,
    "jp": "鳳皇（ほうおう）",
-   "en": "",
+   "en": "Phoenix Sovereign",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1225,9 +1225,9 @@
    "addr": "0xBFED",
    "size": 10,
    "jp": "霊皇（れいおう）",
-   "en": "",
+   "en": "Spirit Sovereign",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1236,9 +1236,9 @@
    "addr": "0xBFF7",
    "size": 10,
    "jp": "孫ベエ（まごべえ）",
-   "en": "",
+   "en": "Magobee",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1247,9 +1247,9 @@
    "addr": "0xC001",
    "size": 21,
    "jp": "二海堂春次（にかいどうはるつぐ）",
-   "en": "",
+   "en": "Harutsugu Nikaido",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1258,9 +1258,9 @@
    "addr": "0xC016",
    "size": 10,
    "jp": "狂舞（きょうぶ）",
-   "en": "",
+   "en": "Kyobu",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1269,9 +1269,9 @@
    "addr": "0xC020",
    "size": 17,
    "jp": "外道坊霊（げどうぼうれい）",
-   "en": "",
+   "en": "Heretic Monk Ghost",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1280,9 +1280,9 @@
    "addr": "0xC031",
    "size": 18,
    "jp": "破呪羅の霊（はじゅらのれい）",
-   "en": "",
+   "en": "Hajura's Spirit",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1291,9 +1291,9 @@
    "addr": "0xC043",
    "size": 23,
    "jp": "魔界童女の霊（まかいどうじょのれい）",
-   "en": "",
+   "en": "Demon Maiden Ghost",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1302,9 +1302,9 @@
    "addr": "0xC05A",
    "size": 21,
    "jp": "戦場の霊兵（せんじょうのれいへい）",
-   "en": "",
+   "en": "Battlefield Specter",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1313,9 +1313,9 @@
    "addr": "0xC06F",
    "size": 23,
    "jp": "大道魔人の霊（だいどうまじんのれい）",
-   "en": "",
+   "en": "Grand Fiend Spirit",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1324,9 +1324,9 @@
    "addr": "0xC086",
    "size": 11,
    "jp": "宗玉（そうぎょく）",
-   "en": "",
+   "en": "Sogyoku",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1335,9 +1335,9 @@
    "addr": "0xC091",
    "size": 10,
    "jp": "雀皇（じゃこう）",
-   "en": "",
+   "en": "Jako",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1346,9 +1346,9 @@
    "addr": "0xC09B",
    "size": 9,
    "jp": "武克（ぶこく）",
-   "en": "",
+   "en": "Bukoku",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1357,9 +1357,9 @@
    "addr": "0xC0A4",
    "size": 10,
    "jp": "呪魂（じゅごん）",
-   "en": "",
+   "en": "Jugon",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1368,9 +1368,9 @@
    "addr": "0xC0AE",
    "size": 14,
    "jp": "士牙羅鬼（しがらき）",
-   "en": "",
+   "en": "Shigaraki",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1379,9 +1379,9 @@
    "addr": "0xC0BC",
    "size": 10,
    "jp": "青鳳（せいほう）",
-   "en": "",
+   "en": "Seiho",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1390,9 +1390,9 @@
    "addr": "0xC0C6",
    "size": 17,
    "jp": "四界皇帝（しかいこうてい）",
-   "en": "",
+   "en": "Four Realms Emperor",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1401,9 +1401,9 @@
    "addr": "0xC0D7",
    "size": 20,
    "jp": "アグニ火炎獣（あぐにかえんじゅう）",
-   "en": "",
+   "en": "Agni Flame Beast",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1412,9 +1412,9 @@
    "addr": "0xC0EB",
    "size": 10,
    "jp": "呪魂（じゅごん）",
-   "en": "",
+   "en": "Jugon",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1423,9 +1423,9 @@
    "addr": "0xC0F5",
    "size": 10,
    "jp": "仙明（せんめい）",
-   "en": "",
+   "en": "Senmei",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1434,9 +1434,9 @@
    "addr": "0xC0FF",
    "size": 10,
    "jp": "ナプール（なぷーる）",
-   "en": "",
+   "en": "Napur",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1445,9 +1445,9 @@
    "addr": "0xC109",
    "size": 15,
    "jp": "李 大観（り たいかん）",
-   "en": "",
+   "en": "Li Daiguan",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1456,9 +1456,9 @@
    "addr": "0xC118",
    "size": 10,
    "jp": "西蘭（せいらん）",
-   "en": "",
+   "en": "Seiran",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1467,9 +1467,9 @@
    "addr": "0xC122",
    "size": 10,
    "jp": "クルガン（くるがん）",
-   "en": "",
+   "en": "Kurgan",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1478,9 +1478,9 @@
    "addr": "0xC12C",
    "size": 10,
    "jp": "雷王（らいおう）",
-   "en": "",
+   "en": "Thunder King",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1489,9 +1489,9 @@
    "addr": "0xC136",
    "size": 13,
    "jp": "死狂舞（しきょうぶ）",
-   "en": "",
+   "en": "Shikyobu",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1500,9 +1500,9 @@
    "addr": "0xC143",
    "size": 17,
    "jp": "守慶法師（じゅけいほうし）",
-   "en": "",
+   "en": "Master Jukei",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1511,9 +1511,9 @@
    "addr": "0xC154",
    "size": 11,
    "jp": "魔死羅（ましら）",
-   "en": "",
+   "en": "Mashira",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1522,9 +1522,9 @@
    "addr": "0xC15F",
    "size": 11,
    "jp": "餓流魔（がるま）",
-   "en": "",
+   "en": "Garuma",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1533,9 +1533,9 @@
    "addr": "0xC16A",
    "size": 12,
    "jp": "マハーラン（まはーらん）",
-   "en": "",
+   "en": "Maharan",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1544,9 +1544,9 @@
    "addr": "0xC176",
    "size": 13,
    "jp": "蒼骨鬼（そうこつき）",
-   "en": "",
+   "en": "Azure Bone Fiend",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1555,9 +1555,9 @@
    "addr": "0xC183",
    "size": 8,
    "jp": "アジフ（あじふ）",
-   "en": "",
+   "en": "Ajif",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1566,9 +1566,9 @@
    "addr": "0xC18B",
    "size": 13,
    "jp": "古戦兵（こせんへい）",
-   "en": "",
+   "en": "Ancient Soldier",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1577,9 +1577,9 @@
    "addr": "0xC198",
    "size": 13,
    "jp": "魔導仙（まどうせん）",
-   "en": "",
+   "en": "Arcane Sage",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1588,9 +1588,9 @@
    "addr": "0xC1A5",
    "size": 19,
    "jp": "灼妖天女（しゃくようてんにょ）",
-   "en": "",
+   "en": "Blazing Enchantress",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1599,9 +1599,9 @@
    "addr": "0xC1B8",
    "size": 10,
    "jp": "水妖（すいよう）",
-   "en": "",
+   "en": "Water Sprite",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1610,9 +1610,9 @@
    "addr": "0xC1C2",
    "size": 10,
    "jp": "甲魚（こうぎょ）",
-   "en": "",
+   "en": "Armored Fish",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1621,9 +1621,9 @@
    "addr": "0xC1CC",
    "size": 10,
    "jp": "牢番（ろうばん）",
-   "en": "",
+   "en": "Jailer",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1632,9 +1632,9 @@
    "addr": "0xC1D6",
    "size": 10,
    "jp": "呪魂（じゅごん）",
-   "en": "",
+   "en": "Jugon",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1643,9 +1643,9 @@
    "addr": "0xC1E0",
    "size": 13,
    "jp": "死狂舞（しきょうぶ）",
-   "en": "",
+   "en": "Shikyobu",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1654,9 +1654,9 @@
    "addr": "0xC1ED",
    "size": 10,
    "jp": "呪魂（じゅごん）",
-   "en": "",
+   "en": "Jugon",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1665,9 +1665,9 @@
    "addr": "0xC1F7",
    "size": 9,
    "jp": "武克（ぶこく）",
-   "en": "",
+   "en": "Bukoku",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1676,9 +1676,9 @@
    "addr": "0xC200",
    "size": 10,
    "jp": "雀皇（じゃこう）",
-   "en": "",
+   "en": "Jako",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1687,9 +1687,9 @@
    "addr": "0xC20A",
    "size": 11,
    "jp": "宗玉（そうぎょく）",
-   "en": "",
+   "en": "Sogyoku",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1698,9 +1698,9 @@
    "addr": "0xC215",
    "size": 10,
    "jp": "雷童（らいどう）",
-   "en": "",
+   "en": "Thunder Child",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1709,9 +1709,9 @@
    "addr": "0xC21F",
    "size": 10,
    "jp": "白洛（はくらく）",
-   "en": "",
+   "en": "Hakuraku",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1720,9 +1720,9 @@
    "addr": "0xC229",
    "size": 9,
    "jp": "鬼霊（きれい）",
-   "en": "",
+   "en": "Demon Spirit",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1731,9 +1731,9 @@
    "addr": "0xC232",
    "size": 10,
    "jp": "影切（かげきり）",
-   "en": "",
+   "en": "Shadow Slasher",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1742,9 +1742,9 @@
    "addr": "0xC23C",
    "size": 14,
    "jp": "赤炎爆（せきえんばく）",
-   "en": "",
+   "en": "Crimson Blast",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1753,9 +1753,9 @@
    "addr": "0xC24A",
    "size": 14,
    "jp": "炎紫玉（えんしぎょく）",
-   "en": "",
+   "en": "Violet Flame Orb",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1764,9 +1764,9 @@
    "addr": "0xC258",
    "size": 10,
    "jp": "山神（さんじん）",
-   "en": "",
+   "en": "Mountain God",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1775,9 +1775,9 @@
    "addr": "0xC262",
    "size": 15,
    "jp": "山仙獣（さんせんじゅう）",
-   "en": "",
+   "en": "Mountain Sage Beast",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1786,9 +1786,9 @@
    "addr": "0xC271",
    "size": 6,
    "jp": "ヘベ（へべ）",
-   "en": "",
+   "en": "Hebe",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1797,9 +1797,9 @@
    "addr": "0xC277",
    "size": 15,
    "jp": "石川巧（いしかわたくみ）",
-   "en": "",
+   "en": "Takumi Ishikawa",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1808,9 +1808,9 @@
    "addr": "0xC286",
    "size": 15,
    "jp": "石川巧（いしかわたくみ）",
-   "en": "",
+   "en": "Takumi Ishikawa",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1819,9 +1819,9 @@
    "addr": "0xC295",
    "size": 15,
    "jp": "石川巧（いしかわたくみ）",
-   "en": "",
+   "en": "Takumi Ishikawa",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1830,9 +1830,9 @@
    "addr": "0xC2A4",
    "size": 15,
    "jp": "石川巧（いしかわたくみ）",
-   "en": "",
+   "en": "Takumi Ishikawa",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1841,9 +1841,9 @@
    "addr": "0xC2B3",
    "size": 15,
    "jp": "石川巧（いしかわたくみ）",
-   "en": "",
+   "en": "Takumi Ishikawa",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   },
   {
@@ -1852,9 +1852,9 @@
    "addr": "0xC2C2",
    "size": 15,
    "jp": "石川巧（いしかわたくみ）",
-   "en": "",
+   "en": "Takumi Ishikawa",
    "box": "enemy_name",
-   "status": "todo",
+   "status": "done",
    "notes": "furigana stripped at $1E by $0C:CD11"
   }
  ]

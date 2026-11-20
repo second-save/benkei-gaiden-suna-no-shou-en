@@ -117,6 +117,14 @@ org $01A4DB
   jsl Hook_01A4DB
   nop
 
+; Name Entry custom-name confirm copier ($01:A2A2) -> proportional renderer + Sound Test password ($01:A34E)
+org $01A2A2
+  jml Hook_01A2A2
+  nop
+
+org $01A34E
+  db "MUSIC", $10, $FF        ; replaces JP Sound Test password (音楽会)
+
 ; Enemy name stripper ($0C:CD11): stop on either ptr[i+1]-ptr[i] OR $1E furigana
 org $0CCD11
   jml Hook_CD11
@@ -127,6 +135,21 @@ org $0CCB0A
 
 org $0CCF25
   jml Hook_CF25
+
+; Bank $0C battle message particle bytes ($46/$39/$38/$35/$57 -> $20 ASCII space)
+org $0CA5E5 : db $20
+org $0CA618 : db $20
+org $0CA622 : db $20
+org $0CA8B8 : db $20
+org $0CA8BB : db $20
+org $0CA914 : db $20
+org $0CA97D : db $20
+org $0CA980 : db $20
+org $0CA98B : db $20
+org $0CA98E : db $20
+org $0CA999 : db $20
+org $0CA99C : db $20
+org $0CA9C5 : db $20
 
 ; ============================================================================
 ; Core Bank $00 Text Engine & Font Hooks
@@ -1565,6 +1588,192 @@ Hook_ED80:
 .two_byte:
   jsr VwfHandleTwoByte
   jmp .loop
+
+; ============================================================================
+; Hook_01A2A2: Name Entry confirm ($01:A2A2) proportional renderer -> [$00]
+; Entry: DP $00/$02 = $7E:A800+slot*96, M=0, X=0. Exits via JML $01A303.
+; ============================================================================
+Hook_01A2A2:
+  php
+  phb
+  rep #$30
+  sep #$20
+  lda #$7E
+  pha
+  plb                        ; DB = $7E for !VWF_*
+  rep #$20
+
+  ldy #$0000
+  lda #$0000
+.clr:
+  sta [$00],Y
+  iny
+  iny
+  cpy #$0060
+  bcc .clr
+
+  lda.l $7EFA11              ; typed length (0..6)
+  and #$00FF
+  cmp #$0007
+  bcc .len_ok
+  lda #$0006
+.len_ok:
+  sta !VWF_DIRTY
+  stz !VWF_STR_Y
+  stz !VWF_PX
+
+.char_loop:
+  lda !VWF_STR_Y
+  cmp !VWF_DIRTY
+  bcc +
+  jmp .done
++
+  tax
+  inc !VWF_STR_Y
+  lda.l $7EFA0B,X
+  and #$00FF
+  cmp #$00F0
+  bcc +
+  jmp .two_byte
++
+  cmp #$0080
+  bcs .char_loop
+  cmp #$0010                 ; {pad} inside typed name -> space advance
+  bne .not_pad
+  lda #$0020
+.not_pad:
+  pha                        ; ch (0..$7F)
+  tax
+  lda.l FontEnWidths,X
+  and #$00FF
+  sta !VWF_WIDTH
+  lda !VWF_PX
+  clc
+  adc !VWF_WIDTH
+  cmp #$0031                 ; clamp <= 48px (6 tiles)
+  bcc .fits
+  pla
+  jmp .done
+.fits:
+  pla
+  asl a
+  asl a
+  asl a
+  asl a
+  sta !VWF_GLYPH             ; ch * 16
+  lda !VWF_PX
+  and #$FFF8
+  asl a
+  sta !VWF_TMP2              ; tile0 * 16
+  stz !VWF_TMP               ; row 0..15
+
+.row_loop:
+  lda !VWF_GLYPH
+  clc
+  adc !VWF_TMP
+  tax
+  sep #$20
+  lda.l FontEn1bpp,X
+  xba
+  lda #$00
+  rep #$20                   ; BA = row:00
+  pha
+  lda !VWF_PX
+  and #$0007
+  tax
+  pla
+  cpx #$0000
+  beq .no_sh
+.sh_r:
+  lsr a
+  dex
+  bne .sh_r
+.no_sh:
+  pha                        ; shifted 16-bit value (hi=left, lo=right)
+  lda !VWF_TMP2
+  clc
+  adc !VWF_TMP
+  tay
+  pla
+  sep #$20
+  pha                        ; keep low byte on stack (1 byte)
+  xba                        ; high byte -> left tile
+  ora [$00],Y
+  sta [$00],Y
+  pla                        ; low byte -> right tile
+  beq .skip_r
+  cpy #$0050                 ; guard tile1 <= tile5 (< 96 bytes)
+  bcs .skip_r
+  xba
+  rep #$20
+  tya
+  clc
+  adc #$0010
+  tay
+  sep #$20
+  xba
+  ora [$00],Y
+  sta [$00],Y
+.skip_r:
+  rep #$20
+  inc !VWF_TMP
+  lda !VWF_TMP
+  cmp #$0010
+  bcc .row_loop
+
+  lda !VWF_PX
+  clc
+  adc !VWF_WIDTH
+  sta !VWF_PX
+  jmp .char_loop
+
+.two_byte:
+  ; $F0..$FF 2-byte glyph (e.g. custom kanji) from $7E:2000, aligned to 8px tile
+  ldx !VWF_STR_Y
+  cpx !VWF_DIRTY
+  bcs .done
+  inc !VWF_STR_Y
+  and #$000F
+  xba
+  sep #$20
+  lda.l $7EFA0B,X
+  rep #$20
+  asl a
+  asl a
+  asl a
+  asl a
+  asl a
+  tax                        ; X = ((b0 & $0F) << 8 | b1) * 32
+  lda !VWF_PX
+  clc
+  adc #$0007
+  and #$FFF8
+  sta !VWF_PX
+  cmp #$0021                 ; need 16px (px <= 32)
+  bcs .done
+  asl a
+  tay
+  lda #$0010                 ; 16 words (32 bytes = 2 tiles)
+  sta !VWF_TMP
+.k_copy:
+  lda.l $7E2000,X
+  sta [$00],Y
+  inx
+  inx
+  iny
+  iny
+  dec !VWF_TMP
+  bne .k_copy
+  lda !VWF_PX
+  clc
+  adc #$0010
+  sta !VWF_PX
+  jmp .char_loop
+
+.done:
+  plb
+  plp
+  jml $01A303
 
 assert pc() <= $30A000
 
