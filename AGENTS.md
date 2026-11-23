@@ -1,6 +1,6 @@
 # Benkei Gaiden: Suna no Shou (SNES) English translation
 
-Skill: translate-retro-game (`/Users/antoineclerc-renaud/.agents/skills/translate-retro-game/SKILL.md`; `python3 -X utf8 tools/skill.py`). Read it before ROM, text or QA work.
+Skill: translate-retro-game (`~/.agents/skills/translate-retro-game/SKILL.md`; `python3 -X utf8 tools/skill.py`). Read it before ROM, text or QA work.
 Hooks setup on fresh clone: `git config core.hooksPath tools/hooks`.
 
 ## Commands (run from repo root)

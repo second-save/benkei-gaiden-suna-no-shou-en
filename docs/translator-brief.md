@@ -28,7 +28,7 @@ Write with your file-write tool (`write_file`), NEVER shell heredocs or `python 
 - **Line breaks (`{nl}` / `{page}`):** Pre-wrap every multi-line box explicitly with `{nl}` and `{page}` so NO line exceeds `192 px` and NO `{page}` exceeds `max_lines` (the hardware auto-wrap breaks mid-word!). Use `python3 -X utf8 tools/fit.py --box dialogue "text"` if unsure of pixel widths! Wait: remember each `{name0..4}` reserves **48 px** worst-case width.
 
 ## Validate
-From `/Users/antoineclerc-renaud/develop/benkei-gaiden/benkei-gaiden-suna-snes`:
+From the repository root:
 ```
 python3 -X utf8 tools/batches.py check <batch>
 ```

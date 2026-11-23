@@ -2,7 +2,22 @@
 
 Unofficial archival and historical English fan translation of **Benkei Gaiden: Suna no Shou** (*弁慶外伝 沙の章*, Super Famicom / SNES, Sunsoft, 1992).
 
-> **Players:** You need your own clean unheadered Japanese dump of *Benkei Gaiden: Suna no Shou* to apply `benkei-gaiden-suna-no-shou-en.bps`. Do not distribute patched ROMs.
+> **Players:** Download `benkei-gaiden-suna-no-shou-en.zip` from [Releases](https://github.com/second-save/benkei-gaiden-suna-no-shou-en/releases) and apply `benkei-gaiden-suna-no-shou-en.bps` to your own clean unheadered Japanese dump of *Benkei Gaiden: Suna no Shou*. No ROMs or copyrighted game data are included.
+
+<p align="center">
+  <img src="screenshots/preview.gif" width="512" alt="Benkei Gaiden: Suna no Shou (SNES) English translation preview">
+</p>
+
+## Screenshots
+
+<p>
+  <img src="screenshots/01-title.png" width="380" alt="Translated title screen: Benkei Gaiden — Chapter of the Sands with New Game / Continue">
+  <img src="screenshots/02-dialogue.png" width="380" alt="Opening Shumon Temple scene with variable-width English dialogue font">
+  <img src="screenshots/03-town-shops.png" width="380" alt="Translated wooden ARM and WEP shop signs in a Japanese town">
+  <img src="screenshots/04-equip-menu.png" width="380" alt="Two-column Equipment menu with Fudo, stats, and variable-width item names">
+  <img src="screenshots/05-battle-menu.png" width="380" alt="Battle command menu showing Active [A] badge toggle and Enemy name">
+  <img src="screenshots/06-battle-action.png" width="380" alt="Battle attack against Spirit Dancer with translated Arabic floating damage digits">
+</p>
 
 ## Translation Status
 
@@ -29,13 +44,20 @@ If your ROM has a 512-byte copier header (`1,573,376` bytes), remove the header 
 
 ## How to Patch & Play
 
-Apply `benkei-gaiden-suna-no-shou-en.bps` to the clean Japanese `.sfc` file using any standard BPS patcher:
+Download `benkei-gaiden-suna-no-shou-en.zip` (or `.bps`) from [Releases](https://github.com/second-save/benkei-gaiden-suna-no-shou-en/releases), then apply `benkei-gaiden-suna-no-shou-en.bps` to the clean Japanese `.sfc` file using any standard BPS patcher:
 
 - **GUI / Web:** [Flips](https://github.com/Alcaro/Flips) or [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/)
 - **Command line (from this repo):**
   ```sh
   python3 -X utf8 tools/bps.py apply "rom/Benkei Gaiden - Suna no Shou (Japan).sfc" benkei-gaiden-suna-no-shou-en.bps benkei-suna-en.sfc
   ```
+
+| File | Size | CRC32 | SHA-1 |
+|---|---:|---|---|
+| `benkei-gaiden-suna-no-shou-en.bps` | `247,841` B | `2144df1c` | `4d160e08287ef6719de726c7fd7f5a588cd77623` |
+| Patched `.sfc` (SNES checksum `0x5A12`) | `2,097,152` B | `e2a56646` | `aae6bed46e33a8f024273e37b01d90ebeb2932fa` |
+
+> **Emulator & Save Notes:** Tested in **MesenCE 2.2.1** across cold-boot startup, title/graphics, menus, shops, combat, both acts, and the ending credits (not yet tested on real Super Famicom hardware). Always start from a **cold boot**; savestates from the unpatched Japanese ROM are incompatible.
 
 ### Controls & Helpful Tips
 
