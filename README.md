@@ -91,6 +91,7 @@ python3 -X utf8 tools/release.py                        # build, fix checksum, c
 
 ## Credits & Licence
 
+- **Original Translation & Tools:** Bongo'
 - **Archival Translation & Engineering:** `second-save`
 - **Original Game:** *Benkei Gaiden: Suna no Shou* © 1992 Sunsoft. This project is an unofficial, non-commercial fan translation for archival and historical preservation and is not affiliated with Sunsoft.
 - **Licence:** Build tools and original English translation text are released under the MIT Licence. Original Japanese script data in `script/` belongs to Sunsoft and is included solely to verify extraction and translation accuracy. Do not distribute copyrighted ROMs.
