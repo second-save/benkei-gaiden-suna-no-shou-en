@@ -133,6 +133,21 @@ class TestLintAndBatches(unittest.TestCase):
         )
         self.assertTrue(any("stub" in p for p in stub), stub)
 
+        # Single-line $00:E762/$00:E76B parser strings must reject {nl}
+        for bad_single in (
+            {"id": "1D_AE39", "jp": "旅の記録が壊れています！！{end}", "box": "system", "addr": "0xAE39"},
+            {"id": "1D_AD9D", "jp": "文永の役（1274年）より2年後ー{end}", "box": "fullscreen_card", "addr": "0xAD9D"},
+        ):
+            res = lint.lint_entry(
+                bad_single,
+                "Bad{nl}line{end}",
+                terms=self.terms,
+                widths=self.widths,
+                en_table=self.en_table,
+                windows=self.windows,
+            )
+            self.assertTrue(any("single-line" in p for p in res), res)
+
     def test_fit_wrap(self):
         sample = 'Hayate: "My lord Saizo, it has been too long. I come bearing urgent word from the Emperor himself!"{end}'
         wrapped = fit.format_box(sample, box="dialogue")

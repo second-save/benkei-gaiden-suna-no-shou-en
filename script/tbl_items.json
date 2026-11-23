@@ -114,7 +114,7 @@
    "addr": "0xB694",
    "size": 9,
    "jp": "六道の秘薬",
-   "en": "Six-Realms Elixir",
+   "en": "Six-Path Elixir",
    "box": "item_name",
    "status": "done",
    "notes": ""
@@ -554,7 +554,7 @@
    "addr": "0xB790",
    "size": 6,
    "jp": "大薬草",
-   "en": "Great Healing Herb",
+   "en": "Great Herb",
    "box": "item_name",
    "status": "done",
    "notes": ""

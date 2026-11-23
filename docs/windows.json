@@ -198,5 +198,13 @@
     "status": "measured",
     "shot": "work/qa/marker/qa_interactive/status_screen/final.png",
     "notes": "Status currency unit label (1D_C411): 2 tiles (16px) left of amount."
+  },
+  "fullscreen_card": {
+    "width_px": 240,
+    "max_lines": 1,
+    "fixed_char_px": null,
+    "status": "measured",
+    "shot": "work/qa/en_interactive/qa1_music/final.png",
+    "notes": "Centered full-screen intro cards drawn via $00:E76B/$00:E948 (1D_AD9D, 1D_ADB5); single-line parser skips {nl}."
   }
 }

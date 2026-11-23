@@ -114,7 +114,7 @@
    "addr": "0xE96C",
    "size": 27,
    "jp": "りくどうのひやく{nl}1人を気絶から回復させる{end}",
-   "en": "Six-Realms Elixir{nl}Revives one fallen ally.{end}",
+   "en": "Six-Path Elixir{nl}Revives one fallen ally.{end}",
    "box": "item_desc",
    "status": "done",
    "notes": ""

@@ -182,9 +182,9 @@
    "addr": "0x8178",
    "size": 36,
    "jp": "南の天山を越えていくと、タクラマカン砂漠が広がっているぜ{end}",
-   "en": "",
+   "en": "\"Cross the Tianshan{nl}Mountains to the south, and{nl}the Taklamakan Desert{page}stretches out before you.\"{end}",
    "box": "prologue_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -192,9 +192,9 @@
    "addr": "0x819C",
    "size": 21,
    "jp": "あら、また異国の人ね。めずらしいわ{end}",
-   "en": "",
+   "en": "\"Oh my, more foreigners!{nl}How rare.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -202,9 +202,9 @@
    "addr": "0x81B1",
    "size": 100,
    "jp": "砂漠をこえると泉があって、その先の山の向こうに、魔鬼谷がある{page}昔から動物や人が、たくさん死んでいる恐ろしいところだよ{page}でもこのあいだの地震で、谷はふさがっちゃった{end}",
-   "en": "",
+   "en": "\"Past the desert lies a{nl}spring, and over the peaks{nl}beyond it is Demon Valley.{page}It's a dreadful place where{nl}countless beasts and folk{nl}have died since olden days.{page}That earthquake the other{nl}day sealed the valley shut,{nl}though.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -212,9 +212,9 @@
    "addr": "0x8215",
    "size": 78,
    "jp": "このあいだ、兵隊さんたちがこの村の外で倒れていたのよ。一人は死んで、二人は意識不明の重体なの{page}今、集会所にいるけど{end}",
-   "en": "",
+   "en": "\"The other day, some{nl}soldiers collapsed outside{nl}the village. One died, and{page}two are still unconscious{nl}in critical condition.{page}They're in the assembly{nl}hall right now.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -222,9 +222,9 @@
    "addr": "0x8263",
    "size": 54,
    "jp": "「黄河の源は、砂漠の地下に・・・」そんな伝説が、この村には言い伝えられているんです{end}",
-   "en": "",
+   "en": "\"'The Yellow River's source{nl}lies beneath the desert...'{nl}That's the legend passed{page}down in this village.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -232,9 +232,9 @@
    "addr": "0x8299",
    "size": 50,
    "jp": "けがをした兵隊さんたちが、この村にもどって来るなんて。南の砂漠で何があったのかしら{end}",
-   "en": "",
+   "en": "\"To think wounded soldiers{nl}came staggering back here...{nl}What on earth happened out{page}in the southern desert?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -242,9 +242,9 @@
    "addr": "0x82CB",
    "size": 53,
    "jp": "ねえ。魔鬼谷にある泉って、地下でつながってるっていうけど、どこにつながっているんだろう・・・{end}",
-   "en": "",
+   "en": "\"Say, folk claim the spring{nl}in Demon Valley connects{nl}underground -- I wonder{page}where it leads to...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -252,9 +252,9 @@
    "addr": "0x8300",
    "size": 12,
    "jp": "ここは集会所だよ{end}",
-   "en": "",
+   "en": "\"This is the assembly hall.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -262,9 +262,9 @@
    "addr": "0x830C",
    "size": 52,
    "jp": "気の毒に、三人とも全身傷だらけだったよ。この人のほかにも、大勢死んだに違いない{end}",
-   "en": "",
+   "en": "\"Poor souls... All three{nl}were covered head to toe in{nl}wounds. Plenty more must{page}have died besides this man.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -272,9 +272,9 @@
    "addr": "0x8340",
    "size": 43,
    "jp": "お二人とも、まだ意識がもどりませんの。お医者さまのお話では、もう・・・{end}",
-   "en": "",
+   "en": "\"Neither of them has{nl}regained consciousness yet.{nl}From what the doctor says,{page}there's little hope...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -282,9 +282,9 @@
    "addr": "0x836B",
    "size": 48,
    "jp": "ここに運び込まれてからずっと、うわごとをくり返しているんだ。よほど、つらかったんだろうな{end}",
-   "en": "",
+   "en": "\"Ever since they were{nl}carried in here, they've{nl}kept murmuring in delirium.{page}Must have been sheer hell{nl}out there.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -292,9 +292,9 @@
    "addr": "0x839B",
    "size": 31,
    "jp": "二人とも、夢の中でも戦っているよう。おかわいそうに{end}",
-   "en": "",
+   "en": "\"Even in their dreams, both{nl}of them seem to still be{nl}fighting... Poor souls.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -302,9 +302,9 @@
    "addr": "0x83BA",
    "size": 44,
    "jp": "医者としての立場でも言いにくいのだが、いけませんな。命にかかわる傷ですぞ{end}",
-   "en": "",
+   "en": "\"Even as a doctor, it pains{nl}me to say it -- this looks{nl}grim. Their wounds are{page}fatal.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -312,9 +312,9 @@
    "addr": "0x83E6",
    "size": 29,
    "jp": "お、おのれ・・・雀皇・・・よくも仲間たちを・・・{end}",
-   "en": "",
+   "en": "\"D-damn you... Jako...{nl}How dare you do this to my{nl}comrades...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -322,9 +322,9 @@
    "addr": "0x8403",
    "size": 41,
    "jp": "ウウッ・・・チザムさま・・・この場はわれらが支えます。お逃げ下され・・・{end}",
-   "en": "",
+   "en": "\"Urgh... Lord Chizam...{nl}We will hold this ground.{nl}Please, flee...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -332,9 +332,9 @@
    "addr": "0x842C",
    "size": 28,
    "jp": "{name0}「！！{page}{name1}「ムッ！何か、いる！{end}",
-   "en": "",
+   "en": "{name0}: \"!!\"{page}{name1}: \"Ngh! Something's{nl}here!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -342,9 +342,9 @@
    "addr": "0x8448",
    "size": 34,
    "jp": "{name2}「おい。ありゃあ！{page}{name3}「わあっ。ホー！ホーだ{end}",
-   "en": "",
+   "en": "{name2}: \"Hey! Look at that!\"{page}{name3}: \"Whoa! It's Ho!{nl}That's Ho!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -352,9 +352,9 @@
    "addr": "0x846A",
    "size": 21,
    "jp": "蒙古兵「おまえたちか。さあ、入れ{end}",
-   "en": "",
+   "en": "Mongol Soldier: \"It's you{nl}lot. Come on, get inside.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -362,9 +362,9 @@
    "addr": "0x847F",
    "size": 56,
    "jp": "われわれは、界将・雀皇とその軍の奇襲を受けたのだ。仲間の多くが倒れ、深手を受けた{end}",
-   "en": "",
+   "en": "\"General Jako and his forces{nl}ambushed us. Many of our{nl}comrades fell, and the rest{page}suffered grave wounds.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -372,9 +372,9 @@
    "addr": "0x84B7",
    "size": 68,
    "jp": "チザムさまの命令により、傷を負ったものはここに残った。命令でなくば、はってでもおともをするつもりであった。・・・無念{end}",
-   "en": "",
+   "en": "\"By Lord Chizam's orders,{nl}the wounded remained here.{nl}Had it not been an order,{page}I would have crawled along{nl}with him... What a bitter{nl}regret.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -382,9 +382,9 @@
    "addr": "0x84FB",
    "size": 25,
    "jp": "チザムさまは、魔鬼谷の奥に進まれたのだ{end}",
-   "en": "",
+   "en": "\"Lord Chizam pressed deeper{nl}into Demon Valley.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -392,9 +392,9 @@
    "addr": "0x8514",
    "size": 17,
    "jp": "ウウッ・・・。・・・オオッ・・・{end}",
-   "en": "",
+   "en": "\"Urgh... Ooogh...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -402,9 +402,9 @@
    "addr": "0x8525",
    "size": 8,
    "jp": "・・・。・・・{end}",
-   "en": "",
+   "en": "\"... ...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -412,9 +412,9 @@
    "addr": "0x852D",
    "size": 18,
    "jp": "僧侶「・・・{page}{name1}「？{end}",
-   "en": "",
+   "en": "Monk: \"...\"{page}{name1}: \"?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -422,9 +422,9 @@
    "addr": "0x853F",
    "size": 210,
    "jp": "おお、よく・・・来てくれた。グフッ！{page}弁慶「おい、しっかりしろ。チザムはどうした！{page}ここにはおられぬ。「大都」にもどられたのだ。もう一人の界将・宗玉（ソウギョク）を暗殺するために{page}弁慶「なに！{page}部下さえ・・・あざむかねばならなかったチザムさまのお心、さっしてくれ{page}四界将を倒す。それが、・・・われらの旅の真の目的であったのだ{page}世の民のため、雀皇を・・・たのむ{end}",
-   "en": "",
+   "en": "\"Ah, thank goodness...{nl}you came. *Guh!*\"{page}Benkei: \"Hey, hang in{nl}there! What happened to{nl}Chizam?!\"{page}\"He's not here. He turned{nl}back to Dadu... to{nl}assassinate another general{page}-- Sogyoku.\"{page}Benkei: \"What?!\"{page}\"Try to feel what Lord{nl}Chizam must have suffered,{nl}forced to deceive even his{page}own men... Defeating the{nl}Four Realm Generals was the{nl}true aim of our journey.{page}For the sake of the world's{nl}people... please... stop{nl}Jako...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -432,9 +432,9 @@
    "addr": "0x8611",
    "size": 206,
    "jp": "雀皇「おまえたちは、ここから出ることはできぬ。気の毒な蒙古の死人どもとの約束は守れぬな{page}おまえたちはもう、わたしに触れることさえできぬ{page}{name2}「おのれ、雀皇！{page}雀皇「間もなく、フビライ・カンの手によって「魔導宮」がこの地上に降臨する。そうなれば、もうフビライ・カンに用はない{page}{name1}「フビライ・カンを・・・殺す気か{page}雀皇「フフッ。さあな{end}",
-   "en": "",
+   "en": "Jako: \"You shall never leave{nl}this place. You won't be{nl}keeping your promise to{page}those poor dead Mongols.{nl}You can't so much as lay{nl}a finger on me now.\"{page}{name2}: \"Damn you, Jako!\"{page}Jako: \"Before long,{nl}Kublai Khan's own hand{nl}will bring the Magic Palace{page}down to this earth. Once{nl}that is done, we will have{nl}no further use for him.\"{page}{name1}: \"You mean to...{nl}kill Kublai Khan?!\"{page}Jako: \"Heh. Who knows?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -442,9 +442,9 @@
    "addr": "0x86DF",
    "size": 23,
    "jp": "{name3}「ホー！やめて。死んじゃうよ！{end}",
-   "en": "",
+   "en": "{name3}: \"Ho! Stop it!{nl}You're gonna die!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -452,9 +452,9 @@
    "addr": "0x86F6",
    "size": 49,
    "jp": "{name3}「ああ！弁慶さん。ホーが！ホーが！{page}弁慶「・・・手おくれだよ。{name3}{end}",
-   "en": "",
+   "en": "{name3}: \"Oh no! Benkei!{nl}Ho! Ho is--!\"{page}Benkei: \"...It's too late,{nl}{name3}.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -462,9 +462,9 @@
    "addr": "0x8727",
    "size": 25,
    "jp": "{name3}「・・・弁慶さん{page}弁慶「ン？{end}",
-   "en": "",
+   "en": "{name3}: \"...Benkei.\"{page}Benkei: \"Hm?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -472,9 +472,9 @@
    "addr": "0x8740",
    "size": 81,
    "jp": "{name3}「みんなみんな、死んでしまう。知りあうたびに・・・。ぼく、わからなくなったよ{page}弁慶「・・・さあ、いこう。{name3} {page}{name3}「・・・{end}",
-   "en": "",
+   "en": "{name3}: \"Everyone... everyone{nl}just keeps dying. Every{nl}single person we meet...{page}I don't know what to think{nl}anymore.\"{page}Benkei: \"...Come on, let's{nl}keep moving, {name3}.\"{page}{name3}: \"...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -482,9 +482,9 @@
    "addr": "0x8791",
    "size": 27,
    "jp": "{name0}らは「三日月の笛」を手にいれた{end}",
-   "en": "",
+   "en": "{name0}'s party obtained{nl}the Crescent Flute.{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -492,9 +492,9 @@
    "addr": "0x87AC",
    "size": 54,
    "jp": "この坊さんは、われわれがここにくる前から、ずっとこうしておられるのだ。さぞ、高名な方に違いない{end}",
-   "en": "",
+   "en": "\"This monk has been sitting{nl}just like that since long{nl}before we ever arrived.{page}He must surely be someone{nl}of great renown.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -502,9 +502,9 @@
    "addr": "0x87E2",
    "size": 112,
    "jp": "{name4}「私わかる{page}{name2}「ん？どうした{page}{name4}「この泉の真ん中に、魔鬼谷の入口があるの。目に見えない扉だけど・・・{page}弁慶「よし。準備がよければ行くぞ！いいか？{name0}{end}",
-   "en": "",
+   "en": "{name4}: \"I can sense it.\"{page}{name2}: \"Huh? What's up?\"{page}{name4}: \"Right in the middle{nl}of this spring lies the{nl}entrance to Demon Valley.{page}The door is invisible,{nl}though...\"{page}Benkei: \"Alright! If we're{nl}ready, let's go! Good with{nl}you, {name0}?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -512,9 +512,9 @@
    "addr": "0x8852",
    "size": 14,
    "jp": "弁慶「よし、行くぞ！{end}",
-   "en": "",
+   "en": "Benkei: \"Alright, let's{nl}move!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -522,9 +522,9 @@
    "addr": "0x8860",
    "size": 20,
    "jp": "弁慶「ならしかたないな。戻るぞ {end}",
-   "en": "",
+   "en": "Benkei: \"Guess we've got{nl}no choice, then. Let's{nl}head back.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -532,9 +532,9 @@
    "addr": "0x8874",
    "size": 35,
    "jp": "あれえ、めずらしい。この村に、お客がきたよ。しかも水怪でなあ{end}",
-   "en": "",
+   "en": "\"Well now, what a rare{nl}sight! Visitors to our{nl}village -- and riding a{page}water drake, no less!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -542,9 +542,9 @@
    "addr": "0x8897",
    "size": 96,
    "jp": "黄河の源？どこかしらねえ。河はその先で終っているけれど{page}でも河は、山の下を抜けて地底の奥まで続いているって言われているわ・・・{page}チーじいさんなら、知ってるかも{end}",
-   "en": "",
+   "en": "\"The source of the Yellow{nl}River? Who knows where it{nl}is. The river stops just{page}past here, though...{page}Still, folk say it flows{nl}on beneath the mountains,{nl}deep underground.{page}Old Man Chi might know{nl}more about it.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -552,9 +552,9 @@
    "addr": "0x88F7",
    "size": 48,
    "jp": "この村一番の物知りは、チーじいさまだよ。西の外れにある家がチーじいさんの家さ{end}",
-   "en": "",
+   "en": "\"The wisest soul in this{nl}village is Old Man Chi. His{nl}house is on the western{page}outskirts.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -562,9 +562,9 @@
    "addr": "0x8927",
    "size": 60,
    "jp": "「敦煌」に抜ける道？河の行き止りから北にいくと、山越えの道があるわ。でも、とても危険な道よ{end}",
-   "en": "",
+   "en": "\"A road through to Dunhuang?{nl}Head north from the river's{nl}end and there's a mountain{page}pass -- though it's an{nl}awful dangerous trail.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -572,9 +572,9 @@
    "addr": "0x8963",
    "size": 27,
    "jp": "ねえ、にいちゃんたちさ。山越えの道を行くの？{end}",
-   "en": "",
+   "en": "\"Hey, folks -- are you{nl}all taking the mountain{nl}trail?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -582,9 +582,9 @@
    "addr": "0x897E",
    "size": 4,
    "jp": "ふーん{end}",
-   "en": "",
+   "en": "\"Huh.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -592,9 +592,9 @@
    "addr": "0x8982",
    "size": 66,
    "jp": "ふーん。じゃあ、ホーは黄河に置いていくんだね。{page}そんなら、にいちゃんたちがもどってくるまで、ぼくたちがホーと遊んであげるね{end}",
-   "en": "",
+   "en": "\"Huh. So you're leaving Ho{nl}here in the Yellow River!{page}Okay! Until you folks come{nl}back, we'll keep Ho{nl}company and play with him!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -602,9 +602,9 @@
    "addr": "0x89C4",
    "size": 15,
    "jp": "ここは、チーじいさんの家よ{end}",
-   "en": "",
+   "en": "\"This is Old Man Chi's{nl}house.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -612,9 +612,9 @@
    "addr": "0x89D3",
    "size": 32,
    "jp": "チーじいさんは、わしじゃが。黄河について聞きたいのかな？{end}",
-   "en": "",
+   "en": "\"I'm Old Man Chi, aye. Come{nl}to ask about the Yellow{nl}River, have you?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -622,9 +622,9 @@
    "addr": "0x89F3",
    "size": 10,
    "jp": "なら、いいんじゃよ{end}",
-   "en": "",
+   "en": "\"Well then, never mind, eh.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -632,9 +632,9 @@
    "addr": "0x89FD",
    "size": 104,
    "jp": "これは言い伝えじゃがな。この村の先で、黄河は終っているのではない{page}そのまま山の下を抜けて、砂漠の果てまで続いているという{page}・・・水怪ならともかく、おまえさんたちでは行けぬよ{end}",
-   "en": "",
+   "en": "\"Legend has it, mind you,{nl}the Yellow River doesn't{nl}truly end past this village.{page}They say it runs straight{nl}beneath the mountains all{nl}the way to the desert's edge.{page}...A water drake might swim{nl}it, maybe, but you folks{nl}never could.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -642,9 +642,9 @@
    "addr": "0x8A65",
    "size": 40,
    "jp": "{name3}「ぼくたちはここからあるいて行くからね、ホー{nl}町で待っててね{end}",
-   "en": "",
+   "en": "{name3}: \"We're going on{nl}foot from here, Ho! Wait{nl}for us in town, okay?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -652,9 +652,9 @@
    "addr": "0x8A8D",
    "size": 31,
    "jp": "弁慶「さあ行こうか、{name3}！{page}{name3}「はい{end}",
-   "en": "",
+   "en": "Benkei: \"Shall we get{nl}moving, {name3}?\"{page}{name3}: \"Yes!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -662,9 +662,9 @@
    "addr": "0x8AAC",
    "size": 23,
    "jp": "{name0}「！！{page}{name2}「どうした？{end}",
-   "en": "",
+   "en": "{name0}: \"!!\"{page}{name2}: \"What's wrong?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -672,9 +672,9 @@
    "addr": "0x8AC3",
    "size": 60,
    "jp": "{name0}「！・・・！{page}{name1}「ああ！{page}{name4}「これは、鬼縛法呪印！鬼獣界の結界よ！{end}",
-   "en": "",
+   "en": "{name0}: \"! ...!\"{page}{name1}: \"Agh!\"{page}{name4}: \"This is the{nl}Demon-Bind Seal! A barrier{nl}of the Demon-Beast Realm!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -682,9 +682,9 @@
    "addr": "0x8AFF",
    "size": 19,
    "jp": "{name3}「そこに、だれかいます！{end}",
-   "en": "",
+   "en": "{name3}: \"Someone's over{nl}there!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -692,9 +692,9 @@
    "addr": "0x8B12",
    "size": 66,
    "jp": "そうだ。弁慶。きさまの戦闘力は、{nl}{name0}の生命力に準じてあがる。それこそが、弁慶。きさまの弱点だ！{end}",
-   "en": "",
+   "en": "\"Indeed, Benkei. Your{nl}fighting strength rises in{nl}step with {name0}'s{page}lifeforce. And THAT,{nl}Benkei, is your fatal{nl}weakness!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -702,9 +702,9 @@
    "addr": "0x8B54",
    "size": 110,
    "jp": "武克「それゆえ、この鬼縛法呪印の結界を張った。もはや{name0}はドロ人形と同じ{page}そして、きさまもだ、武蔵坊弁慶。武器を持つ力もあるまい。・・・今のきさまは、デク人形だ{end}",
-   "en": "",
+   "en": "Bukoku: \"That's why I laid{nl}this Demon-Bind Seal!{nl}{name0} is little more than{page}a clay doll now.{page}And so are you,{nl}Musashibo Benkei! You{nl}couldn't lift a weapon --{page}you're just a useless{nl}puppet!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -712,9 +712,9 @@
    "addr": "0x8BC2",
    "size": 83,
    "jp": "弁慶「・・・おのれ、卑怯な{page}武克「大地を揺らし、北路をふさいだのは、おれだ。ここでおまえらを、待ちぶせるためにな・・・なぶり殺しにしてやる{end}",
-   "en": "",
+   "en": "Benkei: \"...You filthy{nl}coward!\"{page}Bukoku: \"I was the one who{nl}shook the earth and blocked{nl}the Northern Route -- just{page}to ambush you here... Now{nl}I'll tear you to shreds{nl}slowly!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -722,9 +722,9 @@
    "addr": "0x8C15",
    "size": 23,
    "jp": "チザム「感心しませんな、四界将どの{end}",
-   "en": "",
+   "en": "Chizam: \"Hardly admirable,{nl}Four Realm General.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -732,9 +732,9 @@
    "addr": "0x8C2C",
    "size": 81,
    "jp": "武克「チザム！なぜ来た！{page}チザム「世祖フビライ・カンの軍門にある以上、卑劣は困る。せいぜい、しっかりと戦ってくだされ、四界将どの{end}",
-   "en": "",
+   "en": "Bukoku: \"Chizam! Why are you{nl}here?!\"{page}Chizam: \"As servants under{nl}Emperor Kublai Khan, we{nl}cannot stoop to cowardice.{page}See that you fight them{nl}fairly, Four Realm General.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -742,9 +742,9 @@
    "addr": "0x8C7D",
    "size": 18,
    "jp": "武克「おのれ、裏切り者！{end}",
-   "en": "",
+   "en": "Bukoku: \"Damn you,{nl}traitor!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -752,9 +752,9 @@
    "addr": "0x8C8F",
    "size": 20,
    "jp": "{name0}「！！{page}弁慶「おーし！{end}",
-   "en": "",
+   "en": "{name0}: \"!!\"{page}Benkei: \"Awright!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -762,9 +762,9 @@
    "addr": "0x8CA3",
    "size": 14,
    "jp": "道はまっすぐ続いている{end}",
-   "en": "",
+   "en": "The road stretches{nl}straight ahead.{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -772,9 +772,9 @@
    "addr": "0x8CB1",
    "size": 14,
    "jp": "いやあ、よくきてくれたねえ{end}",
-   "en": "",
+   "en": "\"Well now, glad you came!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -782,9 +782,9 @@
    "addr": "0x8CBF",
    "size": 20,
    "jp": "なんだい、あんたたちは。あっちへいけよ{end}",
-   "en": "",
+   "en": "\"Who the heck are you lot?{nl}Get lost!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -792,9 +792,9 @@
    "addr": "0x8CD3",
    "size": 40,
    "jp": "よくここがわかったね。ここは高麗の都・開京だ。「元」の町ではない{end}",
-   "en": "",
+   "en": "\"Nice work finding this{nl}place. This is Kaesong,{nl}capital of Goryeo -- not a{page}Yuan city.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -802,9 +802,9 @@
    "addr": "0x8CFB",
    "size": 19,
    "jp": "高麗は「元」の友好国なの{end}",
-   "en": "",
+   "en": "\"Goryeo is an ally of the{nl}Yuan.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -812,9 +812,9 @@
    "addr": "0x8D0E",
    "size": 32,
    "jp": "また船をたくさん造らなきゃ。フビライ・カンの命令なんだ{end}",
-   "en": "",
+   "en": "\"We have to build mountains{nl}of ships all over again.{nl}Orders from Kublai Khan.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -822,9 +822,9 @@
    "addr": "0x8D2E",
    "size": 66,
    "jp": "ねえ。むかし、蒙古軍に倭人の将軍がいたっていううわさ、しってる？「ゲンクロー」っていう人。でも、変な名前よね{end}",
-   "en": "",
+   "en": "\"Hey, ever hear that rumor{nl}about a Wa general in the{nl}Mongol army long ago?{page}Someone named 'Genkuro'.{nl}Strange name, isn't it?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -832,9 +832,9 @@
    "addr": "0x8D70",
    "size": 26,
    "jp": "とうちゃん、もう何年も帰ってこないんだ・・・{end}",
-   "en": "",
+   "en": "\"Pa hasn't come home in{nl}years now...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -842,9 +842,9 @@
    "addr": "0x8D8A",
    "size": 27,
    "jp": "うちのじいちゃん、今年で百才だぞ。えっへん！{end}",
-   "en": "",
+   "en": "\"My grandpa turns a hundred{nl}this year! Hmph, so there!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -852,9 +852,9 @@
    "addr": "0x8DA5",
    "size": 50,
    "jp": "じいちゃんが若いころ、蒙古の倭人将軍のことを聞いたぞ。それはな・・・忘れちまった{end}",
-   "en": "",
+   "en": "\"When Grandpa was young,{nl}he heard about that Wa{nl}general in the Mongol ranks.{page}What he heard was... Aw,{nl}I forgot!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -862,9 +862,9 @@
    "addr": "0x8DD7",
    "size": 27,
    "jp": "呪魂「・・・殺してやる。・・・殺してやるぞ！{end}",
-   "en": "",
+   "en": "Jugon: \"...I'll kill you.{nl}...I'll slaughter you all!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -872,9 +872,9 @@
    "addr": "0x8DF2",
    "size": 38,
    "jp": "武克「・・・貴様ら。我が聖地をけがしたこのむくいを受けよ！{end}",
-   "en": "",
+   "en": "Bukoku: \"...You wretches!{nl}Pay the price for defiling{nl}our sacred ground!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -882,9 +882,9 @@
    "addr": "0x8E18",
    "size": 30,
    "jp": "雀皇「よくも私を殺したな・・・おまえらが、憎い！{end}",
-   "en": "",
+   "en": "Jako: \"How dare you kill{nl}me... I loathe you...!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -892,9 +892,9 @@
    "addr": "0x8E36",
    "size": 69,
    "jp": "先ほどチザムどのがもどられたが、何やら恐ろしい形相で、部下をひきいて奥に向かわれたぞ。・・・いったいどうしたというのだ{end}",
-   "en": "",
+   "en": "\"Lord Chizam returned a{nl}short while ago with a{nl}frightful look on his face,{page}leading his men straight{nl}inside... What on earth{nl}could have happened?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -902,9 +902,9 @@
    "addr": "0x8E7B",
    "size": 40,
    "jp": "貴下の国と新たな開戦がせまっている。残念だが仕方があるまい{end}",
-   "en": "",
+   "en": "\"Another war between our{nl}nations draws near. It is{nl}regrettable, yet unavoidable.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -912,9 +912,9 @@
    "addr": "0x8EA3",
    "size": 36,
    "jp": "あなたがた、崑崙に行かれたな！では、いよいよ神獣鏡が・・・{end}",
-   "en": "",
+   "en": "\"You made it to Kunlun!{nl}Then at last, the{nl}Divine Beast Mirror...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -922,9 +922,9 @@
    "addr": "0x8EC7",
    "size": 78,
    "jp": "日本に向かう兵力は、日本制圧のための軍ではない。九州の北にある島を占拠するためだ{page}それでも・・・また多くの血が流れる{end}",
-   "en": "",
+   "en": "\"The army bound for Japan{nl}is not meant to conquer the{nl}whole country -- only to{page}seize an island north of{nl}Kyushu.{page}Even so... much blood will{nl}flow once more.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -932,9 +932,9 @@
    "addr": "0x8F15",
    "size": 105,
    "jp": "崑崙への遠せいでは、その目的の半分を達した。世祖フビライ・カンの おもわくはその残りをおぎなうもの{page}そして、帝国の基盤は堅固なものとなる。すべては地に平和を望むためだ{end}",
-   "en": "",
+   "en": "\"Our expedition to Kunlun{nl}achieved half its aim.{nl}Emperor Kublai Khan's{page}design fulfills the rest,{nl}forging an unshakable{nl}foundation for the Empire.{page}All of it is for peace{nl}upon the earth.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -942,9 +942,9 @@
    "addr": "0x8F7E",
    "size": 103,
    "jp": "おまえたちには気の毒な知らせがある。世祖フビライ・カンは、日本への攻撃命令を出された{page}兵力十四万二千。艦船四千四百。九年前の戦力をはるかにしのぐ{end}",
-   "en": "",
+   "en": "\"I bear grim news for you.{nl}Emperor Kublai Khan has{nl}issued the order to strike{page}Japan -- 142,000 troops{nl}and 4,400 warships, vastly{nl}surpassing our force of{page}nine years ago.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -952,9 +952,9 @@
    "addr": "0x8FE5",
    "size": 34,
    "jp": "今、奥からさけび声が・・・。あれは、断末魔の声だぞ！{end}",
-   "en": "",
+   "en": "\"Just now, a scream echoed{nl}from deeper inside... Those{nl}were death cries!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -962,9 +962,9 @@
    "addr": "0x9007",
    "size": 27,
    "jp": "チ、チザムさまは・・・奥に。あ、後を・・・たのむ{end}",
-   "en": "",
+   "en": "\"L-Lord Chizam... is deeper{nl}inside. P-please... the{nl}rest is up to you...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -972,9 +972,9 @@
    "addr": "0x9022",
    "size": 64,
    "jp": "・・・ウウッ・・・{page}弁慶「おい！しっかりしろ！{page}おお・・・弁慶か。気をつけ・・・ろ。幻を操るのだ。雀皇・・・{end}",
-   "en": "",
+   "en": "\"...Urgh...\"{page}Benkei: \"Hey! Stay with me!\"{page}\"Ah... Benkei... Be on{nl}guard... He weaves{nl}illusions... Jako...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -982,9 +982,9 @@
    "addr": "0x9062",
    "size": 68,
    "jp": "・・・{name0}。われらはバヤン閣下の命を受け、四界将どもを倒すために・・・{page}チザムさまが危ない！は、早く・・・{end}",
-   "en": "",
+   "en": "\"...{name0}. On Lord Bayan's{nl}orders, we came to defeat{nl}the Four Realm Generals...{page}Lord Chizam is in danger!{nl}H-hurry...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -992,9 +992,9 @@
    "addr": "0x90A6",
    "size": 102,
    "jp": "弁慶「おおっ！チザム！{page}チザム「{name0}か。弁慶どのたちも{page}チザム「よくぞ来てくれた。さあ行くぞ。この先に流酷界の結界がある{page}崑崙で至崩輪は手に入れたな。よし！{end}",
-   "en": "",
+   "en": "Benkei: \"Whoa! Chizam!\"{page}Chizam: \"{name0}... and{nl}Benkei's lot too.{page}Good timing. Come on -- the{nl}barrier to the{nl}Ryukoku Realm lies ahead.{page}You got the Ring of Ruin{nl}from Kunlun, right? Good!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1002,9 +1002,9 @@
    "addr": "0x910C",
    "size": 78,
    "jp": "チザム「ここだ。ここが地底城への入り口だ{page}弁慶「・・・ヘソがかゆい。どうもいやな予感がするな{page}チザム「至崩輪を使うのだ。急げ！{end}",
-   "en": "",
+   "en": "Chizam: \"Here it is -- the{nl}gate into the subterranean{nl}castle.\"{page}Benkei: \"...My belly's{nl}itchin'. I've got a real{nl}bad feeling about this.\"{page}Chizam: \"Use the{nl}Ring of Ruin! Hurry!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1012,9 +1012,9 @@
    "addr": "0x915A",
    "size": 23,
    "jp": "{name4}「待って！その人は、違う！{end}",
-   "en": "",
+   "en": "{name4}: \"Wait! That isn't him!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1022,9 +1022,9 @@
    "addr": "0x9171",
    "size": 49,
    "jp": "{name0}「！{page}{name2}「何をする！チザムどの{page}{name4}「ちがう。チザムさんじゃない{end}",
-   "en": "",
+   "en": "{name0}: \"!\"{page}{name2}: \"What're you doing,{nl}Chizam?!\"{page}{name4}: \"No! That's not{nl}Chizam!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1032,9 +1032,9 @@
    "addr": "0x91A2",
    "size": 81,
    "jp": "弁慶「何を、するか！{page}チザム「鬼獣界界将・武克は過ちをおかした。{name0}だけを鬼獣界に取り込んだことだ{page}だが、わたしはちがう{end}",
-   "en": "",
+   "en": "Benkei: \"What do you think{nl}you're doing?!\"{page}Chizam: \"Bukoku of the{nl}Demon-Beast Realm made a{nl}fool's mistake -- trapping{page}{name0} alone inside his{nl}Demon-Beast Realm.{page}I won't make the same{nl}blunder.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1042,9 +1042,9 @@
    "addr": "0x91F3",
    "size": 188,
    "jp": "{name1}「きさまは・・・雀皇{page}雀皇「弁慶たちを流酷界に捕らえ、そして{name0}を・・・わたしの幻応界へ{page}おまえたちは、もう逃れられぬ。流酷の結界を破ることのできる至崩輪は、わたしの手にあるのだから{page}弁慶「チザムをどうした！{page}雀皇「フフッ。もう殺したよ。おまえたちがかけつけてくる前にな{page}弁慶「お、おのれえ！{end}",
-   "en": "",
+   "en": "{name1}: \"You're... Jako!\"{page}Jako: \"I've trapped Benkei{nl}and the rest inside the{nl}Ryukoku Realm -- and{page}dragged {name0}... into my{nl}Illusion Realm!{page}There's no escape for you{nl}now. After all, the{nl}Ring of Ruin -- the one{page}thing able to break{nl}Ryukoku's barrier -- is{nl}right in my hands!\"{page}Benkei: \"What did you do{nl}with Chizam?!\"{page}Jako: \"Heh heh... I killed{nl}him already -- before you{nl}fools even came running.\"{page}Benkei: \"Y-you bastard!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1052,9 +1052,9 @@
    "addr": "0x92AF",
    "size": 59,
    "jp": "雀皇「おまえたちの力が失われてゆく。われらの魔界におちるがいい。死ぬことすらできぬ、永遠の闇へな{end}",
-   "en": "",
+   "en": "Jako: \"Feel your strength{nl}draining away! Fall into{nl}our demon realm -- into{page}eternal darkness where you{nl}cannot even die!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1062,9 +1062,9 @@
    "addr": "0x92EA",
    "size": 19,
    "jp": "{name3}「・・・{name0}さん{end}",
-   "en": "",
+   "en": "{name3}: \"...{name0}...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1072,9 +1072,9 @@
    "addr": "0x92FD",
    "size": 126,
    "jp": "雀皇「・・・もうすぐだ。もうすぐわたしたちは魔導宮を手に入れ、地上と魔界を一つにできる{page}世界を治めるのは「元」ではなく、魔導宮。だがその前に、おまえたちが魔界におちる{page}{name1}「うっう・・・力が・・・{end}",
-   "en": "",
+   "en": "Jako: \"...Soon now. Soon we{nl}claim the Magic Palace and{nl}unite earth and demonkind{page}as one! Not the Yuan, but{nl}the Magic Palace shall rule{nl}the world!{page}First, though -- down into{nl}the abyss with you!\"{page}{name1}: \"Urgh... My{nl}strength...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1082,9 +1082,9 @@
    "addr": "0x937B",
    "size": 10,
    "jp": "{name0}「！！{end}",
-   "en": "",
+   "en": "{name0}: \"!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1092,9 +1092,9 @@
    "addr": "0x9385",
    "size": 54,
    "jp": "雀皇「なにをする！きさま！{page}弁慶「{name3}！{page}{name3}「{name0}さん！至崩輪を！{end}",
-   "en": "",
+   "en": "Jako: \"What do you think{nl}you're doing, brat?!\"{page}Benkei: \"{name3}!\"{page}{name3}: \"{name0}! Take the{nl}Ring of Ruin!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1102,9 +1102,9 @@
    "addr": "0x93BB",
    "size": 17,
    "jp": "雀皇「この小僧！死ね！{end}",
-   "en": "",
+   "en": "Jako: \"Why, you little{nl}wretch! Die!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1112,9 +1112,9 @@
    "addr": "0x93CC",
    "size": 55,
    "jp": "{name0}「！！{page}弁慶「ああ！{name3}！{page}{name1}「そ、そんな！{page}{name2}「うっ。うおお！{end}",
-   "en": "",
+   "en": "{name0}: \"!!\"{page}Benkei: \"No! {name3}!!\"{page}{name1}: \"N-no... it can't be!\"{page}{name2}: \"Ghh... Raaagh!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1122,9 +1122,9 @@
    "addr": "0x9403",
    "size": 29,
    "jp": "{name4}「・・・わたしは・・・あなたを、許さない！{end}",
-   "en": "",
+   "en": "{name4}: \"...I will...{nl}never forgive you!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1132,9 +1132,9 @@
    "addr": "0x9420",
    "size": 23,
    "jp": "ガキがひとり死んだぐらいで、いきりたつな！{end}",
-   "en": "",
+   "en": "\"Getting all worked up{nl}over one dead brat?!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1142,9 +1142,9 @@
    "addr": "0x9437",
    "size": 148,
    "jp": "弁慶「{name3}！しっかりしろ！おまえのおかげでおれたちは助かったぞ{page}{name3}「・・・役に立てて・・・よかった。やっと・・・最後に{page}{name2}「なにを言うんだ。おい！{page}{name1}「こんなところで、死ぬな！{nl}{name3}！{page}{name3}「・・・か、かあさ・・・ん・・・{end}",
-   "en": "",
+   "en": "Benkei: \"{name3}! Hang in{nl}there! You saved every{nl}last one of us!\"{page}{name3}: \"...I'm glad... I{nl}could help... at last...{nl}in the end...\"{page}{name2}: \"Hey! Don't talk{nl}like that, kid!\"{page}{name1}: \"Don't you die in{nl}a place like this!{nl}{name3}!\"{page}{name3}: \"...M-Mother...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1152,9 +1152,9 @@
    "addr": "0x94CB",
    "size": 39,
    "jp": "{name0}「！！{page}{name4}「・・・！{page}弁慶「ううっ。うおおおお！！{end}",
-   "en": "",
+   "en": "{name0}: \"!!\"{page}{name4}: \"...!\"{page}Benkei: \"Ghh...{nl}RAAAAAAGH!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1162,9 +1162,9 @@
    "addr": "0x94F2",
    "size": 94,
    "jp": "四界は人の世の始まりとともに生れた。死霊の王がこれを治める。その中心は流酷界{page}それゆえに、界将・宗玉（ソウギョク）は地底城から出ることはない{end}",
-   "en": "",
+   "en": "\"The Four Realms were born{nl}at the dawn of the mortal{nl}world, ruled by the Lord of{page}the Dead. Their heart is{nl}the Ryukoku Realm.{page}That is why General{nl}Sogyoku never leaves this{nl}subterranean castle.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1172,9 +1172,9 @@
    "addr": "0x9550",
    "size": 106,
    "jp": "かつて源義経とジンギス・カンは力を合わせて、魔王・四界皇帝を討ち滅ぼした{page}だが四界皇帝は滅ぶことはない。地に恐怖と憎悪がつきぬ限り、幾度となくよみがえる・・・{end}",
-   "en": "",
+   "en": "\"Long ago,{nl}Minamoto no Yoshitsune{nl}and Genghis Khan joined{page}forces and struck down the{nl}demon overlord -- the{nl}Emperor of the Four Realms.{page}Yet he never truly perishes.{nl}So long as fear and hatred{nl}linger on earth, he rises{page}time and time again...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1182,9 +1182,9 @@
    "addr": "0x95BA",
    "size": 71,
    "jp": "神獣鏡の封印を解くことのできるものは、蒼き狼の血を受け継いだ勇者のみ{page}そしてそのもの、地を制する力をもとめる{end}",
-   "en": "",
+   "en": "\"Only a champion bearing the{nl}blood of the Blue Wolf can{nl}break the seal upon the{page}Divine Beast Mirror.{page}And that champion seeks the{nl}power to rule all the{nl}earth.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1192,9 +1192,9 @@
    "addr": "0x9601",
    "size": 11,
    "jp": "おまえたちは、死ね{end}",
-   "en": "",
+   "en": "\"As for you -- die!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1202,9 +1202,9 @@
    "addr": "0x960C",
    "size": 15,
    "jp": "フフッ。おれは滅びぬ・・・{end}",
-   "en": "",
+   "en": "\"Heh heh... I cannot be{nl}destroyed...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1212,9 +1212,9 @@
    "addr": "0x961B",
    "size": 61,
    "jp": "フフッ。教えてやる。フビライ・カンが今、神獣鏡の封印を解いたぞ。魔導宮への門が・・・ついに開く{end}",
-   "en": "",
+   "en": "\"Heh heh... Let me tell{nl}you something. Kublai Khan{nl}just broke the seal on the{page}Divine Beast Mirror. The{nl}gate to the Magic Palace...{nl}opens at last!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1222,9 +1222,9 @@
    "addr": "0x9658",
    "size": 33,
    "jp": "今ごろ、フビライ・カンは魔導宮に・・・入城していよう{end}",
-   "en": "",
+   "en": "\"By now, Kublai Khan has{nl}already stepped inside...{nl}the Magic Palace.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1232,9 +1232,9 @@
    "addr": "0x9679",
    "size": 15,
    "jp": "{name2}「どういうことだ{end}",
-   "en": "",
+   "en": "{name2}: \"What does this{nl}mean?!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1242,9 +1242,9 @@
    "addr": "0x9688",
    "size": 124,
    "jp": "ここは玉座の間。だが・・・もういらない{page}{name1}「バカな・・・二度は、死んでいるはずだ{page}宗玉「ついにフビライ・カンは、魔導宮の玉座についた。門はすでに閉ざされ、おまえたちの立ち入る道はない{page}もう手おくれだ{end}",
-   "en": "",
+   "en": "\"This is the throne room.{nl}Still... I have no further{nl}use for it.\"{page}{name1}: \"Impossible... You{nl}died twice over!\"{page}Sogyoku: \"Kublai Khan has{nl}taken the throne of the{nl}Magic Palace at last.{page}The gate is sealed shut,{nl}leaving you no road inside.{nl}You are already too late!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1252,9 +1252,9 @@
    "addr": "0x9704",
    "size": 62,
    "jp": "宗玉「フビライ・カンは、魔導宮の力を手に入れたころ。これからが、見物だぞ・・・。フッ・・・フフ ガクッ{end}",
-   "en": "",
+   "en": "Sogyoku: \"By now,{nl}Kublai Khan has seized the{nl}power of the Magic Palace.{page}Now the real show begins...{nl}Heh... heh heh...\"{nl}*collapses*{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1262,9 +1262,9 @@
    "addr": "0x9742",
    "size": 19,
    "jp": "「飛跳印」を頭上にかざした{end}",
-   "en": "",
+   "en": "Raised the Soaring Seal{nl}overhead.{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1272,9 +1272,9 @@
    "addr": "0x9755",
    "size": 69,
    "jp": "{name2}「ここは、対馬ではないか！{page}・・・そうだ。そして卑弥呼が、神獣鏡の封印を開放したところでもある・・・{end}",
-   "en": "",
+   "en": "{name2}: \"Wait -- isn't this{nl}Tsushima?!\"{page}\"...Indeed. And it is also{nl}where Himiko unsealed the{nl}Divine Beast Mirror...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1282,9 +1282,9 @@
    "addr": "0x979A",
    "size": 272,
    "jp": "{name1}「邵元（しょうげん）どの・・・か{page}邵元「島は流酷界に取り込まれてしまった。魔導宮の門は閉ざされ、フビライ・カンはその玉座についた{page}・・・十四万二千の蒙古軍による日本侵攻も、この対馬を制圧するためであったのだ{page}弁慶「もう手おくれなのか！{page}邵元「いや。うぬらの持つ「飛跳印」が、沙羅双樹（さらそうじゅ）の道を開く{page}さあ、地下の八方呪法陣へ。飛跳印をそこにかかげよ。急げ。世界の行く末は、おまえたちにたくされた{end}",
-   "en": "",
+   "en": "{name1}: \"Master Shogen...?\"{page}Shogen: \"This island has{nl}been swallowed into the{nl}Ryukoku Realm.{page}The Magic Palace's gate is{nl}shut, and Kublai Khan sits{nl}upon its throne.{page}...Even the Mongol army of{nl}142,000 invading Japan was{nl}aimed at taking Tsushima.\"{page}Benkei: \"Are we too late?!\"{page}Shogen: \"No. Your{nl}Soaring Seal can open the{nl}way of the Twin Sal Trees.{page}Quickly, to the underground{nl}Happo Curse Array! Raise{nl}the Soaring Seal there.{page}Hurry! The fate of the{nl}world rests in your hands.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1292,9 +1292,9 @@
    "addr": "0x98AA",
    "size": 135,
    "jp": "邵元「双樹は、双呪。二つの異界をつなぐものだ{page}沙・羅の血を引くもののみが沙羅双樹を発芽させる{page}そして、運命のふりこは、お前たちにゆだねられる。{nl}フビライ・カンが望んだように{page}{name1}「どういうことだ？{page}邵元「・・・{end}",
-   "en": "",
+   "en": "Shogen: \"The twin trees are{nl}twin curses -- a bridge{nl}linking two otherworlds.{page}Only those bearing the blood{nl}of Suna and Ra can make the{nl}Twin Sal Trees sprout.{page}And so the pendulum of{nl}fate falls to you... just{nl}as Kublai Khan wished.\"{page}{name1}: \"What do you mean?\"{page}Shogen: \"...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1302,9 +1302,9 @@
    "addr": "0x9931",
    "size": 215,
    "jp": "宗玉「魔導宮は四界の中心。おまえたちに滅ぼされた魔界は、ここで魔導宮の一部となった{page}気づかぬか。なぜ、おまえたちがおれを滅ぼすことができぬかを{page}{name1}「もしや、きさま{page}宗玉「おれはこの魔導宮の一部にして、全て。魔導宮ある限り、永遠に不滅なのだ{page}・・・教えてやる。魔導宮こそ、もうひとつの崑崙！意志を持つ魔宮だ！{page}{name0}「！！{end}",
-   "en": "",
+   "en": "Sogyoku: \"The Magic Palace{nl}is the heart of the Four{nl}Realms.{page}Every demon realm you{nl}destroyed simply became{nl}part of it here!{page}Haven't you realized why{nl}you could never truly{nl}destroy me?!\"{page}{name1}: \"Don't tell me{nl}you're--!\"{page}Sogyoku: \"I am a part of{nl}this Magic Palace -- and{nl}its whole!{page}So long as the Magic Palace{nl}stands, I am undying,{nl}eternal!{page}...Let me tell you a secret.{nl}The Magic Palace IS the{nl}other Kunlun -- a demon{page}citadel with a will of its{nl}own!\"{page}{name0}: \"!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1312,9 +1312,9 @@
    "addr": "0x9A08",
    "size": 121,
    "jp": "宗玉「ククッ。フ、フビライ・カンは魔導宮の玉座についた。だが・・・長続きはせぬ{page}やがて魔導宮の力に飲込まれ、四界皇帝になる。その時こそ、われら四界将が世界を・・・支配するのだ・・・フフッ{end}",
-   "en": "",
+   "en": "Sogyoku: \"Heh heh...{nl}K-Kublai Khan has claimed{nl}the Magic Palace's throne.{page}Yet it won't last for long.{nl}Soon the palace's power{nl}will swallow him whole,{page}and he shall become the{nl}Emperor of the Four Realms.{page}Then at last, we{nl}Four Realm Generals will{nl}rule the world... Heh heh.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1322,9 +1322,9 @@
    "addr": "0x9A81",
    "size": 165,
    "jp": "フビライ・カン{nl}  「ここまで来たか・・・{page}{name2}{nl}  「・・・フビライ・カン{page}フビライ・カン{nl}  「魔導宮の力は、すでに我がうちにある{page}おまえたちが余を倒せば、魔導宮は崩壊し、再び一千年の眠りにつく{page}だか、余がおまえたちを倒せば、魔導宮の力が世界を治めることとなろう{end}",
-   "en": "",
+   "en": "Kublai Khan: \"So you have{nl}come this far...\"{page}{name2}: \"...Kublai Khan.\"{page}Kublai Khan: \"The power of{nl}the Magic Palace already{nl}dwells within me.{page}If you strike me down, the{nl}Magic Palace crumbles into{nl}a thousand-year slumber.{page}Yet if I strike you down,{nl}the Magic Palace's might{nl}shall govern the world.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1332,9 +1332,9 @@
    "addr": "0x9B26",
    "size": 130,
    "jp": "フビライ・カン{nl}  「おまえたちが源義経の志を受け継いだように、わしは大いなる祖 ジンギス・カンの血を継いだ。九十年におよんだ未完の宿命をここで終らせねばならぬ{page}我が肉に、四界皇帝の御霊（みたま）を降ろす{end}",
-   "en": "",
+   "en": "Kublai Khan: \"Just as you{nl}inherited the will of{nl}Minamoto no Yoshitsune,{page}I carry the blood of my{nl}great ancestor,{nl}Genghis Khan.{page}Ninety years of unfinished{nl}destiny must end right here!{page}Into my very flesh, I call{nl}down the spirit of the{nl}Emperor of the Four Realms!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1342,9 +1342,9 @@
    "addr": "0x9BA8",
    "size": 17,
    "jp": "フビライ・カン{nl}  「・・・こい{end}",
-   "en": "",
+   "en": "Kublai Khan: \"...Come.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1352,9 +1352,9 @@
    "addr": "0x9BB9",
    "size": 114,
    "jp": "フビライ・カン{nl}  「フッ。・・・これも・・・よかろう{page}{name1}「・・・世祖フビライ・カン。あなたはいったい・・・{page}フビライ・カン{nl}  「間もなく・・・魔導宮は崩れ始める。おまえたちは・・・地上に急げ{end}",
-   "en": "",
+   "en": "Kublai Khan: \"Heh... Very{nl}well... Perhaps this too{nl}is fitting...\"{page}{name1}: \"...Emperor Kublai{nl}Khan... What were you{nl}truly...?\"{page}Kublai Khan: \"Soon... the{nl}Magic Palace will begin to{nl}collapse.{page}Make haste... return to{nl}the earth below.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1362,9 +1362,9 @@
    "addr": "0x9C2B",
    "size": 71,
    "jp": "{name4}「ああ！弁慶さん！{page}弁慶「ここはおれが支える。おまえたちは、行け！{page}{name1}「いやだ！あなたをおいてはいけない！{end}",
-   "en": "",
+   "en": "{name4}: \"Oh no! Benkei!\"{page}Benkei: \"I'll hold this{nl}place up!{nl}The rest of you, go!\"{page}{name1}: \"No! We can't{nl}leave you behind!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1372,9 +1372,9 @@
    "addr": "0x9C72",
    "size": 94,
    "jp": "弁慶「早く行け！このバカ野郎！{page}{name2}「しかし・・・！{page}弁慶「おれは死なん。絶対に死なん！地獄の底からでも、必ずもどって見せる{page}{name0}「！！{end}",
-   "en": "",
+   "en": "Benkei: \"Move it, you{nl}fools! Get out of here!\"{page}{name2}: \"But--!\"{page}Benkei: \"I won't die! I{nl}refuse to die! Even from{nl}the very depths of Hell,{page}I swear I'll crawl back{nl}to you!\"{page}{name0}: \"!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1382,9 +1382,9 @@
    "addr": "0x9CD0",
    "size": 87,
    "jp": "弁慶「おれは、おまえたちを本当の弟や妹のように思っていた。この思いは、決して変わらぬ！{page}・・・いつかまた。・・・また、会おう！さらばだ。ワッハッハッ！{end}",
-   "en": "",
+   "en": "Benkei: \"I thought of you{nl}all like my own brothers{nl}and sisters. That will{page}never change, not ever!{page}...Someday... we'll meet{nl}again! Farewell!{nl}Bwahaha!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1392,9 +1392,9 @@
    "addr": "0x9D27",
    "size": 76,
    "jp": "恒沙「ありがとう、みなさん。{nl}それに、{name4}。これで地上は救われました{page}すべて、あなたがたの勇気のおかげです。本当にありがとう{end}",
-   "en": "",
+   "en": "Gosha: \"Thank you, everyone{nl}-- and you, {name4}. The{nl}earth below is saved.{page}We owe all of this to your{nl}courage. Thank you from{nl}the bottom of my heart.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1402,9 +1402,9 @@
    "addr": "0x9D73",
    "size": 13,
    "jp": "恒沙「{name4}！{end}",
-   "en": "",
+   "en": "Gosha: \"{name4}!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1412,9 +1412,9 @@
    "addr": "0x9D80",
    "size": 15,
    "jp": "{name4}「・・・ねえさん{end}",
-   "en": "",
+   "en": "{name4}: \"...Sister.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1422,9 +1422,9 @@
    "addr": "0x9D8F",
    "size": 26,
    "jp": "{name3}「うっ、う・・・{page}羅覚「・・・フッ{end}",
-   "en": "",
+   "en": "{name3}: \"Ngh... ugh...\"{page}Rakaku: \"...Heh.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1432,9 +1432,9 @@
    "addr": "0x9DA9",
    "size": 228,
    "jp": "母親「{name3}！ああ・・・無事に帰って来たのね！{page}{name3}「かあさん{page}母親「生きて帰って来たのね！こんなに、こんなにたくましくなって・・・よかった。ああ、本当によかった！{page}{name3}「そうだよ。どうやらぼくは、ふるさとに帰って来たらしい{page}母親「たいへんだったでしょう。さぞ・・・つらい旅だったでしょう{page}{name3}「うん。でも、違うんだ。聞いてくれる？かあさん{page}母親「何を？何を話してくれるの？{end}",
-   "en": "",
+   "en": "Mother: \"{name3}! Oh... you{nl}made it home safely!\"{page}{name3}: \"Mother!\"{page}Mother: \"You came back{nl}alive! And look how strong{nl}you've grown... Oh, thank{page}goodness! Thank goodness!\"{page}{name3}: \"Yeah... Looks{nl}like I really did make it{nl}back home.\"{page}Mother: \"It must have been{nl}so hard... Such a long,{nl}painful journey.\"{page}{name3}: \"Yeah. Still, it's{nl}more than that. Will you{nl}listen, Mother?\"{page}Mother: \"To what? What do{nl}you want to tell me?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1442,9 +1442,9 @@
    "addr": "0x9E8D",
    "size": 60,
    "jp": "{name3}「旅のこと。勇敢な仲間たちのことも{page}とても長い、夢のような話だけど・・・聞いてほしいんだ{end}",
-   "en": "",
+   "en": "{name3}: \"About my journey{nl}-- and my brave friends too.{page}It's a very long story,{nl}almost like a dream...{nl}but I want you to hear it.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1452,9 +1452,9 @@
    "addr": "0x9EC9",
    "size": 44,
    "jp": "恒沙「行くのね。この楽園と、永遠の命をすてて・・・{page}{name4}「はい{end}",
-   "en": "",
+   "en": "Gosha: \"So you will go --{nl}casting aside this paradise{nl}and eternal life...\"{page}{name4}: \"Yes.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1462,9 +1462,9 @@
    "addr": "0x9EF5",
    "size": 66,
    "jp": "恒沙「{name4}。いえ、麗花。さようなら。あなたの幸せを、心から祈っています{page}{name4}「ごきげんよう、ねえさん{end}",
-   "en": "",
+   "en": "Gosha: \"{name4}... No, Reika.{nl}Farewell. I pray with all{nl}my heart for your{page}happiness.\"{page}{name4}: \"Fare you well,{nl}Sister.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1472,9 +1472,9 @@
    "addr": "0x9F37",
    "size": 27,
    "jp": "{name4}は、火龍裂光陣の術を覚えた{end}",
-   "en": "",
+   "en": "{name4} learned the{nl}Dragon Flare jutsu!{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1482,9 +1482,9 @@
    "addr": "0x9F52",
    "size": 24,
    "jp": "魔導宮崩壊のために発生した嵐は{end}",
-   "en": "",
+   "en": "A storm born as the Magic Palace fell{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1492,9 +1492,9 @@
    "addr": "0x9F6A",
    "size": 15,
    "jp": "「対馬」を直撃した。{end}",
-   "en": "",
+   "en": "struck Tsushima head-on.{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1502,9 +1502,9 @@
    "addr": "0x9F79",
    "size": 24,
    "jp": "集結していた四千四百の蒙古軍{end}",
-   "en": "",
+   "en": "Most of the gathered Mongol army --{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1512,9 +1512,9 @@
    "addr": "0x9F91",
    "size": 25,
    "jp": "艦船と十四万二千の兵の多くは、{end}",
-   "en": "",
+   "en": "4,400 warships and 142,000 troops --{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1522,9 +1522,9 @@
    "addr": "0x9FAA",
    "size": 16,
    "jp": "その嵐のために海にしずんだ{end}",
-   "en": "",
+   "en": "sank beneath the waves in that storm.{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1532,9 +1532,9 @@
    "addr": "0x9FBA",
    "size": 20,
    "jp": "{name0}「！{page}弁慶「あぶない！{end}",
-   "en": "",
+   "en": "{name0}: \"!\"{page}Benkei: \"Watch out!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1542,9 +1542,9 @@
    "addr": "0x9FCE",
    "size": 13,
    "jp": "フビライ・カン{nl}「・・・{end}",
-   "en": "",
+   "en": "Kublai Khan: \"...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1552,9 +1552,9 @@
    "addr": "0x9FDB",
    "size": 11,
    "jp": "{name4}「・・・{end}",
-   "en": "",
+   "en": "{name4}: \"...\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1562,9 +1562,9 @@
    "addr": "0x9FE6",
    "size": 60,
    "jp": "恒沙「崑崙は、再び千年の間、扉を閉ざします。もうあなたたちと会う事もないでしょう{page}ごきげんよう{end}",
-   "en": "",
+   "en": "Gosha: \"Kunlun shall close{nl}its gates once more for a{nl}thousand years.{page}Likely we shall never meet{nl}again. Fare you well.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1572,9 +1572,9 @@
    "addr": "0xA022",
    "size": 28,
    "jp": "{name0}らは、金剛剣・鬼龍を手にいれた{end}",
-   "en": "",
+   "en": "{name0}'s party obtained{nl}the Vajra Blade Kiryu.{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1582,9 +1582,9 @@
    "addr": "0xA03E",
    "size": 77,
    "jp": "{name4}「羅観さんからもらった金剛剣・鬼龍・・・やっと{name0}のところに返ってきたね。もう使えるはずだよ{page}{name0}「！！ {end}",
-   "en": "",
+   "en": "{name4}: \"The{nl}Vajra Blade Kiryu that{nl}Rakan gave you...{page}It has finally come back{nl}to you, {name0}. You can{nl}wield it now!\"{page}{name0}: \"!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1592,9 +1592,9 @@
    "addr": "0xA08B",
    "size": 28,
    "jp": "{name0}らは、聖王剣・紫苑を手にいれた{end}",
-   "en": "",
+   "en": "{name0}'s party obtained{nl}the Sacred King Shion.{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1602,9 +1602,9 @@
    "addr": "0xA0A7",
    "size": 78,
    "jp": "{name2}「おれは・・・この聖王剣・紫苑でつらぬかれ、一度死んだ。おれの血をなめたこの剣がおれの手元にくるとは・・・皮肉だな{end}",
-   "en": "",
+   "en": "{name2}: \"I died once...{nl}run through by this very{nl}Sacred King Shion.{page}To think the blade that{nl}drank my blood would wind{nl}up in my own hands...{page}Pretty ironic, ain't it?\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1612,9 +1612,9 @@
    "addr": "0xA0F5",
    "size": 28,
    "jp": "{name0}らは、帝釈剣・朱雀を手にいれた{end}",
-   "en": "",
+   "en": "{name0}'s party obtained{nl}the Indra Blade Suzaku.{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1622,9 +1622,9 @@
    "addr": "0xA111",
    "size": 73,
    "jp": "{name1}「・・・{name3}、チザムどの！。命をかけたあなたたちのこころざし、この帝釈剣・朱雀といっしょにわたしが受け継ぐ！{end}",
-   "en": "",
+   "en": "{name1}: \"...{name3}, Lord{nl}Chizam! Along with this{nl}Indra Blade Suzaku,{page}I inherit the resolve you{nl}laid down your lives for!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1632,9 +1632,9 @@
    "addr": "0xA15A",
    "size": 28,
    "jp": "{name0}らは、讐聖剣・麗鳳を手にいれた{end}",
-   "en": "",
+   "en": "{name0}'s party obtained{nl}the Holy Avenger Reiho.{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1642,9 +1642,9 @@
    "addr": "0xA176",
    "size": 64,
    "jp": "弁慶「{name0}！この奥が玉座の間だっ！この讐聖剣・麗鳳をもっていくぞっ。最後の戦いじゃい！！ {end}",
-   "en": "",
+   "en": "Benkei: \"{name0}! Just{nl}beyond here is the throne{nl}room!{page}We're bringing this{nl}Holy Avenger Reiho along!{nl}Now for the final battle!!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1652,9 +1652,9 @@
    "addr": "0xA1B6",
    "size": 46,
    "jp": "君らの修行の手助けをしよう{page}私がどこで消えたか、その場所をあててみなさい{end}",
-   "en": "",
+   "en": "\"Let me help you with your{nl}training.{page}Try guessing the spot where{nl}I vanished.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1662,9 +1662,9 @@
    "addr": "0xA1E4",
    "size": 5,
    "jp": "みごとだ{end}",
-   "en": "",
+   "en": "\"Splendid!\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1672,9 +1672,9 @@
    "addr": "0xA1E9",
    "size": 23,
    "jp": "まだまだ修行がたりんな。出直すがよい{end}",
-   "en": "",
+   "en": "\"Your training is still{nl}sorely lacking. Come back{nl}and try again.\"{end}",
    "box": "dialogue",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1682,9 +1682,9 @@
    "addr": "0xA200",
    "size": 18,
    "jp": " 臨安の港で{name0}たち{end}",
-   "en": "",
+   "en": "Parting from {name0}'s band at{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1692,9 +1692,9 @@
    "addr": "0xA212",
    "size": 17,
    "jp": "とわかれた{name4}は敦煌{end}",
-   "en": "",
+   "en": "Lin'an's port, {name4} returned{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1702,9 +1702,9 @@
    "addr": "0xA223",
    "size": 14,
    "jp": "に戻り、そこでくらした。{end}",
-   "en": "",
+   "en": "to Dunhuang and lived there.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1712,9 +1712,9 @@
    "addr": "0xA231",
    "size": 18,
    "jp": " 麗花の両親は娘が戻っ{end}",
-   "en": "",
+   "en": "Reika's parents rejoiced as if{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1722,9 +1722,9 @@
    "addr": "0xA243",
    "size": 18,
    "jp": "たように喜んだが、{name4}は{end}",
-   "en": "",
+   "en": "their daughter were back, yet {name4}{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1732,9 +1732,9 @@
    "addr": "0xA255",
    "size": 16,
    "jp": "何もつげようとはしなかった。{end}",
-   "en": "",
+   "en": "chose to tell them nothing.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1742,9 +1742,9 @@
    "addr": "0xA265",
    "size": 18,
    "jp": "それでもその三人が、親子の{end}",
-   "en": "",
+   "en": "Even so, the three were often{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1752,9 +1752,9 @@
    "addr": "0xA277",
    "size": 17,
    "jp": "ように過ごしているところをよく{end}",
-   "en": "",
+   "en": "seen spending their days together{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1762,9 +1762,9 @@
    "addr": "0xA288",
    "size": 16,
    "jp": "見かけることがあったという。{end}",
-   "en": "",
+   "en": "just like true parents and daughter.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1772,9 +1772,9 @@
    "addr": "0xA298",
    "size": 13,
    "jp": " 日本に帰ってきた{end}",
-   "en": "",
+   "en": "Returning home to Japan,{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1782,9 +1782,9 @@
    "addr": "0xA2A5",
    "size": 15,
    "jp": "{name0}、{name1}、{end}",
-   "en": "",
+   "en": "{name0}, {name1},{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1792,9 +1792,9 @@
    "addr": "0xA2B4",
    "size": 18,
    "jp": "{name2}の三人は、それぞれ{end}",
-   "en": "",
+   "en": "and {name2} each chose{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1802,9 +1802,9 @@
    "addr": "0xA2C6",
    "size": 16,
    "jp": "の道をえらんであるきだした。{end}",
-   "en": "",
+   "en": "their own path and walked on.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1812,9 +1812,9 @@
    "addr": "0xA2D6",
    "size": 17,
    "jp": "{name1}は、修行の旅に{end}",
-   "en": "",
+   "en": "{name1} set out upon a journey{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1822,9 +1822,9 @@
    "addr": "0xA2E7",
    "size": 18,
    "jp": "出た。そして術をみがきながら、{end}",
-   "en": "",
+   "en": "of discipline. Honing his jutsu,{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1832,9 +1832,9 @@
    "addr": "0xA2F9",
    "size": 18,
    "jp": "戦（いくさ）で死んでいったもの{end}",
-   "en": "",
+   "en": "he wandered the whole country{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1842,9 +1842,9 @@
    "addr": "0xA30B",
    "size": 18,
    "jp": "たちの魂をとむらって国中をま{end}",
-   "en": "",
+   "en": "praying for the souls lost in war.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1852,9 +1852,9 @@
    "addr": "0xA31D",
    "size": 18,
    "jp": "わりあるいた。やがて{name1}は{end}",
-   "en": "",
+   "en": "In time, {name1} settled down{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1862,9 +1862,9 @@
    "addr": "0xA32F",
    "size": 18,
    "jp": "かすみ砦に落ち着き、玄三{end}",
-   "en": "",
+   "en": "at Kasumi Fort, and inheriting{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1872,9 +1872,9 @@
    "addr": "0xA341",
    "size": 17,
    "jp": "の遺志を受けてかすみの長{end}",
-   "en": "",
+   "en": "Genzo's will, succeeded him as{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1882,9 +1882,9 @@
    "addr": "0xA352",
    "size": 17,
    "jp": "（おさ）としての座を継いだ。{end}",
-   "en": "",
+   "en": "leader of the Kasumi Clan.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1892,9 +1892,9 @@
    "addr": "0xA363",
    "size": 18,
    "jp": "{name2}は、自らの剣を封{end}",
-   "en": "",
+   "en": "{name2} sealed away his blade.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1902,9 +1902,9 @@
    "addr": "0xA375",
    "size": 18,
    "jp": "じた。学問を教えるために練{end}",
-   "en": "",
+   "en": "Rebuilding Renbukan as a place{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1912,9 +1912,9 @@
    "addr": "0xA387",
    "size": 18,
    "jp": "武館を再びおこし、戦（いく{end}",
-   "en": "",
+   "en": "of learning, he took in many{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1922,9 +1922,9 @@
    "addr": "0xA399",
    "size": 18,
    "jp": "さ）で親をなくした大ぜいの子{end}",
-   "en": "",
+   "en": "young children who had lost{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1932,9 +1932,9 @@
    "addr": "0xA3AB",
    "size": 17,
    "jp": "どもたちをそこに引き取った。{end}",
-   "en": "",
+   "en": "their parents in the war.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1942,9 +1942,9 @@
    "addr": "0xA3BC",
    "size": 18,
    "jp": " やがていつのころからか、子ども{end}",
-   "en": "",
+   "en": "Eventually, among those who{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1952,9 +1952,9 @@
    "addr": "0xA3CE",
    "size": 18,
    "jp": "たちの世話をする者の中に、{end}",
-   "en": "",
+   "en": "cared for the children, one often{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1962,9 +1962,9 @@
    "addr": "0xA3E0",
    "size": 17,
    "jp": "忍（しのぶ）の姿を見かける{end}",
-   "en": "",
+   "en": "caught sight of Shinobu herself{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1972,9 +1972,9 @@
    "addr": "0xA3F1",
    "size": 10,
    "jp": "ようになっていた。{end}",
-   "en": "",
+   "en": "tending to them.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1982,9 +1982,9 @@
    "addr": "0xA3FB",
    "size": 18,
    "jp": "{name0}は修門砦に戻り{end}",
-   "en": "",
+   "en": "{name0} returned to Shumon Fort{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -1992,9 +1992,9 @@
    "addr": "0xA40D",
    "size": 16,
    "jp": "しばらくそこで過ごしていた。{end}",
-   "en": "",
+   "en": "and spent a quiet while there.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2002,9 +2002,9 @@
    "addr": "0xA41D",
    "size": 18,
    "jp": " やがて土佐の村長に後の{end}",
-   "en": "",
+   "en": "At length, entrusting matters{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2012,9 +2012,9 @@
    "addr": "0xA42F",
    "size": 17,
    "jp": "ことをたくしてわかれをつげると、{end}",
-   "en": "",
+   "en": "to Tosa's village chief, he bade{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2022,9 +2022,9 @@
    "addr": "0xA440",
    "size": 14,
    "jp": "ひとり旅立っていった。{end}",
-   "en": "",
+   "en": "farewell and set out alone.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2032,9 +2032,9 @@
    "addr": "0xA44E",
    "size": 18,
    "jp": " そして・・・、{name0}は再{end}",
-   "en": "",
+   "en": "And then... {name0} set sail{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2042,9 +2042,9 @@
    "addr": "0xA460",
    "size": 18,
    "jp": "び中国大陸に向かった。そ{end}",
-   "en": "",
+   "en": "once more for mainland China.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2052,9 +2052,9 @@
    "addr": "0xA472",
    "size": 18,
    "jp": "の目的は、{name0}自身{end}",
-   "en": "",
+   "en": "His true purpose, {name0} himself{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2062,9 +2062,9 @@
    "addr": "0xA484",
    "size": 12,
    "jp": "にも分からなかった。{end}",
-   "en": "",
+   "en": "could not fathom.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2072,9 +2072,9 @@
    "addr": "0xA490",
    "size": 17,
    "jp": "{name0}は四国に帰り、{end}",
-   "en": "",
+   "en": "{name0} returned to Shikoku{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2082,9 +2082,9 @@
    "addr": "0xA4A1",
    "size": 18,
    "jp": "廃虚となった修門砦を閉{end}",
-   "en": "",
+   "en": "and sealed the ruined Shumon Fort.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2092,9 +2092,9 @@
    "addr": "0xA4B3",
    "size": 18,
    "jp": "ざした。 最後に才蔵の墓{end}",
-   "en": "",
+   "en": "Lastly, laying flowers upon{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2102,9 +2102,9 @@
    "addr": "0xA4C5",
    "size": 18,
    "jp": "に花をそえた時、ほほに落ちる{end}",
-   "en": "",
+   "en": "Saizo's grave, she felt tears{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2112,9 +2112,9 @@
    "addr": "0xA4D7",
    "size": 18,
    "jp": "なみだに気がついた。{name0}{end}",
-   "en": "",
+   "en": "falling down her cheeks. {name0}{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2122,9 +2122,9 @@
    "addr": "0xA4E9",
    "size": 18,
    "jp": "はそのなみだと一緒に、「沙」{end}",
-   "en": "",
+   "en": "knew that with those tears, Suna's{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2132,9 +2132,9 @@
    "addr": "0xA4FB",
    "size": 18,
    "jp": "の業が消えてゆくのを知った。{end}",
-   "en": "",
+   "en": "own karma was melting away.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2142,9 +2142,9 @@
    "addr": "0xA50D",
    "size": 17,
    "jp": " 村人たちに見送られて、{end}",
-   "en": "",
+   "en": "Seen off warmly by the villagers,{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2152,9 +2152,9 @@
    "addr": "0xA51E",
    "size": 19,
    "jp": "{name0}はふるさとをあとにした。{end}",
-   "en": "",
+   "en": "{name0} left her homeland behind.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2162,9 +2162,9 @@
    "addr": "0xA531",
    "size": 17,
    "jp": " 娘らしい旅姿をしていた。{end}",
-   "en": "",
+   "en": "She wore a young woman's traveling garb.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2172,9 +2172,9 @@
    "addr": "0xA542",
    "size": 27,
    "jp": "以後、彼らが再び集うことはなかったという。{end}",
-   "en": "",
+   "en": "It is said they never all gathered again.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2182,9 +2182,9 @@
    "addr": "0xA55D",
    "size": 24,
    "jp": "影の歴史が一つ、ここに幕を閉じた。{end}",
-   "en": "",
+   "en": "Here, the curtain fell on a shadow history.{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   },
   {
@@ -2192,9 +2192,9 @@
    "addr": "0xA575",
    "size": 5,
    "jp": "ほえほえ{end}",
-   "en": "",
+   "en": "Hoehoe{end}",
    "box": "ending_crawl",
-   "status": "todo",
+   "status": "done",
    "notes": ""
   }
  ]

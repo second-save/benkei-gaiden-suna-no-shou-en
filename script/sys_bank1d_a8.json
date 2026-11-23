@@ -1002,8 +1002,8 @@
    "addr": "0xAD9D",
    "size": 24,
    "jp": "文永の役（1274年）より2年後ー{end}",
-   "en": "Two years after the{nl}Bun'ei Campaign (1274)--{end}",
-   "box": "system",
+   "en": "Two years after the Bun'ei Campaign (1274)--{end}",
+   "box": "fullscreen_card",
    "status": "done",
    "notes": ""
   },
@@ -1013,7 +1013,7 @@
    "size": 12,
    "jp": "四国・修門砦{end}",
    "en": "Shikoku -- Shumon Fort{end}",
-   "box": "system",
+   "box": "fullscreen_card",
    "status": "done",
    "notes": ""
   },
@@ -1102,7 +1102,7 @@
    "addr": "0xAE39",
    "size": 18,
    "jp": "旅の記録が壊れています！！{end}",
-   "en": "This travel record is{nl}corrupted!!{end}",
+   "en": "This travel record is corrupted!!{end}",
    "box": "system",
    "status": "done",
    "notes": ""

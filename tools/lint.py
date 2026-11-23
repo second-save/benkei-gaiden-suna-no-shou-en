@@ -51,6 +51,7 @@ NARROW_ID_BOX: dict[str, str] = {
     "1D_C414": "status_currency",
     "1D_8178": "dialogue",
 }
+SINGLE_LINE_IDS = {"1D_AD9D", "1D_ADB5", "1D_AE39"}
 BATTLE_CMD_IDS = {
     "1D_C32C", "1D_C331", "1D_C336", "1D_C33B", "1D_C340",
     "1D_C427", "1D_C42C", "1D_C431", "1D_C436", "1D_C43B",
@@ -328,7 +329,7 @@ def lint_entry(
         if want_toks != have_toks:
             out.append(f"control codes differ: JP {dict(want_toks)} EN {dict(have_toks)}")
 
-    if eff_box in ONE_LINE_BOXES and ("{nl}" in en or "{page}" in en):
+    if (eff_box in ONE_LINE_BOXES or spec.get("max_lines") == 1 or entry.get("id") in SINGLE_LINE_IDS) and ("{nl}" in en or "{page}" in en):
         out.append(f"{{nl}}/{{page}} forbidden in single-line box {eff_box}")
 
     if ORDINAL_VAR_RE.search(en):
@@ -362,13 +363,14 @@ def lint_entry(
     grp_name = narration_group_of(entry)
     if not grid_row and not entry["id"].startswith("1D_F5") and not entry["id"].startswith("1D_F6") and not entry["id"].startswith("1D_F7"):
         jp_plain = tbl.TOKEN.sub("", jp)
+        en_norm = re.sub(r"\s+", " ", tbl.TOKEN.sub(" ", en)).strip()
         for jps, ens, avoid in terms:
             if any("{" in j for j in jps):
                 continue
-            if grp_name is None and any(has_term(jp_plain, j) for j in jps) and not any(e.lower() in en.lower() for e in ens):
+            if grp_name is None and any(has_term(jp_plain, j) for j in jps) and not any(e.lower() in en_norm.lower() for e in ens):
                 out.append(f"glossary: {jps[0]} -> {ens[0]}")
             for a in avoid:
-                if re.search(rf"\b{re.escape(a)}\b", en):
+                if re.search(rf"\b{re.escape(a)}\b", en_norm):
                     out.append(f"glossary Avoid: {a}")
 
     return out

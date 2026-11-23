@@ -532,7 +532,7 @@
    "addr": "0xC423",
    "size": 4,
    "jp": "防：{end}",
-   "en": "Shield:{end}",
+   "en": "Guard:{end}",
    "box": "ui",
    "status": "done",
    "notes": ""
@@ -1282,7 +1282,7 @@
    "addr": "0xC736",
    "size": 10,
    "jp": "時間   分{end}",
-   "en": "Hrs      Min{end}",
+   "en": "Hrs           Min{end}",
    "box": "ui",
    "status": "done",
    "notes": ""
@@ -4492,7 +4492,7 @@
    "addr": "0xD830",
    "size": 4,
    "jp": "京：{end}",
-   "en": "Shield:{end}",
+   "en": "Guard:{end}",
    "box": "ui",
    "status": "done",
    "notes": ""

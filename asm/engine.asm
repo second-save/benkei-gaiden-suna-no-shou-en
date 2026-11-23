@@ -28,6 +28,50 @@ org $00FFD7
 org $008095
   db $09
 
+; Widen Male/Female choice window by 1 tile ($00:87E5 w=7 -> 8) so "Female" (32px) clears right border
+org $0087E5
+  db $08
+
+; Center full-screen opening intro cards drawn via $00:E76B ($02:BD3F 1D_AD9D, $02:BD77 1D_ADB5)
+org $02BD45
+  db $02
+
+org $02BD7D
+  db $09
+
+; Settings screen header spacing ($01:99C4 1D_C2D1 x=6->4, $01:99CC 1D_C6EC "Settings" x=22->23)
+org $0199CA
+  db $04
+
+org $0199D2
+  db $17
+
+; Equip screen box spacing ($0C:C248, $0C:C6F9): shrink left box w=12->11 (stats x=9->8),
+; widen right box x=13->12 w=18->19, labels x=14->13, items/clear x=17->18 w=13->12
+org $0CC254
+  db $0B
+
+org $0CC25A
+  db $0C
+
+org $0CC25C
+  db $13
+
+org $0CC29E
+  db $0D
+
+org $0CC702
+  db $12
+
+org $0CC704
+  db $0C
+
+org $0CC709
+  db $08
+
+org $0CC727
+  db $12
+
 ; Bank $31: 6 sentinel name tables (tbl_equip/items/jutsu/ougi/enemies/locations)
 org $00AF77 : db $31
 org $00AF7D : db $31
@@ -51,7 +95,6 @@ org $0CB89E : db $31
 org $0CBB49 : db $31
 org $0CBB84 : db $31
 org $0CBF14 : db $31
-org $0CC137 : db $31
 org $0CC82F : db $31
 org $0CC835 : db $31
 org $0CC83B : db $31
@@ -150,6 +193,24 @@ org $0CA98E : db $20
 org $0CA999 : db $20
 org $0CA99C : db $20
 org $0CA9C5 : db $20
+
+; Fix Jutsu/Ougi list space-pad loop ($0C:BB5D): BEQ ($F0) -> BCS ($B0) so names >10 chars never wrap 64KB
+org $0CBB5D
+  db $B0
+
+; Item Bag row printer ($0C:C131): replace 12-byte clobbering buffer with full VWF name + right-aligned qty
+org $0CC131
+  jml Hook_C131
+
+; Replace hardcoded Bank $0C JP strings ($54F4 '枚' -> spaces, $21F3 '毒' -> 'PN', $8A8E 'マヒ' -> 'PR')
+org $0CBFA9
+  db $10, $10
+
+org $0CD517
+  db $50, $4E
+
+org $0CD522
+  db $50, $52
 
 ; ============================================================================
 ; Core Bank $00 Text Engine & Font Hooks
@@ -1704,14 +1765,14 @@ Hook_01A2A2:
   beq .skip_r
   cpy #$0050                 ; guard tile1 <= tile5 (< 96 bytes)
   bcs .skip_r
-  xba
+  pha                        ; keep right-tile pixels on stack (1 byte)
   rep #$20
   tya
   clc
   adc #$0010
   tay
   sep #$20
-  xba
+  pla                        ; restore right-tile pixels
   ora [$00],Y
   sta [$00],Y
 .skip_r:
@@ -1774,6 +1835,78 @@ Hook_01A2A2:
   plb
   plp
   jml $01A303
+
+; ============================================================================
+; Hook_C131: Bank $0C Item Bag Row Printer (full VWF name + right-aligned qty)
+;   Entry ($0C:C131): M=1, X=0, $AC=item_id, stack=[8b flags $A8, 16b slot*2]
+; ============================================================================
+Hook_C131:
+  rep #$30                   ; M=0, X=0
+  lda $AC
+  and #$00FF
+  asl a
+  tax
+  lda.l $31B5FA,X
+  sta $03
+  lda.l $31B5FC,X
+  sec
+  sbc $03                    ; A = byte length of tbl_items[$AC]
+  tay
+  sep #$20                   ; M=1, X=0
+  lda #$31
+  sta $05
+  phb
+  lda #$7E
+  pha
+  plb                        ; DBR = $7E for indexed $1E80,Y writes
+  lda #$FF
+  sta $1E80,Y
+  dey
+  bmi .copy_done
+.copy_loop:
+  lda [$03],Y
+  sta $1E80,Y
+  dey
+  bpl .copy_loop
+.copy_done:
+  plb                        ; restore caller DBR
+  jsl $00E865                ; draw item name at ($195E, $1960)
+  pla                        ; 8-bit item flags ($A8)
+  plx                        ; 16-bit slot*2
+  bit #$20                   ; key item (no count)?
+  bne .done
+  lda.l $7E1001,X            ; quantity (bit 7 = dimmed flag in battle)
+  and #$7F
+  cmp #$0A
+  bcc .single_digit
+  sta $A8
+  stz $A9
+  stz $AA
+  stz $AB
+  jsl $00FBE1
+  lda $B6
+  sta.l $7E1E80
+  lda $B7
+  bra .store_ones
+.single_digit:
+  pha
+  lda #$10                   ; fixed 8px pad space so 1-digit right-aligns with 2-digit
+  sta.l $7E1E80
+  pla
+.store_ones:
+  sta.l $7E1E81
+  lda #$FF
+  sta.l $7E1E82
+  lda.l $7E195E
+  pha
+  clc
+  adc #$0A                   ; col_x + 10 tiles ($04->$0E, $12->$1C; 80px item + 16px qty)
+  sta.l $7E195E
+  jsl $00E865
+  pla
+  sta.l $7E195E
+.done:
+  jml $0CC181                ; reset $E4 = #$20 and RTS
 
 assert pc() <= $30A000
 

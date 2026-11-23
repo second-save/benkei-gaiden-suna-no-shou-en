@@ -37,7 +37,7 @@ BANK31_SITES: tuple[tuple[int, int], ...] = (
     (0x0C, 0xA3F5), (0x0C, 0xA3FC), (0x0C, 0xA4A5), (0x0C, 0xA4AC),
     (0x0C, 0xA6FC), (0x0C, 0xA6FF), (0x0C, 0xA702),
     (0x0C, 0xB89E), (0x0C, 0xBB49), (0x0C, 0xBB84), (0x0C, 0xBF14),
-    (0x0C, 0xC137), (0x0C, 0xC82F), (0x0C, 0xC835), (0x0C, 0xC83B),
+    (0x0C, 0xC82F), (0x0C, 0xC835), (0x0C, 0xC83B),
     (0x0C, 0xC841), (0x0C, 0xCA46), (0x0C, 0xF7FA), (0x0C, 0xF81C),
 )
 BANK32_SITES: tuple[tuple[int, int], ...] = (
@@ -148,13 +148,21 @@ def _check_prepatch_rom(orig: bytes) -> None:
             raise ValueError(f"Expected bank byte 0x1D at ${bank:02X}:{addr:04X}, got {orig[pc]:#04x}")
     checks = (
         (0x00, 0x8090, "2027f10c0c0806"),
+        (0x00, 0x87DC, "a91685a0a91485a1a90785a2a90685a3"),
+        (0x02, 0xBD3F, "226be7009dad040c"),
+        (0x02, 0xBD77, "226be700b5ad0a0c"),
         (0x0B, 0x8F7B, "2206ec00"),
         (0x0B, 0x8F90, "38a910e5b0"),
         (0x0B, 0x8FB3, "20bb8f"),
         (0x0B, 0x901C, "08c2200a"),
         (0x01, 0xA2A2, "a20000e220"),
+        (0x01, 0x99C4, "226be700d1c20604226be700ecc61604"),
         (0x01, 0xA34E, "f0a2f0cff0bbff"),
         (0x01, 0xA4DB, "a91d008502"),
+        (0x0C, 0xC24F, "ad5218eba20c0a2014c2a90da2120a"),
+        (0x0C, 0xC29A, "a217c4a90eeb"),
+        (0x0C, 0xC6FF, "eba911a00d0820f5baa20900"),
+        (0x0C, 0xC726, "a9118d5e19"),
         (0x0C, 0xCB0A, "e220bba0"),
         (0x0C, 0xCD11, "c22029ff"),
         (0x0C, 0xCF25, "a6aba000"),
@@ -167,6 +175,11 @@ def _check_prepatch_rom(orig: bytes) -> None:
         (0x0C, 0xA98A, "a939eba93520a6a9"),
         (0x0C, 0xA998, "a939eba93920a6a9"),
         (0x0C, 0xA9C4, "a9392092aa"),
+        (0x0C, 0xBB54, "a00a0084a8a910e4a8f0069d801e"),
+        (0x0C, 0xC130, "48a2fab58600a91d8502"),
+        (0x0C, 0xBFA8, "a2f4548e821e"),
+        (0x0C, 0xD516, "a2f321"),
+        (0x0C, 0xD521, "a28e8a8e801e"),
     )
     for bank, addr, hex_exp in checks:
         pc = extract.lorom_to_pc(bank, addr)

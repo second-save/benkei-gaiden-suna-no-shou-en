@@ -67,7 +67,11 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | チザム | Chizam | | Dadu/Dunhuang ally (impersonated by Jako late) | Chizamu |
 | バヤン | Bayan | | Mongol commander | |
 | 円上 | Enjo | | Act 1 antagonist/monk | |
-| 兵馬 | Hyoma | | Allied fighter | |
+| 兵馬「 | Hyoma | | Commander of the Imperial Terracotta Guard (soldier groups = Terracotta Guard) | |
+| 半次 | Hanji | | Chief of the Wako pirates | |
+| 平七 | Heishichi | | Echigoya branch master | |
+| 手代の三ちゃん | young San | | Echigoya apprentice clerk (distinct from Nagato child `Little San`) | |
+| 覚樹 | Kakuju | | Rakaku's redeemed martial-monk name (`act2`) | |
 | 宗忠 | Munetada | | Allied lord / retainer | |
 | マヤコ | Mayako | | NPC character | |
 | 四界皇帝 | Emperor of the Four Realms / Four Realms Emperor | | Final overlord sealed beneath Magic Palace (`Four Realms Emperor` in fixed 120px battle enemy window) | Four Worlds Emperor |
@@ -110,8 +114,8 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | {sF08D}山 {sF0B8}司 | Masashi Kageyama | 20ch | Composer | |
 | 塚本  浩 | Hiroshi Tsukamoto | 20ch | Music / Sound | |
 | 浅田 明弘 | Akihiro Asada | 20ch | Music / Sound | |
-| {sF088}田 則昭 | Noriaki Urata | 20ch | Special Thanks | |
-| 鈴木 和子 | Kazuko Suzuki | 20ch | Special Thanks | |
+| {sF088}田 則昭 | Noriaki Urata | 20ch | Music / Sound (`1D_F60A` block) | |
+| 鈴木 和子 | Kazuko Suzuki | 20ch | Music / Sound (`1D_F60A` block) | |
 | 寺田 白{sF08B} | Hakuun Terada | 20ch | Calligraphy | |
 | 東谷 浩明 | Hiroaki Higashitani | 20ch | Coordinator | |
 | 江口 弘泰 | Hiroyasu Eguchi | 20ch | Coordinator | |
@@ -255,6 +259,13 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 文永の役 | Bun'ei Campaign | | 1274 first Mongol invasion of Japan | |
 | 蒙古軍 | Mongol army / Mongol forces / Mongols | | Invading Yuan army | |
 | 麒鱗 | Kirin | | Mythic sacred beast summoned by Himiko | |
+| 四界衆 | Four Realms Sect | | Unified Act 2 cult of the Four Realms | |
+| 近衛兵馬軍 / 無敵兵馬軍 / 無敵の近衛兵馬軍 | Imperial Terracotta Guard / Invincible Terracotta Guard / Terracotta Guard | | Qin's clay warriors in Xi'an | |
+| 魏史・倭人外伝 | Records of Wei: Account of the Wa | | Historical treatise on Yamataikoku (*Wajinden*) | Wei History: Tales of Wa |
+| 水怪 | water drake | | Aquatic dragon-husk mount lent by Hanji | |
+| タクラマカン砂漠 | Taklamakan Desert | | Vast desert west of the Flaming Mountains | |
+| 月牙泉 | Crescent Spring | | Sacred Dunhuang spring (*Yueyaquan*) | |
+| 呪幻操虚 | Void-Illusion Curse | | Sogyoku's void sorcery | |
 
 ## Decisions from earlier batches
-- (Updated 2026-11-20: Wave 1a locked sacred gear, key items, attack/sanctuary jutsu, and named places.)
+- (Updated 2026-11-20: Wave 1a locked gear/items/jutsu/places; Act 1 locked Nikaido/Shino/Tanabe Fleet/Shogun; Act 2 locked Terracotta Guard, Records of Wei, Silk Road terms.)
