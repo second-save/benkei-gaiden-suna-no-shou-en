@@ -14,8 +14,10 @@ if str(ROOT / "tools") not in sys.path:
     sys.path.insert(0, str(ROOT / "tools"))
 
 import check_rom  # noqa: E402
+import compress  # noqa: E402
 import extract  # noqa: E402
 import make_font  # noqa: E402
+import make_gfx  # noqa: E402
 import romdiff  # noqa: E402
 import tbl  # noqa: E402
 
@@ -180,6 +182,16 @@ def _check_prepatch_rom(orig: bytes) -> None:
         (0x0C, 0xBFA8, "a2f4548e821e"),
         (0x0C, 0xD516, "a2f321"),
         (0x0C, 0xD521, "a28e8a8e801e"),
+        (0x0B, 0x9095, "ff00ff00ff00ff00ff00ff00ff00ff00"),
+        (0x0B, 0x9135, "ff74ffc47fffdfbfbfd5fff5bb45caf5ff18ffffbf449f64db3cff18ff6cbbc7"),
+        (
+            0x09,
+            0xDA78,
+            "0000000000000000000000000000000000000000000000000000000000000000"
+            "000000000000000000005700580059005a005b00000000000000000000000000",
+        ),
+        (0x09, 0xCBA8, "08c220a918808d800ca90800"),
+        (0x0E, 0x8EB2, "00c8002000a004208100082081200c2080"),
     )
     for bank, addr, hex_exp in checks:
         pc = extract.lorom_to_pc(bank, addr)
@@ -469,6 +481,38 @@ def _vacate_original_banks(
         put(rom, extract.lorom_to_pc(bank, start), bytes(vac), f"vacate:{spec['name']}", orig, writes)
 
 
+def _apply_graphics_patches(rom: bytearray, writes: list[str], orig: bytes) -> None:
+    """Apply Phase 8 translated graphics, tilemap/metasprite hooks, and relocate compressed tilesets to $3E-$3F."""
+    patches = make_gfx.build_patches(orig)
+    for lorom_addr, data, label in patches["direct_writes"]:
+        put(rom, extract.lorom_to_pc(lorom_addr >> 16, lorom_addr & 0xFFFF), data, label, orig, writes)
+
+    cur_bank = 0x3E
+    cur_addr = 0x8000
+    for idx, raw in patches["compressed_entries"].items():
+        comp = compress.compress(raw)
+        dec, dlen = compress.decompress_at(comp, 0x008000)
+        if dec != raw or dlen != len(comp):
+            raise ValueError(f"Compression roundtrip failed for graphics entry #{idx:03d}")
+        if cur_addr + len(comp) > 0x10000:
+            cur_bank += 1
+            cur_addr = 0x8000
+        if cur_bank > 0x3F:
+            raise ValueError(f"Graphics entry #{idx:03d} ({len(comp)} B) overflowed Banks $3E-$3F")
+
+        src_lorom = (cur_bank << 16) | cur_addr
+        put(rom, extract.lorom_to_pc(cur_bank, cur_addr), comp, f"gfx:entry_{idx:03d}", orig, writes)
+        put(
+            rom,
+            compress.lorom_to_pc(compress.TABLE_LOROM + idx * 5 + 2),
+            src_lorom.to_bytes(3, "little"),
+            f"gfx:ptr_{idx:03d}",
+            orig,
+            writes,
+        )
+        cur_addr += len(comp)
+
+
 def build_expanded(
     mode: str,
     lang: str = "en",
@@ -525,6 +569,8 @@ def build_expanded(
     put(rom, extract.lorom_to_pc(0x30, 0xB000), redir_blob, "bin:redirect_tables.bin", orig, writes)
     put(rom, extract.lorom_to_pc(0x30, 0xA900), party_blob, "bin:party_names_en.bin", orig, writes)
     _vacate_original_banks(rom, writes, orig, script_dir)
+    if mode == "translate":
+        _apply_graphics_patches(rom, writes, orig)
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     (out_path.parent / "redirect_tables.bin").write_bytes(redir_blob)
